@@ -20,8 +20,14 @@
   "internet_claims": [
     {
       "claim": "Patient reviews of Vyleesi are split: some women report increased desire, while many describe nausea, headaches and other side effects that outweighed benefits.",
-      "source_type": "forum",
+      "source_type": "website",
       "url": "https://reviews.webmd.com/drugs/drugreview-177576-bremelanotide-subcutaneous",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Forum users on a marriage-focused forum report PT-141 boosting libido in men and women, with strong erections lasting many hours and delayed onset, but also nausea and flushing, and unpredictable, dose-dependent responses.",
+      "source_type": "forum",
+      "url": "https://www.themarriagebed.net/viewtopic.php?t=2263",
       "retrieved": "2026-09-30"
     }
   ],

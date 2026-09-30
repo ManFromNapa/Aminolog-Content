@@ -41,6 +41,30 @@
       "source_type": "youtube",
       "url": "https://www.youtube.com/watch?v=iYRpzfUcgr8",
       "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Anabolic Planner, a bodybuilding site, describes TB-500 as a 'miracle' recovery peptide that helps heal muscle and connective tissue, reduces inflammation and grows new blood vessels; the page does not discuss risks.",
+      "source_type": "website",
+      "url": "https://www.anabolicplanner.com/blog/thymosin-beta-4-tb-500-the-miracle-recovery-peptide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Project Biohacking says lifters often run TB-500 alongside BPC-157 for recovery, while noting the support is mainly animal data and human evidence is limited.",
+      "source_type": "website",
+      "url": "https://www.projectbiohacking.com/peptides-for-bodybuilding",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A physician's blog says TB-500 is biologically plausible and short-term safe but unproven for orthopedic injuries, and contrasts marketing claims with mostly animal evidence.",
+      "source_type": "website",
+      "url": "https://www.jeffreypengmd.com/post/tb-500-for-injury-recovery-what-the-research-actually-shows",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "An orthopaedic clinic's blog says TB-500 is touted for muscle growth and injury recovery but rests on animal studies, and warns of unknown safety and that it is banned in sport.",
+      "source_type": "website",
+      "url": "https://www.orthoandwellness.com/blog/tb-500-exposed-the-risks-outweigh-the-benefits",
+      "retrieved": "2026-09-30"
     }
   ],
   "research": [

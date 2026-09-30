@@ -28,7 +28,26 @@
       }
     ]
   },
-  "internet_claims": [],
+  "internet_claims": [
+    {
+      "claim": "WebMD patient reviews of Wegovy describe large weight losses for many people (some report tens of pounds over months), alongside frequent nausea, vomiting and constipation; some stop over side effects or cost.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-wegovy-semaglutide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "UCLA Health says rapid GLP-1 weight loss can cause a hollowed, older-looking face ('Ozempic face') and contribute to muscle loss, and suggests protein and slower weight loss to limit this.",
+      "source_type": "website",
+      "url": "https://www.uclahealth.org/news/article/ozempic-face-and-other-glp-1-side-effects",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Cedars-Sinai says 'microdosing' GLP-1s is a social media trend promoted for weight loss and health benefits, but argues there is no evidence that low, intermittent doses work.",
+      "source_type": "website",
+      "url": "https://www.cedars-sinai.org/stories-and-insights/expert-advice/can-microdosing-glp-1s-promote-health-and-weight-loss",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "research": [
     {
       "id": "fda-wegovy-label",

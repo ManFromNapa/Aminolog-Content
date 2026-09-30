@@ -50,6 +50,18 @@
       "source_type": "youtube",
       "url": "https://www.youtube.com/watch?v=j9Yoe9bcedQ",
       "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Futurism reports that people using black-market retatrutide describe dramatic weight loss (some over 70 pounds), while some describe painful skin sensations, and experts warn about unknown contents and contamination.",
+      "source_type": "website",
+      "url": "https://futurism.com/health-medicine/retatrutide-ozempic-gray-black-market",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A dietitian's blog says retatrutide is still experimental and unapproved, that early trials suggest up to about 24% weight loss, that its safety is not yet established, and warns against buying 'research chemical' versions online.",
+      "source_type": "website",
+      "url": "https://www.sarahhormachea.com/2025/12/03/retatrutide-and-the-grey-market-buyer-beware/",
+      "retrieved": "2026-09-30"
     }
   ],
   "research": [

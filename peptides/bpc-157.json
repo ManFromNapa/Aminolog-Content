@@ -46,6 +46,24 @@
       "source_type": "youtube",
       "url": "https://www.youtube.com/watch?v=XE2_sh4C3dg",
       "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A physiotherapy site says BPC-157 is marketed as a game-changer for muscle repair and injury recovery, but argues nobody knows whether it works in athletes or injuries because human data is minimal.",
+      "source_type": "website",
+      "url": "https://www.sports-injury-physio.com/post/the-peptide-bpc-157-good-for-athletes",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Biology Insights summarizes popular claims that BPC-157 speeds tendon and ligament healing, calms gut inflammation and aids brain injury and mood, and says these rest on rodent results with almost no human testing.",
+      "source_type": "website",
+      "url": "https://biologyinsights.com/what-is-bpc-157-healing-claims-vs-real-evidence/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "An orthopaedic clinic's blog argues BPC-157 is unapproved with essentially no human safety data, and raises a theoretical concern that its blood-vessel-growth effects could aid cancer, while acknowledging this is unproven.",
+      "source_type": "website",
+      "url": "https://www.orthoandwellness.com/blog/bpc-157-update-and-deep-dive-miracle-healing-peptide-or-hidden-danger",
+      "retrieved": "2026-09-30"
     }
   ],
   "research": [

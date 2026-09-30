@@ -22,7 +22,20 @@
       }
     ]
   },
-  "internet_claims": [],
+  "internet_claims": [
+    {
+      "claim": "WebMD patient reviews of Mounjaro describe big weight losses for many (some report 30 to 80+ pounds), but about a quarter mention significant stomach side effects, and some report hair loss, fatigue or hospitalization.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-mounjaro-tirzepatide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "The British Heart Foundation's news explainer says a Lilly-funded trial found Mounjaro produced more weight loss than Wegovy (about 20% vs 14%), but cautions the trial was open-label and that heart-protection benefit is not yet shown for tirzepatide.",
+      "source_type": "website",
+      "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/behind-the-headlines/mounjaro-vs-wegovy",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "research": [
     {
       "id": "fda-zepbound-label",

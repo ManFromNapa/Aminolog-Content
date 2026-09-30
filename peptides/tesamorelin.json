@@ -26,8 +26,26 @@
   "internet_claims": [
     {
       "claim": "Patient reviews of Egrifta WR are mixed: some describe reduced belly fat and easier movement, while others report no benefit, joint pain, hand numbness, preparation difficulty, and cost or supply problems.",
-      "source_type": "forum",
+      "source_type": "website",
       "url": "https://reviews.webmd.com/drugs/drugreview-egrifta-wr-tesamorelin",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Project Biohacking says tesamorelin mainly cuts deep belly fat (roughly 15 to 18 percent) and may preserve or modestly add lean mass, but warns that calling it a muscle builder oversells it.",
+      "source_type": "website",
+      "url": "https://www.projectbiohacking.com/tesamorelin-peptide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Swolverine, a supplement brand's bodybuilding blog, argues tesamorelin raises natural growth hormone and IGF-1, targets stubborn abdominal fat while keeping lean tissue during a cut, and speeds recovery.",
+      "source_type": "website",
+      "url": "https://swolverine.com/blogs/blog/tesamorelin-for-bodybuilders-benefits-dosage-fat-loss-recovery",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A longevity clinic's blog (the Evergreen Institute, which also promotes consultations) presents tesamorelin as a well-studied peptide that lowers visceral and liver fat and preserves muscle, and that clinicians may consider it beyond its HIV indication.",
+      "source_type": "vendor",
+      "url": null,
       "retrieved": "2026-09-30"
     }
   ],
