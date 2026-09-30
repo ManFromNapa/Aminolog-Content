@@ -1,0 +1,71 @@
+{
+  "id": "semaglutide",
+  "name": "Semaglutide",
+  "aliases": [
+    "Wegovy",
+    "Ozempic",
+    "Rybelsus"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled for chronic weight management and reducing cardiovascular risk in adults with obesity or overweight (Wegovy), MASH with liver fibrosis (Wegovy, accelerated approval), and type 2 diabetes glycemic control, cardiovascular and kidney risk reduction (Ozempic), each alongside diet and activity changes where specified.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Wegovy injection: labeled starting dose 0.25 mg subcutaneously once weekly for 4 weeks, with stepwise increases every 4 weeks (0.5 mg, 1 mg, 1.7 mg) toward a maintenance dose that varies by indication (labeled maintenance typically 1.7 to 2.4 mg weekly; label also describes up to 7.2 mg weekly for weight reduction).",
+        "population": "Adults (and pediatric patients 12 years and older for weight reduction) per the Wegovy label",
+        "citation_id": "fda-wegovy-label"
+      },
+      {
+        "text": "Wegovy tablets: labeled starting dose 1.5 mg orally once daily for 30 days, then 4 mg, then 9 mg in 30-day steps, with a maintenance dose of 25 mg daily.",
+        "population": "Adults with obesity or overweight per the Wegovy label",
+        "citation_id": "fda-wegovy-label"
+      },
+      {
+        "text": "Ozempic injection: labeled starting dose 0.25 mg subcutaneously once weekly for 4 weeks, then 0.5 mg weekly, with optional increases to 1 mg and then 2 mg weekly (maximum) after at least 4 weeks at each dose.",
+        "population": "Adults with type 2 diabetes per the Ozempic label",
+        "citation_id": "fda-ozempic-label"
+      }
+    ]
+  },
+  "internet_claims": [],
+  "research": [
+    {
+      "id": "fda-wegovy-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Wegovy (semaglutide) injection and tablets, revised June 2026.",
+      "finding": "Lists approved uses for weight reduction, cardiovascular risk reduction, and MASH, with a dose-escalation schedule."
+    },
+    {
+      "id": "fda-ozempic-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Ozempic (semaglutide) injection.",
+      "finding": "Lists approved uses in adults with type 2 diabetes: glycemic control, cardiovascular risk reduction, and kidney outcomes, with escalation up to 2 mg weekly."
+    },
+    {
+      "id": "step-1-2021",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "33567185",
+      "year": 2021,
+      "summary": "STEP 1: randomized, double-blind trial of semaglutide 2.4 mg weekly versus placebo for 68 weeks in adults with overweight or obesity without diabetes (Wilding et al., N Engl J Med).",
+      "finding": "Average weight change was -14.9% with semaglutide versus -2.4% with placebo; nausea and diarrhea were the most common side effects."
+    },
+    {
+      "id": "sustain-6-2016",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "27633186",
+      "year": 2016,
+      "summary": "SUSTAIN-6: randomized trial of once-weekly semaglutide versus placebo in adults with type 2 diabetes at high cardiovascular risk (Marso et al., N Engl J Med).",
+      "finding": "Major cardiovascular events occurred in 6.6% with semaglutide versus 8.9% with placebo (hazard ratio 0.74); retinopathy complications were more frequent with semaglutide."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "bpc-157",
+  "name": "BPC-157",
+  "aliases": [
+    "Body Protection Compound 157",
+    "pentadecapeptide BPC 157",
+    "Bepecin"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Promoted online for tendon, ligament, muscle and gut healing and general recovery. It is investigated mainly in animal studies of tissue injury, with very limited human research (a few small clinic-based reports and early-stage trial registrations).",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "A single 10 mg dose was injected around the area of bladder inflammation during a cystoscopy procedure in a small uncontrolled pilot (12 participants, no comparison group).",
+        "population": "Women aged 39-76 with interstitial cystitis who had not responded to pentosan polysulfate",
+        "citation_id": "r-ic-pilot"
+      },
+      {
+        "text": "Intravenous infusions of 10 mg and then 20 mg (each in 250 mL saline over one hour) were used in a safety pilot of two people.",
+        "population": "Two adults (aged 58 and 68) at a private clinic",
+        "citation_id": "r-iv-pilot"
+      },
+      {
+        "text": "Animal study only, not human data: 10 micrograms per kg per day was given by intraperitoneal injection for four weeks after Achilles tendon surgery.",
+        "population": "Rats",
+        "citation_id": "r-rat-achilles-2026"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A video promotes combining BPC-157 with TB-500 (the 'Wolverine stack') for injury healing and recovery (based on the video title and description; the host is a fitness and nutrition personality).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OfcexE9s4yw",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A clinician's video presents BPC-157 together with CJC-1295 and ipamorelin as beneficial 'peptide therapy'; the description promotes the clinic's consultations and a peptide guide.",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=1be7NmvVjo8",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A creator documents the first week of using BPC-157, TB-500 and tesamorelin, and says his blood work and peptide therapy were sponsored by a telehealth company.",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XE2_sh4C3dg",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-ic-pilot",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "39325560",
+      "year": 2024,
+      "summary": "Small pilot study (Altern Ther Health Med) of 12 women with interstitial cystitis treated with a single bladder injection of BPC-157 from a compounding pharmacy. No control group, conducted at a private clinic.",
+      "finding": "Participants reported symptom improvement on a questionnaire and no adverse events were reported. Because the study was tiny, uncontrolled and unblinded, it cannot show that the peptide works or is safe."
+    },
+    {
+      "id": "r-iv-pilot",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40131143",
+      "year": 2025,
+      "summary": "Safety pilot (Altern Ther Health Med) of intravenous BPC-157 infusions in two adults at a private clinic.",
+      "finding": "No measurable changes in tested blood markers and no side effects were reported, but two participants is far too few to establish safety."
+    },
+    {
+      "id": "r-knee-2021",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34324435",
+      "year": 2021,
+      "summary": "Retrospective chart review with telephone follow-up (Altern Ther Health Med) of 17 patients given intra-articular BPC-157, alone or with thymosin beta-4, for knee pain at one clinic.",
+      "finding": "Most contacted patients reported pain relief, but the design was retrospective, uncontrolled and relied on recall, so it is weak evidence."
+    },
+    {
+      "id": "r-rat-achilles-2003",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "14554208",
+      "year": 2003,
+      "summary": "Rat study (J Orthop Res) of BPC 157 after Achilles tendon transection, plus tendon cell culture experiments.",
+      "finding": "BPC 157 accelerated tendon healing in rats and stimulated tendon cell growth in vitro. Results in rodents do not establish effects in people."
+    },
+    {
+      "id": "r-rat-achilles-2026",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "42542926",
+      "year": 2026,
+      "summary": "Rat study (Jt Dis Relat Surg) comparing BPC-157, TB-500 and their combination after Achilles tendon repair in 32 rats over four weeks.",
+      "finding": "BPC-157 showed numerically better tendon strength and histology scores than controls, but the improvements reached statistical significance mainly for TB-500, not BPC-157 alone."
+    },
+    {
+      "id": "r-tendon-invitro-2011",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "21030672",
+      "year": 2011,
+      "summary": "Laboratory study (J Appl Physiol) on rat tendon explants and cultured tendon fibroblasts exposed to BPC 157.",
+      "finding": "BPC 157 increased tendon cell outgrowth, survival under stress and migration in culture, likely via the FAK-paxillin pathway. This is cell-culture evidence only."
+    },
+    {
+      "id": "r-nct-ark",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT07803250",
+      "year": 2026,
+      "summary": "Registered pilot randomized trial (University of Arkansas) of daily subcutaneous BPC-157 after arthroscopic rotator cuff repair. Not yet recruiting when checked; estimated start 2027.",
+      "finding": "No results exist yet. The record itself states BPC-157 has not yet been studied in formal human clinical trials."
+    },
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "On the fetched page BPC-157 appears in the list of substances nominated but withdrawn (previously category 2), with FDA noting risks of immunogenicity, impurities and limited safety information. This page does not make BPC-157 an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

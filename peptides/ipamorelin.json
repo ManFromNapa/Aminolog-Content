@@ -1,0 +1,116 @@
+{
+  "id": "ipamorelin",
+  "name": "Ipamorelin",
+  "aliases": [
+    "Ipamorelin acetate",
+    "NNC 26-0161"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A ghrelin-receptor (growth hormone secretagogue) peptide investigated for stimulating growth hormone release and for postoperative bowel recovery. It is promoted online for anti-aging, body composition and sleep, often combined with CJC-1295.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Intravenous infusions of 0.03 mg/kg twice daily for up to 7 days were studied against placebo; the study found no significant benefit on time to tolerate a meal.",
+        "population": "Adults recovering from small or large bowel resection surgery (117 enrolled), in hospital",
+        "citation_id": "r-ileus-phase2"
+      },
+      {
+        "text": "Single 15-minute intravenous infusions at five dose levels from 4.21 to 140.45 nmol/kg were studied to characterize pharmacokinetics and growth hormone response.",
+        "population": "Healthy adult men (eight per dose level)",
+        "citation_id": "r-pkpd-1999"
+      },
+      {
+        "text": "Animal study only, not human data: 100 micrograms per kg was injected subcutaneously three times daily for three months together with a glucocorticoid.",
+        "population": "Adult female rats",
+        "citation_id": "r-rat-bone-2001"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A video from a chiropractor's channel argues that a CJC-1295/ipamorelin combination is the best growth hormone peptide stack; the description promotes booking a discovery call.",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ErI8SQgVKcU",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A video says a well-known podcaster has named ipamorelin among his 'big three' peptides and explains it as boosting growth hormone without the cortisol rise seen with some other secretagogues (based on title and description; channel appears to be a peptide-education outlet).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=1eSGWoR5n8g",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A physician's video presents ipamorelin with CJC-1295 as beneficial peptide therapy; the description promotes the clinic's consultations.",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=1be7NmvVjo8",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-ileus-phase2",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25331030",
+      "year": 2014,
+      "summary": "Phase 2 multicenter, double-blind, placebo-controlled trial (Int J Colorectal Dis) of intravenous ipamorelin for postoperative ileus after bowel resection (NCT00672074), 117 patients.",
+      "finding": "Ipamorelin was well tolerated for up to 7 days, but time to first tolerated meal was not significantly different from placebo (median about 25 vs 33 hours, p=0.15)."
+    },
+    {
+      "id": "r-nct-ileus",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT00672074",
+      "year": 2008,
+      "summary": "ClinicalTrials.gov record for the Helsinn phase 2 postoperative ileus study of intravenous ipamorelin, completed.",
+      "finding": "Registry record for the trial reported in PMID 25331030; no posted results."
+    },
+    {
+      "id": "r-pkpd-1999",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "10496658",
+      "year": 1999,
+      "summary": "Dose-escalation pharmacokinetic and pharmacodynamic study (Pharm Res) in healthy male volunteers given intravenous ipamorelin.",
+      "finding": "Drug levels rose in proportion to dose, terminal half-life was about 2 hours, and growth hormone was released in a single short pulse at every dose."
+    },
+    {
+      "id": "r-raun-1998",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "9849822",
+      "year": 1998,
+      "summary": "Pharmacology paper (Eur J Endocrinol) describing ipamorelin, with cell experiments and studies in rats and swine.",
+      "finding": "Ipamorelin released growth hormone selectively in animals, without raising cortisol or ACTH at the doses tested. This is animal and cell evidence."
+    },
+    {
+      "id": "r-rat-ileus-2009",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "19289567",
+      "year": 2009,
+      "summary": "Rat model study (J Pharmacol Exp Ther) of intravenous ipamorelin after abdominal surgery and bowel handling.",
+      "finding": "Ipamorelin shortened time to first bowel movement and, with repeated dosing, increased fecal output, food intake and weight gain in rats."
+    },
+    {
+      "id": "r-rat-bone-2001",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11735244",
+      "year": 2001,
+      "summary": "Three-month rat study (Growth Horm IGF Res) of ipamorelin given with a glucocorticoid.",
+      "finding": "Ipamorelin counteracted the glucocorticoid-related loss of muscle strength and bone formation in rats."
+    },
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), added September 29, 2023, with FDA citing immunogenicity and impurity concerns and a literature report of serious adverse events, including death, after intravenous use for gastric motility. FDA says it lacks sufficient information on harm via other injectable routes."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

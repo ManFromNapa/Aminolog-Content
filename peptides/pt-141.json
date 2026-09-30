@@ -1,0 +1,58 @@
+{
+  "id": "pt-141",
+  "name": "Bremelanotide (PT-141)",
+  "aliases": [
+    "PT-141",
+    "Vyleesi"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled for premenopausal women with acquired, generalized hypoactive sexual desire disorder (HSDD); not indicated for postmenopausal women, men, or to enhance sexual performance.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Vyleesi: labeled dose 1.75 mg injected subcutaneously into the abdomen or thigh at least 45 minutes before anticipated sexual activity; no more than one dose in 24 hours and no more than 8 doses per month.",
+        "population": "Premenopausal women with acquired, generalized HSDD",
+        "citation_id": "fda-vyleesi-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "Patient reviews of Vyleesi are split: some women report increased desire, while many describe nausea, headaches and other side effects that outweighed benefits.",
+      "source_type": "forum",
+      "url": "https://reviews.webmd.com/drugs/drugreview-177576-bremelanotide-subcutaneous",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-vyleesi-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed prescribing information for Vyleesi (bremelanotide) injection.",
+      "finding": "Indicated for premenopausal women with acquired, generalized HSDD; warns of transient blood pressure increases and reports nausea in about 40% of treated patients."
+    },
+    {
+      "id": "reconnect-2019",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "31599840",
+      "year": 2019,
+      "summary": "RECONNECT: two randomized, placebo-controlled phase 3 trials of bremelanotide in premenopausal women with HSDD (Kingsberg et al., Obstet Gynecol).",
+      "finding": "Bremelanotide produced statistically significant improvements in sexual desire and reductions in related distress versus placebo; nausea, flushing and headache were most common."
+    },
+    {
+      "id": "reconnect-extension-2019",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "31599847",
+      "year": 2019,
+      "summary": "52-week open-label extension of the RECONNECT trials (Simon et al., Obstet Gynecol).",
+      "finding": "No new safety signals; improvements in desire and distress were sustained, with nausea (about 40%), flushing and headache the most common drug-related events."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

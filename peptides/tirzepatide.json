@@ -1,0 +1,65 @@
+{
+  "id": "tirzepatide",
+  "name": "Tirzepatide",
+  "aliases": [
+    "Mounjaro",
+    "Zepbound"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled for type 2 diabetes glycemic control and cardiovascular risk reduction in adults with type 2 diabetes at high risk (Mounjaro), and for chronic weight management and moderate to severe obstructive sleep apnea in adults with obesity (Zepbound), alongside diet and activity changes.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Zepbound: labeled starting dose 2.5 mg subcutaneously once weekly for 4 weeks, then 5 mg weekly, with increases in 2.5 mg steps every 4 weeks; labeled maintenance dosages are 5, 10 or 15 mg weekly for weight reduction and 10 or 15 mg weekly for obstructive sleep apnea (maximum 15 mg weekly).",
+        "population": "Adults with obesity, or overweight with a weight-related condition; adults with obesity and moderate to severe obstructive sleep apnea",
+        "citation_id": "fda-zepbound-label"
+      },
+      {
+        "text": "Mounjaro: labeled starting dose 2.5 mg subcutaneously once weekly, increased in 2.5 mg steps after at least 4 weeks on the current dose as needed for glycemic control; labeled maximum 15 mg weekly in adults and 10 mg weekly in pediatric patients.",
+        "population": "Adults and pediatric patients 10 years and older with type 2 diabetes",
+        "citation_id": "fda-mounjaro-label"
+      }
+    ]
+  },
+  "internet_claims": [],
+  "research": [
+    {
+      "id": "fda-zepbound-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Zepbound (tirzepatide) injection.",
+      "finding": "Approved for weight reduction and moderate to severe obstructive sleep apnea in adults with obesity."
+    },
+    {
+      "id": "fda-mounjaro-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Mounjaro (tirzepatide) injection.",
+      "finding": "Approved for glycemic control in type 2 diabetes (adults and children 10 and older) and for reducing cardiovascular risk in adults with type 2 diabetes at high risk."
+    },
+    {
+      "id": "surmount-1-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "35658024",
+      "year": 2022,
+      "summary": "SURMOUNT-1: randomized, double-blind, 72-week trial of tirzepatide 5, 10 or 15 mg weekly versus placebo in adults with obesity or overweight without diabetes (Jastreboff et al., N Engl J Med).",
+      "finding": "Average weight change was -15.0%, -19.5% and -20.9% with the three doses versus -3.1% with placebo; side effects were mostly gastrointestinal."
+    },
+    {
+      "id": "surpass-2-2021",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34170647",
+      "year": 2021,
+      "summary": "SURPASS-2: randomized trial comparing weekly tirzepatide with semaglutide 1 mg in adults with type 2 diabetes (N Engl J Med).",
+      "finding": "All tirzepatide doses lowered HbA1c more than semaglutide (up to 2.30 vs 1.86 percentage points) and produced greater weight loss; gastrointestinal effects were most common."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

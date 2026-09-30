@@ -1,0 +1,85 @@
+{
+  "id": "tb-500",
+  "name": "TB-500",
+  "aliases": [
+    "Thymosin beta-4 fragment",
+    "Ac-LKKTETQ",
+    "thymosin beta 4 17-23"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Sold and promoted online for muscle, tendon and wound recovery, often paired with BPC-157. TB-500 is a short synthetic fragment (residues 17-23) related to thymosin beta-4; most published research, including human trials, used full-length thymosin beta-4 instead, which is a different molecule.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Animal study only, not human data: TB-500 at 60 micrograms per kg per day was given by intraperitoneal injection for four weeks after Achilles tendon repair.",
+        "population": "Rats",
+        "citation_id": "r-rat-achilles-2026"
+      },
+      {
+        "text": "Different molecule (recombinant full-length thymosin beta-4, not TB-500): single intravenous doses from 0.05 to 25 micrograms per kg, and daily doses of 0.5, 2.0 and 5.0 micrograms per kg for 10 days, were studied for safety and pharmacokinetics.",
+        "population": "Healthy Chinese adult volunteers in a phase 1 trial",
+        "citation_id": "r-tb4-phase1"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A video promotes taking BPC-157 and TB-500 together as the 'Wolverine stack' for muscle and injury recovery (based on the video title and description; the host is a fitness and nutrition personality).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OfcexE9s4yw",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A creator documents the first week of using BPC-157, TB-500 and tesamorelin, and says his blood work and peptide therapy were sponsored by a telehealth company.",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XE2_sh4C3dg",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A clinic video shows how to reconstitute peptides including TB-500, BPC-157 and ipamorelin, treating them as routine medications (based on title and description).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=iYRpzfUcgr8",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-rat-achilles-2026",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "42542926",
+      "year": 2026,
+      "summary": "Rat study (Jt Dis Relat Surg) of TB-500, BPC-157 and their combination after Achilles tendon repair, 32 rats over four weeks.",
+      "finding": "TB-500 alone improved tendon strength and histology scores versus controls; the combination improved some histology scores. Results are from rats only."
+    },
+    {
+      "id": "r-tb4-mouse-2004",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "15565145",
+      "year": 2004,
+      "summary": "Nature study on full-length thymosin beta-4 in cardiac cells and in mice after coronary artery ligation (not the TB-500 fragment).",
+      "finding": "Thymosin beta-4 promoted heart cell survival and migration and improved cardiac function in mice after heart attack. This does not show the same effect for TB-500 or in humans."
+    },
+    {
+      "id": "r-tb4-phase1",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34346165",
+      "year": 2021,
+      "summary": "Randomized, double-blind phase 1 trial (J Cell Mol Med) of recombinant human thymosin beta-4 (NL005) in 84 healthy Chinese volunteers; sponsor employees were among authors.",
+      "finding": "Single and 10-day intravenous doses were well tolerated with mild to moderate adverse events and no serious events. It concerns full-length thymosin beta-4, not TB-500."
+    },
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "On the fetched page, thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of substances nominated but withdrawn (previously category 2). FDA noted immunogenicity and impurity risks and that it had found no human exposure data for products containing this fragment."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

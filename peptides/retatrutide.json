@@ -1,0 +1,112 @@
+{
+  "id": "retatrutide",
+  "name": "Retatrutide",
+  "aliases": [
+    "LY3437943",
+    "reta"
+  ],
+  "regulatory_status": "investigational",
+  "used_for": "Investigated in clinical trials (sponsored by Eli Lilly) for weight reduction in adults with obesity or overweight, type 2 diabetes, knee osteoarthritis and other obesity-related conditions. It is also promoted online as a weight-loss compound, including as unregulated 'research' product.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 48-week phase 2 trial, once-weekly subcutaneous injections were studied at maintenance doses of 1 mg, 4 mg, 8 mg and 12 mg, with different starting doses (2 mg or 4 mg) for some groups; gastrointestinal side effects were more frequent at higher starting doses.",
+        "population": "Adults with obesity or overweight (338 enrolled), under clinical trial supervision",
+        "citation_id": "r-nejm-2023"
+      },
+      {
+        "text": "In a 24-week phase 2 trial, once-weekly subcutaneous doses with maintenance levels from 0.5 mg to 12 mg were studied and compared with placebo and dulaglutide.",
+        "population": "Adults with type 2 diabetes (281 randomised), under clinical trial supervision",
+        "citation_id": "r-lancet-t2d-2023"
+      },
+      {
+        "text": "In a 40-week phase 3 trial, once-weekly subcutaneous doses of 4 mg, 9 mg and 12 mg were studied versus placebo.",
+        "population": "Adults with type 2 diabetes not controlled by diet and exercise alone (537 randomised)",
+        "citation_id": "r-transcend-t2d1"
+      },
+      {
+        "text": "In an 80-week phase 3 trial, once-weekly subcutaneous doses of 4 mg, 9 mg and 12 mg were studied versus placebo.",
+        "population": "Adults with obesity and type 2 diabetes (1152 randomised)",
+        "citation_id": "r-triumph2"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A video reviewer describes quitting retatrutide after six months and reports muscle loss and side effects alongside weight loss (based on the video title and description).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OewGyQcPfwU",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A video presents a list of benefits of retatrutide beyond weight loss, citing what people using it report (based on the video title and description).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vuzs_KwUfU8",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A video discusses 'microdosing' retatrutide and GLP-1 drugs alongside other peptides in a Q&A; the description carries a promotional discount code for a peptide vendor.",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=j9Yoe9bcedQ",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-nejm-2023",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37366315",
+      "year": 2023,
+      "summary": "Phase 2, double-blind, randomized, placebo-controlled trial (NEJM) of once-weekly subcutaneous retatrutide for 48 weeks in 338 adults with obesity or overweight. Funded by Eli Lilly.",
+      "finding": "Average body weight fell by about 24% at 48 weeks with the 12 mg dose versus about 2% with placebo. Side effects were mostly gastrointestinal and dose-related; heart rate increased in a dose-dependent way."
+    },
+    {
+      "id": "r-lancet-t2d-2023",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37385280",
+      "year": 2023,
+      "summary": "Phase 2 randomized, double-blind trial (Lancet) of retatrutide in 281 US adults with type 2 diabetes, compared with placebo and dulaglutide over 24 weeks.",
+      "finding": "Higher retatrutide doses lowered HbA1c by roughly 2 percentage points at 24 weeks, more than placebo and, at higher doses, more than dulaglutide."
+    },
+    {
+      "id": "r-transcend-t2d1",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42250575",
+      "year": 2026,
+      "summary": "Phase 3 TRANSCEND-T2D-1 trial (Lancet, 2026), 40 weeks, 537 adults with type 2 diabetes inadequately controlled by diet and exercise.",
+      "finding": "HbA1c and body weight fell more with retatrutide than placebo at all three doses; side effects were mostly mild to moderate gastrointestinal events."
+    },
+    {
+      "id": "r-triumph2",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42810372",
+      "year": 2026,
+      "summary": "Phase 3 TRIUMPH-2 trial (Lancet, published online 29 Sep 2026), 80 weeks, 1152 adults with obesity and type 2 diabetes.",
+      "finding": "Body weight fell by about 12% (4 mg), 17% (9 mg) and 19% (12 mg) versus about 5% with placebo; gastrointestinal adverse events were the most frequent."
+    },
+    {
+      "id": "r-nct-phase3-oa",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05931367",
+      "year": 2023,
+      "summary": "Completed phase 3 trial (Eli Lilly) of once-weekly retatrutide in adults with obesity or overweight and knee osteoarthritis. The registry record listed no posted results when checked.",
+      "finding": "The registry confirms this phase 3 program exists; no results were verified from this record."
+    },
+    {
+      "id": "r-nct-ea",
+      "evidence_type": "regulatory_document",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT07629401",
+      "year": 2026,
+      "summary": "ClinicalTrials.gov expanded access record from Eli Lilly for single-patient pre-approval access to retatrutide, described as investigational, for adults with severe obesity and serious complications who cannot join a trial.",
+      "finding": "Confirms retatrutide is described by its sponsor as investigational and available outside trials only through a restricted expanded access route."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Peptide",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id","name","aliases","regulatory_status","used_for","dosing","internet_claims","research","last_reviewed"],
+  "properties": {
+    "id": {"type":"string","pattern":"^[a-z0-9-]+$"},
+    "name": {"type":"string","minLength":1},
+    "aliases": {"type":"array","items":{"type":"string"}},
+    "regulatory_status": {"enum":["approved","investigational","unapproved"]},
+    "used_for": {"type":"string","minLength":1},
+    "dosing": {
+      "type":"object","additionalProperties":false,
+      "required":["basis","entries"],
+      "properties":{
+        "basis":{"enum":["labeled","studied"]},
+        "entries":{"type":"array","items":{
+          "type":"object","additionalProperties":false,
+          "required":["text","population","citation_id"],
+          "properties":{"text":{"type":"string"},"population":{"type":"string"},"citation_id":{"type":"string"}}}}}
+    },
+    "internet_claims": {"type":"array","items":{
+      "type":"object","additionalProperties":false,
+      "required":["claim","source_type","url","retrieved"],
+      "properties":{
+        "claim":{"type":"string"},
+        "source_type":{"enum":["reddit","youtube","podcast","forum","influencer","vendor"]},
+        "url":{"type":["string","null"]},
+        "retrieved":{"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}}}},
+    "research": {"type":"array","items":{
+      "type":"object","additionalProperties":false,
+      "required":["id","evidence_type","source_kind","identifier","year","summary","finding"],
+      "properties":{
+        "id":{"type":"string"},
+        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document"]},
+        "source_kind":{"enum":["pubmed","clinicaltrials","fda"]},
+        "identifier":{"type":"string"},
+        "year":{"type":"integer"},
+        "summary":{"type":"string"},
+        "finding":{"type":"string"}}}},
+    "last_reviewed": {"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}
+  }
+}

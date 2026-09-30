@@ -1,0 +1,73 @@
+{
+  "id": "tesamorelin",
+  "name": "Tesamorelin",
+  "aliases": [
+    "Egrifta",
+    "Egrifta SV",
+    "Egrifta WR"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled for reduction of excess abdominal fat in HIV-infected adults with lipodystrophy; not indicated for general weight loss.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Egrifta SV: labeled dose 1.4 mg (0.35 mL of reconstituted solution) injected subcutaneously once daily in the abdomen.",
+        "population": "HIV-infected adults with lipodystrophy and excess abdominal fat",
+        "citation_id": "fda-egrifta-sv-label"
+      },
+      {
+        "text": "Egrifta WR: labeled dose 1.28 mg (0.16 mL of reconstituted solution) injected subcutaneously once daily in the abdomen; one vial is reconstituted to provide seven daily doses.",
+        "population": "HIV-infected adults with lipodystrophy and excess abdominal fat",
+        "citation_id": "fda-egrifta-wr-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "Patient reviews of Egrifta WR are mixed: some describe reduced belly fat and easier movement, while others report no benefit, joint pain, hand numbness, preparation difficulty, and cost or supply problems.",
+      "source_type": "forum",
+      "url": "https://reviews.webmd.com/drugs/drugreview-egrifta-wr-tesamorelin",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-egrifta-sv-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d783378-b02d-4f19-99dd-0fc91a042224",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Egrifta SV (tesamorelin) for injection.",
+      "finding": "Indicated to reduce excess abdominal fat in HIV-infected adults with lipodystrophy; not for general weight management."
+    },
+    {
+      "id": "fda-egrifta-wr-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Egrifta WR (tesamorelin) for injection.",
+      "finding": "Same indication as Egrifta SV with a weekly-reconstitution format; long-term cardiovascular safety has not been established."
+    },
+    {
+      "id": "falutz-2010-jaids",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20101189",
+      "year": 2010,
+      "summary": "Randomized placebo-controlled trial with safety extension of tesamorelin in HIV-infected patients with abdominal fat accumulation (Falutz et al., J Acquir Immune Defic Syndr).",
+      "finding": "Visceral fat fell about 10.9% with tesamorelin versus 0.6% with placebo over 6 months; gains were lost after switching to placebo."
+    },
+    {
+      "id": "falutz-2010-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20554713",
+      "year": 2010,
+      "summary": "Pooled analysis of two phase 3 trials (806 patients) of tesamorelin 2 mg daily versus placebo for 26 weeks, with a 26-week extension (Falutz et al., J Clin Endocrinol Metab).",
+      "finding": "Visceral fat decreased significantly versus placebo (treatment effect -15.4%) with lower triglycerides and no meaningful change in subcutaneous abdominal fat."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}
