@@ -1,6 +1,6 @@
-# PB Peptides Content
+# Aminolog Content
 
-Educational content for the PB Peptides iOS app, served through GitHub Pages.
+Educational content for the Aminolog iOS app, served through GitHub Pages.
 For research and educational purposes only. Not medical advice.
 
 - `peptides/<id>.json` — one file per peptide, validated by `schema/peptide.schema.json`
