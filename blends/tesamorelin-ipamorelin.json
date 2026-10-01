@@ -1,0 +1,45 @@
+{
+  "id": "tesamorelin-ipamorelin",
+  "name": "Tesamorelin / Ipamorelin",
+  "aliases": [
+    "Tesa/Ipa",
+    "Tesamorelin + Ipamorelin",
+    "Visceral fat stack"
+  ],
+  "components": [
+    "tesamorelin",
+    "ipamorelin"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by telemedicine and peptide clinics as a visceral fat and growth hormone stack for body composition. Tesamorelin alone has an approved indication that does not cover this use.",
+  "summary": "Tesamorelin / Ipamorelin pairs a growth hormone releasing hormone analog with a ghrelin-receptor peptide. Tesamorelin alone is FDA-approved for a specific indication, but the pair is not an approved product and no combination-specific human study was found in the sources reviewed. A telemedicine article describes tesamorelin's label as stating it is not indicated for weight loss management. The detailed information is on the pages for Tesamorelin and Ipamorelin; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [],
+  "side_effects": [
+    {
+      "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
+      "label": "research",
+      "citation_id": "r-fda-cat2"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A telemedicine company's article calls tesamorelin plus ipamorelin the visceral fat stack, notes that tesamorelin is FDA-approved only for HIV-associated lipodystrophy, and says its label states it is not indicated for weight loss management.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
+      "finding": "FDA lists ipamorelin acetate in category 2 for 503B outsourcing facilities and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

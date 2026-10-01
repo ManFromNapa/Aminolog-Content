@@ -1,0 +1,51 @@
+{
+  "id": "glow",
+  "name": "GLOW",
+  "aliases": [
+    "GLOW blend",
+    "BPC-157 + TB-500 + GHK-Cu"
+  ],
+  "components": [
+    "ghk-cu",
+    "bpc-157",
+    "tb-500"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by research-peptide sellers and clinics as a skin, collagen, hair and soft-tissue repair blend. These uses are promotional claims, not approved indications.",
+  "summary": "GLOW is a nickname for a three-peptide blend of GHK-Cu, BPC-157 and TB-500. No approved product contains it, and no combination-specific human study was found in the sources reviewed. A Florida wellness clinic's guide describes such blends as not standardized products and says a blend does not automatically have clinical evidence because its ingredients were researched separately. The detailed information is on the pages for GHK-Cu, BPC-157 and TB-500; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [
+    {
+      "text": "The Peptide Dosing Protocols site (which carries supplier affiliate links) warns against combining separate-vial peptides in one syringe because of differing stability and pH needs, and says reconstituted solutions are refrigerated at 2 to 8 degrees C, with TB-500 having the shortest stability window of 1 to 2 weeks and BPC-157 and GHK-Cu up to 30 days.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Peptide Dosing Protocols site (which carries supplier affiliate links) lists injection-site irritation, short-term fatigue and occasional headache, and states the blend is not FDA-approved.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "The Peptide Dosing Protocols site says the name GLOW comes from the GHK-Cu component and associates the blend with soft-tissue repair, skin and collagen remodeling, anti-inflammatory effects and hair density.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A Florida wellness clinic's guide describes GLOW as a peptide blend rather than a standardized product and notes that human research on BPC-157 remains extremely limited.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

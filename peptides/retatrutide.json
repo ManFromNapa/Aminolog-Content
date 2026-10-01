@@ -38,6 +38,13 @@
       "text": "In the phase 3 TRIUMPH-2 trial, retatrutide was given as self-administered once-weekly subcutaneous injections. Retatrutide is investigational, so no label guidance on timing, meals, or storage exists.",
       "label": "research",
       "citation_id": "r-triumph2"
+    },
+    {
+      "text": "An educational peptide site says the time of day is flexible given the drug's long half-life, that morning injection lets side effects be noticed while awake and evening injection lets nausea fall during sleep, that food does not affect absorption of a subcutaneous injection, and that high-fat meals on injection days are best avoided. It also says reconstituted vials are kept upright in the refrigerator. These are the site's statements, not label guidance, since retatrutide is unapproved.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.seekpeptides.com/blog/articles/best-time-to-take-retatrutide",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [
@@ -52,7 +59,7 @@
       "citation_id": "r-triumph2"
     },
     {
-      "text": "In TRIUMPH-2, dysesthesia occurred in 4 to 7% of retatrutide recipients vs 1% with placebo and hypotension in 1 to 6% vs under 1%. Permanent discontinuation due to adverse events or death was 12% with the 9 mg dose and 8% with the 12 mg dose, vs 5% with placebo.",
+      "text": "In TRIUMPH-2, dysesthesia occurred in 4 to 7% of retatrutide recipients vs 1% with placebo and hypotension in 1 to 6% vs under 1%. Permanent discontinuation due to adverse events or death was 8% to 12% across the retatrutide groups, vs 5% with placebo.",
       "label": "research",
       "citation_id": "r-triumph2"
     },

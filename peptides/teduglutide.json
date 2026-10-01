@@ -44,6 +44,11 @@
       "text": "If a dose is missed, the label states it should be taken as soon as possible that day, and two doses should not be taken on the same day.",
       "label": "research",
       "citation_id": "fda-gattex-label"
+    },
+    {
+      "text": "The Gattex label states the drug is given once each day at the same time, and that patients on oral drugs needing titration or with a narrow therapeutic index should be monitored because absorption of oral drugs may increase.",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
     }
   ],
   "side_effects": [

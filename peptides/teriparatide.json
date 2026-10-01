@@ -34,6 +34,11 @@
       "text": "The pen is stored refrigerated at 2 to 8 C (36 to 46 F) at all times except when injecting, a new needle is used for each injection, and the device is discarded 28 days after first use.",
       "label": "research",
       "citation_id": "fda-forteo-label"
+    },
+    {
+      "text": "The Forteo patient instructions state the pen is used right away after being taken out of the refrigerator, and that injection is not into a vein or muscle.",
+      "label": "research",
+      "citation_id": "fda-forteo-label"
     }
   ],
   "side_effects": [

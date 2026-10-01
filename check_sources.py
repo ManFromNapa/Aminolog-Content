@@ -42,7 +42,12 @@ def load_files(only):
     files = sorted(glob.glob(os.path.join(ROOT, "peptides", "*.json")))
     if only:
         files = [f for f in files if os.path.basename(f)[:-5] in only]
-    return [(os.path.basename(f)[:-5], json.load(open(f))) for f in files]
+    out = [(os.path.basename(f)[:-5], json.load(open(f))) for f in files]
+    for f in sorted(glob.glob(os.path.join(ROOT, "blends", "*.json"))):
+        name = os.path.basename(f)[:-5]
+        if not only or name in only:
+            out.append(("blend:" + name, json.load(open(f))))
+    return out
 
 
 def main():

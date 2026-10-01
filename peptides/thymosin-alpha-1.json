@@ -39,6 +39,13 @@
       "source_type": "website",
       "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A dosing guide site that links to a peptide seller says thymosin alpha-1 is injected subcutaneously once daily in its standard protocol, whereas clinical regimens are described as twice weekly, that a mixed vial is refrigerated and used within 7 days, and that sites are rotated. This differs from the 30-day and use-immediately figures given by other sources.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

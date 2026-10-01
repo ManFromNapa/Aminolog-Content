@@ -1,0 +1,53 @@
+{
+  "id": "kitchen-sink",
+  "name": "Kitchen sink stack",
+  "aliases": [
+    "everything stack"
+  ],
+  "components": [
+    "cjc-1295",
+    "ipamorelin",
+    "bpc-157",
+    "tb-500"
+  ],
+  "other_components": [
+    "other peptides (varies by seller)"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Described by telehealth sources as an all-purpose stack combining growth hormone secretagogues with recovery peptides, often with further peptides added.",
+  "summary": "This blend combines CJC-1295, ipamorelin, BPC-157 and TB-500, sometimes with other peptides, all unapproved. No approved product and no combination-specific human study was found, and the exact contents vary by seller. FDA's compounding safety-risk page names ipamorelin acetate in category 2 and lists CJC-1295, BPC-157 and TB-500 in a withdrawn section. Each component's own page holds the detailed information (CJC-1295, Ipamorelin, BPC-157 and TB-500).",
+  "administration_guidance": [],
+  "side_effects": [
+    {
+      "text": "FDA's compounding safety-risk page lists ipamorelin acetate among substances that may present significant safety risks, citing immunogenicity concerns; it also names CJC-1295, BPC-157 and TB-500 in its withdrawn section with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
+      "label": "research",
+      "citation_id": "r-fda-cat2"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A telehealth company's blog (Meto, which offers compounded medications) describes a 'kitchen sink' stack of many peptides combined, and warns that the more experimental the stack, the more conservative the risk posture should be.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A telehealth company's blog (Meto, which offers consultations and compounded medications) says most peptide stacks have far more marketing momentum than clinical evidence, especially for combinations, and that more experimental stacks call for a more conservative risk posture.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (fetched 2026-10-01).",
+      "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. The page also names CJC-1295, BPC-157 and TB-500 (thymosin beta-4 fragment) in its withdrawn section, citing immunogenicity risk, and for CJC-1295 serious adverse events including increased heart rate and systemic vasodilatory reaction."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

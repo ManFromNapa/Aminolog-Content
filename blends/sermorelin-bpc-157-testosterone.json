@@ -1,0 +1,35 @@
+{
+  "id": "sermorelin-bpc-157-testosterone",
+  "name": "Sermorelin / BPC-157 / testosterone",
+  "aliases": [
+    "TRT enhancement stack"
+  ],
+  "components": [
+    "sermorelin",
+    "bpc-157"
+  ],
+  "other_components": [
+    "testosterone (a hormone, not a peptide)"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by clinics as an add-on to testosterone replacement therapy that is said to amplify its results.",
+  "summary": "This blend pairs sermorelin and BPC-157 (unapproved peptides) with testosterone, a steroid hormone rather than a peptide (the app has no page for testosterone). No approved product contains the combination and no combination-specific human study was found. A clinic page says such stacks rest more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Sermorelin and BPC-157); formulations vary by seller.",
+  "administration_guidance": [],
+  "side_effects": [],
+  "internet_claims": [
+    {
+      "claim": "A Miami anti-aging clinic's blog (Rewind Anti-Aging, which sells peptide therapy) describes sermorelin plus BPC-157 plus testosterone as a 'TRT enhancement' stack that amplifies testosterone therapy results, with mandatory baseline and ongoing lab monitoring.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "The same clinic says synergy rationale is grounded more in mechanism and limited research than in large human trials.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

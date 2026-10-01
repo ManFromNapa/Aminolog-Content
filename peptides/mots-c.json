@@ -42,6 +42,13 @@
       "source_type": "website",
       "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "An educational site (PeptIQ, which carries referral links to clinics) says MOTS-c is taken fasted in the morning, 15 to 30 minutes before eating, that black coffee and plain tea are described as not breaking the fast, that morning use applies even for afternoon workouts, and that evening use is discouraged for missing the fasted window and possibly affecting sleep.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

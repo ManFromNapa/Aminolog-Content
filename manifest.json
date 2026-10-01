@@ -1,5 +1,5 @@
 {
-  "content_version": 4,
+  "content_version": 5,
   "updated": "2026-09-30",
   "peptides": [
     "afamelanotide",
@@ -39,5 +39,21 @@
     "tesamorelin",
     "thymosin-alpha-1",
     "tirzepatide"
+  ],
+  "blends": [
+    "aod-9604-secretagogue",
+    "bpc-157-tb-500",
+    "cagrisema",
+    "cjc-1295-ipamorelin",
+    "ghk-cu-bpc-157",
+    "glow",
+    "kitchen-sink",
+    "klow",
+    "semaglutide-aod-9604",
+    "sermorelin-bpc-157-testosterone",
+    "sermorelin-ipamorelin",
+    "sermorelin-mots-c-nad",
+    "tesamorelin-ipamorelin",
+    "tesamorelin-mots-c"
   ]
 }

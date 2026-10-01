@@ -49,6 +49,30 @@
       "text": "Labels state the injection goes subcutaneously into the abdomen with rotating sites, avoiding the navel, scar tissue and bruises.",
       "label": "research",
       "citation_id": "fda-egrifta-wr-label"
+    },
+    {
+      "text": "Egrifta SV label: the powder is reconstituted with the supplied diluent and mixed by rolling the vial gently in the hands for 30 seconds, without shaking.",
+      "label": "research",
+      "citation_id": "fda-egrifta-sv-label"
+    },
+    {
+      "text": "Egrifta SV label: sites are chosen at least 2 inches (5 cm) from the navel. The label's administration section names no required time of day and no food restriction.",
+      "label": "research",
+      "citation_id": "fda-egrifta-sv-label"
+    },
+    {
+      "text": "The Peptidepedia website says tesamorelin is injected either in the morning on an empty stomach (at least 2 hours after eating and 30 to 60 minutes before food) or at bedtime, and that a vial mixed with bacteriostatic water is refrigerated, protected from light, not frozen and used within 14 to 28 days. This differs from the approved label, which names no time of day and says a reconstituted vial is used immediately or, for the weekly-vial product, kept at room temperature for 7 days.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A compounded-peptide telehealth seller (FormBlends) says tesamorelin is injected once daily at bedtime on an empty stomach, with no food for at least 2 hours beforehand, and that a reconstituted vial is refrigerated and used within 24 hours. The company sells compounded tesamorelin.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

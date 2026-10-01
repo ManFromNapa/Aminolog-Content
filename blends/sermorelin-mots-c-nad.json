@@ -1,0 +1,35 @@
+{
+  "id": "sermorelin-mots-c-nad",
+  "name": "Sermorelin / MOTS-c / NAD+",
+  "aliases": [
+    "longevity stack"
+  ],
+  "components": [
+    "sermorelin",
+    "mots-c"
+  ],
+  "other_components": [
+    "NAD+ (a coenzyme, not a peptide)"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by clinics as a longevity stack addressing growth hormone signaling and cellular energy together.",
+  "summary": "This blend pairs sermorelin, a growth hormone-releasing hormone fragment, and MOTS-c, an unapproved mitochondrial peptide, with NAD+, a coenzyme rather than a peptide (the app has no page for NAD+). No approved product contains the combination and no combination-specific human study was found. A clinic page says the rationale rests more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Sermorelin and MOTS-c); formulations vary by seller.",
+  "administration_guidance": [],
+  "side_effects": [],
+  "internet_claims": [
+    {
+      "claim": "A Miami anti-aging clinic's blog (Rewind Anti-Aging, which sells peptide therapy) describes sermorelin plus MOTS-c plus NAD+ as its most comprehensive anti-aging protocol, targeting aging at the cellular level.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "The same clinic says most of its peptides are investigational or compounded and not FDA-approved for these uses.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

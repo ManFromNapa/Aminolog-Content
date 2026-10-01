@@ -1,0 +1,52 @@
+{
+  "id": "bpc-157-tb-500",
+  "name": "BPC-157 / TB-500",
+  "aliases": [
+    "Wolverine",
+    "Wolverine stack",
+    "Recovery stack",
+    "Injury recovery stack"
+  ],
+  "components": [
+    "bpc-157",
+    "tb-500"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed online and by clinics as a recovery stack for tendon, ligament and muscle healing. These uses are promotional claims, not approved indications.",
+  "summary": "BPC-157 / TB-500 is a pairing of two research peptides, often sold as a single mixed vial under the name Wolverine. No approved product contains it, and no combination-specific human study was found in the sources reviewed; one telemedicine article calls it one of the most hyped stacks relative to its human outcomes evidence. The detailed information is on the pages for BPC-157 and TB-500; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [
+    {
+      "text": "The Peptide Breakdown blog (which carries supplier affiliate links) says the blend is sold as a freeze-dried powder to be mixed with bacteriostatic water, that the mixed vial is kept refrigerated for a typical window of about 30 days and should not be frozen, and that unmixed powder is refrigerated for 12 to 24 months.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Peptide Breakdown blog (which carries supplier affiliate links) lists injection-site irritation, redness or swelling and possible sensitivity reactions, and states that human safety data for the combined protocol are lacking.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A telemedicine company's article calls the pair the injury recovery stack for tendon, ligament and muscle recovery, and says it is one of the most hyped stacks relative to its human outcomes evidence.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A Miami anti-aging clinic's blog calls the pair the tissue repair powerhouse and says BPC-157 acts more locally at an injury while TB-500 gives broader systemic support.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

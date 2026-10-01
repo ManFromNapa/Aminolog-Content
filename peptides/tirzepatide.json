@@ -43,6 +43,13 @@
       "text": "The Zepbound label states vials require a suitable syringe and a new syringe and needle for each injection, the solution should appear clear and colorless to slightly yellow, and the KwikPen is not recommended for self-administration by people who are visually impaired.",
       "label": "research",
       "citation_id": "fda-zepbound-label"
+    },
+    {
+      "text": "A telehealth company's blog says tirzepatide can be taken at any time of day, that the specific hour matters less than keeping the same time each week, and that taking the injection 30 to 60 minutes before the largest meal may help reduce nausea.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [
