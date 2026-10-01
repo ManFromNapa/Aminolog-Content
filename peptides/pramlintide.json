@@ -1,0 +1,79 @@
+{
+  "id": "pramlintide",
+  "name": "Pramlintide",
+  "aliases": [
+    "Symlin",
+    "SymlinPen",
+    "amylin analog"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled (Symlin, NDA 021332, approved 2005) as an add-on treatment for adults with type 1 or type 2 diabetes who use mealtime insulin and have not reached glucose goals on optimal insulin. The label carries a boxed warning for severe hypoglycemia when used with insulin. Drugs@FDA currently lists all Symlin products as discontinued, although the label remains on DailyMed. Some online telehealth sites promote it off-label for weight loss, which is not a labeled use.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: mealtime insulin is reduced by 50% when starting, then Symlin 60 mcg subcutaneously immediately before major meals, increased to 120 mcg before meals if there has been no clinically significant nausea for at least 3 days.",
+        "population": "Adults with type 2 diabetes using mealtime insulin",
+        "citation_id": "fda-symlin-label"
+      },
+      {
+        "text": "Label: mealtime insulin is reduced by 50% when starting, then Symlin 15 mcg subcutaneously immediately before major meals, increased in 15 mcg steps (to 30, 45 or 60 mcg) if no clinically significant nausea for at least 3 days; reduced if nausea persists.",
+        "population": "Adults with type 1 diabetes using mealtime insulin",
+        "citation_id": "fda-symlin-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A peptide information site says pramlintide produced modest weight loss in trials including people without diabetes, but is underused because it needs several daily injections and careful insulin coordination, and newer drugs work better.",
+      "source_type": "website",
+      "url": "https://peptideinsight.com/en/peptides/pramlintide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A telehealth marketplace page promotes pramlintide for weight loss, citing a 6-week trial with about 2% body weight loss, and advertises appointments within about 24 hours.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-symlin-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4aea30ff-eb0d-45c1-b114-3127966328ff",
+      "year": 2024,
+      "summary": "DailyMed prescribing information for SymlinPen (pramlintide acetate) injection, AstraZeneca (DailyMed version published August 2024).",
+      "finding": "States the approved use as add-on therapy with mealtime insulin, gives the type 1 and type 2 starting doses, and carries a boxed warning that use with insulin raises the risk of severe hypoglycemia."
+    },
+    {
+      "id": "fda-symlin-drugsatfda",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021332",
+      "year": 2026,
+      "summary": "Drugs@FDA overview page for NDA 021332 (Symlin).",
+      "finding": "Shows the original approval on 03/16/2005 and lists all three Symlin products with marketing status Discontinued."
+    },
+    {
+      "id": "pmid-17003291",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17003291",
+      "year": 2006,
+      "summary": "29-week double-blind, placebo-controlled trial in 296 adults with type 1 diabetes adding pramlintide to insulin (Edelman et al., Diabetes Care).",
+      "finding": "Average A1C fell by 0.5% in both groups. Pramlintide reduced after-meal glucose spikes and weight (-1.3 kg versus +1.2 kg with placebo). Nausea was more common (63% versus 36%) and severe hypoglycemia was more frequent with pramlintide."
+    },
+    {
+      "id": "pmid-14617226",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "14617226",
+      "year": 2003,
+      "summary": "Pooled post hoc analysis of two placebo-controlled trials in insulin-using adults with type 2 diabetes whose starting HbA1c was 7.0 to 8.5% (166 people; Hollander et al., Diabetes Obes Metab).",
+      "finding": "At week 26 pramlintide 120 mcg twice daily lowered HbA1c by 0.43% and weight by 2.0 kg more than placebo, without a higher overall rate of severe hypoglycemia. Because this was a post hoc subgroup analysis, it is weaker evidence than the original trials."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

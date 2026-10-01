@@ -1,0 +1,59 @@
+{
+  "id": "teriparatide",
+  "name": "Teriparatide",
+  "aliases": [
+    "Forteo",
+    "PTH 1-34",
+    "recombinant human parathyroid hormone (1-34)"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled (Forteo) for postmenopausal women with osteoporosis at high fracture risk, to increase bone mass in men with primary or hypogonadal osteoporosis at high fracture risk, and for men and women with osteoporosis from sustained glucocorticoid therapy, in each case at high risk for fracture or after failing or being intolerant to other osteoporosis therapy. It is a parathyroid hormone analog that builds bone rather than only slowing bone loss. Other teriparatide products, including generics, are on DailyMed.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Labeled dosage 20 mcg subcutaneously once a day into the thigh or abdomen, with the first doses given where the patient can sit or lie down in case of orthostatic hypotension. The label says use for more than 2 years during a patient's lifetime should be considered only if the patient remains at or returns to high fracture risk.",
+        "population": "Adults with osteoporosis at high fracture risk per the Forteo label",
+        "citation_id": "fda-forteo-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A 2022 peer-reviewed review article on PubMed Central describes how teriparatide's boxed warning for osteosarcoma (from rat studies) was removed in November 2020 after observational human data showed no increased risk, and the 2-year lifetime limit was relaxed.",
+      "source_type": "website",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9465003/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-forteo-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aae667c5-381f-4f92-93df-2ed6158d07b0",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Forteo (teriparatide) injection (Eli Lilly), published August 2026.",
+      "finding": "Lists approved osteoporosis uses and the 20 mcg daily dose. It notes osteosarcoma occurred in rats, has been reported after marketing, and that an increased risk was not seen in observational human studies."
+    },
+    {
+      "id": "neer-2001",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "11346808",
+      "year": 2001,
+      "summary": "Randomized placebo-controlled trial of parathyroid hormone (1-34) 20 or 40 mcg daily in postmenopausal women with prior vertebral fractures (Neer et al., N Engl J Med).",
+      "finding": "New vertebral fractures occurred in 14% with placebo versus 5% (20 mcg) and 4% (40 mcg); nonvertebral fragility fractures in 6% versus 3%. Spine bone density rose 9 and 13 points more than placebo. Side effects were mostly occasional nausea and headache."
+    },
+    {
+      "id": "saag-gio-2009",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19877063",
+      "year": 2009,
+      "summary": "36-month double-blind trial of teriparatide 20 mcg daily versus alendronate 10 mg daily in 428 people with glucocorticoid-induced osteoporosis (Saag et al., Arthritis Rheum).",
+      "finding": "Lumbar spine density rose 11.0% versus 5.3%; new vertebral fractures occurred in 1.7% versus 7.7%. Nonvertebral fractures did not differ (7.5% vs 7.0%). Elevated blood calcium was more common with teriparatide (21% vs 7%)."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "mazdutide",
+  "name": "Mazdutide",
+  "aliases": [
+    "IBI362",
+    "LY3305677",
+    "Xinermei"
+  ],
+  "regulatory_status": "investigational",
+  "used_for": "Once-weekly glucagon and GLP-1 receptor dual agonist discovered by Eli Lilly and developed in China by Innovent. According to a published review (Drugs, 2025), it was approved in China in June 2025 for long-term weight management and in September 2025 for glycemic control in adults with type 2 diabetes. It has no FDA approval: no Drugs@FDA or DailyMed product exists, and the only US-registered trials found were Lilly phase 2 studies (obesity, alcohol use disorder). Published phase 3 data come from Chinese adults.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Once-weekly subcutaneous mazdutide 4 mg or 6 mg for 48 weeks.",
+        "population": "Chinese adults with overweight or obesity (GLORY-1, phase 3)",
+        "citation_id": "pmid-40421736"
+      },
+      {
+        "text": "Once-weekly subcutaneous mazdutide 9 mg for 60 weeks.",
+        "population": "Chinese adults with obesity, BMI 30 or higher (GLORY-2, phase 3)",
+        "citation_id": "pmid-42251595"
+      },
+      {
+        "text": "Once-weekly subcutaneous mazdutide with escalation to 3/6 mg, 10 mg or 16 mg for 48 weeks (starting at 1.5 mg).",
+        "population": "US adults with obesity or overweight (Lilly phase 2, as registered)",
+        "citation_id": "nct-06124807"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "Superpower, a health testing company, says mazdutide showed about 13 percent placebo-subtracted weight loss at 6 mg in Chinese trials, but that safety data come only from Chinese trials of 32 weeks or less, and that it has no legal pathway for US use.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/mazdutide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "FormBlends says mazdutide is not FDA-approved or legally available in US pharmacies, cautions that online vendors' product quality is unverifiable, and points US readers to approved drugs.",
+      "source_type": "website",
+      "url": "https://formblends.com/articles/retatrutide-hub/what-is-mazdutide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Peptide Local, an information site, says mazdutide is approved in China but not by the FDA, that a Chinese approval does not carry over to other countries, and cites an FDA warning letter about a seller's mazdutide listing.",
+      "source_type": "website",
+      "url": "https://peptidelocal.com/pipeline/mazdutide",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-40421736",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40421736",
+      "year": 2025,
+      "summary": "GLORY-1: phase 3, 48-week trial of mazdutide 4 mg or 6 mg versus placebo in 610 Chinese adults with overweight or obesity (N Engl J Med; NCT05607680).",
+      "finding": "Week 48 weight change was -11.0% (4 mg) and -14.0% (6 mg) versus +0.3% with placebo. Gastrointestinal events were most common; 0.5 to 1.5% stopped for adverse events. Results apply to Chinese adults."
+    },
+    {
+      "id": "pmid-42251595",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42251595",
+      "year": 2026,
+      "summary": "GLORY-2: phase 3, 60-week trial of mazdutide 9 mg versus placebo in 461 Chinese adults with obesity (JAMA; NCT06164873).",
+      "finding": "Weight change was -16.65% versus -1.50% with placebo. Vomiting (53%), nausea (47%) and diarrhea (39%) were common; 2.9% stopped treatment."
+    },
+    {
+      "id": "pmid-41407860",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41407860",
+      "year": 2026,
+      "summary": "28-week phase 3 trial of mazdutide 4 or 6 mg versus dulaglutide 1.5 mg in 731 Chinese adults with type 2 diabetes (Nature; NCT05606913).",
+      "finding": "HbA1c fell more than with dulaglutide (-0.24 and -0.30 points difference) and weight fell more. Gastrointestinal side effects were more frequent than with dulaglutide."
+    },
+    {
+      "id": "pmid-41407859",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41407859",
+      "year": 2026,
+      "summary": "24-week phase 3 trial of mazdutide monotherapy versus placebo in 320 Chinese adults with type 2 diabetes (Nature; NCT05628311).",
+      "finding": "HbA1c fell 1.57 (4 mg) and 2.15 (6 mg) points versus 0.14 with placebo; weight fell 5.6 to 7.8% versus 1.3%. Short trial, Chinese participants only."
+    },
+    {
+      "id": "nct-06124807",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT06124807",
+      "year": 2023,
+      "summary": "Lilly phase 2 US trial of mazdutide versus placebo for 48 weeks in 179 adults with obesity or overweight.",
+      "finding": "Posted results show week 32 weight change of -7.3% (3/6 mg), -15.6% (10 mg) and -18.1% (16 mg) versus -0.85% with placebo. Only the posted primary outcome table was reviewed; a peer-reviewed paper was not found."
+    },
+    {
+      "id": "nct-06817356",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT06817356",
+      "year": 2025,
+      "summary": "Lilly phase 2 US proof-of-concept trial of mazdutide versus placebo in 308 people with alcohol use disorder.",
+      "finding": "Registered as completed in March 2026; no results were posted when reviewed, so there is no verified finding."
+    },
+    {
+      "id": "fda-warning-prime-sciences-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prime-sciences-721805-03312026",
+      "year": 2026,
+      "summary": "FDA warning letter dated 31 March 2026 to Prime Sciences.",
+      "finding": "The letter lists mazdutide, among other products, as an unapproved new drug offered for sale for human use despite laboratory-research-only labeling."
+    },
+    {
+      "id": "fda-warning-xcel-2024",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/xcel-research-llc-694608-12102024",
+      "year": 2024,
+      "summary": "FDA warning letter dated 10 December 2024 to Xcel Research LLC.",
+      "finding": "The letter lists mazdutide, among other peptides, as an unapproved new drug sold with research-use-only labels."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

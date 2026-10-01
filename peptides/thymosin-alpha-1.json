@@ -1,0 +1,89 @@
+{
+  "id": "thymosin-alpha-1",
+  "name": "Thymosin alpha-1",
+  "aliases": [
+    "thymalfasin",
+    "Zadaxin",
+    "Ta1",
+    "Tα1"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A 28-amino-acid peptide (thymalfasin, brand Zadaxin) studied mainly in China, Europe and elsewhere for chronic hepatitis B, sepsis and COVID-19, and promoted online for immune support. No FDA-approved product was found (no Drugs@FDA or DailyMed entry for thymalfasin or thymosin). FDA's compounding page lists thymosin-alpha-1 among bulk substances nominated for compounding that were previously in category 2 (potential safety concerns) and later withdrawn by the nominators. Trial results are mixed: some hepatitis B and sepsis trials were modestly positive or borderline, and other work found no benefit.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "0.8 mg or 1.6 mg of thymosin alpha-1 monotherapy for 24 weeks, with follow-up to 72 weeks; similar response rates in both groups (for example 22.8% HBe-antigen clearance at 1.6 mg).",
+        "population": "316 Japanese adults with chronic hepatitis B",
+        "citation_id": "pmid-15850471"
+      },
+      {
+        "text": "1.6 mg subcutaneously once daily for 1 week added to standard care (registered phase 2 trial, terminated early with 56 enrolled, no results posted).",
+        "population": "Hospitalized adults with COVID-19 and lymphocytopenia",
+        "citation_id": "nct-04487444"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A health-information site describes thymosin alpha-1 as helping autoimmune disease, cancers, hepatitis, COVID-19, ME/CFS and sepsis, and says Zadaxin is FDA-approved; FDA sources found for this review show no US approval, so the claim conflicts with them.",
+      "source_type": "website",
+      "url": "https://www.innerbody.com/thymosin-alpha-1-peptide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A physician's practice page says thymosin alpha-1 may strengthen and balance the immune system, rebalance autoimmune conditions such as Hashimoto's, and improve sepsis survival, and promotes booking a call for local patients; it notes it is not FDA-approved for general use.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-cat2-bulks-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 04/22/2026).",
+      "finding": "Under the heading of substances nominated but withdrawn, it lists thymosin-alpha-1 and says compounded drugs may pose a significant risk of immunogenicity for certain routes and have peptide impurity and characterization complexities, and that the safety information is inadequate. It does not say the substance is approved."
+    },
+    {
+      "id": "pmid-23327199",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23327199",
+      "year": 2013,
+      "summary": "ETASS: multicenter, single-blind randomized trial of thymosin alpha-1 plus standard care versus standard care alone in 361 ICU patients with severe sepsis in China (Wu et al., Crit Care; NCT00711620).",
+      "finding": "28-day mortality was 26.0% with thymosin versus 35.0% in controls, a borderline result (relative risk 0.74, 95% CI 0.54 to 1.02). Immune marker mHLA-DR improved more. Patients and standard care were not placebo-blinded."
+    },
+    {
+      "id": "pmid-15850471",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15850471",
+      "year": 2005,
+      "summary": "Randomized comparison of thymosin alpha-1 0.8 mg versus 1.6 mg for 24 weeks in 316 Japanese patients with chronic hepatitis B (Iino et al., J Viral Hepat).",
+      "finding": "Both doses produced similar response rates (about 22.8% HBe-antigen clearance and 36.4% ALT normalization at 1.6 mg at 72 weeks); adverse reactions were mild. There was no placebo group, so benefit versus no treatment is not shown."
+    },
+    {
+      "id": "pmid-16640105",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "16640105",
+      "year": 2006,
+      "summary": "Double-blind placebo-controlled trial adding thymosin alpha-1 to interferon versus interferon alone in 98 people with HBeAg-positive chronic hepatitis B (Lim et al., Antivir Ther).",
+      "finding": "HBeAg loss was 45.8% with the combination and 28.0% with interferon alone, a difference that did not reach statistical significance (p=0.067); no significant differences were found for other endpoints."
+    },
+    {
+      "id": "nct-04487444",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT04487444",
+      "year": 2020,
+      "summary": "Phase 2 open-label trial of thymalfasin versus no extra treatment in hospitalized adults with COVID-19 and lymphocytopenia (56 enrolled; ClinicalTrials.gov).",
+      "finding": "The study was terminated early because of slow enrollment and the principal investigator moving institutions; no results are posted, so it provides no efficacy data."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "cjc-1295",
+  "name": "CJC-1295",
+  "aliases": [
+    "Modified GRF 1-29",
+    "Mod GRF (1-29)",
+    "CJC-1295 with DAC",
+    "DAC:GRF",
+    "CJC-1295 without DAC"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A long-acting synthetic analog of growth hormone-releasing hormone (GHRH). It has no approved medical use in the US. It is promoted online, often together with ipamorelin, for fat loss, muscle gain, sleep and recovery. Human research is very limited: a few small studies in healthy adults from 2006 to 2009 and one Phase 2 trial in people with HIV-associated visceral obesity that was terminated and never reported results. The CJC-1295 sold online is often described under different names (with or without DAC) that are different molecules.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Single subcutaneous doses were given in ascending steps in a randomized, placebo-controlled trial, followed by two or three weekly or biweekly doses in a second trial. The authors reported the best tolerability at 30 or 60 micrograms per kg. The abstract does not list every dose step.",
+        "population": "Healthy adults aged 21 to 61",
+        "citation_id": "pmid-16352683"
+      },
+      {
+        "text": "A single subcutaneous injection of 60 or 90 micrograms per kg, with hormone sampling one week later.",
+        "population": "Healthy men aged 20 to 40",
+        "citation_id": "pmid-17018654"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A naturopathic clinic's blog says the CJC-1295 and ipamorelin pair may raise growth hormone to speed muscle recovery, add muscle, aid fat loss and improve sleep. It also states that peptides are not FDA-approved and have limited human studies, and the page promotes the clinic's consultations.",
+      "source_type": "website",
+      "url": "https://www.drdanwool.com/blog/cjc-1295-ipamorelin",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A telehealth company's article says CJC-1295 is popular for body composition, energy and sleep, but argues there is very little evidence it delivers those results, and notes it is on an FDA list of bulk substances that cannot be used in compounded medicines.",
+      "source_type": "website",
+      "url": "https://www.joinmidi.com/post/cjc-1295",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A peptide education site describes GHRP-6 and GHRP-2 as usually stacked with a GHRH analog such as CJC-1295 to produce larger growth hormone pulses, while stating neither is FDA-approved.",
+      "source_type": "website",
+      "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-16352683",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "16352683",
+      "year": 2006,
+      "summary": "Two randomized, double-blind, placebo-controlled ascending-dose trials (28 and 49 days) of subcutaneous CJC-1295 in healthy adults aged 21 to 61 (J Clin Endocrinol Metab).",
+      "finding": "One injection raised growth hormone 2- to 10-fold for 6 days or more and IGF-I 1.5- to 3-fold for 9 to 11 days; the estimated half-life was 5.8 to 8.1 days. No serious adverse reactions were reported and the authors called it relatively well tolerated. These were short trials in healthy people; they did not test any health benefit or long-term safety."
+    },
+    {
+      "id": "pmid-17018654",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17018654",
+      "year": 2006,
+      "summary": "Hormone-sampling study of 20- to 40-year-old healthy men before and one week after a single CJC-1295 injection (J Clin Endocrinol Metab).",
+      "finding": "Growth hormone pulses were preserved, but baseline (trough) growth hormone rose about 7.5-fold and IGF-I about 45%. The study measured hormone levels only, not clinical outcomes."
+    },
+    {
+      "id": "pmid-19386527",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19386527",
+      "year": 2009,
+      "summary": "Blood protein analysis of 11 healthy young men before and one week after CJC-1295 (Growth Horm IGF Res).",
+      "finding": "Five serum proteins changed after treatment and may serve as markers of growth hormone activity. This is a biomarker study that says nothing about benefit or safety."
+    },
+    {
+      "id": "nct-00267527",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT00267527",
+      "year": 2005,
+      "summary": "Registered Phase 2 randomized, double-blind, placebo-controlled trial (ConjuChem, planned 120 participants) of CJC 1295 for 12 weeks in people with HIV-associated visceral obesity.",
+      "finding": "The record shows the status as terminated (verified 2006-10), with no results posted and no stated reason. An FDA briefing document for a 2024 advisory committee relays anecdotal reports that a participant died of a heart attack after a later dose, that the physician attributed it to underlying coronary disease, that the trial was stopped and that the data were never published. That account is not confirmed by the trial record."
+    },
+    {
+      "id": "fda-pcac-briefing-2024",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/183819/download",
+      "year": 2024,
+      "summary": "FDA briefing document for the 4 December 2024 Pharmacy Compounding Advisory Committee meeting on CJC-1295-related bulk drug substances (fetched 2026-09-30).",
+      "finding": "FDA proposed that these substances not be placed on the 503A compounding bulks list. The document summarizes headache, flushing, injection-site reactions and loose stools in the published healthy-volunteer studies, and notes that only limited clinical data exist."
+    },
+    {
+      "id": "fda-pcac-transcript-2024",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/185641/download",
+      "year": 2024,
+      "summary": "Transcript of the 4 December 2024 advisory committee meeting (fetched 2026-09-30).",
+      "finding": "On the questions about whether specific CJC-1295 substances should be placed on the 503A bulks list, the voting members recorded votes of no (13 to 0 on the tallies read out). This is an advisory recommendation, not a final FDA rule."
+    },
+    {
+      "id": "fda-category2-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "CJC-1295 appears in the list of substances previously in category 2 that nominators withdrew. FDA says compounded CJC-1295 may pose immunogenicity risk, that it has identified serious adverse events including increased heart rate and a systemic vasodilatory reaction, and that clinical data are limited. This page does not make CJC-1295 an approved drug."
+    },
+    {
+      "id": "fda-warning-tailor-made-2020",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tailor-made-compounding-llc-594743-04012020",
+      "year": 2020,
+      "summary": "FDA warning letter to a compounding pharmacy (1 April 2020), fetched 2026-09-30.",
+      "finding": "The letter lists CJC 1295 among substances the pharmacy compounded and says products made from these substances were not eligible for the section 503A exemptions. The letter also cites sterile-production deficiencies."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

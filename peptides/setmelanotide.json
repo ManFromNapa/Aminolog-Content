@@ -1,0 +1,77 @@
+{
+  "id": "setmelanotide",
+  "name": "Setmelanotide",
+  "aliases": [
+    "Imcivree",
+    "RM-493"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled (Imcivree) to reduce excess body weight and maintain weight reduction in adults and children with acquired hypothalamic obesity (age 4 and older), Bardet-Biedl syndrome (age 2 and older), or POMC, PCSK1 or LEPR deficiency confirmed by genetic testing (age 2 and older). The label says it is not expected to work for other obesity, including common (polygenic) obesity or obesity from other genetic syndromes. It is a melanocortin 4 receptor agonist.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Acquired hypothalamic obesity: labeled starting dosage 0.5 mg (0.05 mL) subcutaneously once daily for 2 weeks, then increased per the label titration tables.",
+        "population": "Adults and children aged 4 years and older with acquired hypothalamic obesity per the Imcivree label",
+        "citation_id": "fda-imcivree-label"
+      },
+      {
+        "text": "Bardet-Biedl syndrome or POMC, PCSK1 or LEPR deficiency: labeled starting dosage 2 mg subcutaneously once daily for 2 weeks (1 mg if not tolerated), with a labeled maintenance dosage of 3 mg once daily.",
+        "population": "Adults and children aged 12 years and older per the Imcivree label",
+        "citation_id": "fda-imcivree-label"
+      },
+      {
+        "text": "Bardet-Biedl syndrome or POMC, PCSK1 or LEPR deficiency: labeled starting dosage 1 mg subcutaneously once daily for 2 weeks, with a labeled maintenance dosage of 3 mg once daily; children aged 2 to under 6 start at 0.5 mg with weight-based titration.",
+        "population": "Children aged 6 to under 12 years per the Imcivree label",
+        "citation_id": "fda-imcivree-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "The Obesity Action Coalition describes Imcivree as a daily injection for obesity from POMC, PCSK1 or LEPR deficiency, cites trial results of 8 in 10 participants losing at least 10% of body weight, and says it is not for common obesity or unconfirmed genetic causes. The page predates label expansions to other conditions.",
+      "source_type": "website",
+      "url": "https://www.obesityaction.org/resources/imcivree-setmelanotide-the-first-fda-approved-therapy-for-specific-rare-genetic-diseases-of-obesity/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-imcivree-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Imcivree (setmelanotide) (Rhythm Pharmaceuticals), published April 2026.",
+      "finding": "Lists approved uses for acquired hypothalamic obesity, Bardet-Biedl syndrome, and POMC/PCSK1/LEPR deficiency, with once-daily subcutaneous dosing and explicit limits of use."
+    },
+    {
+      "id": "pomc-lepr-2020",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "33137293",
+      "year": 2020,
+      "summary": "Two single-arm open-label phase 3 trials of setmelanotide in 10 people with POMC deficiency and 11 with LEPR deficiency (Clement et al., Lancet Diabetes Endocrinol).",
+      "finding": "At about 1 year, 80% (POMC) and 45% (LEPR) lost at least 10% of body weight; hunger scores fell. Injection-site reactions and skin darkening were universal; nausea and vomiting were common. Very small, uncontrolled."
+    },
+    {
+      "id": "bbs-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36356613",
+      "year": 2022,
+      "summary": "Randomized double-blind placebo-controlled phase 3 trial of setmelanotide in 38 patients with Bardet-Biedl or Alstrom syndrome (Haqq et al., Lancet Diabetes Endocrinol).",
+      "finding": "32.3% of Bardet-Biedl patients aged 12 and older reached at least 10% weight reduction at 52 weeks. Results were inconclusive for Alstrom syndrome. Skin hyperpigmentation (61%) and injection-site erythema (48%) were common."
+    },
+    {
+      "id": "transcend-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42418774",
+      "year": 2026,
+      "summary": "TRANSCEND: randomized placebo-controlled trial of setmelanotide in 120 people aged 4 to 66 with acquired hypothalamic obesity, 52 weeks (N Engl J Med).",
+      "finding": "BMI changed -16.5% with setmelanotide versus +3.3% with placebo; hunger scores improved more. Serious adverse events occurred in 28% versus 8%; skin hyperpigmentation, nausea, vomiting and headache were common. Funded by Rhythm Pharmaceuticals."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

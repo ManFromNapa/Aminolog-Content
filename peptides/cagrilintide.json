@@ -1,0 +1,110 @@
+{
+  "id": "cagrilintide",
+  "name": "Cagrilintide",
+  "aliases": [
+    "CagriSema (cagrilintide plus semaglutide)",
+    "NNC0174-0833"
+  ],
+  "regulatory_status": "investigational",
+  "used_for": "Long-acting amylin analogue studied for weight management, alone and as a fixed-dose combination with semaglutide (CagriSema) in obesity and type 2 diabetes. Not FDA-approved. Novo Nordisk announced that it submitted a New Drug Application for CagriSema to the FDA on 18 December 2025 (company press release); no FDA approval was found in Drugs@FDA or DailyMed when this entry was reviewed, so it is treated as investigational pending the FDA decision. Cagrilintide on its own has no submission found.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Once-weekly subcutaneous cagrilintide at 0.3, 0.6, 1.2, 2.4 or 4.5 mg was studied for 26 weeks, with up to 6 weeks of dose escalation.",
+        "population": "Adults without diabetes with overweight or obesity (phase 2 trial)",
+        "citation_id": "pmid-34798060"
+      },
+      {
+        "text": "Once-weekly subcutaneous cagrilintide 2.4 mg plus semaglutide 2.4 mg (CagriSema) was studied for 68 weeks alongside lifestyle intervention.",
+        "population": "Adults with overweight or obesity, without diabetes (REDEFINE 1, phase 3)",
+        "citation_id": "pmid-40544433"
+      },
+      {
+        "text": "Once-weekly cagrilintide 2.4 mg plus semaglutide 2.4 mg was studied for 68 weeks alongside lifestyle intervention.",
+        "population": "Adults with overweight or obesity and type 2 diabetes (REDEFINE 2, phase 3)",
+        "citation_id": "pmid-40544432"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "Hubmeded, an education company for aesthetic clinicians, describes cagrilintide as a promising satiety peptide with 5 to 10 percent weight loss alone and up to about 15 percent with semaglutide, while stating it is not yet FDA-approved and still investigational.",
+      "source_type": "website",
+      "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Swolverine, a supplement retailer, says cagrilintide reduces appetite and works especially well with GLP-1 drugs, but is not available as a prescription and not legally available through research peptide suppliers.",
+      "source_type": "website",
+      "url": "https://swolverine.com/blogs/blog/cagrilintide-benefits-dosage-and-weight-loss-potential-explained",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-34798060",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34798060",
+      "year": 2021,
+      "summary": "Phase 2 dose-finding trial of once-weekly cagrilintide (0.3 to 4.5 mg) versus placebo and liraglutide 3.0 mg for 26 weeks in 706 adults with overweight or obesity (Lancet; NCT03856047).",
+      "finding": "All cagrilintide doses lowered weight more than placebo (6.0% to 10.8% versus 3.0%); 4.5 mg beat liraglutide (10.8% vs 9.0%). Gastrointestinal events were more common with cagrilintide (41 to 63% vs 32%). Short, funded by the manufacturer."
+    },
+    {
+      "id": "pmid-37364590",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37364590",
+      "year": 2023,
+      "summary": "Phase 2, 32-week trial in 92 US adults with type 2 diabetes comparing CagriSema, semaglutide and cagrilintide (all 2.4 mg weekly) (Lancet; NCT04982575).",
+      "finding": "HbA1c fell 2.2 points with CagriSema, 1.8 with semaglutide and 0.9 with cagrilintide; CagriSema beat cagrilintide but not semaglutide on HbA1c (p=0.075). Small trial."
+    },
+    {
+      "id": "pmid-40544433",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40544433",
+      "year": 2025,
+      "summary": "REDEFINE 1: 68-week phase 3 trial of 3,417 adults with overweight or obesity without diabetes comparing CagriSema, semaglutide, cagrilintide and placebo (N Engl J Med; NCT05567796).",
+      "finding": "Weight change was -20.4% with CagriSema versus -3.0% with placebo. Gastrointestinal adverse events affected 79.6% with CagriSema versus 39.9% with placebo, mostly mild to moderate. Funded by Novo Nordisk."
+    },
+    {
+      "id": "pmid-40544432",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40544432",
+      "year": 2025,
+      "summary": "REDEFINE 2: 68-week phase 3 trial of 1,206 adults with obesity and type 2 diabetes comparing CagriSema with placebo (N Engl J Med; NCT05394519).",
+      "finding": "Weight change was -13.7% with CagriSema versus -3.4% with placebo; 73.5% reached HbA1c of 6.5% or less versus 15.9%. Gastrointestinal events were 72.5% versus 34.4%."
+    },
+    {
+      "id": "pmid-42251859",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42251859",
+      "year": 2026,
+      "summary": "REIMAGINE 2: 68-week phase 3 trial in people with type 2 diabetes and overweight or obesity on metformin comparing CagriSema with semaglutide or cagrilintide (Lancet Diabetes Endocrinol; NCT06065540).",
+      "finding": "CagriSema 2.4 mg each lowered HbA1c more than semaglutide 2.4 mg (-1.91 vs -1.75 points, difference -0.16). Adverse events were mostly gastrointestinal."
+    },
+    {
+      "id": "fda-warning-prime-sciences-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prime-sciences-721805-03312026",
+      "year": 2026,
+      "summary": "FDA warning letter dated 31 March 2026 to Prime Sciences.",
+      "finding": "The letter lists cagrilintide and mazdutide, among other products, as unapproved new drugs offered for sale for human use despite laboratory-research-only labeling."
+    },
+    {
+      "id": "fda-warning-xcel-2024",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/xcel-research-llc-694608-12102024",
+      "year": 2024,
+      "summary": "FDA warning letter dated 10 December 2024 to Xcel Research LLC.",
+      "finding": "The letter lists cagrilintide, a cagrilintide-semaglutide product, survodutide and mazdutide, among others, as unapproved new drugs sold with research-use-only labels despite evidence of human drug use."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

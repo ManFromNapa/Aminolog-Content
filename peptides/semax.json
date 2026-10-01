@@ -1,0 +1,98 @@
+{
+  "id": "semax",
+  "name": "Semax",
+  "aliases": [
+    "ACTH(4-7)PGP",
+    "Met-Glu-His-Phe-Pro-Gly-Pro",
+    "MEHFPGP"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic seven-amino-acid peptide derived from an ACTH fragment, developed in Russia. A secondary source (an encyclopedia page, not an official register) says it is on Russia's list of vital and essential drugs and is used there for conditions such as stroke; the same source says it is not FDA approved in the US. It is promoted online as a focus and memory aid. The human evidence found is small and Russian, with one non-placebo-controlled stroke-rehabilitation study; most other work is in rodents and cell models.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Two courses of 6000 mcg per day for 10 days each, with a 20-day gap, were given in a stroke rehabilitation study (administration route not stated in the abstract). The study was not placebo-controlled.",
+        "population": "110 adults after ischemic stroke",
+        "citation_id": "pmid-29798983"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A Superpower guide says Semax is a Russian-developed peptide that may raise BDNF and NGF and may help stroke recovery and cognition, but notes the largest human study (110 stroke patients) was non-randomized and not placebo-controlled, and that it is not FDA approved.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/semax",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Swolverine, a supplement retailer's blog, presents Semax as a focus-enhancing peptide that raises BDNF and cites Russian clinical data as support; the page is informational and does not sell Semax.",
+      "source_type": "website",
+      "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Nuusflits says Semax and Selank remain registered drugs in Russia but that the FDA has never reviewed them, and says FDA moved them to Category 1 for compounding in February 2026. The FDA page consulted instead lists them as nominated but withdrawn, so this claim could not be confirmed.",
+      "source_type": "website",
+      "url": "https://nuusflits.com/peptides-russia-fda-regulation-2026/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-29798983",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "29798983",
+      "year": 2018,
+      "summary": "Russian study (Zh Nevrol Psikhiatr Im S S Korsakova) of 110 patients after ischemic stroke, split by early or late rehabilitation and by whether they received Semax. Not randomized or placebo-controlled as described.",
+      "finding": "Patients given Semax had higher blood BDNF levels and the authors report faster functional recovery on the Barthel index and better motor performance. Because groups were not placebo-controlled, this cannot show that Semax caused the improvement."
+    },
+    {
+      "id": "pmid-32342318",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "32342318",
+      "year": 2020,
+      "summary": "Small brain-imaging study (Dokl Biol Sci) comparing resting-state fMRI connectivity before and after an injection of Semax, Selank or placebo in volunteers.",
+      "finding": "Differences in connectivity between the right amygdala and right temporal regions were found after Semax and Selank. This is a brain-activity measure, not evidence of a clinical benefit."
+    },
+    {
+      "id": "pmid-33418449",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "33418449",
+      "year": 2021,
+      "summary": "Rat study (Neuropeptides) of whether Semax could reverse behavioral and brain chemistry changes caused by early-life exposure to the antidepressant fluvoxamine.",
+      "finding": "Semax reduced anxiety-like behavior, improved maze learning and normalized brain monoamine levels in the rats. Rat results do not establish effects in people."
+    },
+    {
+      "id": "pmid-40692165",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "40692165",
+      "year": 2025,
+      "summary": "Mouse and cell study (Br J Pharmacol) of Semax after spinal cord injury in female mice, plus a PC12 cell model.",
+      "finding": "Semax improved functional recovery in the injured mice and reduced markers of cell death in the models; the authors link this to the mu-opioid receptor. Animal and cell evidence only."
+    },
+    {
+      "id": "pmid-35080861",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "35080861",
+      "year": 2022,
+      "summary": "Laboratory study (ACS Chem Neurosci) of Semax in artificial membrane models with amyloid beta and copper.",
+      "finding": "Semax reduced copper-driven amyloid beta aggregation and related toxicity in test-tube models. It is not evidence for any effect in Alzheimer's disease in people."
+    },
+    {
+      "id": "fda-bulks-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "The page lists Semax among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing semax (heptapeptide) may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The page does not make it an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

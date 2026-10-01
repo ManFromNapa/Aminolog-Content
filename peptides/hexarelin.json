@@ -1,0 +1,116 @@
+{
+  "id": "hexarelin",
+  "name": "Hexarelin",
+  "aliases": [
+    "Examorelin",
+    "HEX",
+    "Hexarelin acetate"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor. It has no approved medical use in the US and no FDA label. It is promoted online for muscle, fat loss, recovery and heart protection. Human research is limited to small, short studies from the late 1990s and 2000s (hormone responses in healthy volunteers and acute heart-function studies); the heart-protection findings mostly come from animals.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "1.5 micrograms per kg subcutaneously two or three times in one day, then 1 microgram per kg intravenously at the end of each 24-hour sampling period. Single-day exposure only.",
+        "population": "Six healthy young men",
+        "citation_id": "pmid-11888836"
+      },
+      {
+        "text": "Four doses of 50 micrograms at hourly intervals from 22:00 to 01:00 versus placebo (the route is not stated in the abstract).",
+        "population": "Seven healthy young volunteers",
+        "citation_id": "pmid-15177700"
+      },
+      {
+        "text": "A single intravenous dose of 2.0 micrograms per kg during bypass surgery.",
+        "population": "24 men with coronary artery disease",
+        "citation_id": "pmid-12144941"
+      },
+      {
+        "text": "Animal study only, not human data: 0.3 mg per kg per day for 21 days after induced heart attack.",
+        "population": "Mice",
+        "citation_id": "pmid-29756411"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A telehealth company's article says hexarelin is marketed for energy, muscle, recovery and body composition, but argues the research is limited and does not support most of those claims, and says its sleep study showed less deep sleep and higher cortisol.",
+      "source_type": "website",
+      "url": "https://www.joinmidi.com/post/hexarelin",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A sports-medicine clinic's peptide library page presents hexarelin as promoting lean muscle, fat metabolism, cardiovascular function and anti-inflammatory effects, and invites readers to book a consultation.",
+      "source_type": "website",
+      "url": "https://www.paragonsportsmedicine.com/peptides/hexarelin",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-11888836",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "11888836",
+      "year": 2002,
+      "summary": "Six healthy young men received hexarelin by subcutaneous injection two or three times in a day, with 24-hour blood sampling (Eur J Endocrinol).",
+      "finding": "Growth hormone output rose to the same extent with two or three injections, and a later intravenous dose produced a blunted growth hormone response, which fits desensitization. IGF-I did not change after this one-day schedule. Tiny, one-day study."
+    },
+    {
+      "id": "pmid-15177700",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15177700",
+      "year": 2004,
+      "summary": "Placebo-controlled study of hexarelin during sleep in seven healthy young volunteers (Psychoneuroendocrinology).",
+      "finding": "Hexarelin raised growth hormone, prolactin, ACTH and cortisol, and reduced deep (stage 4) sleep and delta-wave activity, so sleep was worse after the peptide. Very small study."
+    },
+    {
+      "id": "pmid-9285939",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9285939",
+      "year": 1997,
+      "summary": "Comparison of intravenous hexarelin and GHRP-2 with GHRH in six young and six elderly healthy people (Peptides).",
+      "finding": "Hexarelin and GHRP-2 produced similar, strong growth hormone responses, larger than GHRH, but also raised prolactin, ACTH and cortisol, so the effect is not specific to growth hormone."
+    },
+    {
+      "id": "pmid-12144941",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "12144941",
+      "year": 2002,
+      "summary": "Randomized comparison of single intravenous hexarelin, GHRH, growth hormone or placebo in 24 men with coronary artery disease during bypass surgery (Eur J Pharmacol).",
+      "finding": "Hexarelin transiently increased ejection fraction and cardiac output for up to 90 minutes and raised mean arterial pressure, while the other agents did not. These are acute measurements under anesthesia, not evidence of treatment benefit."
+    },
+    {
+      "id": "pmid-11959048",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "11959048",
+      "year": 2002,
+      "summary": "Acute intravenous hexarelin in 13 patients with severe left ventricular dysfunction, compared with healthy and growth-hormone-deficient people (Eur J Heart Fail).",
+      "finding": "Ejection fraction rose in patients with ischemic cardiomyopathy but not in those with dilated cardiomyopathy, despite similar growth hormone release. Small, acute study."
+    },
+    {
+      "id": "pmid-14669829",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "14669829",
+      "year": 2003,
+      "summary": "Cell-culture study of the ghrelin receptor exposed to hexarelin (J Endocrinol Invest).",
+      "finding": "The cells' calcium response to hexarelin faded within minutes of the first dose, showing rapid receptor desensitization. Cell-culture evidence only."
+    },
+    {
+      "id": "pmid-29756411",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "29756411",
+      "year": 2018,
+      "summary": "Mouse heart-attack model treated with hexarelin or vehicle for 21 days (Physiol Rep).",
+      "finding": "Treated mice had better heart function and less scarring than vehicle mice. Findings in mice do not show the same effect in people."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

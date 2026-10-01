@@ -1,0 +1,50 @@
+{
+  "id": "afamelanotide",
+  "name": "Afamelanotide",
+  "aliases": [
+    "Scenesse",
+    "Melanotan I",
+    "NDP-MSH"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled (Scenesse) to increase pain-free light exposure in adults with a history of phototoxic reactions from erythropoietic protoporphyria (EPP). It is a melanocortin 1 receptor agonist supplied as a subcutaneous implant, not an injection, placed by a trained health care professional. It has no FDA-approved use for tanning; products sold online as melanotan are not the approved implant.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Labeled dosing: a single 16 mg implant inserted subcutaneously above the anterior supra-iliac crest by a trained health care professional every 2 months, using the supplied cannula. The label says to maintain sun and light protection measures during treatment.",
+        "population": "Adults with erythropoietic protoporphyria (EPP) per the Scenesse label",
+        "citation_id": "fda-scenesse-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A Superpower guide says afamelanotide is approved only for EPP, has no approved cosmetic tanning indication, can darken moles, and that online 'Melanotan I' products are not the pharmaceutical-grade implant. The company says it does not sell or prescribe the drug.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/melanotan-1",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-scenesse-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Scenesse (afamelanotide) implant (Clinuvel), published May 2026.",
+      "finding": "Approved to increase pain-free light exposure in adults with EPP; one 16 mg implant every 2 months; warnings for hypersensitivity (including anaphylaxis) and darkening of moles, with twice-yearly skin exams advised."
+    },
+    {
+      "id": "langendonk-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26132941",
+      "year": 2015,
+      "summary": "Two randomized placebo-controlled trials (US and EU) of afamelanotide implants in people with erythropoietic protoporphyria (Langendonk et al., N Engl J Med).",
+      "finding": "Median pain-free time in sunlight was 69.4 vs 40.8 hours (US, 6 months) and 6.0 vs 0.8 hours (EU, 9 months); phototoxic reactions were fewer in the EU trial; quality of life improved. Adverse events were mostly mild. Funded by the manufacturer and others."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

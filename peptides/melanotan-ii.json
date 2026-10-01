@@ -1,0 +1,116 @@
+{
+  "id": "melanotan-ii",
+  "name": "Melanotan II",
+  "aliases": [
+    "MT-II",
+    "MT2",
+    "Melanotan 2",
+    "Barbie drug",
+    "CTY-2"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic cyclic peptide related to alpha-MSH that darkens skin and affects sexual function and appetite. It has no FDA-approved use and is sold online as an injectable or nasal tanning product. Published human studies are a handful of very small trials from the 1990s and 2000s (tanning, nausea and spontaneous erections in three men; erection studies in ten men each). A phase 2 vitiligo trial is registered in China but has no results.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "0.01 mg/kg subcutaneous injections Monday to Friday for two weeks, escalated by 0.005 mg/kg to 0.025 or 0.03 mg/kg, in an alternating-day placebo design. The authors proposed 0.025 mg/kg/day for future phase I studies.",
+        "population": "Three healthy adult men",
+        "citation_id": "pmid-8637402"
+      },
+      {
+        "text": "A single subcutaneous injection of 0.025 mg/kg versus placebo, with erections monitored for six hours.",
+        "population": "Ten men with psychogenic erectile dysfunction",
+        "citation_id": "pmid-9679884"
+      },
+      {
+        "text": "0.025 mg/kg subcutaneously, given twice versus vehicle twice, in a crossover design.",
+        "population": "Ten men with erectile dysfunction with organic risk factors",
+        "citation_id": "pmid-11018622"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "The Skin Cancer Foundation warns that Melanotan II is unapproved and unregulated, linked to serious risks including melanoma and muscle damage, and urges sunless tanners instead.",
+      "source_type": "website",
+      "url": "https://www.skincancer.org/press/the-skin-cancer-foundation-issues-warning-regarding-melanotan-ii/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A dermatology practice says tan injections are unapproved, unregulated and risky (nausea, mole changes, sexual side effects, possible melanoma links), and recommends DHA self-tanners or spray tans.",
+      "source_type": "website",
+      "url": "https://www.westlakedermatology.com/trends/melanotan-II/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "The Peptide Catalog says Melanotan-2 darkens skin and raises sexual arousal through two receptor types and may suppress appetite, while advising a skin check; the site is an affiliate marketplace linking to suppliers and discount codes.",
+      "source_type": "website",
+      "url": "https://thepeptidecatalog.com/articles/melanotan-2-benefits",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A clinic's blog says Melanotan II supports tanning, immune modulation, appetite control and sexual function, notes it is not FDA approved, and says it is offered only to the clinic's own patients.",
+      "source_type": "website",
+      "url": "https://revolutionhealth.org/blogs/news/peptide-therapy-melanotan-ii",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-8637402",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8637402",
+      "year": 1996,
+      "summary": "Pilot phase I study (Life Sci) in three healthy men given subcutaneous Melanotan II or saline on alternate days for two weeks.",
+      "finding": "Two of three men had increased skin pigmentation. Side effects included nausea at most doses, stretching and yawning, spontaneous penile erections lasting 1-5 hours, and Grade II somnolence and fatigue in one man at 0.03 mg/kg. Three people is far too few to judge safety."
+    },
+    {
+      "id": "pmid-9679884",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9679884",
+      "year": 1998,
+      "summary": "Double-blind, placebo-controlled crossover study (J Urol) in ten men with psychogenic erectile dysfunction.",
+      "finding": "Erections developed in 8 of 10 men after Melanotan II, versus little with placebo. Nausea, stretching and yawning and reduced appetite were more frequent than with placebo. Very small and short; it does not establish long-term safety."
+    },
+    {
+      "id": "pmid-11018622",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "11018622",
+      "year": 2000,
+      "summary": "Double-blind, placebo-controlled crossover study (Urology) in ten men with erectile dysfunction and organic risk factors.",
+      "finding": "Erections were reported after 12 of 19 Melanotan II injections versus 1 of 21 placebo doses, and sexual desire was higher. Nausea and yawning were more frequent, and 4 of 19 injections caused severe nausea."
+    },
+    {
+      "id": "nct-07437560",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT07437560",
+      "year": 2026,
+      "summary": "Registered phase 2, randomized, placebo-controlled trial (sponsor Hudson Biotech, site in Shenzhen, China) of Melanotan II added to narrowband UVB phototherapy in stable nonsegmental vitiligo; 60 participants planned; recruiting when checked.",
+      "finding": "No results are posted, and the record does not state doses. It is registered in China, not in a US pipeline, so it does not make Melanotan II investigational in the US."
+    },
+    {
+      "id": "fda-warning-letter-2007",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/regulatory-information/electronic-reading-room/notice-opportunity-hearing-nooh-manookian-edward-8516",
+      "year": 2016,
+      "summary": "FDA electronic reading room page (a 2016 notice of opportunity for hearing) that discusses an August 2007 FDA warning letter to a company marketing Melanotan II.",
+      "finding": "The page says FDA treated Melanotan II as an unapproved new drug that could not be shipped across state lines without an approved application, and that the company had made unsubstantiated claims such as reducing skin cancer rates and curing rosacea."
+    },
+    {
+      "id": "fda-bulks-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "The page lists Melanotan II among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing Melanotan II may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. Published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.\" The page does not make it an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

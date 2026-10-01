@@ -1,0 +1,107 @@
+{
+  "id": "selank",
+  "name": "Selank",
+  "aliases": [
+    "TP-7",
+    "Selank acetate",
+    "tuftsin analog heptapeptide"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic heptapeptide derived from tuftsin, developed in Russia and studied there as an anti-anxiety peptide. A 2021 pharmacology review (PubMed abstract) calls it a poorly studied Russian drug sold to US consumers as a dietary supplement. No official Russian register was consulted, so Russian approval is not confirmed here. It is promoted online for anxiety and focus. The human evidence found is a few small Russian comparisons with benzodiazepines, mostly not placebo-controlled as described; most other work is in rodents.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Animal study only, not human data: a single intraperitoneal injection of 0.3 mg/kg (described as an anxiolytic dose) was given before testing for morphine withdrawal signs.",
+        "population": "Rats made morphine-dependent",
+        "citation_id": "pmid-36322304"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "PeakedLabs says Selank has strong human trial data showing anxiety relief comparable to benzodiazepines without sedation or tolerance, acting through BDNF, serotonin and enkephalin pathways; the site is an affiliate and referral platform to compounding pharmacies and telehealth providers.",
+      "source_type": "website",
+      "url": "https://peakedlabs.com/blog/selank-peptide-anxiety",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Psychreg says early Russian research hints at anti-anxiety effects but is limited to small studies from one research tradition without large independent replication, notes it lacks FDA approval, and cautions against replacing proven anxiety treatment with it.",
+      "source_type": "website",
+      "url": "https://www.psychreg.org/can-peptide-ease-anxiety-what-research-selank-shows/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Swolverine, a supplement retailer's blog, describes Selank as a GABA-modulating peptide that reduces stress without sedation, citing Russian clinical data; the page is informational and does not sell it.",
+      "source_type": "website",
+      "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-18454096",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18454096",
+      "year": 2008,
+      "summary": "Russian study (Zh Nevrol Psikhiatr Im S S Korsakova) of 62 patients with generalized anxiety disorder and neurasthenia comparing Selank (30 patients) with medazepam (32 patients).",
+      "finding": "The anxiolytic effects of the two were reported as similar, with Selank also showing anti-asthenic and psychostimulant effects. The abstract does not describe blinding or placebo control, and it is a small single-country study."
+    },
+    {
+      "id": "pmid-25176261",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25176261",
+      "year": 2014,
+      "summary": "Russian comparative study (Zh Nevrol Psikhiatr Im S S Korsakova) of Selank versus phenazepam in 60 patients with phobic-anxiety and somatoform disorders.",
+      "finding": "The authors report a clear anxiety-reducing effect and mild nootropic effect, lasting about a week after the last dose. The abstract gives no detail on blinding, doses or numbers per group, so the strength of the result is unclear."
+    },
+    {
+      "id": "pmid-26356395",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26356395",
+      "year": 2015,
+      "summary": "Russian study (Zh Nevrol Psikhiatr Im S S Korsakova) comparing phenazepam alone (30 patients) with Selank plus phenazepam (40 patients) in anxiety disorders.",
+      "finding": "Adding Selank was associated with an earlier effect on a depression-anxiety scale and fewer phenazepam side effects. It is an add-on comparison without a placebo, so it does not show Selank works by itself."
+    },
+    {
+      "id": "pmid-32342318",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "32342318",
+      "year": 2020,
+      "summary": "Small brain-imaging study (Dokl Biol Sci) comparing resting-state fMRI connectivity before and after an injection of Selank, Semax or placebo in volunteers.",
+      "finding": "Connectivity differences between the right amygdala and right temporal regions were found. This is a brain-activity measure, not evidence of a clinical benefit."
+    },
+    {
+      "id": "pmid-36322304",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "36322304",
+      "year": 2022,
+      "summary": "Rat study (Bull Exp Biol Med) of Selank in naloxone-precipitated morphine withdrawal, compared with diazepam.",
+      "finding": "Selank reduced a withdrawal index by about 40 percent, slightly less than diazepam (about 49 percent). Rat result only."
+    },
+    {
+      "id": "pmid-28280289",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "28280289",
+      "year": 2017,
+      "summary": "Rat study (Behav Neurol) of Selank and diazepam alone and together on anxiety in an elevated plus maze under chronic mild stress.",
+      "finding": "Selank alone was most effective against anxiety raised by the course of test substances, and the combination worked best under chronic stress. Animal evidence only."
+    },
+    {
+      "id": "fda-bulks-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "The page lists Selank acetate (TP-7) among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing selank acetate may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The page does not make it an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

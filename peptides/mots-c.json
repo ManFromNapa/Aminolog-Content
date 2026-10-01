@@ -1,0 +1,96 @@
+{
+  "id": "mots-c",
+  "name": "MOTS-c",
+  "aliases": [
+    "Mitochondrial open reading frame of the 12S rRNA-c",
+    "Mitochondrial-derived peptide MOTS-c"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A 16-amino-acid peptide encoded in mitochondrial DNA, studied mostly in cells and rodents for insulin sensitivity, obesity, exercise capacity and aging. Online it is promoted for fat loss, energy and longevity. Human data is mostly measurements of natural MOTS-c blood levels; one early-stage injection trial is registered in China and has no results.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Animal study only, not human data: a single 15 mg/kg dose of MOTS-c improved running time and distance in an acute exercise test in untrained mice.",
+        "population": "Untrained mice",
+        "citation_id": "pmid-35808870"
+      },
+      {
+        "text": "A registered Phase 2a trial lists a fixed once-daily subcutaneous dose for 12 weeks versus placebo; the registry record does not state the dose amount, and no results are posted.",
+        "population": "Planned: adults 18 to 65 with prediabetes and overweight or obesity",
+        "citation_id": "nct-07505745"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A clinic's educational page says MOTS-c reduces abdominal fat, improves insulin sensitivity, boosts endurance and supports longevity, and mentions physician-supervised use while noting it is not FDA-approved.",
+      "source_type": "website",
+      "url": "https://revolutionhealth.org/blogs/news/peptide-therapy-mots-c",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A McGill University Office for Science and Society article says MOTS-c extended lifespan and improved metabolism in mice, but argues the hype among biohackers and influencers outruns the human evidence.",
+      "source_type": "website",
+      "url": "https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/injections-mots-c-can-make-you-live-longer-if-you-are-mouse",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-25738459",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "25738459",
+      "year": 2015,
+      "summary": "Foundational paper (Cell Metab) identifying MOTS-c and testing it in cultured cells and mice, including mice on a high-fat diet. Some authors were later associated with a company developing related peptides.",
+      "finding": "MOTS-c treatment prevented age-dependent and high-fat-diet-induced insulin resistance and diet-induced obesity in mice, acting mainly on skeletal muscle via AMPK. Mouse data only."
+    },
+    {
+      "id": "pmid-33473109",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "33473109",
+      "year": 2021,
+      "summary": "Study (Nat Commun) of MOTS-c in young, middle-aged and old mice, plus a human measurement of MOTS-c after exercise. The authors disclosed ties to CohBar, Inc.",
+      "finding": "MOTS-c improved physical performance in mice of all ages, and late-life intermittent treatment increased physical capacity and healthspan in mice. In humans, exercise raised the body's own MOTS-c in muscle and blood; people were not given the peptide."
+    },
+    {
+      "id": "pmid-35808870",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "35808870",
+      "year": 2022,
+      "summary": "Rodent study (Physiol Rep) of MOTS-c levels after running and of a single MOTS-c dose before an exercise test.",
+      "finding": "Running raised muscle MOTS-c in rodents, and one 15 mg/kg dose increased running time by about 12% and distance by about 15% in untrained mice. Single dose, animals only."
+    },
+    {
+      "id": "pmid-34413391",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34413391",
+      "year": 2021,
+      "summary": "Secondary analysis (Sci Rep) of a randomized exercise trial in 49 breast cancer survivors measuring natural MOTS-c in blood after 16 weeks of exercise. Authors disclosed a CohBar consulting tie.",
+      "finding": "Blood MOTS-c rose after exercise in non-Hispanic White survivors but not in Hispanic survivors. No MOTS-c was administered, so it says nothing about injected MOTS-c."
+    },
+    {
+      "id": "nct-07505745",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT07505745",
+      "year": 2026,
+      "summary": "Registered Phase 2a randomized, double-blind, placebo-controlled trial of daily subcutaneous MOTS-c for 12 weeks in about 120 adults with prediabetes and overweight or obesity, sponsored by Hudson Biotech. Listed as recruiting at one site in Shenzhen, China; the record states it is not an FDA-regulated drug study.",
+      "finding": "No results exist yet (primary completion estimated 2027). It is the only registered MOTS-c injection trial found in ClinicalTrials.gov, and it is not a US pipeline trial."
+    },
+    {
+      "id": "fda-compounding-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "On the fetched page MOTS-c appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing MOTS-c may pose a significant risk of immunogenicity for certain routes of administration. The page does not describe an approved product."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

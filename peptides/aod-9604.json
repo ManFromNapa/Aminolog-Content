@@ -1,0 +1,90 @@
+{
+  "id": "aod-9604",
+  "name": "AOD-9604",
+  "aliases": [
+    "AOD9604",
+    "hGH fragment 177-191 (modified)",
+    "Tyr-hGH 177-191",
+    "anti-obesity drug 9604"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A modified fragment of human growth hormone (residues 177-191) promoted online for fat loss. It was developed by the Australian company Metabolic Pharmaceuticals as an obesity drug. Web pages (for example Superpower and Peptide Library) describe a 24-week phase 2b trial of 536 people that found no significant weight loss versus placebo, with development dropped around 2007. That trial was not found in searches of ClinicalTrials.gov or PubMed, so these details rest on secondary sources. A 2013 paper by the developer's team (J Endocrinol Metab, not found in PubMed) reports six placebo-controlled trials in about 893 obese adults with a safety profile similar to placebo, and states a private expert panel judged it generally recognized as safe (GRAS) for food use. A search of FDA's GRAS Notice Inventory for AOD9604 on 2026-09-30 returned no records, and no FDA approval exists. Animal studies show weight-gain reduction in obese rodents.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Animal study only, not human data: 500 micrograms per kg body weight daily by mouth for 19 days reduced weight gain by over 50 percent compared with controls.",
+        "population": "Obese Zucker rats",
+        "citation_id": "pmid-11146367"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "Honest Peptide describes AOD-9604 as a growth hormone fragment that triggers fat breakdown without growth-promoting effects, while acknowledging human trials failed to show significant weight loss; the site sells AOD-9604 products for research use.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Superpower's guide says AOD-9604 reduced fat in rodent studies but failed a 24-week, 536-person phase 2b trial, has no FDA-approved use, and is on FDA's restricted compounding list; the page sells biomarker testing, not the peptide.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/aod-9604",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Peptide Library says AOD-9604 failed its pivotal trial with no significant weight loss at any dose, is safe but largely ineffective, and that most users notice little; it is an educational site that does not sell products.",
+      "source_type": "website",
+      "url": "https://peptidelibrary.io/aod-9604/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-11146367",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11146367",
+      "year": 2000,
+      "summary": "Rat study (Horm Res) of oral AOD9604 in obese Zucker rats for 19 days.",
+      "finding": "Treated rats gained over half as little weight, had more lipolytic activity in fat tissue, and no worsening of insulin sensitivity. The authors suggested potential for obesity treatment; this was rats only."
+    },
+    {
+      "id": "pmid-11673763",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11673763",
+      "year": 2001,
+      "summary": "Mouse study (Int J Obes) of human growth hormone and AOD9604 given for 14 days to obese and lean mice, with cell assays.",
+      "finding": "AOD9604 reduced weight gain and raised fat oxidation in obese mice without causing high blood sugar, and did not bind the growth hormone receptor. Mouse and cell evidence only."
+    },
+    {
+      "id": "pmid-11713213",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11713213",
+      "year": 2001,
+      "summary": "Mouse study (Endocrinology) of hGH and AOD9604 in obese mice and mice lacking the beta-3 adrenergic receptor.",
+      "finding": "Both reduced body weight and fat in obese mice over 14 days; effects were lost in knockout mice, so the mechanism is not direct receptor action. Animal evidence only."
+    },
+    {
+      "id": "pmid-26275694",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "26275694",
+      "year": 2015,
+      "summary": "Rabbit study (Ann Clin Lab Sci) of knee injections of AOD9604, with or without hyaluronic acid, in collagenase-induced osteoarthritis.",
+      "finding": "AOD9604 improved cartilage scores, with the combination working better than either alone. Rabbit model only; it says nothing about human joints."
+    },
+    {
+      "id": "fda-bulks-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "The page lists AOD-9604 among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing AOD-9604 may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization.\" The page does not make it an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

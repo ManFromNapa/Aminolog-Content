@@ -1,0 +1,131 @@
+{
+  "id": "ll-37",
+  "name": "LL-37",
+  "aliases": [
+    "Cathelicidin LL-37",
+    "hCAP18 (LL-37)",
+    "human cathelicidin antimicrobial peptide"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "LL-37 is the active fragment of the human cathelicidin protein, part of innate immune defense. It has been studied as a topical treatment for chronic leg ulcers (early trials showed mixed results) and in one tiny melanoma injection study. It is promoted online for immunity, infection and healing, including by injection, for which no published human trial was found.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Topical LL-37 applied twice weekly for 4 weeks at 0.5, 1.6 or 3.2 mg/mL versus placebo. Healing improved at the 0.5 and 1.6 mg/mL concentrations but not at 3.2 mg/mL (small trial).",
+        "population": "34 adults with hard-to-heal venous leg ulcers",
+        "citation_id": "pmid-25041740"
+      },
+      {
+        "text": "Topical LL-37 at 0.5 or 1.6 mg/mL with compression therapy versus placebo; no significant overall benefit was found.",
+        "population": "148 adults with hard-to-heal venous leg ulcers",
+        "citation_id": "pmid-34687253"
+      },
+      {
+        "text": "Registered trial design: LL-37 cream 0.5 mg/mL twice weekly for 4 weeks versus placebo cream; no results are posted.",
+        "population": "Planned 40 adults with diabetic foot ulcers (Indonesia)",
+        "citation_id": "nct-04098562"
+      },
+      {
+        "text": "Registered trial: LL-37 injected into tumors, starting at 250 micrograms per tumor once weekly for up to 8 weeks, with a second cohort at 500 micrograms per tumor.",
+        "population": "Adults with melanoma (3 participants started)",
+        "citation_id": "nct-02225366"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A peptide-guide site (which also sells a paid guide) presents LL-37 as an immune, anti-infective and wound-healing peptide used off-label through compounding pharmacies, while stating that the evidence is mostly preclinical and the best human data is for wounds.",
+      "source_type": "website",
+      "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A supplement retailer blog presents LL-37 for beginners as an immune, anti-infective and healing peptide that can be stacked with BPC-157 or TB-500, with dosing tips, and says it is sold for research use and is not FDA-approved. The page is on a store site.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A health-testing company guide says LL-37 is not FDA-approved, is available only through compounding, that the best human data is topical wound trials (a phase IIb study), and that LL-37 can also drive disease in rosacea, autoimmune conditions and some cancers.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/ll-37",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-25041740",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25041740",
+      "year": 2014,
+      "summary": "First-in-human randomized, placebo-controlled trial (Wound Repair Regen) of topical LL-37 (0.5, 1.6 or 3.2 mg/mL, twice weekly for 4 weeks) in 34 people with hard-to-heal venous leg ulcers.",
+      "finding": "Healing rate was higher with 0.5 and 1.6 mg/mL than placebo, with no safety concerns, but the 3.2 mg/mL group did not differ from placebo. The trial was small and company-sponsored."
+    },
+    {
+      "id": "pmid-34687253",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34687253",
+      "year": 2021,
+      "summary": "Phase IIb randomized, placebo-controlled trial (Wound Repair Regen) of topical LL-37 (0.5 or 1.6 mg/mL) plus compression in 148 people with hard-to-heal venous leg ulcers.",
+      "finding": "The main analysis found no significant improvement in healing compared with placebo. A post hoc (after the fact) analysis found improvement in some subgroups, which is hypothesis-generating only."
+    },
+    {
+      "id": "nct-02225366",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT02225366",
+      "year": 2015,
+      "summary": "Phase 1/2 study at MD Anderson Cancer Center of LL-37 injected into melanoma tumors once weekly for up to 8 weeks, completed 2020; results posted 2021.",
+      "finding": "The record lists only 3 participants started in two dose cohorts (250 and 500 micrograms per tumor), one withdrew for lack of efficacy, and no serious adverse events were listed. It is far too small to show safety or benefit."
+    },
+    {
+      "id": "nct-04098562",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT04098562",
+      "year": 2019,
+      "summary": "Registered phase 2 randomized trial (University of Indonesia) of LL-37 cream 0.5 mg/mL versus placebo cream in diabetic foot ulcers, planned for 40 patients.",
+      "finding": "No results are posted and the record status is unknown (not updated), so it shows nothing about effectiveness."
+    },
+    {
+      "id": "pmid-12603850",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "12603850",
+      "year": 2003,
+      "summary": "Laboratory study (J Invest Dermatol) of human skin wounds and organ-cultured human skin using LL-37 antibodies.",
+      "finding": "Natural LL-37 was high in healing wounds and missing from the edge of chronic ulcers, and blocking it slowed re-epithelialization in skin culture. This suggests a role in healing but is not a treatment test."
+    },
+    {
+      "id": "pmid-12782669",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "12782669",
+      "year": 2003,
+      "summary": "Study (J Clin Invest) of LL-37 in endothelial cells, a chicken-embryo membrane assay, a rabbit limb-ischemia model and mice lacking the LL-37 counterpart (CRAMP).",
+      "finding": "LL-37 promoted new blood vessel growth in these models, and mice lacking CRAMP had poorer wound vascularization. Animal and cell data only."
+    },
+    {
+      "id": "pmid-36980564",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "36980564",
+      "year": 2023,
+      "summary": "Study (Cancers) of LL-37 in human melanoma tissue, a mouse melanoma model (using the mouse version, CRAMP) and cultured melanoma cells and macrophages.",
+      "finding": "LL-37 staining increased with melanoma stage, and LL-37 increased invasion-linked and blood-vessel-promoting factors in cells and mouse tumors. This raises a theoretical concern that LL-37 could favor tumor spread, shown only in laboratory models."
+    },
+    {
+      "id": "fda-bulk-substances-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "Cathelicidin LL-37 appears in the list of substances nominated but withdrawn (previously category 2). The page says compounded LL-37 may pose immunogenicity risk and peptide impurity concerns, and FDA lacks sufficient safety information. This does not make LL-37 an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

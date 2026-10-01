@@ -1,0 +1,142 @@
+{
+  "id": "kisspeptin",
+  "name": "Kisspeptin",
+  "aliases": [
+    "Kisspeptin-54",
+    "Kisspeptin-10",
+    "Metastin",
+    "kisspeptin 112-121"
+  ],
+  "regulatory_status": "investigational",
+  "used_for": "A natural hypothalamic hormone that triggers release of GnRH and so luteinizing hormone (LH) and FSH. It is studied in academic clinical research on reproductive disorders (hypothalamic amenorrhea, hypogonadotropic hypogonadism), triggering egg maturation in IVF, and sexual desire, mostly in small trials. It is promoted online for libido, testosterone and fertility, though no approved product exists.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Kisspeptin-54 as a single subcutaneous injection at 1.6 to 12.8 nmol/kg to trigger egg maturation after ovarian stimulation (uncontrolled dose-finding).",
+        "population": "53 women undergoing IVF",
+        "citation_id": "pmid-25036713"
+      },
+      {
+        "text": "Kisspeptin-54 as a single subcutaneous injection at 3.2 to 12.8 nmol/kg for egg maturation (randomized dose allocation).",
+        "population": "60 women undergoing IVF at high risk of ovarian hyperstimulation syndrome",
+        "citation_id": "pmid-26192876"
+      },
+      {
+        "text": "Kisspeptin-54 at 9.6 nmol/kg subcutaneously, with a second dose or saline 10 hours later.",
+        "population": "62 women undergoing IVF at high risk of ovarian hyperstimulation syndrome",
+        "citation_id": "pmid-28854728"
+      },
+      {
+        "text": "Kisspeptin-54 at 6.4 nmol/kg by subcutaneous injection twice daily for 2 weeks, versus saline.",
+        "population": "10 women with hypothalamic amenorrhea (5 per group)",
+        "citation_id": "pmid-19820030"
+      },
+      {
+        "text": "Kisspeptin-54 intravenous infusion at 1 nmol/kg per hour for 75 minutes, crossover versus placebo.",
+        "population": "32 premenopausal women with hypoactive sexual desire disorder who completed both visits",
+        "citation_id": "pmid-36287566"
+      },
+      {
+        "text": "Registered trial: kisspeptin (112-121) given subcutaneously in pulses every 60 to 240 minutes for two weeks (exact dose not stated in the summary).",
+        "population": "Planned 36 men and women with idiopathic hypogonadotropic hypogonadism",
+        "citation_id": "nct-05896293"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A functional medicine clinic page promotes kisspeptin therapy as a breakthrough that restores libido, fertility and sex hormones naturally without suppressing the body, and invites readers to book a consultation. It presents the benefits without citing human trials, and the page sells the service.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A telehealth company article says kisspeptin is not a testosterone drug or shortcut to hormone optimisation, that studies show LH rises and sometimes modest testosterone rises, and that most kisspeptin therapy remains in research settings. The company sells peptide protocols.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A retail-pharmacy peptide information page says kisspeptin is not an approved fertility, testosterone or libido treatment, that research-only products are not approved for human use, and that vendor vials differ from FDA-approved medicines in purity and dosing.",
+      "source_type": "website",
+      "url": "https://riteaid.com/peptides/kisspeptin",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-25036713",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25036713",
+      "year": 2014,
+      "summary": "Dose-finding study (J Clin Invest) of a single kisspeptin-54 injection to trigger egg maturation in 53 women having IVF, without a comparison group (registered as NCT01667406).",
+      "finding": "Eggs matured at every dose, 92% of women had embryo transfer, and clinical pregnancy was 23%. There was no control group, so it cannot show kisspeptin works better than standard triggers."
+    },
+    {
+      "id": "pmid-26192876",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26192876",
+      "year": 2015,
+      "summary": "Phase 2 open-label randomized dose study (J Clin Endocrinol Metab) of kisspeptin-54 as an egg-maturation trigger in 60 women at high risk of ovarian hyperstimulation syndrome (OHSS).",
+      "finding": "Eggs matured in 95% of women, no woman developed moderate to critical OHSS, and live birth rate per transfer was 45%. It had no standard-trigger comparison arm."
+    },
+    {
+      "id": "pmid-28854728",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28854728",
+      "year": 2017,
+      "summary": "Phase 2 randomized, blinded trial (Hum Reprod) of one versus two kisspeptin-54 doses in 62 women at high risk of OHSS.",
+      "finding": "A second dose improved the share of women reaching a high oocyte yield (absolute difference 26 points, P = 0.042), with no increase in moderate OHSS. Authors note the need to compare with established triggers."
+    },
+    {
+      "id": "pmid-19820030",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19820030",
+      "year": 2009,
+      "summary": "Randomized, double-blind study (J Clin Endocrinol Metab) of twice-daily kisspeptin-54 injections for 2 weeks in 10 women with hypothalamic amenorrhea.",
+      "finding": "The first dose strongly raised LH and FSH, but the response had mostly vanished by day 14 (tachyphylaxis, loss of effect), and ovarian activity did not change. A key limit for repeated use."
+    },
+    {
+      "id": "pmid-20980998",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20980998",
+      "year": 2010,
+      "summary": "Study (Clin Pharmacol Ther) of twice-daily versus twice-weekly kisspeptin-54 for up to 8 weeks in women with hypothalamic amenorrhea.",
+      "finding": "Twice-weekly dosing caused only partial desensitization and hormone levels were higher than with saline at 8 weeks, with no adverse effects reported. Very small study with hormone endpoints, not fertility outcomes."
+    },
+    {
+      "id": "pmid-36287566",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36287566",
+      "year": 2022,
+      "summary": "Randomized, double-masked, placebo-controlled crossover trial (JAMA Netw Open) of an intravenous kisspeptin-54 infusion in women with hypoactive sexual desire disorder, with brain imaging.",
+      "finding": "Kisspeptin changed brain responses to erotic and attractive-face stimuli and was well tolerated, but the outcome was brain activity in 32 completers after a single infusion, not sexual function in daily life."
+    },
+    {
+      "id": "nct-05896293",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05896293",
+      "year": 2023,
+      "summary": "Recruiting phase 2 trial (Massachusetts General Hospital, FDA-regulated drug study) of two weeks of pulsatile subcutaneous kisspeptin in men and women with idiopathic hypogonadotropic hypogonadism, planned 36 participants (record updated 2026-07-13).",
+      "finding": "No results are posted yet. The record describes an investigational physiology study of hormone release and ovarian follicle growth."
+    },
+    {
+      "id": "fda-bulk-substances-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "Kisspeptin-10 is listed in category 2 for section 503A compounding (added 29 September 2023). FDA says compounded kisspeptin-10 may pose immunogenicity and impurity risks and that it has no or limited safety information for the proposed routes. This does not make kisspeptin an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

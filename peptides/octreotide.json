@@ -1,0 +1,71 @@
+{
+  "id": "octreotide",
+  "name": "Octreotide",
+  "aliases": [
+    "Sandostatin",
+    "Sandostatin LAR Depot",
+    "Bynfezia",
+    "Mycapssa",
+    "octreotide acetate"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled (Sandostatin injection and generics) to lower growth hormone and IGF-1 in acromegaly, and to treat severe diarrhea and flushing from metastatic carcinoid tumors and watery diarrhea from VIP-secreting tumors (VIPomas). The label states that tumor shrinkage or slower tumor growth was not shown in the trials behind the injection. Long-acting (Sandostatin LAR Depot) and oral (Mycapssa) forms are separate products. Octreotide is a somatostatin analog.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Sandostatin injection label, acromegaly: starting dose 50 mcg subcutaneously three times daily, adjusted by growth hormone and IGF-1 levels; the most common dose is 100 mcg three times daily, with some patients needing up to 500 mcg three times daily.",
+        "population": "Adults with acromegaly",
+        "citation_id": "fda-sandostatin-label"
+      },
+      {
+        "text": "Sandostatin injection label, carcinoid tumors: 100 to 600 mcg per day in two to four divided subcutaneous doses during the first 2 weeks (mean about 300 mcg per day).",
+        "population": "Adults with metastatic carcinoid tumors",
+        "citation_id": "fda-sandostatin-label"
+      },
+      {
+        "text": "Sandostatin injection label, VIPomas: 200 to 300 mcg per day in two to four divided subcutaneous doses during the first 2 weeks (range 150 to 750 mcg).",
+        "population": "Adults with VIP-secreting tumors",
+        "citation_id": "fda-sandostatin-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "RxList's drug page summarizes the label: octreotide reduces growth hormone in acromegaly and flushing and diarrhea from tumors, with frequent digestive side effects, high rates of gallstones or sludge with long use, slow heart rate and conduction changes in some acromegaly patients, and blood sugar swings.",
+      "source_type": "website",
+      "url": "https://www.rxlist.com/sandostatin-drug.htm",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-sandostatin-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39",
+      "year": 2026,
+      "summary": "DailyMed prescribing information for Sandostatin (octreotide acetate) injection, Novartis (published July 2026). Many generic octreotide injection labels also exist on DailyMed.",
+      "finding": "Lists acromegaly, carcinoid tumors and VIPomas as uses, with dose ranges, and notes that tumor size or growth benefits were not shown in the injection's trials."
+    },
+    {
+      "id": "pmid-1416572",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1416572",
+      "year": 1992,
+      "summary": "Double-blind randomized multicenter study of subcutaneous octreotide versus placebo, then two doses for 6 months, in 115 people with acromegaly (Ezzat et al., Ann Intern Med).",
+      "finding": "Octreotide lowered growth hormone and IGF-1; about half reached growth hormone below 5 micrograms/L and over half normalized IGF-1. Symptoms improved in about two thirds. Transient diarrhea, biliary sludge and gallstones occurred."
+    },
+    {
+      "id": "pmid-19704057",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19704057",
+      "year": 2009,
+      "summary": "PROMID: placebo-controlled randomized phase IIIB trial of monthly octreotide LAR 30 mg in 85 treatment-naive people with metastatic midgut neuroendocrine tumors (Rinke et al., J Clin Oncol).",
+      "finding": "Median time to tumor progression was 14.3 months with octreotide LAR versus 6 months with placebo (hazard ratio 0.34). Survival did not differ significantly and the analysis was not confirmatory because there were few deaths. This tested the long-acting form, not the short-acting injection."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

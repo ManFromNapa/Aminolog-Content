@@ -1,0 +1,99 @@
+{
+  "id": "ghk-cu",
+  "name": "GHK-Cu",
+  "aliases": [
+    "Copper peptide",
+    "GHK-copper",
+    "Copper tripeptide",
+    "Copper tripeptide-1",
+    "Glycyl-L-histidyl-L-lysine copper"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Mainly an ingredient in cosmetic skin and hair products, promoted for wrinkles, skin firmness, wound and scar appearance and hair thickness. The evidence is largely cosmetic, topical, in vitro or in animals; there are very few controlled human trials, and injectable use is promoted online without an approved product or established human evidence.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Animal study only, not human data: 0.3 or 3 mg/ml GHK-Cu was injected into the knee joint once a week for 4 weeks (from week 2 after surgery) in a rat model of ACL reconstruction.",
+        "population": "Rats",
+        "citation_id": "pmid-25731775"
+      },
+      {
+        "text": "Animal study only, not human data: GHK (without copper) was injected into the abdominal cavity every other day at 2.6, 26 or 260 micrograms per day (as reported) from day 4 to day 21 after bleomycin lung injury.",
+        "population": "Mice",
+        "citation_id": "pmid-29311918"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A medical clinic's blog says GHK-Cu boosts collagen and elasticity, reduces wrinkles and may support hair growth and thickness, while conceding more studies are needed for the hair claims; the clinic itself offers GHK-Cu serums, a scalp solution and injections.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A dermatology practice says online marketing overstates copper peptides (for example that they outperform retinoids), and that research supports gradual benefits such as collagen support and wound healing, not dramatic results or replacement of retinoids.",
+      "source_type": "website",
+      "url": "https://www.westlakedermatology.com/trends/ghk-cu-copper-peptides-for-skin-care/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-16847171",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "16847171",
+      "year": 2006,
+      "summary": "Small randomized trial (Arch Facial Plast Surg) of skin care products with or without GHK-Cu after CO2 laser resurfacing around the mouth; 13 patients completed it.",
+      "finding": "Blinded objective measures showed no significant difference between groups in redness resolution, wrinkles or skin quality. Patients using GHK-Cu rated overall skin quality higher on a questionnaire. Very small and a cosmetic product setting."
+    },
+    {
+      "id": "pmid-11176716",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "11176716",
+      "year": 2001,
+      "summary": "Cell-culture study (Arch Facial Plast Surg) of copper tripeptide and tretinoin on normal and keloid-producing human dermal fibroblasts.",
+      "finding": "Copper tripeptide lowered secretion of TGF-beta1 in keloid-producing fibroblasts at 24 hours (a similar trend in normal fibroblasts). Cell culture only; it does not show clinical benefit for scars."
+    },
+    {
+      "id": "pmid-25731775",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "25731775",
+      "year": 2015,
+      "summary": "Rat study (J Orthop Res) of weekly intra-articular GHK-Cu injections after ACL reconstruction (72 rats, saline versus two doses).",
+      "finding": "Knee laxity was better at 6 weeks and graft stiffness higher at the lower dose, but no significant differences were seen at 12 weeks or in several other measures. The authors concluded the benefit was transient."
+    },
+    {
+      "id": "pmid-28370978",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "28370978",
+      "year": 2017,
+      "summary": "Mouse and cell study (Wound Repair Regen) of GHK-Cu encapsulated in liposomes for scald wounds.",
+      "finding": "Liposomal GHK-Cu increased blood-vessel cell growth in culture and shortened scald wound healing to 14 days in mice compared with free GHK-Cu. A special formulation in animals, not human evidence."
+    },
+    {
+      "id": "pmid-29311918",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "29311918",
+      "year": 2017,
+      "summary": "Mouse study (Front Pharmacol) of GHK peptide (not the copper complex) in bleomycin-induced lung fibrosis.",
+      "finding": "GHK reduced inflammation and fibrosis markers in the mice. Animal data only and a different compound form than cosmetic GHK-Cu."
+    },
+    {
+      "id": "fda-compounding-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "On the fetched page GHK-Cu (copper peptide) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded injectable drugs containing GHK-Cu may pose a risk of immunogenicity due to the potential for aggregation. The page does not describe an approved product."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

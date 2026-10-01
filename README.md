@@ -5,7 +5,9 @@ For research and educational purposes only. Not medical advice.
 
 - `peptides/<id>.json` — one file per peptide, validated by `schema/peptide.schema.json`
 - `manifest.json` — `content_version` bumps whenever content changes; the app downloads files only when this is newer
-- `validate.py` — run before every commit (`pip install jsonschema`)
+- `validate.py`: schema and cross-reference check. Run before every commit (`pip install jsonschema`)
+- `check_sources.py`: verifies every PMID, trial number, label date and link against the live sources. Run before publishing and in the monthly review
+- `audit_report.py`: prints a readable Markdown report of everything (status, doses, every citation as a link, every claim) for auditing
 
 ## Update workflow
 1. Edit or add JSON. Every claim needs a citation whose identifier (PMID, NCT number, or FDA label URL) was checked against the primary source.

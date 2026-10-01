@@ -1,0 +1,112 @@
+{
+  "id": "ghrp-2",
+  "name": "GHRP-2",
+  "aliases": [
+    "Pralmorelin",
+    "Growth hormone-releasing peptide-2",
+    "KP-102",
+    "GPA-748"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor. It has no FDA-approved product. It has been studied as a growth hormone stimulation test, and a 2013 Japanese study states that a GHRP-2 test is a recommended alternative for diagnosing adult growth hormone deficiency in Japan. It is promoted online for muscle, fat loss and recovery, which has not been shown in controlled human trials found for this entry. FDA lists it as a bulk substance that may present significant safety risks for compounding.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Subcutaneous infusion of 1 microgram per kg per hour for 270 minutes, versus saline, before a meal.",
+        "population": "Seven lean, healthy men",
+        "citation_id": "pmid-15699539"
+      },
+      {
+        "text": "Oral 900 micrograms per kg twice daily for 12 months.",
+        "population": "Ten prepubertal children with growth hormone deficiency",
+        "citation_id": "pmid-14513874"
+      },
+      {
+        "text": "Single intravenous doses of 1 and 2 micrograms per kg.",
+        "population": "Six healthy young adults and six elderly adults (2 micrograms per kg)",
+        "citation_id": "pmid-9285939"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A peptide wiki guide calls GHRP-2 the most potent classic growth hormone-releasing peptide with less hunger than GHRP-6, lists beginner to advanced dosing protocols and stacking with CJC-1295, and states it is not FDA-approved in the US.",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ghrp-2",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A comparison article says GHRP-2 causes much less hunger than GHRP-6 but raises cortisol and prolactin more, that both are usually stacked with CJC-1295, and that neither is FDA-approved so all human use is off-label.",
+      "source_type": "website",
+      "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-15699539",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15699539",
+      "year": 2005,
+      "summary": "Crossover study of GHRP-2 infusion versus saline in seven lean healthy men, followed by a buffet meal (J Clin Endocrinol Metab).",
+      "finding": "Participants ate about 36% more during the GHRP-2 infusion and growth hormone rose strongly. Very small study, but it confirms an appetite effect."
+    },
+    {
+      "id": "pmid-14513874",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "14513874",
+      "year": 2003,
+      "summary": "Ten children with growth hormone deficiency took oral GHRP-2 for 12 months (J Pediatr Endocrinol Metab).",
+      "finding": "Seven of ten reported more appetite during the first six months, but body mass index did not change significantly. No control group."
+    },
+    {
+      "id": "pmid-9285939",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9285939",
+      "year": 1997,
+      "summary": "Comparison of intravenous GHRP-2 and hexarelin with GHRH in six young and six elderly healthy people (Peptides).",
+      "finding": "GHRP-2 produced a strong growth hormone response, larger than GHRH, but also raised prolactin, ACTH and cortisol."
+    },
+    {
+      "id": "pmid-8887169",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8887169",
+      "year": 1996,
+      "summary": "Report of chronic GHRP-2, GHRH or combined administration for 7 to 30 days in healthy men and women (J Pediatr Endocrinol Metab).",
+      "finding": "Chronic dosing changed how the growth hormone response behaved, and whether the response weakened (desensitized) depended partly on dose and frequency. The abstract gives no clinical outcome data."
+    },
+    {
+      "id": "pmid-23079545",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23079545",
+      "year": 2013,
+      "summary": "71 Japanese adults with pituitary tumors underwent insulin, arginine and GHRP-2 stimulation tests (Endocr J).",
+      "finding": "The GHRP-2 test gave higher peak growth hormone than the insulin test and was judged an acceptable alternative for diagnosing severe adult growth hormone deficiency. This is diagnostic testing, not therapy."
+    },
+    {
+      "id": "fda-category2-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "GHRP-2 (injectable and nasal routes) is listed under category 2 for 503B, added 29 September 2023. FDA cites immunogenicity risk and says it is aware of reports of serious adverse events in patients who received GHRP-2, including increased insulin requirement, death of critically ill study subjects, infection and pancreatitis, though causality has not been established."
+    },
+    {
+      "id": "fda-warning-tailor-made-2020",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tailor-made-compounding-llc-594743-04012020",
+      "year": 2020,
+      "summary": "FDA warning letter to a compounding pharmacy (1 April 2020), fetched 2026-09-30.",
+      "finding": "The letter lists GHRP-2 among substances the pharmacy compounded and says products made from them were not eligible for the section 503A exemptions; it notes GHRP-2 was nominated without adequate support for FDA to evaluate it and that the pharmacy said it removed it from its formulary."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

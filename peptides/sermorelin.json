@@ -1,0 +1,86 @@
+{
+  "id": "sermorelin",
+  "name": "Sermorelin",
+  "aliases": [
+    "Geref",
+    "sermorelin acetate",
+    "GHRH(1-29)",
+    "growth hormone-releasing hormone analog"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "Sermorelin is the first 29 amino acids of growth hormone-releasing hormone. Drugs@FDA shows Geref (sermorelin acetate) was approved under NDA 019863 (1990) and NDA 020443 (1997), but both are now listed as discontinued, and openFDA/Drugs@FDA show no currently marketed sermorelin product. FDA published a 2013 notice that Geref was not withdrawn for safety or effectiveness reasons. Today it is mainly promoted by anti-aging and telehealth clinics, usually as a compounded product, to raise growth hormone for body composition, sleep and energy in adults. The published human work found here is small and older, mostly in children with growth hormone deficiency and in healthy volunteers.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "GHRH(1-29)-NH2 (the sermorelin sequence) at 30 or 60 micrograms/kg/day, given as a continuous infusion for 6 months. Height growth was lower than with growth hormone (9.2 and 9.3 versus 14.6 cm/year).",
+        "population": "60 children with growth hormone deficiency of hypothalamic origin",
+        "citation_id": "pmid-8329830"
+      },
+      {
+        "text": "GHRH(1-29)-NH2 single intravenous doses of 0.25 to 2 micrograms/kg raised growth hormone (maximal at 1 to 2 micrograms/kg); intranasal dosing needed about 50 micrograms/kg for a similar effect.",
+        "population": "30 healthy men aged 19 to 43",
+        "citation_id": "pmid-8329825"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A clinic blog says sermorelin is better than hormone replacement because it stimulates natural growth hormone release, and lists benefits including more muscle, less fat, better sleep, faster healing and heart health.",
+      "source_type": "website",
+      "url": "https://www.progressivemedicalcenter.com/blog/sermorelin-for-anti-aging/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Testing.com says human evidence for sermorelin's anti-aging benefits is limited, that most claimed effects are anecdotal, and that compounded sermorelin is not an FDA-approved product.",
+      "source_type": "website",
+      "url": "https://www.testing.com/treatments/sermorelin-benefits/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A health-system blog says there is no FDA-approved sermorelin product on the US market, that old small studies showed only modest changes, that no randomized trial shows better sleep or strength, and that growth hormone in healthy older adults caused swelling and joint pain.",
+      "source_type": "website",
+      "url": "https://acibademinternational.com/blog/sermorelin-what-the-growth-hormone-secretagogue-is-what-it-is-not-and-what-clinics-rarely-say/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-geref-drugsatfda",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020443",
+      "year": 2026,
+      "summary": "Drugs@FDA overview page for NDA 020443 (Geref, sermorelin acetate 0.5 mg and 1 mg vials).",
+      "finding": "Lists the original approval date of 09/26/1997 and shows both Geref products with marketing status Discontinued, with a note that FDA determined the product was not discontinued or withdrawn for safety or effectiveness reasons."
+    },
+    {
+      "id": "fr-geref-2013",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.federalregister.gov/documents/2013/03/04/2013-04827/determination-that-geref-sermorelin-acetate-injection-05-milligrams-basevial-and-10-milligrams",
+      "year": 2013,
+      "summary": "FDA notice published in the Federal Register on March 4, 2013 (Docket FDA-2012-P-1071).",
+      "finding": "FDA determined Geref injection (0.5 mg and 1.0 mg vials, and 0.05 mg ampule) was not withdrawn from sale for reasons of safety or effectiveness, which would allow FDA to approve generic applications that meet other requirements. It does not approve any product."
+    },
+    {
+      "id": "pmid-8329830",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8329830",
+      "year": 1993,
+      "summary": "Randomized 6-month comparison of GHRH(1-29)-NH2 (30 or 60 micrograms/kg/day) versus growth hormone in 60 children with growth hormone deficiency (Chen et al., Acta Paediatr Suppl).",
+      "finding": "Growth with GHRH(1-29)-NH2 was clearly less than with growth hormone. Nearly all treated children developed antibodies to GHRH, and the authors concluded it was unlikely to be as effective as growth hormone for growth."
+    },
+    {
+      "id": "pmid-8329825",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8329825",
+      "year": 1993,
+      "summary": "Pharmacokinetic and hormone-response study of GHRH(1-29)-NH2 given intravenously or intranasally to 30 healthy men (Wilton et al., Acta Paediatr Suppl).",
+      "finding": "Intravenous doses released growth hormone, which stayed elevated for about 3 hours; nasal absorption was low (3 to 5% bioavailability). This is a short-term study in healthy men and does not show clinical benefit."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

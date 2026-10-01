@@ -1,0 +1,113 @@
+{
+  "id": "epitalon",
+  "name": "Epitalon",
+  "aliases": [
+    "Epithalon",
+    "AEDG peptide",
+    "Ala-Glu-Asp-Gly",
+    "Epithalone"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic four-amino-acid peptide (Ala-Glu-Asp-Gly) developed by a Russian research group as a pineal gland peptide, promoted online as an anti-aging, telomere and sleep or melatonin peptide. The research is mainly cell and animal work, and the few human reports come from a small set of related research groups, often in non-English journals, with limited methods. There is no good independent human evidence of anti-aging effects.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Animal study only, not human data: 1.0 microgram per mouse (about 30 to 40 micrograms/kg) was injected under the skin on 5 consecutive days each month from age 3 months until death.",
+        "population": "Female SHR mice",
+        "citation_id": "pmid-14501183"
+      },
+      {
+        "text": "Animal study only, not human data: 0.1 microgram was injected 5 times a week for about 6.5 months.",
+        "population": "One-year-old female C3H/He mice",
+        "citation_id": "pmid-16634527"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A clinic's educational page claims epithalon reactivates telomerase, extends telomeres, delays age-related disease and supports immunity and regeneration, and suggests combining it with other longevity treatments offered through the clinic.",
+      "source_type": "website",
+      "url": "https://revolutionhealth.org/blogs/news/epithalon-peptide-telomerase-anti-aging",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A telehealth company's page says epitalon extends telomeres in human cells and lengthens lifespan in animals, while stating that human data is observational or uncontrolled, comes mostly from one laboratory, and that long-term safety is not established.",
+      "source_type": "website",
+      "url": "https://meto.co/blog/epitalon-telomere-longevity-peptide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Wikipedia's article describes epitalon as promoted as a telomerase activator, notes that the human data come largely from one research group, and carries editorial warnings about reliance on primary sources and fringe theories.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Epitalon",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-12937682",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "12937682",
+      "year": 2003,
+      "summary": "Cell-culture study (Bull Exp Biol Med) from the group that developed epitalon, adding it to human fetal fibroblasts that lack telomerase.",
+      "finding": "Epithalon induced telomerase activity and telomere elongation in these cells. Single-group cell data."
+    },
+    {
+      "id": "pmid-40908429",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "40908429",
+      "year": 2025,
+      "summary": "Independent laboratory study (Biogerontology) of epitalon in breast cancer cell lines and normal epithelial and fibroblast cells. A published erratum exists for this paper.",
+      "finding": "Epitalon lengthened telomeres in normal cells via telomerase and in cancer cells via an alternative lengthening pathway, which raises the question of whether telomere lengthening is desirable in cancer cells. Cell culture only."
+    },
+    {
+      "id": "pmid-14501183",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "14501183",
+      "year": 2003,
+      "summary": "Lifelong mouse study (Biogerontology) of monthly epitalon injections versus saline in 54 mice per group.",
+      "finding": "Mean lifespan was unchanged, but maximum lifespan was about 12% higher, and leukemia development was reduced. Total tumor incidence did not differ. Mouse data from the originating research network."
+    },
+    {
+      "id": "pmid-16634527",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "16634527",
+      "year": 2006,
+      "summary": "Mouse study (In Vivo) of epitalon on spontaneous tumors in one-year-old female C3H/He mice, from an Israeli group; a co-author also published with the originating Russian group.",
+      "finding": "Treated mice had fewer malignant tumor-bearers and no metastases were found, with no toxicity noted. Small mouse study."
+    },
+    {
+      "id": "pmid-17969590",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17969590",
+      "year": 2007,
+      "summary": "Russian-language report (Adv Gerontol) on pineal peptide preparations, including epitalon, in old monkeys and elderly people; authors include the originating researcher. Abstract gives no sample size or design.",
+      "finding": "The abstract reports that the peptides restored night melatonin in old monkeys and in elderly people with low pineal function. Design details are not given, so it cannot be judged as controlled evidence."
+    },
+    {
+      "id": "pmid-12195242",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "12195242",
+      "year": 2002,
+      "summary": "Report (Neuro Endocrinol Lett) from the originating group on epitalon in rats with inherited retinal degeneration and in patients with degenerative retinal lesions.",
+      "finding": "The abstract states that 90% of patients had a positive clinical effect. It gives no sample size, control group or outcome definitions, so it is weak evidence."
+    },
+    {
+      "id": "fda-compounding-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "On the fetched page Epitalon (epithalon) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing epitalon may pose a risk of immunogenicity for certain routes of administration due to aggregation. The page does not describe an approved product."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

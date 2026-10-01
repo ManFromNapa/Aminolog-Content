@@ -1,0 +1,95 @@
+{
+  "id": "liraglutide",
+  "name": "Liraglutide",
+  "aliases": [
+    "Victoza",
+    "Saxenda"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled as Victoza for glycemic control in adults and children 10 and older with type 2 diabetes and to reduce major cardiovascular events in adults with type 2 diabetes and established cardiovascular disease, and as Saxenda for long-term weight management alongside diet and activity in adults with obesity (or overweight with a weight-related condition) and in children 12 and older with obesity and body weight over 60 kg. The labels advise against using liraglutide products together and carry a boxed warning about thyroid C-cell tumors. Generic liraglutide products are also listed on DailyMed.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Victoza (adults): labeled starting dose 0.6 mg subcutaneously once daily for one week (a titration dose not effective for glycemic control), then 1.2 mg daily, with a labeled maximum of 1.8 mg daily after at least one week at 1.2 mg if more glycemic control is needed.",
+        "population": "Adults with type 2 diabetes per the Victoza label",
+        "citation_id": "fda-victoza-label"
+      },
+      {
+        "text": "Victoza (children): labeled starting dose 0.6 mg subcutaneously once daily, with increases in 0.6 mg steps after at least one week, up to a labeled maximum of 1.8 mg daily.",
+        "population": "Patients aged 10 years and older with type 2 diabetes per the Victoza label",
+        "citation_id": "fda-victoza-label"
+      },
+      {
+        "text": "Saxenda: labeled once-daily subcutaneous schedule of 0.6 mg in week 1, 1.2 mg in week 2, 1.8 mg in week 3, 2.4 mg in week 4, then 3 mg daily from week 5; the label states that for adults 3 mg daily is the recommended dose and lower doses are for titration only. The label says to discontinue if an adult has not lost at least 4% of baseline body weight 16 weeks after starting.",
+        "population": "Adults with obesity, or overweight with a weight-related condition, per the Saxenda label",
+        "citation_id": "fda-saxenda-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "WebMD patient reviews of Saxenda describe weight losses from a few pounds to dozens of pounds and reduced food cravings for many users, alongside frequent nausea, digestive problems and fatigue; some find side effects hard to tolerate and a few report little effect.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-saxenda-liraglutide",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-victoza-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed prescribing information for Victoza (liraglutide) injection (Novo Nordisk), published November 2025.",
+      "finding": "Lists approved uses for type 2 diabetes glycemic control (adults and patients 10 and older) and cardiovascular risk reduction in adults with established cardiovascular disease; once-daily dosing up to 1.8 mg; boxed warning for thyroid C-cell tumors."
+    },
+    {
+      "id": "fda-saxenda-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Saxenda (liraglutide) injection (Novo Nordisk), published June 2026.",
+      "finding": "Lists approved use for chronic weight management in adults and in patients 12 and older with obesity and weight over 60 kg, with a 3 mg daily maintenance dose; boxed warning for thyroid C-cell tumors."
+    },
+    {
+      "id": "leader-2016",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "27295427",
+      "year": 2016,
+      "summary": "LEADER: double-blind trial of liraglutide versus placebo in 9,340 adults with type 2 diabetes at high cardiovascular risk, median follow-up 3.8 years (Marso et al., N Engl J Med).",
+      "finding": "The composite of cardiovascular death, nonfatal heart attack or nonfatal stroke occurred in 13.0% with liraglutide versus 14.9% with placebo (hazard ratio 0.87). Gastrointestinal events were the most common reason for stopping. Funded by Novo Nordisk and the NIH."
+    },
+    {
+      "id": "scale-obesity-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26132939",
+      "year": 2015,
+      "summary": "SCALE Obesity and Prediabetes: 56-week double-blind trial of liraglutide 3.0 mg daily versus placebo in 3,731 adults with obesity or overweight with a weight-related condition and without type 2 diabetes (Pi-Sunyer et al., N Engl J Med).",
+      "finding": "Mean weight loss was 8.4 kg with liraglutide versus 2.8 kg with placebo; 63.2% versus 27.1% lost at least 5% of body weight. Nausea and diarrhea were the most common side effects; serious events occurred in 6.2% versus 5.0%. Funded by Novo Nordisk."
+    },
+    {
+      "id": "lead-6-2009",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19515413",
+      "year": 2009,
+      "summary": "LEAD-6: 26-week open-label trial of liraglutide 1.8 mg daily versus exenatide 10 mcg twice daily in 464 adults with type 2 diabetes on oral drugs (Buse et al., Lancet).",
+      "finding": "HbA1c fell 1.12% with liraglutide versus 0.79% with exenatide; weight loss was similar (about 3 kg in both). Nausea was less persistent with liraglutide. Open-label design."
+    },
+    {
+      "id": "ellipse-2019",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "31034184",
+      "year": 2019,
+      "summary": "Ellipse: double-blind trial of liraglutide up to 1.8 mg daily versus placebo in 134 children and adolescents (mean age 14.6) with type 2 diabetes, 52 weeks (Tamborlane et al., N Engl J Med).",
+      "finding": "At 26 weeks HbA1c fell 0.64 points with liraglutide and rose 0.42 with placebo (difference -1.06). Gastrointestinal adverse events were more frequent with liraglutide. Small trial funded by Novo Nordisk."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

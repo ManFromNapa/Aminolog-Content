@@ -1,0 +1,111 @@
+{
+  "id": "dsip",
+  "name": "DSIP",
+  "aliases": [
+    "Delta sleep-inducing peptide",
+    "Emideltide",
+    "Delta-sleep inducing peptide"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A nine-amino-acid peptide first isolated from rabbit brain blood in the 1970s and promoted online for sleep. Small, mostly 1980s human studies in chronic insomnia gave mixed, modest results, and later reviewers note its link to natural sleep has never been well established. No recent controlled insomnia trials were found.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "25 nmol/kg of DSIP was given by intravenous injection on each of three afternoons before sleep, versus glucose placebo, in a 5-night laboratory study.",
+        "population": "16 adults with chronic insomnia",
+        "citation_id": "pmid-1299794"
+      },
+      {
+        "text": "25 nmol/kg of DSIP or placebo was given intravenously over four nights in a double-blind crossover study.",
+        "population": "Adults with chronic insomnia",
+        "citation_id": "pmid-3583493"
+      },
+      {
+        "text": "Single intravenous doses of 25, 50 or 100 nmol/kg were given (versus saline) in a randomized study, both awake and under propofol and isoflurane anaesthesia.",
+        "population": "24 female surgical patients (ASA I or II)",
+        "citation_id": "pmid-19142086"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "An integrative psychiatry clinic's page describes DSIP as a sleep peptide, presents the research as mixed with modest early gains, notes limited human data and lack of FDA approval, and positions it as experimental for patients who have tried standard options while promoting clinic consultations.",
+      "source_type": "website",
+      "url": "https://drlewis.com/dsip-delta-sleep-inducing-peptide/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Wikipedia's article says studies of DSIP and sleep have been contradictory, with stronger effects seen only for synthetic analogs, and that long-term safety has not been established in clinical studies.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Delta-sleep-inducing_peptide",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-1299794",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1299794",
+      "year": 1992,
+      "summary": "Double-blind matched-pairs study (Neuropsychobiology) of 16 chronic insomnia patients given IV DSIP 25 nmol/kg or glucose placebo before three nights.",
+      "finding": "DSIP was linked to higher sleep efficiency and shorter sleep latency on recordings, but the effects were weak, partly attributable to a change in the placebo group, and subjective sleep quality did not change. The authors concluded short-term DSIP is unlikely to be of major benefit."
+    },
+    {
+      "id": "pmid-3583493",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3583493",
+      "year": 1987,
+      "summary": "Double-blind crossover study (Int J Clin Pharmacol Res) of IV DSIP 25 nmol/kg versus placebo over four nights in insomniacs, using sleep recordings.",
+      "finding": "Total and stage 2 sleep rose with DSIP, but the same differences existed at baseline, so the authors judged the improvement of little clinical significance."
+    },
+    {
+      "id": "pmid-3622582",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3622582",
+      "year": 1987,
+      "summary": "Placebo-controlled, double-blind study (Eur Neurol) of DSIP for 7 nights in 14 middle-aged people with chronic insomnia.",
+      "finding": "The author reported substantially improved night sleep and daytime alertness. Small, one-center and an older study; results across trials were inconsistent."
+    },
+    {
+      "id": "pmid-19142086",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19142086",
+      "year": 2009,
+      "summary": "Randomized study (Eur J Anaesthesiol) of IV DSIP at three doses versus saline in 24 women, awake and under anaesthesia.",
+      "finding": "DSIP raised heart rate, lowered heart rate variability and, paradoxically, lightened anaesthesia depth on EEG-based measures; it did not behave as a simple sedative."
+    },
+    {
+      "id": "pmid-7777652",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "7777652",
+      "year": 1995,
+      "summary": "Placebo-controlled study (Psychoneuroendocrinology) of IV DSIP (3 to 4 mg total) on ACTH and cortisol responses in healthy men.",
+      "finding": "DSIP did not change stress-hormone responses compared with placebo, a null finding for a proposed mechanism."
+    },
+    {
+      "id": "pmid-39444618",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "39444618",
+      "year": 2024,
+      "summary": "Mouse study (Front Pharmacol) of a lab-made DSIP fusion peptide engineered to cross the blood-brain barrier in a chemically induced insomnia model.",
+      "finding": "The fusion peptide changed neurotransmitter levels and showed sleep-promoting effects, better than DSIP alone. This is a modified peptide in mice, not DSIP as sold."
+    },
+    {
+      "id": "fda-compounding-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
+      "finding": "On the fetched page DSIP (listed as emideltide) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing emideltide may pose a risk of immunogenicity for certain routes of administration. The page does not describe an approved product."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

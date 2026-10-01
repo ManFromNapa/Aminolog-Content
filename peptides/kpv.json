@@ -1,0 +1,92 @@
+{
+  "id": "kpv",
+  "name": "KPV",
+  "aliases": [
+    "Lys-Pro-Val",
+    "Lysine-Proline-Valine",
+    "alpha-MSH(11-13)"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A three-amino-acid fragment (Lys-Pro-Val) of the hormone alpha-MSH. It has been studied almost only in cell cultures and mice, mainly for anti-inflammatory effects in the gut and skin. No human clinical trials were found, and it is promoted online for gut inflammation, skin conditions and general inflammation without human evidence.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Cell-culture study only, not human data: KPV at 50 micrograms per mL restored cell viability and reduced IL-1 beta release in human skin cells (keratinocytes) exposed to fine particulate matter.",
+        "population": "Human HaCaT keratinocyte cell line and a 3D skin model",
+        "citation_id": "pmid-40073467"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A telehealth company article presents KPV as a gut and skin anti-inflammatory for people with inflammatory bowel disease or autoimmune skin conditions, saying it works without suppressing the immune system. It admits the evidence is preclinical and that KPV is not FDA-approved, but promotes it for use in a supervised protocol and says compounding access is changing. The page sells assessments and clinician-built peptide protocols.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A primary care clinic article says KPV has no human clinical trials and no FDA approval, that evidence comes from cell and mouse studies, and that products sold online carry risks such as uncertain purity, unclear dosing and unsterile injectables.",
+      "source_type": "website",
+      "url": "https://www.incarenow.com/can-kpv-peptide-really-improve-your-gut-health/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-18061177",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "18061177",
+      "year": 2008,
+      "summary": "Cell and mouse study (Gastroenterology) of KPV in human intestinal epithelial and T cells stimulated with inflammatory signals, plus KPV given in drinking water in two mouse colitis models (DSS and TNBS).",
+      "finding": "Nanomolar KPV reduced inflammatory signaling (NF-kB, MAP kinase) and cytokine release in cells, KPV entered cells through the PepT1 transporter, and oral KPV reduced colitis severity in mice. Mouse and cell results do not show effects in people."
+    },
+    {
+      "id": "pmid-18092346",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "18092346",
+      "year": 2008,
+      "summary": "Mouse study (Inflamm Bowel Dis) of KPV in two colitis models (DSS colitis and transfer colitis), including mice with a non-functional melanocortin-1 receptor.",
+      "finding": "KPV-treated mice recovered weight sooner and had less inflammation and lower myeloperoxidase activity; effects appeared at least partly independent of the MC1 receptor. Animal data only."
+    },
+    {
+      "id": "pmid-28143741",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "28143741",
+      "year": 2017,
+      "summary": "Mouse study (Mol Ther) of KPV loaded into hyaluronic acid nanoparticles in a hydrogel, given by mouth in a mouse model of ulcerative colitis.",
+      "finding": "The nanoparticle formulation reduced colon damage and TNF-alpha in mice and worked better than a simpler KPV formulation. This tests a delivery system in mice, not plain KPV in people."
+    },
+    {
+      "id": "pmid-22837805",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "22837805",
+      "year": 2012,
+      "summary": "Laboratory study (Int J Physiol Pathophysiol Pharmacol) of KPV in immortalised human bronchial epithelial cells stimulated with TNF-alpha or RSV.",
+      "finding": "KPV reduced NF-kB signaling and release of inflammatory chemicals (IL-8, eotaxin) in a dose-dependent way in cultured cells. Cell-culture evidence only."
+    },
+    {
+      "id": "pmid-40073467",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "40073467",
+      "year": 2025,
+      "summary": "Laboratory study (Tissue Cell) of KPV in human HaCaT skin cells and a 3D skin model exposed to fine particulate matter.",
+      "finding": "KPV reduced oxidative stress, inflammatory signaling and cell death in the stressed skin cells. Cell and tissue-model evidence only, with no human testing."
+    },
+    {
+      "id": "fda-bulk-substances-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "KPV appears in the list of substances nominated but withdrawn (previously category 2). The page says FDA has not identified human exposure data for KPV by any route and lacks information on whether it would cause harm. This does not make KPV an approved drug."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

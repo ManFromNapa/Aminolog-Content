@@ -1,0 +1,100 @@
+{
+  "id": "survodutide",
+  "name": "Survodutide",
+  "aliases": [
+    "BI 456906"
+  ],
+  "regulatory_status": "investigational",
+  "used_for": "Once-weekly glucagon and GLP-1 receptor dual agonist developed by Boehringer Ingelheim and studied for obesity, type 2 diabetes and liver disease (MASH/MASLD). Not FDA-approved: no Drugs@FDA or DailyMed product was found and phase 3 trials are registered on ClinicalTrials.gov. A search of news at the time of review found no announced FDA application. Some phase 3 results are now published; weight loss is meaningful but gastrointestinal side effects are common.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "Once-weekly subcutaneous survodutide 0.6, 2.4, 3.6 or 4.8 mg for 46 weeks (20 weeks of dose escalation).",
+        "population": "Adults without diabetes with BMI 27 or higher (phase 2)",
+        "citation_id": "pmid-38330987"
+      },
+      {
+        "text": "Once-weekly subcutaneous survodutide 2.4, 4.8 or 6.0 mg for 48 weeks (24 weeks of dose escalation).",
+        "population": "Adults with biopsy-confirmed MASH and fibrosis stage F1 to F3 (phase 2)",
+        "citation_id": "pmid-38847460"
+      },
+      {
+        "text": "Once-weekly subcutaneous survodutide adjusted up to 3.6 mg or 6.0 mg for 76 weeks with lifestyle counseling.",
+        "population": "Adults with obesity (or overweight with a complication), without diabetes (SYNCHRONIZE-1, phase 3)",
+        "citation_id": "pmid-42253238"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "BodySpec, a body-scan company, summarizes phase 2 results (about 15 percent weight loss, and liver benefit in MASH) and says survodutide is still investigational, with Breakthrough Therapy and Fast Track designations, and that the company does not sell the drug.",
+      "source_type": "website",
+      "url": "https://www.bodyspec.com/blog/post/survodutide_guide_to_the_weight_loss_mash_drug_trial",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Trimi Health, a telehealth seller of compounded semaglutide and tirzepatide, says survodutide is not FDA-approved, projects approval no earlier than 2027 to 2028, and steers readers to start currently available drugs instead of waiting.",
+      "source_type": "website",
+      "url": "https://trytrimi.com/blog/survodutide-weight-loss-2026",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-38330987",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38330987",
+      "year": 2024,
+      "summary": "Phase 2 dose-finding trial of survodutide for 46 weeks in 387 adults with overweight or obesity without diabetes (Lancet Diabetes Endocrinol; NCT04667377).",
+      "finding": "Weight change at 46 weeks ranged from -6.2% (0.6 mg) to -14.9% (4.8 mg) versus -2.8% with placebo. Adverse events occurred in 91% on survodutide versus 75% on placebo, mainly gastrointestinal; 60% completed treatment."
+    },
+    {
+      "id": "pmid-38847460",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38847460",
+      "year": 2024,
+      "summary": "48-week phase 2 trial in 293 adults with biopsy-confirmed MASH and fibrosis (N Engl J Med; NCT04771273).",
+      "finding": "MASH improved without worsening fibrosis in 47%, 62% and 43% across doses versus 14% with placebo; fibrosis improvement was 34 to 36% versus 22%, which was not clearly different. Nausea, diarrhea and vomiting were more common with survodutide."
+    },
+    {
+      "id": "pmid-42253238",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42253238",
+      "year": 2026,
+      "summary": "SYNCHRONIZE-1: phase 3, 76-week trial of survodutide 3.6 or 6.0 mg versus placebo in 725 adults with obesity without diabetes (N Engl J Med; NCT06066515).",
+      "finding": "Weight change was -12.2% (3.6 mg) and -13.0% (6.0 mg) versus -5.4% with placebo. Gastrointestinal events occurred in 81% and 90% versus 48% with placebo. No deaths."
+    },
+    {
+      "id": "pmid-42252333",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42252333",
+      "year": 2026,
+      "summary": "SYNCHRONIZE-MASLD: 48-week phase 3 trial of survodutide 6.0 mg versus placebo in 216 adults with obesity and at-risk MASLD (Nat Med; NCT06309992).",
+      "finding": "84.2% had a 30% or greater liver fat reduction versus 24.3% on placebo; weight change was -12.2% versus -1.0% (efficacy estimand). Short trial recruited only in the US and Spain."
+    },
+    {
+      "id": "nct-06077864",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT06077864",
+      "year": 2023,
+      "summary": "SYNCHRONIZE-CVOT: large phase 3 cardiovascular safety and outcomes trial (about 5,500 participants) of survodutide in people with overweight or obesity.",
+      "finding": "Registered as completed (primary completion 2026-06). No results were posted on ClinicalTrials.gov when reviewed, so cardiovascular outcomes are not yet verified here."
+    },
+    {
+      "id": "fda-warning-xcel-2024",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/xcel-research-llc-694608-12102024",
+      "year": 2024,
+      "summary": "FDA warning letter dated 10 December 2024 to Xcel Research LLC.",
+      "finding": "The letter lists survodutide, among other peptides, as an unapproved new drug sold with research-use-only labels despite evidence of intended human use."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

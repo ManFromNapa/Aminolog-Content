@@ -1,0 +1,89 @@
+{
+  "id": "elamipretide",
+  "name": "Elamipretide",
+  "aliases": [
+    "SS-31",
+    "Forzinity",
+    "MTP-131",
+    "Bendavia"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-approved under accelerated approval (NDA 215244, Forzinity, approval action dated September 2025) to improve muscle strength in adults and children with Barth syndrome weighing at least 30 kg. The label says continued approval may depend on a confirmatory trial. It is not approved for aging, longevity, heart failure, mitochondrial myopathy or any other use; the large primary mitochondrial myopathy trial missed its main endpoints.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: 40 mg subcutaneously once daily, at the same time each day.",
+        "population": "Patients with Barth syndrome weighing at least 30 kg",
+        "citation_id": "fda-forzinity-label"
+      },
+      {
+        "text": "Label: 20 mg subcutaneously once daily for adults with eGFR below 30 mL/min who are not on dialysis; the label says there is insufficient information to recommend a dose for adults on dialysis.",
+        "population": "Adults with Barth syndrome and severe renal impairment",
+        "citation_id": "fda-forzinity-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "Empire Medical Training, a CME course provider, describes SS-31 as the first mitochondrial-targeted peptide with FDA approval, but only for Barth syndrome, calls longevity uses off-label and investigational, and says the human trial record is mixed, with a heart failure study negative on its primary endpoint.",
+      "source_type": "website",
+      "url": "https://www.empiremedicaltraining.com/antiaging-regenerative-workshops/resources/peptide-therapy/ss-31/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "Forge Biology, an educational site, says SS-31 improves ATP production and reduces oxidative stress, and may support endurance, heart health and longevity, mentioning human trials without giving citations; most of the evidence it discusses appears to be animal work.",
+      "source_type": "website",
+      "url": "https://www.forgebiology.com/2025/11/22/ss-31-the-mitochondrial-peptide-that-could-change-longevity-and-performanc/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-forzinity-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed prescribing information for Forzinity (elamipretide) injection, published 12 December 2025.",
+      "finding": "Indicated under accelerated approval to improve muscle strength in Barth syndrome (30 kg or more). The label says the randomized trial in 12 patients was not superior to placebo on its primary endpoints (6-minute walk and fatigue); knee muscle strength rose in the open-label extension, not the randomized period. Most common adverse reactions are injection site reactions; the label carries a benzyl alcohol warning for neonates."
+    },
+    {
+      "id": "pmid-38602181",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38602181",
+      "year": 2024,
+      "summary": "TAZPOWER: 28-week randomized placebo-controlled crossover trial in Barth syndrome followed by a 168-week open-label extension of elamipretide 40 mg daily (Genet Med; NCT03098797).",
+      "finding": "Ten patients entered the extension; 8 reached week 168. Six-minute walk and fatigue scores improved versus extension baseline, with injection site reactions the main adverse event. Uncontrolled extension in very few patients."
+    },
+    {
+      "id": "pmid-37268435",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37268435",
+      "year": 2023,
+      "summary": "MMPOWER-3: 24-week randomized, placebo-controlled phase 3 trial of elamipretide 40 mg daily in 218 adults with primary mitochondrial myopathy (Neurology; NCT03323749).",
+      "finding": "The trial did not meet either primary endpoint: 6-minute walk difference -3.2 m (p=0.69) and no significant difference in fatigue score. The drug was generally well tolerated."
+    },
+    {
+      "id": "pmid-32096613",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "32096613",
+      "year": 2020,
+      "summary": "MMPOWER-2: randomized crossover trial of elamipretide 40 mg daily for 4 weeks versus placebo in 30 adults with primary mitochondrial myopathy (J Cachexia Sarcopenia Muscle; NCT02805790).",
+      "finding": "The 6-minute walk improved by 19.8 m but was not statistically significant (p=0.083); fatigue scores favored elamipretide. Injection site reactions occurred in 80%. Small, short trial."
+    },
+    {
+      "id": "fda-warning-royal-peptides-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/royal-peptides-llc-734884-08242026",
+      "year": 2026,
+      "summary": "FDA warning letter dated 24 August 2026 to Royal Peptides LLC.",
+      "finding": "The letter lists SS-31 (Elamipretide), among other peptides, as unapproved new drugs sold with research-use-only labels despite evidence of intended human use."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

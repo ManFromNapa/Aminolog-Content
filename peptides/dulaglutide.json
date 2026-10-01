@@ -1,0 +1,71 @@
+{
+  "id": "dulaglutide",
+  "name": "Dulaglutide",
+  "aliases": [
+    "Trulicity"
+  ],
+  "regulatory_status": "approved",
+  "used_for": "FDA-labeled (Trulicity) as an adjunct to diet and exercise for glycemic control in adults and children 10 and older with type 2 diabetes, and to reduce major cardiovascular events in adults with type 2 diabetes who have established cardiovascular disease or multiple cardiovascular risk factors. It is not labeled for weight loss. The label carries a boxed warning about thyroid C-cell tumors.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Adults: labeled starting dosage 0.75 mg subcutaneously once weekly; after 4 weeks it may be increased to 1.5 mg weekly, then in 1.5 mg steps after at least 4 weeks on the current dose, up to a labeled maximum of 4.5 mg once weekly.",
+        "population": "Adults with type 2 diabetes per the Trulicity label",
+        "citation_id": "fda-trulicity-label"
+      },
+      {
+        "text": "Children: labeled starting dosage 0.75 mg subcutaneously once weekly, which may be increased after at least 4 weeks to the labeled maximum of 1.5 mg once weekly.",
+        "population": "Patients aged 10 years and older with type 2 diabetes per the Trulicity label",
+        "citation_id": "fda-trulicity-label"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "WebMD patient reviews of Trulicity average 3.3 of 5; reviewers often cite better blood sugar, about a quarter mention weight loss or less appetite, and many report nausea, vomiting, other digestive problems or injection-site pain.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-trulicity-dulaglutide",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-trulicity-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=463050bd-2b1c-40f5-b3c3-0a04bb433309",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Trulicity (dulaglutide) injection (Eli Lilly), published August 2026.",
+      "finding": "Lists approved uses for type 2 diabetes glycemic control (adults and patients 10 and older) and cardiovascular risk reduction; weekly dosing from 0.75 mg up to 4.5 mg in adults; boxed warning for thyroid C-cell tumors."
+    },
+    {
+      "id": "rewind-2019",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "31189511",
+      "year": 2019,
+      "summary": "REWIND: double-blind trial of dulaglutide 1.5 mg weekly versus placebo in 9,901 adults with type 2 diabetes, median follow-up 5.4 years (Gerstein et al., Lancet).",
+      "finding": "The composite of cardiovascular death, heart attack or stroke occurred in 12.0% with dulaglutide versus 13.4% with placebo (hazard ratio 0.88). All-cause death did not differ significantly. Gastrointestinal adverse events were reported by 47.4% versus 34.1%. Funded by Eli Lilly."
+    },
+    {
+      "id": "award-6-2014",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25018121",
+      "year": 2014,
+      "summary": "AWARD-6: 26-week open-label non-inferiority trial of weekly dulaglutide versus daily liraglutide in 599 metformin-treated adults with type 2 diabetes (Dungan et al., Lancet).",
+      "finding": "HbA1c fell 1.42% with dulaglutide and 1.36% with liraglutide; dulaglutide was non-inferior, with similar tolerability. Open-label and sponsor-funded."
+    },
+    {
+      "id": "award-peds-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "35658022",
+      "year": 2022,
+      "summary": "AWARD-PEDS: placebo-controlled trial of weekly dulaglutide 0.75 or 1.5 mg in 154 youths with type 2 diabetes, 26 weeks (Arslanian et al., N Engl J Med).",
+      "finding": "HbA1c rose 0.6 points with placebo and fell 0.6 (0.75 mg) and 0.9 (1.5 mg) with dulaglutide; there was no BMI effect, and gastrointestinal events were more common with dulaglutide. Funded by Eli Lilly."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}

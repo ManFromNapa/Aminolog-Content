@@ -1,0 +1,102 @@
+{
+  "id": "ghrp-6",
+  "name": "GHRP-6",
+  "aliases": [
+    "Growth hormone-releasing peptide-6",
+    "Growth hormone releasing hexapeptide",
+    "SK&F 110679"
+  ],
+  "regulatory_status": "unapproved",
+  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor and is known for stimulating appetite. It has no FDA-approved product. It has been used as a diagnostic stimulation test in endocrine research and is promoted online for muscle gain, appetite and recovery, which has not been shown in controlled human trials found for this entry. FDA lists it as a bulk substance that may present significant safety risks for compounding.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "A single intravenous bolus of 100, 200 or 400 micrograms per kg in a pharmacokinetic study.",
+        "population": "Nine healthy men",
+        "citation_id": "pmid-23099431"
+      },
+      {
+        "text": "1 microgram per kg was used for a stimulation test of cortisol response (the route is not stated in the abstract).",
+        "population": "49 patients with suspected pituitary-adrenal disease and 20 healthy controls",
+        "citation_id": "pmid-19946832"
+      },
+      {
+        "text": "1 microgram per kg intravenously, together with GHRH, as a diagnostic growth hormone test.",
+        "population": "Children with growth hormone deficiency and healthy controls",
+        "citation_id": "pmid-18772594"
+      }
+    ]
+  },
+  "internet_claims": [
+    {
+      "claim": "A peptide wiki guide describes GHRP-6 as the strongest appetite stimulant of the growth hormone-releasing peptides, with beginner to advanced dosing protocols and stacking with CJC-1295, while stating it is not FDA-approved and is banned by WADA.",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ghrp-6",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "claim": "A comparison page says GHRP-6 causes intense hunger that suits bulking but works against fat loss, raises cortisol and prolactin more than GHRP-2, and is not FDA-approved.",
+      "source_type": "website",
+      "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-23099431",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23099431",
+      "year": 2013,
+      "summary": "Pharmacokinetic study of single intravenous GHRP-6 doses in nine healthy men (Eur J Pharm Sci).",
+      "finding": "Elimination half-life averaged about 2.5 hours and exposure rose with dose; unexplained concentration spikes appeared in four of nine men. No efficacy or safety conclusions."
+    },
+    {
+      "id": "pmid-19946832",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19946832",
+      "year": 2010,
+      "summary": "Comparison of a GHRP-6 test with the insulin tolerance test for diagnosing adrenal insufficiency in 49 patients and 20 controls (Horm Metab Res).",
+      "finding": "GHRP-6 activated the cortisol axis with no detectable side effects, but accuracy was limited (sensitivity 71%, specificity 78%) compared with the insulin test. Diagnostic use only."
+    },
+    {
+      "id": "pmid-18772594",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18772594",
+      "year": 2008,
+      "summary": "Combined GHRH plus GHRP-6 test in 35 children with growth hormone deficiency, 15 with neurosecretory dysfunction and 20 controls (Horm Res).",
+      "finding": "The combined test identified children with severe growth hormone insufficiency, though six were non-responders. Diagnostic study, not treatment."
+    },
+    {
+      "id": "pmid-22791951",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "22791951",
+      "year": 2012,
+      "summary": "Rat study of stress-induced stomach lesions and GHRP-6 injected beforehand (World J Gastroenterol).",
+      "finding": "GHRP-6 given by intraperitoneal injection prevented the lesions, and brain injection did not. Rat findings do not show a benefit in people."
+    },
+    {
+      "id": "fda-category2-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "finding": "GHRP-6 is listed under category 2 for 503B, added 29 September 2023. FDA cites immunogenicity risk and limited safety information, with safety concerns including a potential effect on cortisol and increased blood glucose from reduced insulin sensitivity."
+    },
+    {
+      "id": "fda-warning-tailor-made-2020",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tailor-made-compounding-llc-594743-04012020",
+      "year": 2020,
+      "summary": "FDA warning letter to a compounding pharmacy (1 April 2020), fetched 2026-09-30.",
+      "finding": "The letter lists GHRP-6 among substances the pharmacy compounded and says products made from them were not eligible for the section 503A exemptions; it notes GHRP-6 was nominated without adequate support for FDA to evaluate it."
+    }
+  ],
+  "last_reviewed": "2026-09-30"
+}
