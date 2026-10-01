@@ -1,0 +1,141 @@
+{
+  "id": "oxytocin",
+  "name": "Oxytocin",
+  "aliases": [
+    "Pitocin",
+    "oxytocin nasal spray",
+    "intranasal oxytocin",
+    "OT",
+    "love hormone",
+    "bonding hormone"
+  ],
+  "regulatory_status": "approved",
+  "category": "sexual_reproductive",
+  "compound_type": "peptide",
+  "used_for": "Oxytocin is a nine amino acid peptide hormone. The FDA-approved product (Pitocin, injection) is labeled for hospital use in labor induction and stimulation, adjunct management of incomplete abortion, and control of postpartum bleeding. Compounded nasal sprays, sublingual troches and creams are marketed online for mood, bonding, stress and sexual function, but these uses are not FDA-approved, and randomized trials of the nasal route in autism and alcohol use disorder have not shown clear benefit.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "The Pitocin label states the product is for intravenous infusion or intramuscular injection, that for induction or augmentation of labor it is to be given only by the intravenous route under adequate medical supervision in a hospital, and that patients receiving intravenous oxytocin need continuous observation by trained personnel.",
+      "label": "research",
+      "citation_id": "fda-pitocin-label"
+    },
+    {
+      "text": "The Pitocin label states uterine response begins almost immediately after intravenous administration and subsides within about 1 hour, and begins within 3 to 5 minutes after intramuscular injection and lasts 2 to 3 hours; plasma half-life is about 1 to 6 minutes.",
+      "label": "research",
+      "citation_id": "fda-pitocin-label"
+    },
+    {
+      "text": "The Pitocin label states the vials are stored at controlled room temperature (20 to 25 C).",
+      "label": "research",
+      "citation_id": "fda-pitocin-label"
+    },
+    {
+      "text": "A placebo-controlled trial of intranasal oxytocin in children and adolescents with autism gave it intranasally every day over 24 weeks and reported adverse events similar between the oxytocin and placebo groups.",
+      "label": "research",
+      "citation_id": "sikich-2021"
+    },
+    {
+      "text": "Wikipedia's oxytocin medication article says oxytocin can be given by injection or as an intranasal spray used in psychiatric and endocrine contexts, that nasal oxytocin is thought to reach the brain along the olfactory nerve, and that sublingual absorption is poor.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Oxytocin_(medication)",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A blogger with affiliate links says he favors sublingual or nasal oxytocin, advises using it around specific romantic occasions rather than every day because of its short half-life, and says it can make a person feel bonded to whoever is present at the time.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Pitocin label lists maternal adverse reactions including anaphylaxis, cardiac arrhythmia, hypertensive episodes, nausea, vomiting, postpartum hemorrhage, uterine rupture and subarachnoid hemorrhage, and states that severe water intoxication with convulsions and coma, and maternal death from water intoxication, have been reported.",
+      "label": "research",
+      "citation_id": "fda-pitocin-label"
+    },
+    {
+      "text": "The Pitocin label lists neonatal reactions including bradycardia, low Apgar scores, neonatal jaundice, retinal hemorrhage, seizures and fetal death, and states it is not indicated for elective induction of labor.",
+      "label": "research",
+      "citation_id": "fda-pitocin-label"
+    },
+    {
+      "text": "In the 24-week intranasal oxytocin trial in children with autism, the authors reported the incidence and severity of adverse events was similar in the oxytocin and placebo groups.",
+      "label": "research",
+      "citation_id": "sikich-2021"
+    },
+    {
+      "text": "In a 12-week placebo-controlled trial of intranasal oxytocin in people with alcohol use disorder, the authors reported the treatment was well tolerated with mild adverse events comparable across groups.",
+      "label": "research",
+      "citation_id": "aud-2026"
+    },
+    {
+      "text": "A 2019 systematic review of 15 randomized trials of intranasal oxytocin in anxiety and depression (Clinical Psychopharmacology and Neuroscience) reported that in the studies that tracked adverse reactions, jitteriness, nervousness, dry mouth and drowsiness occurred about equally with oxytocin and placebo.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6361048/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Alzforum's page on intranasal oxytocin says it has been studied for frontotemporal dementia, autism, schizophrenia and PTSD, and that in an early dementia trial about one third of treated patients showed more inappropriate sexual behavior.",
+      "source_type": "website",
+      "url": "https://www.alzforum.org/therapeutics/intranasal-oxytocin",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says intranasal oxytocin shows potential in autism, anxiety disorders and PTSD but that the evidence is limited, and that it may improve recognition of positive social cues.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Oxytocin_(medication)",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A 2019 systematic review of 15 randomized trials concluded that evidence for intranasal oxytocin in anxiety and depression remains inconclusive, with most studies using a single administration.",
+      "source_type": "website",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6361048/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A Substack author with affiliate links promotes exogenous oxytocin for bonding, sexual desire and intimacy while acknowledging trials show it does not beat placebo for sexual quality, and passes on an anecdote of depersonalization.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-pitocin-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+      "year": 2026,
+      "summary": "FDA DailyMed prescribing information for Pitocin (oxytocin injection, USP), Par Health, revised May 2026.",
+      "finding": "Indicated for medically indicated induction or stimulation of labor, adjunct therapy in incomplete or inevitable abortion, and control of postpartum bleeding; not for elective induction; intravenous use in a hospital for labor."
+    },
+    {
+      "id": "sikich-2021",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34644471",
+      "year": 2021,
+      "summary": "24-week randomized placebo-controlled phase 2 trial of intranasal oxytocin in 290 children and adolescents aged 3 to 17 with autism spectrum disorder.",
+      "finding": "No difference from placebo on the primary social withdrawal measure (difference -0.2, 95% CI -1.5 to 1.0); secondary outcomes generally did not differ; adverse events were similar in both groups."
+    },
+    {
+      "id": "aud-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42458234",
+      "year": 2026,
+      "summary": "12-week randomized double-blind placebo-controlled multisite trial of intranasal oxytocin in 100 people with alcohol use disorder.",
+      "finding": "No significant difference in percent heavy drinking days during maintenance; lower anger and aggression scores with oxytocin; well tolerated with mild adverse events."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "foxo4-dri",
+  "name": "FOXO4-DRI",
+  "aliases": [
+    "FOXO4 D-retro-inverso",
+    "Senolytic peptide",
+    "FOXO4-p53 interfering peptide"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "longevity_mitochondrial",
+  "compound_type": "peptide",
+  "used_for": "A synthetic D-retro-inverso peptide designed to disrupt the FOXO4-p53 interaction so that senescent cells undergo apoptosis (a senolytic). It is sold online as an anti-aging research peptide. Data are from cells and mice only, including a rodent study in which clearing senescent cells worsened pulmonary hypertension, and no registered human trial was found. It is not an approved drug.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "A peptide guide site (peptidedosingprotocols.com, which carries affiliate links to sellers) says animal studies used injection by the intraperitoneal or intravenous route, that subcutaneous use appears only in community reports and is untested in humans, and that dry powder is stored at -20 C while mixed solution is kept at 2 to 8 C and used within a short window.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A peptide guide site (peptidedosingprotocols.com, with affiliate links) says no human side effects are documented because the peptide has not been tested in people, and lists theoretical concerns including unintended cell death, immune burden from clearing dead cells, impaired wound healing and injection-site irritation.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A rodent study found that eliminating senescent cells, including with FOXO4-DRI, promoted development and progression of pulmonary hypertension in mice and rats (animal study).",
+      "label": "research",
+      "citation_id": "pmid-36515093"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A peptide guide site (peptidedosingprotocols.com, with affiliate links) describes FOXO4-DRI as a senolytic that frees p53 to trigger death of senescent cells, and states that all data come from mouse and cell work with no registered human trials.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-28340339",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "28340339",
+      "year": 2017,
+      "summary": "Original description (Cell) of the FOXO4 peptide that disrupts FOXO4-p53 binding, tested in senescent cells and in mice.",
+      "finding": "In senescent cells it caused p53 nuclear exclusion and apoptosis, and in mice it countered doxorubicin toxicity and improved fitness, fur density and renal function in fast-aging and naturally aged animals. Cell and mouse data."
+    },
+    {
+      "id": "pmid-31959736",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "31959736",
+      "year": 2020,
+      "summary": "Mouse study (Aging (Albany NY)) of FOXO4-DRI in senescent Leydig cells and naturally aged mice.",
+      "finding": "FOXO4-DRI induced apoptosis of senescent Leydig cells and alleviated age-related testosterone insufficiency in aged mice. Animal data only."
+    },
+    {
+      "id": "pmid-33996787",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "33996787",
+      "year": 2021,
+      "summary": "Cell-culture study (Front Bioeng Biotechnol) in expanded human chondrocytes.",
+      "finding": "FOXO4-DRI removed more than half of the cells at later passage and lowered senescence markers but did not improve cartilage-forming potential. Cell data only."
+    },
+    {
+      "id": "pmid-36515093",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "36515093",
+      "year": 2023,
+      "summary": "Study (Circulation) of senescent cells in patients with pulmonary arterial hypertension and in rodent models, using several methods of clearing senescent cells including FOXO4-DRI.",
+      "finding": "Senescent cell clearance promoted pulmonary hypertension development and progression in rodents, a safety signal for senolytic approaches. Animal data."
+    },
+    {
+      "id": "pmid-40593617",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "40593617",
+      "year": 2025,
+      "summary": "Structural biology study (Nat Commun) using NMR of FOXO4, p53 and FOXO4-DRI.",
+      "finding": "FOXO4-DRI binds the disordered p53 transactivation domain, which explains its mechanism. Laboratory data only."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

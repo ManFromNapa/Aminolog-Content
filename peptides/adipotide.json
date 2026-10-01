@@ -1,0 +1,99 @@
+{
+  "id": "adipotide",
+  "name": "Adipotide",
+  "aliases": [
+    "FTPP",
+    "Fat-targeted proapoptotic peptide",
+    "Prohibitin-targeting peptide 1",
+    "CKGGRAKDC-GG-D(KLAKLAK)2"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "weight_metabolic",
+  "compound_type": "peptide",
+  "used_for": "Adipotide (FTPP) is a peptidomimetic, a peptide-like molecule containing D-amino acids, that homes to prohibitin on blood vessels supplying white fat and triggers cell death in them. It caused fat loss and improved insulin resistance in obese monkeys, with reversible kidney tubule changes at the doses tested, and is sold online as a 'research chemical' for fat loss. No published human trial results were found and no registered ClinicalTrials.gov trial was found; it is not approved by the FDA and not a legal compounded drug.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "In the primate study, adipotide was given by subcutaneous injection for several weeks; the report found that kidney proximal tubule changes depended on the amount used and were reversible.",
+      "label": "research",
+      "citation_id": "r-monkey-2011"
+    },
+    {
+      "text": "A peptide supplier directory (peptideprotocolwiki.com, which lists research vendors with prices) says lyophilized adipotide is stored frozen and that a reconstituted solution is kept refrigerated at 2 to 8 C for short-term use, protected from light, and notes no time of day has been established.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A peptide information site (knowyourpeptide.com, which links to a COA-ranked vendor list) says lyophilized adipotide is kept at -80 C long term or -20 C for about six months.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In obese monkeys of three species, adipotide produced predictable and reversible changes in renal proximal tubule function at the optimal amounts.",
+      "label": "research",
+      "citation_id": "r-monkey-2011"
+    },
+    {
+      "text": "In the original mouse study, obesity reversed without detectable adverse effects, but this was an animal study only.",
+      "label": "research",
+      "citation_id": "r-mouse-2004"
+    },
+    {
+      "text": "Superpower, a health testing company that says it does not offer adipotide, says the main documented safety concern is dose-dependent but reversible renal tubular degeneration with raised serum creatinine seen in primates, never characterized in humans.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/adipotide",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Superpower says adipotide is not FDA approved, has no compounding classification or legal pathway for human use in the US, and that a phase 1 oncology trial announced around 2012 produced no peer-reviewed results.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/adipotide",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A peptide information site with vendor links says monkeys lost about 11% of body weight in four weeks without dietary restriction and says no human trials were completed because of kidney toxicity concerns.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A research peptide vendor directory calls adipotide highly experimental and advises avoiding it in people with kidney disease, while also saying it is available only as a research chemical.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-monkey-2011",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "22072637",
+      "year": 2011,
+      "summary": "Study (Sci Transl Med) of adipotide in obese Old World monkeys.",
+      "finding": "Treatment induced apoptosis in white fat blood vessels with rapid weight loss, reduced white fat on imaging and improved insulin resistance. Reversible renal proximal tubule changes were seen at optimal doses. Animal data only."
+    },
+    {
+      "id": "r-mouse-2004",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "15133506",
+      "year": 2004,
+      "summary": "Original study (Nat Med) identifying the fat vasculature-homing peptide, showing it binds prohibitin, and testing a proapoptotic version in obese mice.",
+      "finding": "White fat was ablated and obesity reversed in mice without detectable adverse effects. Prohibitin is also expressed in human white fat vessels, but no human efficacy or safety data come from this paper."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

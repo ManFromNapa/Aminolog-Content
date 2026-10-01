@@ -1,0 +1,90 @@
+{
+  "id": "slu-pp-332",
+  "name": "SLU-PP-332",
+  "aliases": [
+    "SLU PP 332",
+    "SLU-PP332",
+    "exercise mimetic",
+    "ERR agonist",
+    "estrogen-related receptor agonist"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "longevity_mitochondrial",
+  "compound_type": "small_molecule",
+  "used_for": "A synthetic small molecule that activates the estrogen-related receptors (ERR alpha, beta and gamma), developed in academic labs and described as an exercise mimetic. It is not a peptide. Published work is in mice and cell models, where it increased exercise endurance, energy expenditure and fat oxidation and reduced fat gain. No human trials were found and no FDA approval was found.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "A University of Florida news release says the compound is given by injection in mouse studies and that researchers hope to develop a pill, but must first refine it and test it in more animal models before human trials.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The University of Florida release says that so far the drug has not produced severe side effects in the mouse studies, with more testing needed.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A University of Florida news release says obese mice given the compound lost about 12% of body weight over one month without eating less, and normal mice ran about 70% longer and 45% farther.",
+      "source_type": "website",
+      "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia describes SLU-PP-332 as a potent but non-selective ERR agonist, lists only mouse data, and gives no human clinical data or safety information.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/SLU-PP-332",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "slu-acs-chem-biol-2023",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "36988910",
+      "year": 2023,
+      "summary": "Identification of SLU-PP-332 as a pan-ERR agonist (highest potency at ERR alpha) tested in muscle cells and mice.",
+      "finding": "Increased mitochondrial function in muscle cells and, in mice, oxidative muscle fibers and exercise endurance; effects depended on ERR alpha."
+    },
+    {
+      "id": "slu-jpet-2024",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "37739806",
+      "year": 2024,
+      "summary": "Study of SLU-PP-332 in diet-induced obese and ob/ob mice.",
+      "finding": "Increased energy expenditure and fatty acid oxidation, decreased fat mass gain and improved insulin sensitivity in mice."
+    },
+    {
+      "id": "slu-circulation-2024",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "37961903",
+      "year": 2024,
+      "summary": "Mouse study of pan-ERR agonists, including SLU-PP-332, in heart failure models.",
+      "finding": "In a mouse pressure-overload heart failure model, SLU-PP-332 and SLU-PP-915 improved ejection fraction, reduced fibrosis and increased survival, with activation of fatty acid metabolism and mitochondrial genes."
+    },
+    {
+      "id": "slu-metabolism-2026",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "41588687",
+      "year": 2026,
+      "summary": "Analytical and in vitro human liver metabolism study of SLU-PP-332 and SLU-PP-915 for sports drug testing.",
+      "finding": "Identified nine in vitro metabolites of SLU-PP-332; describes the compounds as investigational exercise mimetics with doping potential."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

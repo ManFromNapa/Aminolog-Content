@@ -1,0 +1,91 @@
+{
+  "id": "tesofensine",
+  "name": "Tesofensine",
+  "aliases": [
+    "NS2330",
+    "Tesomet (with metoprolol)",
+    "NeuroSearch tesofensine"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "weight_metabolic",
+  "compound_type": "small_molecule",
+  "used_for": "A small-molecule serotonin, noradrenaline and dopamine reuptake inhibitor, not a peptide. It was first studied for Alzheimer's and Parkinson's disease, where weight loss emerged as an effect, and was then studied for obesity, including a combination with metoprolol (Tesomet). A phase 2 trial found weight loss beyond diet alone, with dry mouth, insomnia and heart rate increases reported. Wikipedia states it has no approval for sale anywhere.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "A Wikipedia summary lists dry mouth, headache, nausea, insomnia, diarrhea and constipation as common adverse events with tesofensine, and notes small blood pressure and heart rate increases.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Tesofensine",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a 24-week phase 2 trial in 203 obese adults, the most common adverse events with tesofensine were dry mouth, nausea, constipation, hard stools, diarrhea and insomnia, and heart rate rose by 7.4 beats per minute in one dose group.",
+      "label": "research",
+      "citation_id": "tesofensine-lancet-2008"
+    },
+    {
+      "text": "In a small randomized trial of Tesomet (tesofensine with metoprolol) in hypothalamic obesity, related events were mostly mild: sleep disturbances (50% vs 13% placebo), dry mouth (43% vs 0%) and headache (36% vs 0%), with one serious event of worsened anxiety.",
+      "label": "research",
+      "citation_id": "tesomet-ho-2022"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Wikipedia says tesofensine originated at NeuroSearch, was redirected to obesity after weight loss was reported in Alzheimer's and Parkinson's trials, and has not been approved for sale anywhere.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Tesofensine",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia reports phase 2b trial weight losses roughly double those of approved drugs available in 2008, with small blood pressure changes and heart rate increases of up to about 8 beats per minute.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Tesofensine",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "tesofensine-lancet-2008",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18950853",
+      "year": 2008,
+      "summary": "Phase 2 randomized, double-blind, placebo-controlled trial (NCT00394667) of tesofensine for 24 weeks with an energy-restricted diet in 203 obese adults at Danish centers.",
+      "finding": "Weight loss was greater than diet and placebo (about 2%) in all tesofensine groups, up to about 10.6% in the highest dose group; adverse events included dry mouth, nausea, constipation, insomnia and a heart rate increase."
+    },
+    {
+      "id": "tesomet-ho-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "35294397",
+      "year": 2022,
+      "summary": "Randomized placebo-controlled trial of Tesomet (tesofensine with metoprolol) for 24 weeks in 21 adults with hypothalamic obesity.",
+      "finding": "Tesomet produced about 6.3% additional weight loss vs placebo with no significant heart rate or blood pressure differences; the trial was very small."
+    },
+    {
+      "id": "tesofensine-appetite-2010",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20479765",
+      "year": 2010,
+      "summary": "Randomized placebo-controlled study of tesofensine's effect on energy metabolism and appetite in overweight and obese adults.",
+      "finding": "In 32 overweight men over 2 weeks, tesofensine produced about 1.8 kg more weight loss than placebo and higher satiety ratings; the abstract excerpt reviewed did not show a significant effect on total 24-hour energy expenditure. Small, short study."
+    },
+    {
+      "id": "tesofensine-nct",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT00394667",
+      "year": 2006,
+      "summary": "Registry record for the phase 2 trial of tesofensine on weight reduction in obese patients (completed).",
+      "finding": "Confirms the trial is registered on ClinicalTrials.gov."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

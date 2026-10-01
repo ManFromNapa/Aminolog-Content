@@ -1,0 +1,117 @@
+{
+  "id": "exenatide",
+  "name": "Exenatide",
+  "aliases": [
+    "Byetta",
+    "Bydureon",
+    "Bydureon BCise",
+    "exendin-4",
+    "Gila monster peptide"
+  ],
+  "regulatory_status": "approved",
+  "category": "weight_metabolic",
+  "compound_type": "peptide",
+  "used_for": "Exenatide is a 39 amino acid GLP-1 receptor agonist, a synthetic version of exendin-4 from Gila monster saliva. Byetta is FDA-labeled as an adjunct to diet and exercise for glycemic control in adults with type 2 diabetes, and Drugs@FDA lists the once-weekly Bydureon BCise as discontinued while the Byetta label and a generic exenatide injection remain on DailyMed. It is a diabetes drug, weight loss in trials was modest, and it has also been studied in Parkinson's disease.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "The Byetta label states it is injected subcutaneously within 60 minutes before the morning and evening meals (or the two main meals about 6 hours or more apart), not after a meal, and a missed dose is skipped rather than doubled.",
+      "label": "research",
+      "citation_id": "fda-byetta-label"
+    },
+    {
+      "text": "The Byetta label states an unused pen is refrigerated at 2 to 8 C in the carton, after first use it is kept below 25 C, it must not be frozen or used if frozen, it is protected from light, and the needle is not stored attached.",
+      "label": "research",
+      "citation_id": "fda-byetta-label"
+    },
+    {
+      "text": "The Byetta label states coadministration with other exenatide-containing products is not recommended and that pens must never be shared between patients.",
+      "label": "research",
+      "citation_id": "fda-byetta-label"
+    },
+    {
+      "text": "WebMD reviewers of Byetta say patients typically inject about 30 minutes before breakfast and dinner, and that nausea often settles within weeks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Byetta label lists nausea, hypoglycemia, vomiting, diarrhea, feeling jittery, dizziness, headache, dyspepsia, constipation and asthenia as the most common reactions, and notes nausea usually decreases over time.",
+      "label": "research",
+      "citation_id": "fda-byetta-label"
+    },
+    {
+      "text": "The Byetta label warns of pancreatitis, hypoglycemia when used with insulin secretagogues or insulin, acute kidney injury, severe gastroparesis, and antibody formation.",
+      "label": "research",
+      "citation_id": "fda-byetta-label"
+    },
+    {
+      "text": "In a 30-week placebo-controlled trial with metformin, the most frequent adverse events were gastrointestinal and mostly mild to moderate, hypoglycemia was low and similar across groups, and the higher-dose arm lost about 2.8 kg versus placebo.",
+      "label": "research",
+      "citation_id": "defronzo-2005"
+    },
+    {
+      "text": "WebMD reviewers of Byetta report nausea as the most common problem (some for weeks), constipation and injection site reactions, with weight loss varying widely from none to large.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "WebMD patient reviews average 3.9 out of 5 across 421 reviews, with about 81% reporting a positive effect, including reports of large weight loss in some users and none in others.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "WebMD says the brand Bydureon BCise was discontinued by the drugmaker and that generic exenatide remains available.",
+      "source_type": "website",
+      "url": "https://www.webmd.com/drugs/bydureon-bcise-exenatide",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says exenatide was developed from Gila monster saliva, and that a 2025 Lancet trial in Parkinson's disease found no benefit over 96 weeks.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Exenatide",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-byetta-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=53d03c03-ebf7-418d-88a8-533eabd2ee4f",
+      "year": 2025,
+      "summary": "FDA DailyMed prescribing information for Byetta (exenatide) injection, AstraZeneca, revised September 2025.",
+      "finding": "Labeled as an adjunct to diet and exercise for glycemic control in adults with type 2 diabetes; not recommended with other exenatide products."
+    },
+    {
+      "id": "fda-bydureon-daf",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=209210",
+      "year": 2025,
+      "summary": "Drugs@FDA overview page for Bydureon BCise (NDA 209210).",
+      "finding": "Lists the marketing status of Bydureon BCise as Discontinued; approval history runs through 2025."
+    },
+    {
+      "id": "defronzo-2005",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15855572",
+      "year": 2005,
+      "summary": "Triple-blind placebo-controlled 30-week trial of exenatide in 336 metformin-treated patients with type 2 diabetes.",
+      "finding": "HbA1c fell 0.78% (higher-dose arm) and 0.40% versus a 0.08% rise on placebo, with dose-dependent weight loss and low hypoglycemia."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

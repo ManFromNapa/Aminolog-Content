@@ -1,0 +1,70 @@
+{
+  "id": "dihexa",
+  "name": "Dihexa",
+  "aliases": [
+    "N-hexanoic-Tyr-Ile-(6) aminohexanoic amide",
+    "Angiotensin IV analog",
+    "Dihexa nootropic"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
+  "compound_type": "peptide",
+  "used_for": "A modified small peptide-like compound (a peptidomimetic) derived from angiotensin IV and designed to be orally active and cross the blood-brain barrier. It is sold online as a nootropic, based on rodent studies showing improved spatial learning and increased synapse formation through the hepatocyte growth factor (HGF) and c-Met system (a key 2014 mechanism paper has since been retracted). No completed human trial of dihexa was found, and it is not an approved drug in the US.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "A seller (Real Peptides) summarizing community reports says dihexa is used orally or sublingually most often, less often by subcutaneous injection, that effects are said to emerge over several weeks rather than days, and that reconstituted material is kept refrigerated at 2 to 8 C.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Wikipedia's article says patent literature describes short safety studies of dihexa with no apparent toxicity, but the statement carries citation-needed tags and the article cites no human clinical data.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Dihexa",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A peptide seller (Real Peptides) says Reddit users report improved memory consolidation, verbal fluency and problem solving with dihexa, with mixed results and variable product purity, and notes that human long-term safety data do not exist.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia's article describes dihexa as derived from angiotensin IV, as binding hepatocyte growth factor and potentiating c-Met, and as having only animal evidence, with a related prodrug (fosgonimeton) studied in neurodegenerative disease.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Dihexa",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-23055539",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "23055539",
+      "year": 2013,
+      "summary": "Medicinal chemistry and rat study (J Pharmacol Exp Ther) describing how stabilized angiotensin IV analogs led to dihexa.",
+      "finding": "Dihexa was reported as an orally active, barrier-permeant analog that reversed scopolamine-induced Morris water maze deficits in rats and increased hippocampal synaptogenesis. Animal and cell data."
+    },
+    {
+      "id": "pmid-34827486",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "34827486",
+      "year": 2021,
+      "summary": "Mouse study (Brain Sci) of dihexa in the APP/PS1 Alzheimer model.",
+      "finding": "Dihexa improved water-maze performance and reduced glial activation and inflammatory cytokines through the PI3K/AKT pathway. Animal data only."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

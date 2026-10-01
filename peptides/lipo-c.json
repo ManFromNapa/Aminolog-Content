@@ -1,0 +1,62 @@
+{
+  "id": "lipo-c",
+  "name": "Lipo-C and MIC injections",
+  "aliases": [
+    "Lipo-C",
+    "Lipo-C injection",
+    "MIC injection",
+    "MIC B12",
+    "lipotropic injection",
+    "lipo shot",
+    "methionine inositol choline"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "weight_metabolic",
+  "compound_type": "mixture",
+  "used_for": "Lipotropic injections are compounded mixtures, commonly methionine, inositol and choline (MIC) and sometimes vitamin B12, carnitine or other additions, given intramuscularly or subcutaneously in clinics and med spas for fat loss. Contents vary by clinic, and they are not FDA-approved for weight loss. Sources read state that controlled evidence for the injected mixtures is minimal or absent, and no registered trials or controlled studies were found for this entry.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "Medical News Today says lipotropic injections contain vitamin B12, methionine, inositol and choline in varying combinations, and that the schedule differs by clinic with no scientific data supporting any particular schedule.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A Fastic blog says MIC B12 injections are given intramuscularly or subcutaneously, typically once or twice a week, with no official guidelines on dosage or frequency.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://fastic.com/en/blog/mic-b12-injections-before-and-after",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Medical News Today says research on side effects is limited and that known risks include injection site pain, with possible interactions with medications or conditions.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Medical News Today says lipotropic injections are marketed to promote fat burning and weight loss with diet and exercise, but scientific proof is minimal and they are not approved by the FDA for weight loss.",
+      "source_type": "website",
+      "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Fastic says users report weight loss mostly through anecdotal accounts, and that the article found no scientific evidence that MIC B12 shots aid weight loss; the page promotes a fasting app.",
+      "source_type": "website",
+      "url": "https://fastic.com/en/blog/mic-b12-injections-before-and-after",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

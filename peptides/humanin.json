@@ -1,0 +1,75 @@
+{
+  "id": "humanin",
+  "name": "Humanin",
+  "aliases": [
+    "HN",
+    "HNG",
+    "S14G-humanin",
+    "Mitochondrial-derived peptide",
+    "MDP"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "longevity_mitochondrial",
+  "compound_type": "peptide",
+  "used_for": "A 24-amino-acid peptide encoded in mitochondrial DNA, studied as a cytoprotective and neuroprotective signal. Most research is in cells and rodents, often with the more potent S14G analog (HNG), plus observational human work linking higher circulating levels to longevity. It is sold online as a longevity peptide, but no human intervention trial was found and it is not an approved drug.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "A peptide guide site (The Peptide Index, which carries affiliate links to sellers) says subcutaneous injection is standard, that morning use is preferred with consistent timing, and that reconstituted product is kept refrigerated and used within 30 days.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A peptide guide site (The Peptide Index, which carries affiliate links) says side effects are minimal, with occasional injection-site reactions, transient fatigue or mild headache, and lists active cancer, pregnancy and autoimmune conditions as contraindications, while acknowledging that human clinical data are limited.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A peptide guide site (The Peptide Index, with affiliate links) describes humanin as a mitochondrial signaling peptide claimed to support cell protection, insulin sensitivity, neuroprotection, anti-inflammatory effects and energy, while acknowledging that most evidence comes from animals.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-16960089",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "16960089",
+      "year": 2006,
+      "summary": "Mouse stroke study (Stroke) of the potent analog HNG given before or after middle cerebral artery occlusion.",
+      "finding": "HNG reduced infarct volume, improved neurological function and reduced neuronal apoptosis in mice. Animal data only."
+    },
+    {
+      "id": "pmid-23836030",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "23836030",
+      "year": 2013,
+      "summary": "Rodent pharmacokinetic study (Endocrinology) of injected humanin analogues in mice and rats.",
+      "finding": "Analogs differed in half-life, and HNG levels were found in plasma and liver but were undetectable in brain or heart of rats. Animal data only."
+    },
+    {
+      "id": "pmid-32575074",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "32575074",
+      "year": 2020,
+      "summary": "Aging study (Aging (Albany NY)) in worms, mice and humans.",
+      "finding": "Humanin overexpression increased lifespan in C. elegans, HNG treatment improved metabolic healthspan measures in middle-aged mice, and circulating humanin was higher in children of centenarians and lower in Alzheimer's disease and MELAS. Mostly animal and observational data."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

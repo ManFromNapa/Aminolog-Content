@@ -6,14 +6,13 @@
   ],
   "components": [
     "sermorelin",
-    "bpc-157"
+    "bpc-157",
+    "testosterone"
   ],
-  "other_components": [
-    "testosterone (a hormone, not a peptide)"
-  ],
+  "other_components": [],
   "regulatory_status": "unapproved",
   "used_for": "Marketed by clinics as an add-on to testosterone replacement therapy that is said to amplify its results.",
-  "summary": "This blend pairs sermorelin and BPC-157 (unapproved peptides) with testosterone, a steroid hormone rather than a peptide (the app has no page for testosterone). No approved product contains the combination and no combination-specific human study was found. A clinic page says such stacks rest more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Sermorelin and BPC-157); formulations vary by seller.",
+  "summary": "This blend pairs sermorelin and BPC-157 (unapproved peptides) with testosterone, a steroid hormone rather than a peptide (it has its own Library page, which is not a peptide page). No approved product contains the combination and no combination-specific human study was found. A clinic page says such stacks rest more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Sermorelin, BPC-157 and Testosterone); formulations vary by seller.",
   "administration_guidance": [],
   "side_effects": [],
   "internet_claims": [

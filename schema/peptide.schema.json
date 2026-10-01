@@ -10,6 +10,7 @@
     "aliases": {"type":"array","items":{"type":"string"}},
     "regulatory_status": {"enum":["approved","investigational","unapproved"]},
     "category": {"enum":["weight_metabolic","growth_hormone","sexual_reproductive","tissue_repair","skin_pigmentation","immune_inflammation","cognitive_mood","longevity_mitochondrial","other_medical"]},
+    "compound_type": {"enum":["peptide","protein","small_molecule","coenzyme","hormone","mixture"]},
     "used_for": {"type":"string","minLength":1},
     "dosing": {
       "type":"object","additionalProperties":false,

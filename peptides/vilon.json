@@ -1,0 +1,88 @@
+{
+  "id": "vilon",
+  "name": "Vilon",
+  "aliases": [
+    "Lys-Glu",
+    "KE dipeptide",
+    "Lysylglutamate",
+    "Khavinson thymus peptide"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "immune_inflammation",
+  "compound_type": "peptide",
+  "used_for": "A synthetic dipeptide (Lys-Glu) developed by the Khavinson group as the smallest active fragment of thymalin, promoted online as an immune and anti-aging bioregulator. Evidence is cell and animal work from the originating network (mice with longer lifespan and fewer spontaneous tumors) and gene-expression studies. No human trial of vilon alone was found, and it is not an approved drug.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "An educational site (Peptides Institute, which carries no sales or affiliate links) says subcutaneous injection is the main route, that intranasal and oral use appear in Russian research, and that reconstituted product is refrigerated at 2 to 8 C and used within 30 days.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.peptidesinstitute.org/peptides/vilon",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a mouse study, long-term vilon administration was reported to cause no unfavourable effects on animal development (animal study).",
+      "label": "research",
+      "citation_id": "pmid-11140587"
+    },
+    {
+      "text": "An educational site (Peptides Institute) lists injection-site reactions, transient fatigue and mild headache, with theoretical concerns about immune hyperstimulation, and lists active autoimmune disease and immunosuppressant use as contraindications.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.peptidesinstitute.org/peptides/vilon",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "An educational site (Peptides Institute) says vilon promotes T-lymphocyte proliferation and vascular protection and extended lifespan in animals, while stating that human clinical data are limited and that it is not FDA or EMA approved.",
+      "source_type": "website",
+      "url": "https://www.peptidesinstitute.org/peptides/vilon",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-11140587",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11140587",
+      "year": 2000,
+      "summary": "Mouse study (Bull Exp Biol Med) of subcutaneous vilon in female CBA mice starting at 6 months of age.",
+      "finding": "Vilon increased physical activity and endurance, prolonged lifespan and prevented spontaneous neoplasms, with no unfavourable effects reported. Animal data from the originating group."
+    },
+    {
+      "id": "pmid-10944717",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "10944717",
+      "year": 2000,
+      "summary": "Mouse study (Dokl Biol Sci) of vilon (L-Lys-L-Glu) and spontaneous tumors. No abstract is available in PubMed.",
+      "finding": "The title reports that vilon inhibited growth of spontaneous tumors and increased lifespan in mice. Animal data from the originating group."
+    },
+    {
+      "id": "pmid-12360356",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "12360356",
+      "year": 2002,
+      "summary": "Mouse study (Bull Exp Biol Med) using DNA microarrays on heart tissue after vilon and epithalon.",
+      "finding": "Vilon changed expression of 36 clones by more than two-fold. Animal data only."
+    },
+    {
+      "id": "pmid-32399807",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "32399807",
+      "year": 2020,
+      "summary": "Cell-culture study (Mol Biol Rep) of Lys-Glu and related short peptides in aging human mesenchymal stem cell cultures.",
+      "finding": "The peptides altered expression of IGF1, FOXO1, TERT, TNKS2 and NFkB genes. Cell data only."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

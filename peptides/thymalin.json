@@ -1,0 +1,73 @@
+{
+  "id": "thymalin",
+  "name": "Thymalin",
+  "aliases": [
+    "Thymus polypeptide extract",
+    "Khavinson thymus peptide",
+    "Thymic bioregulator"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "immune_inflammation",
+  "compound_type": "mixture",
+  "used_for": "A polypeptide extract from calf thymus developed by the Khavinson group in Russia and registered as a drug there, promoted online as an immune and anti-aging bioregulator. Evidence consists of Russian-language clinical reports, including a long follow-up of 266 older people with a control group from the originating institute, plus cell and animal studies. It is not approved by the FDA, and independent Western randomized evidence was not found. Its dipeptide components include Lys-Glu (KE), which is sold separately as Vilon.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "An educational site (Peptides Institute, which carries no sales or affiliate links) says thymalin is given by intramuscular or subcutaneous injection in repeated courses, and that reconstituted powder is refrigerated, used within 5 to 7 days and never frozen.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "An educational site (Peptides Institute) lists injection-site reactions and transient fever as common effects, and rare allergic reactions and possible autoimmune flares in susceptible people as theoretical risks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "An educational site (Peptides Institute) says thymalin supports immune restoration in aging, cites up to a 2-fold reduction in mortality in elderly subjects, and states that it is registered in Russia but not approved by the FDA or EMA.",
+      "source_type": "website",
+      "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-12577695",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "12577695",
+      "year": 2002,
+      "summary": "Russian-language report (Adv Gerontol) from the originating institutes following 266 older people for 6 to 8 years, with thymalin and epithalamin applied in the first 2 to 3 years, versus a control group.",
+      "finding": "The authors report fewer acute respiratory infections and lower mortality in treated groups than controls. Report from the developers, with limited methodological detail, so it cannot be judged as independent controlled evidence."
+    },
+    {
+      "id": "pmid-33237528",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "33237528",
+      "year": 2020,
+      "summary": "Cell-culture study (Bull Exp Biol Med) of thymalin on human hematopoietic stem cells.",
+      "finding": "Thymalin lowered stem cell markers and raised CD28 expression, interpreted by the authors as promoting differentiation toward mature T lymphocytes. Cell data from the originating group."
+    },
+    {
+      "id": "pmid-29797130",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "29797130",
+      "year": 2018,
+      "summary": "Rat study (Bull Exp Biol Med) of thymalin in rats with transplanted sarcoma.",
+      "finding": "Low doses of thymalin were reported to arrest or regress tumor growth in more than half of animals. Animal data only."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

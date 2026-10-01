@@ -6,14 +6,13 @@
   ],
   "components": [
     "sermorelin",
-    "mots-c"
+    "mots-c",
+    "nad-plus"
   ],
-  "other_components": [
-    "NAD+ (a coenzyme, not a peptide)"
-  ],
+  "other_components": [],
   "regulatory_status": "unapproved",
   "used_for": "Marketed by clinics as a longevity stack addressing growth hormone signaling and cellular energy together.",
-  "summary": "This blend pairs sermorelin, a growth hormone-releasing hormone fragment, and MOTS-c, an unapproved mitochondrial peptide, with NAD+, a coenzyme rather than a peptide (the app has no page for NAD+). No approved product contains the combination and no combination-specific human study was found. A clinic page says the rationale rests more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Sermorelin and MOTS-c); formulations vary by seller.",
+  "summary": "This blend pairs sermorelin, a growth hormone-releasing hormone fragment, and MOTS-c, an unapproved mitochondrial peptide, with NAD+, a coenzyme rather than a peptide (it has its own Library page, which is not a peptide page). No approved product contains the combination and no combination-specific human study was found. A clinic page says the rationale rests more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Sermorelin, MOTS-c and NAD+); formulations vary by seller.",
   "administration_guidance": [],
   "side_effects": [],
   "internet_claims": [

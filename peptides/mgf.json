@@ -1,0 +1,134 @@
+{
+  "id": "mgf",
+  "name": "MGF (mechano growth factor)",
+  "aliases": [
+    "Mechano growth factor",
+    "Mechano-growth factor",
+    "IGF-1Ec",
+    "IGF-1Ec E-peptide",
+    "MGF E peptide",
+    "IGF-IEc"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "tissue_repair",
+  "compound_type": "peptide",
+  "used_for": "MGF is a 24-amino-acid peptide corresponding to the E-domain of the IGF-1Ec splice variant, which muscle expresses after mechanical loading or injury. It is marketed online to bodybuilders for muscle growth and recovery, usually by local injection after training. The laboratory evidence is contested, because an independent study found the synthetic peptide had no effect on muscle cells, and no human trial of injected MGF was found. It is not FDA-approved and the World Anti-Doping Agency prohibits it.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "Professor Peptide, a site that discloses earning commissions from peptide vendor affiliate links, says people use MGF by subcutaneous or intramuscular injection after reconstituting the powder with bacteriostatic water, that post-workout timing is mentioned anecdotally, and that no route is validated. It says the reconstituted solution is kept at 2 to 8 C and not frozen.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "The Peptide Catalog, a site with affiliate links to a peptide supplier, says community users inject native MGF locally into the trained muscle after a workout, because its half-life is reported as minutes, and that no pharmacokinetic study of it has been published.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "Wikipedia says MGF breaks down rapidly in the body, so researchers developed stabilized forms that use unnatural D-amino acids or PEGylation.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Professor Peptide (affiliate-linked) describes reported effects as largely anecdotal, namely injection-site redness or soreness and transient local muscle fullness, and says no controlled human safety data exist for injected MGF.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "The Peptide Catalog (affiliate-linked) mentions injection-site redness, swelling and irritation from community reports and cites a study in which the E-peptide drove proliferation in human prostate cancer cells.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "Wikipedia notes that at least one research publication raised concern about the potential carcinogenicity of MGF, without further detail.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Wikipedia describes MGF as an IGF-1-derived peptide expressed during muscle repair after exercise, researched for tissue repair, muscle regeneration and cardiac function, and says athletes have misused it, leading to its ban by the World Anti-Doping Agency.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Professor Peptide argues the claims that MGF boosts muscle cell growth come from a single research group and failed independent replication, and that no controlled human efficacy trial exists. The site carries affiliate links to peptide vendors.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "The Peptide Catalog calls MGF and PEG-MGF among the least-substantiated muscle peptides, says no human clinical trials exist, and recommends IGF-1 LR3 instead as a better-evidenced alternative, while carrying affiliate links to a supplier.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fornaro-2014",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "24253050",
+      "year": 2014,
+      "summary": "Study (Am J Physiol Endocrinol Metab) by two pharmaceutical companies that tried to reproduce reported effects of the synthetic MGF peptide on mouse and human myoblasts and primary muscle stem cells.",
+      "finding": "The MGF peptide had no apparent effect on myoblasts or primary muscle stem cells in their hands, while mature IGF-1 worked in the same experiments, which contradicts the proliferation claims."
+    },
+    {
+      "id": "r-kira-2016",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "26991004",
+      "year": 2016,
+      "summary": "Receptor-activation assays (PLoS One) comparing full-length MGF, recombinant IGF-1 and insulin on the human IGF-1 receptor and insulin receptors.",
+      "finding": "Full-length MGF directly activated the IGF-1 receptor and at high equimolar concentrations reached a similar maximal effect to IGF-1, though with a much higher EC50. The authors state in vivo actions still need study."
+    },
+    {
+      "id": "r-human-expression-2010",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20668872",
+      "year": 2010,
+      "summary": "Study (Eur J Appl Physiol) of 10 younger and 10 older men who did three resistance workouts, with muscle biopsies to measure the body's own MGF and IGF-1 expression. No MGF was injected.",
+      "finding": "MGF mRNA rose over repeated workouts only in the older group, and the authors say the physiological consequences are unknown. It shows MGF is made naturally after exercise, not that injecting it works."
+    },
+    {
+      "id": "r-mouse-mi-2013",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "23712705",
+      "year": 2013,
+      "summary": "Cell and mouse study (Mol Cell Biochem) of a synthetic peptide of the MGF E-domain given at the time of experimental myocardial infarction.",
+      "finding": "In mice the peptide reduced cell death and preserved heart function two weeks after infarction. It is an animal and cell result in the heart, not skeletal muscle in people."
+    },
+    {
+      "id": "r-doping-2014",
+      "evidence_type": "regulatory_document",
+      "source_kind": "pubmed",
+      "identifier": "25466910",
+      "year": 2014,
+      "summary": "Analytical paper (Growth Horm IGF Res) characterizing a biotechnologically produced full-length MGF sold through illicit channels, developed for doping controls.",
+      "finding": "It states the MGF peptide has been prohibited under World Anti-Doping Agency regulations since 2005, and that full-length MGF was offered to athletes by 2014. It is an analytical paper, not a clinical study."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

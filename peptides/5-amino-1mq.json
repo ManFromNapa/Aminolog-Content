@@ -1,0 +1,101 @@
+{
+  "id": "5-amino-1mq",
+  "name": "5-Amino-1MQ",
+  "aliases": [
+    "5-amino-1-methylquinolinium",
+    "5A1MQ",
+    "5-Amino-1-MQ",
+    "NNMT inhibitor"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "weight_metabolic",
+  "compound_type": "small_molecule",
+  "used_for": "A small-molecule inhibitor of nicotinamide N-methyltransferase (NNMT), an enzyme linked to fat cell metabolism. It is not a peptide, though it is sold alongside research peptides, mainly as oral capsules or injectables labeled for research. Evidence is limited to cell and diet-induced obese mouse studies, where body weight and fat mass fell. No human trials were found, and it has no FDA approval.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "A Superpower guide describes 5-amino-1MQ as circulating through gray-market research chemical vendors labeled research use only, and states it is not prescribed or dispensed through that company.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A peptide-dosing site with affiliate links says oral capsules are the standard route and injection is less common, that community protocols tend to use mornings because evening use might disrupt sleep, and that no human study compares fasted and fed use.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "The same affiliate site says lyophilized vials are kept frozen long term and reconstituted solutions are refrigerated and used within 2 to 4 weeks.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The affiliate peptide-dosing site says informal reports mention sleep trouble, warmth, faster resting heart rate, stomach upset and injection-site stinging, and notes these are unconfirmed with unknown frequency.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A Superpower guide lists theoretical concerns including off-target effects of raised SAM on cellular methylation and unknown long-term effects on cancer biology, and says mouse studies noted no gross toxicity.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A Superpower guide says all data are from rodents, that no human trials, IND or registered trials exist as of April 2026, and that mouse findings frequently do not replicate in humans.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "An affiliate peptide-dosing site says no published human dosing trial exists and that doses used in the community come from rodent studies or anecdotal reports.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "nnmt-inhibitors-2018",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "29155147",
+      "year": 2018,
+      "summary": "Study of membrane-permeable methylquinolinium NNMT inhibitors in adipocytes and diet-induced obese mice.",
+      "finding": "The inhibitors lowered lipogenesis and raised intracellular NAD+ in fat cells; a potent inhibitor reduced body weight, white fat mass and cholesterol in obese mice."
+    },
+    {
+      "id": "5a1mq-dio-2024",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "39161060",
+      "year": 2024,
+      "summary": "Study of 5A1MQ over 28 days in diet-induced obese mice with pharmacokinetics after intravenous, oral and subcutaneous dosing.",
+      "finding": "Limited weight and fat gain, improved glucose tolerance and insulin sensitivity, and reduced fatty liver in mice."
+    },
+    {
+      "id": "nnmt-microbiome-2022",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "35013352",
+      "year": 2022,
+      "summary": "Mouse study combining 5-amino-1-methylquinolinium with a low-fat diet in diet-induced obese mice, with microbiome analysis.",
+      "finding": "The combination normalized body weight and adiposity toward lean controls in mice and was associated with a distinct cecal microbiome."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

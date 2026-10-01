@@ -1,0 +1,124 @@
+{
+  "id": "aviptadil",
+  "name": "Aviptadil",
+  "aliases": [
+    "Vasoactive intestinal peptide",
+    "VIP",
+    "Vasoactive intestinal polypeptide",
+    "Invicorp",
+    "Zyesami",
+    "Viaject",
+    "Aviptadil/phentolamine"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "other_medical",
+  "compound_type": "peptide",
+  "used_for": "Aviptadil is the synthetic form of vasoactive intestinal peptide (VIP), a 28-amino-acid peptide. In the UK it is used with phentolamine as an intracavernosal injection (Invicorp) for erectile dysfunction after oral treatments fail, and Scottish and Welsh health technology reviews address it, but it is not approved in the US. In the US the FDA declined an emergency use authorization for intravenous aviptadil (Zyesami) in COVID-19 respiratory failure in 2021, and the later randomized TESICO trial found no benefit. Compounded intranasal VIP is also used off label in mold-illness (CIRS) circles on weak observational evidence.",
+  "dosing": {
+    "basis": "studied",
+    "entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "In the TESICO trial aviptadil was given as a short intravenous infusion course in hospitalized COVID-19 patients, not as a self-administered product.",
+      "label": "research",
+      "citation_id": "r-tesico-2023"
+    },
+    {
+      "text": "In a UK clinic study, men were taught to self-inject the aviptadil and phentolamine combination into the penis (intracavernosal) in a nurse-led clinic, with follow-up at six weeks.",
+      "label": "research",
+      "citation_id": "r-ed-2025"
+    },
+    {
+      "text": "Outliyr, an information site that says it does not sell VIP, says intranasal VIP is a compounded aqueous solution that needs cold storage and that its sterility, identity and stability depend on the compounding pharmacy; it describes community nasal protocols as observational and not PubMed-indexed.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://outliyr.com/reports/vip",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a retrospective study of 308 men using the aviptadil and phentolamine injection, facial flushing was the most common adverse event (22.5%) and ischemic priapism occurred in one man (0.3%).",
+      "label": "research",
+      "citation_id": "r-ed-2025"
+    },
+    {
+      "text": "In the TESICO trial, the primary safety outcome (death, serious adverse events, organ failure, serious infection or grade 3 or 4 events up to day 5) occurred in 63% of aviptadil patients versus 56% with placebo, a difference that was not statistically significant.",
+      "label": "research",
+      "citation_id": "r-tesico-2023"
+    },
+    {
+      "text": "Outliyr says VIP's main concern is vasodilation, with flushing, low blood pressure, fast heartbeat and diarrhea or cramping described as dose-dependent and brief.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://outliyr.com/reports/vip",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Outliyr says the Invicorp combination holds approval in some countries but not in the US, and that nasal VIP as the last step of a biotoxin (Shoemaker) protocol for chronic inflammatory response syndrome is based on observational single-clinic reports, not trials.",
+      "source_type": "website",
+      "url": "https://outliyr.com/reports/vip",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "The Scottish Medicines Consortium says aviptadil/phentolamine (Invicorp) is accepted for restricted use in NHS Scotland, only for men whose erectile dysfunction has not responded to oral PDE5 inhibitors and other non-injectable treatments.",
+      "source_type": "website",
+      "url": "https://scottishmedicines.org.uk/medicines-advice/aviptadilphentolamine-mesilate-invicorp-fullsubmission-128417/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "NHS Wales' appraisal body recommends Invicorp, made by Evolan Pharma, only with restrictions for men whose erectile dysfunction has not responded to oral PDE5 inhibitors.",
+      "source_type": "website",
+      "url": "https://awttc.nhs.wales/accessing-medicines/medicine-recommendations/aviptadil-phentolamine-invicorp/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "NRx Pharmaceuticals, the company behind Zyesami, said in a press release that on 4 November 2021 the FDA declined an emergency use authorization for aviptadil in critical COVID-19 for insufficient data on benefits and risks, and that the company would continue through Right to Try (company statement, vendor-side).",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-tesico-2023",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37348524",
+      "year": 2023,
+      "summary": "TESICO (Lancet Respir Med), a randomized placebo-controlled US trial of intravenous aviptadil in 461 patients with COVID-19 hypoxaemic respiratory failure, stopped for futility in 2022.",
+      "finding": "No benefit over placebo on the day-90 recovery outcome or on mortality (38% versus 36%). Safety events were numerically but not significantly more frequent with aviptadil."
+    },
+    {
+      "id": "r-crit-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36044317",
+      "year": 2022,
+      "summary": "Earlier randomized 60-day trial (Crit Care Med) of three days of intravenous aviptadil versus placebo in 196 patients with critical COVID-19 respiratory failure at ten US hospitals.",
+      "finding": "The primary endpoint did not reach statistical significance, though the authors reported better survival and lower interleukin 6 in secondary analyses. Sponsor-affiliated authors interpreted the benefit-risk as favorable; TESICO did not confirm benefit."
+    },
+    {
+      "id": "r-ed-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40192471",
+      "year": 2025,
+      "summary": "Retrospective single-center analysis (J Sex Med) of 308 men with refractory erectile dysfunction who self-injected aviptadil with phentolamine after alprostadil injection caused pain or failed.",
+      "finding": "Overall 59% reported it effective (76% after painful alprostadil, 36% after alprostadil failure). Flushing 22.5%, ischemic priapism 0.3%. Retrospective and uncontrolled."
+    },
+    {
+      "id": "r-nct-iv",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT04311697",
+      "year": 2020,
+      "summary": "ClinicalTrials.gov record of the completed phase 2/3 trial of intravenous aviptadil for critical COVID-19 with respiratory failure (US sites).",
+      "finding": "Status completed. It is the registration of the trial reported in Crit Care Med; no approval followed."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}
