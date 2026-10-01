@@ -5,6 +5,7 @@
     "Trulicity"
   ],
   "regulatory_status": "approved",
+  "category": "weight_metabolic",
   "used_for": "FDA-labeled (Trulicity) as an adjunct to diet and exercise for glycemic control in adults and children 10 and older with type 2 diabetes, and to reduce major cardiovascular events in adults with type 2 diabetes who have established cardiovascular disease or multiple cardiovascular risk factors. It is not labeled for weight loss. The label carries a boxed warning about thyroid C-cell tumors.",
   "dosing": {
     "basis": "labeled",
@@ -21,6 +22,40 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Trulicity label states the drug is administered once weekly at any time of day with or without food, subcutaneously in the abdomen, thigh, or upper arm.",
+      "label": "research",
+      "citation_id": "fda-trulicity-label"
+    },
+    {
+      "text": "The Trulicity label states a missed dose is given as soon as possible if at least 3 days (72 hours) remain until the next scheduled dose, and is skipped if less than 3 days remain, after which the regular weekly schedule resumes.",
+      "label": "research",
+      "citation_id": "fda-trulicity-label"
+    },
+    {
+      "text": "The Trulicity label states the pen is stored in a refrigerator (2 to 8 C), may be kept at room temperature not above 30 C for a total of 14 days, is not frozen or used if frozen, and is protected from light, preferably in the original carton.",
+      "label": "research",
+      "citation_id": "fda-trulicity-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the Trulicity label's placebo-controlled trials, nausea occurred in 12.4% (lower dose) and 21.1% (higher dose) vs 5.3% with placebo, vomiting 6.0 and 12.7% vs 2.3%, diarrhea 8.9 and 12.6% vs 6.7%, abdominal pain 6.5 and 9.4% vs 4.9%, and decreased appetite 4.9 and 8.6% vs 1.6%.",
+      "label": "research",
+      "citation_id": "fda-trulicity-label"
+    },
+    {
+      "text": "The Trulicity label reports gastrointestinal adverse reactions in 32% and 41% of participants on the two doses vs 21% with placebo, with higher rates of discontinuation due to these reactions.",
+      "label": "research",
+      "citation_id": "fda-trulicity-label"
+    },
+    {
+      "text": "The Trulicity label carries a boxed warning of thyroid C-cell tumors in rats, with unknown human relevance, and lists warnings for acute pancreatitis and acute gallbladder disease.",
+      "label": "research",
+      "citation_id": "fda-trulicity-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "WebMD patient reviews of Trulicity average 3.3 of 5; reviewers often cite better blood sugar, about a quarter mention weight loss or less appetite, and many report nausea, vomiting, other digestive problems or injection-site pain.",

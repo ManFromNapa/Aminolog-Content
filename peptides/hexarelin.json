@@ -7,6 +7,7 @@
     "Hexarelin acetate"
   ],
   "regulatory_status": "unapproved",
+  "category": "growth_hormone",
   "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor. It has no approved medical use in the US and no FDA label. It is promoted online for muscle, fat loss, recovery and heart protection. Human research is limited to small, short studies from the late 1990s and 2000s (hormone responses in healthy volunteers and acute heart-function studies); the heart-protection findings mostly come from animals.",
   "dosing": {
     "basis": "studied",
@@ -33,6 +34,39 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Peptides Insider website says hexarelin works best fasted, with no food for about 2 hours before and 30 minutes after, taken in the morning, before a workout or at bedtime, and that a mixed vial is kept at 2 to 8 C, protected from light and used within about 28 days. The site carries affiliate links to sellers.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A rejuvenation clinic page (Wittmer Rejuvenation Clinic) says hexarelin is injected at bedtime, that it does not need to be taken on an empty stomach, and that the mixed vial is kept refrigerated with injection sites rotated.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://wittmerrejuvenationclinic.com/hexarelin-treatment-plan-how-to-take-hexarelin/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "After four hexarelin injections during the evening in seven healthy volunteers, deep (stage 4) sleep and EEG delta power decreased, and the authors suggested sleep was impaired; GH, prolactin, ACTH and cortisol increased.",
+      "label": "research",
+      "citation_id": "pmid-15177700"
+    },
+    {
+      "text": "With repeated daily subcutaneous hexarelin, the GH response to a later intravenous test dose was blunted and the ACTH and cortisol responses were abolished, indicating down-regulation.",
+      "label": "research",
+      "citation_id": "pmid-11888836"
+    },
+    {
+      "text": "Intravenous hexarelin raised mean arterial pressure in patients with coronary artery disease under anesthesia, alongside increases in ejection fraction and cardiac output.",
+      "label": "research",
+      "citation_id": "pmid-12144941"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A telehealth company's article says hexarelin is marketed for energy, muscle, recovery and body composition, but argues the research is limited and does not support most of those claims, and says its sleep study showed less deep sleep and higher cortisol.",

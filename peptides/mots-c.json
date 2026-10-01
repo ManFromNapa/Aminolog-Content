@@ -6,6 +6,7 @@
     "Mitochondrial-derived peptide MOTS-c"
   ],
   "regulatory_status": "unapproved",
+  "category": "longevity_mitochondrial",
   "used_for": "A 16-amino-acid peptide encoded in mitochondrial DNA, studied mostly in cells and rodents for insulin sensitivity, obesity, exercise capacity and aging. Online it is promoted for fat loss, energy and longevity. Human data is mostly measurements of natural MOTS-c blood levels; one early-stage injection trial is registered in China and has no results.",
   "dosing": {
     "basis": "studied",
@@ -22,6 +23,43 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The registered phase 2a trial (NCT07505745) in adults with prediabetes and overweight/obesity uses subcutaneous injection once daily for 12 weeks, with a 4-week post-treatment safety follow-up. No results have been posted.",
+      "label": "research",
+      "citation_id": "nct-07505745"
+    },
+    {
+      "text": "An educational site (PeptideFox) says MOTS-c is typically injected in the morning, ahead of exercise, and that a mixed vial is kept refrigerated at 2 to 8 C and used within 1 to 2 weeks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidefox.com/content/mots-c",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A clinic page (The Lamkin Clinic) says morning or pre-exercise timing is preferred for MOTS-c, given by subcutaneous injection and stored refrigerated after reconstitution.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "An educational site (PeptideFox) says injection-site reactions such as burning, redness and lumps are the most frequent reports for MOTS-c, with mild fatigue and transient stomach discomfort also mentioned.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidefox.com/content/mots-c",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A clinic page (The Lamkin Clinic) describes mild injection-site reactions and transient low blood sugar, mainly in people with insulin sensitivity or taking glucose-lowering medication, as reported with MOTS-c.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A clinic's educational page says MOTS-c reduces abdominal fat, improves insulin sensitivity, boosts endurance and supports longevity, and mentions physician-supervised use while noting it is not FDA-approved.",

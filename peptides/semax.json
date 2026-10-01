@@ -7,6 +7,7 @@
     "MEHFPGP"
   ],
   "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
   "used_for": "A synthetic seven-amino-acid peptide derived from an ACTH fragment, developed in Russia. A secondary source (an encyclopedia page, not an official register) says it is on Russia's list of vital and essential drugs and is used there for conditions such as stroke; the same source says it is not FDA approved in the US. It is promoted online as a focus and memory aid. The human evidence found is small and Russian, with one non-placebo-controlled stroke-rehabilitation study; most other work is in rodents and cell models.",
   "dosing": {
     "basis": "studied",
@@ -18,6 +19,29 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "In a trial of 110 people after ischemic stroke, the standard Semax regimen was two courses of 10 days each, separated by a 20-day interval. The abstract does not state the route of administration.",
+      "label": "research",
+      "citation_id": "pmid-29798983"
+    },
+    {
+      "text": "A prescribing clinic's guide (Beverly Hills Rejuvenation Center) says Semax is usually dosed in the morning and early afternoon, with late-day use avoided to prevent sleep interference, that intranasal is the most common route, and that a reconstituted vial is kept refrigerated and used within a few weeks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.bhrcenter.com/semax-selank-dosage-stacking-guide/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A prescribing clinic's guide (Beverly Hills Rejuvenation Center) lists nasal irritation, dryness or sting, mild headache, lightheadedness and fatigue as reported effects of Semax, plus overstimulation or sleep trouble when used late in the day, and notes long-term effects are unknown given limited human data.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.bhrcenter.com/semax-selank-dosage-stacking-guide/",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A Superpower guide says Semax is a Russian-developed peptide that may raise BDNF and NGF and may help stroke recovery and cognition, but notes the largest human study (110 stroke patients) was non-randomized and not placebo-controlled, and that it is not FDA approved.",

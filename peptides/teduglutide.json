@@ -7,6 +7,7 @@
     "Revestive"
   ],
   "regulatory_status": "approved",
+  "category": "other_medical",
   "used_for": "FDA-labeled (Gattex) for adults and children aged 1 year and older with short bowel syndrome who depend on parenteral support (intravenous nutrition or fluids). It is a glucagon-like peptide-2 (GLP-2) analog. The label calls for colonoscopy and lab checks before and during treatment. Not promoted or approved for general gut health.",
   "dosing": {
     "basis": "labeled",
@@ -23,6 +24,45 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Gattex label directs subcutaneous injection alternating between the four abdominal quadrants, or alternating thighs or arms.",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    },
+    {
+      "text": "The label states the powder is reconstituted with the supplied preservative-free Sterile Water for Injection, the solution is not shaken or frozen, and the dose is administered within 3 hours of reconstitution with any unused portion discarded (single use).",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    },
+    {
+      "text": "Before reconstitution, the one-vial kits are stored refrigerated at 2 to 8 C (36 to 46 F).",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    },
+    {
+      "text": "If a dose is missed, the label states it should be taken as soon as possible that day, and two doses should not be taken on the same day.",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Most common adverse reactions in adults in the label: abdominal pain 30%, nausea 23%, upper respiratory tract infection 21%, abdominal distension 20%, injection site reaction 13%, vomiting 12%, fluid overload 12% and hypersensitivity 10%.",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    },
+    {
+      "text": "The label warns that teduglutide may cause hyperplastic changes including neoplasia (acceleration of neoplastic growth).",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    },
+    {
+      "text": "The label also warns of intestinal obstruction, biliary and pancreatic disease, fluid overload, and increased absorption of oral medications with a narrow therapeutic index.",
+      "label": "research",
+      "citation_id": "fda-gattex-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "Patient reviews on WebMD describe Gattex as effective for some, with stoma growth and quick onset reported, but also stomach pain, bloating, nausea, dehydration and stoma problems; one reviewer had suspected bowel obstructions, and some stopped it.",

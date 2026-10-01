@@ -6,6 +6,7 @@
     "Zepbound"
   ],
   "regulatory_status": "approved",
+  "category": "weight_metabolic",
   "used_for": "FDA-labeled for type 2 diabetes glycemic control and cardiovascular risk reduction in adults with type 2 diabetes at high risk (Mounjaro), and for chronic weight management and moderate to severe obstructive sleep apnea in adults with obesity (Zepbound), alongside diet and activity changes.",
   "dosing": {
     "basis": "labeled",
@@ -22,6 +23,55 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Zepbound label states the drug is given once weekly at any time of day, with or without meals, by subcutaneous injection into the abdomen, thigh, or another permitted site, alongside a reduced-calorie diet and increased physical activity.",
+      "label": "research",
+      "citation_id": "fda-zepbound-label"
+    },
+    {
+      "text": "The Zepbound and Mounjaro labels state that a missed dose is given as soon as possible within 4 days (96 hours), and is skipped if more than 4 days have passed. The weekly day can be changed if the time between two doses is at least 3 days (72 hours).",
+      "label": "research",
+      "citation_id": "fda-mounjaro-label"
+    },
+    {
+      "text": "The Mounjaro label states single-dose pens and vials are refrigerated (2 to 8 C), may be kept unrefrigerated up to 30 C for a total of 21 days, and are not to be frozen or used if frozen. Opened multi-dose vials and KwikPens are discarded after 30 days or after 4 weekly doses, even if medicine remains.",
+      "label": "research",
+      "citation_id": "fda-mounjaro-label"
+    },
+    {
+      "text": "The Zepbound label states vials require a suitable syringe and a new syringe and needle for each injection, the solution should appear clear and colorless to slightly yellow, and the KwikPen is not recommended for self-administration by people who are visually impaired.",
+      "label": "research",
+      "citation_id": "fda-zepbound-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the Zepbound label's weight-management trials, nausea occurred in 25 to 29% of participants vs 8% with placebo, diarrhea 19 to 23% vs 8%, constipation 11 to 17% vs 5%, vomiting 8 to 13% vs 2%, and abdominal pain 9 to 10% vs 5%.",
+      "label": "research",
+      "citation_id": "fda-zepbound-label"
+    },
+    {
+      "text": "The Zepbound label also lists injection site reactions (6 to 8% vs 2%), fatigue, hypersensitivity reactions (5% vs 3%), dizziness, and hair loss (4 to 5% vs 1%).",
+      "label": "research",
+      "citation_id": "fda-zepbound-label"
+    },
+    {
+      "text": "In the Mounjaro label's type 2 diabetes trial pool, nausea occurred in 12 to 18% vs 4% with placebo, diarrhea 12 to 17% vs 9%, decreased appetite 5 to 11% vs 1%, and vomiting 5 to 9% vs 2%.",
+      "label": "research",
+      "citation_id": "fda-mounjaro-label"
+    },
+    {
+      "text": "The Zepbound and Mounjaro labels carry a boxed warning of thyroid C-cell tumors in rats, with unknown relevance to humans, and a contraindication with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+      "label": "research",
+      "citation_id": "fda-zepbound-label"
+    },
+    {
+      "text": "The Zepbound label lists warnings for acute gallbladder disease and acute pancreatitis.",
+      "label": "research",
+      "citation_id": "fda-zepbound-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "WebMD patient reviews of Mounjaro describe big weight losses for many (some report 30 to 80+ pounds), but about a quarter mention significant stomach side effects, and some report hair loss, fatigue or hospitalization.",

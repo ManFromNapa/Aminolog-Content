@@ -9,6 +9,7 @@
     "CTY-2"
   ],
   "regulatory_status": "unapproved",
+  "category": "skin_pigmentation",
   "used_for": "A synthetic cyclic peptide related to alpha-MSH that darkens skin and affects sexual function and appetite. It has no FDA-approved use and is sold online as an injectable or nasal tanning product. Published human studies are a handful of very small trials from the 1990s and 2000s (tanning, nausea and spontaneous erections in three men; erection studies in ten men each). A phase 2 vitiligo trial is registered in China but has no results.",
   "dosing": {
     "basis": "studied",
@@ -30,6 +31,46 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A peptide information site that also sells or links to suppliers says Melanotan II is commonly injected at bedtime so that peak nausea falls during sleep, and that a mixed vial is kept refrigerated away from light for roughly 2 to 4 weeks. It also describes splitting a vial into single-use portions and freezing them to extend storage to a few months, while avoiding repeated freeze-thaw cycles.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In small early trials in men, nausea was reported more often with Melanotan II than placebo, and 4 of 19 injections in one trial caused severe nausea.",
+      "label": "research",
+      "citation_id": "pmid-11018622"
+    },
+    {
+      "text": "Stretching, yawning and reduced appetite were reported more often with Melanotan II than placebo in ten men with psychogenic erectile dysfunction; none required treatment.",
+      "label": "research",
+      "citation_id": "pmid-9679884"
+    },
+    {
+      "text": "In a three-man pilot, spontaneous penile erections lasting 1 to 5 hours, mild nausea and, at the highest dose in one man, Grade II somnolence and fatigue were reported; two of three had increased skin pigmentation.",
+      "label": "research",
+      "citation_id": "pmid-8637402"
+    },
+    {
+      "text": "RxList, a medical reference website, lists nausea, stomach cramps, decreased appetite, flushing, tiredness, yawning, darkened skin and spontaneous erections as reported effects of Melanotan II.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.rxlist.com/supplements/melanotan-ii.htm",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A peptide information site that also sells or links to suppliers says nausea and flushing are the most common early effects, along with reduced appetite, fatigue, yawning, mole darkening and new moles, and that many effects ease over the first one to two weeks of use.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "The Skin Cancer Foundation warns that Melanotan II is unapproved and unregulated, linked to serious risks including melanoma and muscle damage, and urges sunless tanners instead.",

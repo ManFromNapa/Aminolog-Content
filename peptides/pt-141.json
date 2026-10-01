@@ -6,6 +6,7 @@
     "Vyleesi"
   ],
   "regulatory_status": "approved",
+  "category": "sexual_reproductive",
   "used_for": "FDA-labeled for premenopausal women with acquired, generalized hypoactive sexual desire disorder (HSDD); not indicated for postmenopausal women, men, or to enhance sexual performance.",
   "dosing": {
     "basis": "labeled",
@@ -17,6 +18,50 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The label states the injection is given at least 45 minutes before anticipated sexual activity.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label limits use to no more than one dose in 24 hours and no more than 8 doses per month.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label states the autoinjector is injected under the skin of the abdomen or thigh, avoiding the area within about 2 inches of the navel.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label states storage at or below 25 C (77 F), without freezing, protected from light.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Nausea was the most common reaction in the label's trials (40% with bremelanotide versus 1.3% with placebo), typically starting within an hour of injection and lasting about two hours; vomiting occurred in 4.8%.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "Flushing (20.3% versus 0.3% with placebo), headache (11.3% versus 1.9%) and injection site reactions (13.2% versus 8.4%) were also common.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label warns of transient increases in blood pressure after a dose (a peak of about 6 mmHg systolic and 3 mmHg diastolic, resolving within about 12 hours).",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label reports focal hyperpigmentation in about 1% of patients in the trials.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "Patient reviews of Vyleesi are split: some women report increased desire, while many describe nausea, headaches and other side effects that outweighed benefits.",

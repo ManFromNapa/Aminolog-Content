@@ -8,6 +8,7 @@
     "Epithalone"
   ],
   "regulatory_status": "unapproved",
+  "category": "longevity_mitochondrial",
   "used_for": "A synthetic four-amino-acid peptide (Ala-Glu-Asp-Gly) developed by a Russian research group as a pineal gland peptide, promoted online as an anti-aging, telomere and sleep or melatonin peptide. The research is mainly cell and animal work, and the few human reports come from a small set of related research groups, often in non-English journals, with limited methods. There is no good independent human evidence of anti-aging effects.",
   "dosing": {
     "basis": "studied",
@@ -24,6 +25,41 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A consumer review site (Innerbody Research) says nighttime administration is considered ideal for Epitalon because of its link to melatonin production, given by subcutaneous injection, with leftover peptide stored in a refrigerator.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.innerbody.com/epitalon",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "An educational blog (The Peptide Breakdown, which carries affiliate links) says Epitalon is often taken in the evening to match circadian rhythm, that a mixed vial is kept at 2 to 8 C and best used within 30 days, and that cloudy or discolored solution should be discarded.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In female mice, long-term low-dose Epitalon showed no toxic effect (animal study).",
+      "label": "research",
+      "citation_id": "pmid-16634527"
+    },
+    {
+      "text": "In a lifetime study in mice, Epitalon did not change food consumption, body weight or mean lifespan, and the authors concluded long-term administration was safe in mice (animal study).",
+      "label": "research",
+      "citation_id": "pmid-14501183"
+    },
+    {
+      "text": "An educational blog (The Peptide Breakdown) says injection-site irritation may occur and that sleep, circadian or alertness responses vary between individuals, while stating that how often adverse effects occur has not been well established.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A clinic's educational page claims epithalon reactivates telomerase, extends telomeres, delays age-related disease and supports immunity and regeneration, and suggests combining it with other longevity treatments offered through the clinic.",

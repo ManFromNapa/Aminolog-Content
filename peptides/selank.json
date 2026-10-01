@@ -7,6 +7,7 @@
     "tuftsin analog heptapeptide"
   ],
   "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
   "used_for": "A synthetic heptapeptide derived from tuftsin, developed in Russia and studied there as an anti-anxiety peptide. A 2021 pharmacology review (PubMed abstract) calls it a poorly studied Russian drug sold to US consumers as a dietary supplement. No official Russian register was consulted, so Russian approval is not confirmed here. It is promoted online for anxiety and focus. The human evidence found is a few small Russian comparisons with benzodiazepines, mostly not placebo-controlled as described; most other work is in rodents.",
   "dosing": {
     "basis": "studied",
@@ -18,6 +19,38 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A clinic blog (Klearmind Clinics) describes intranasal use as the preferred route for Selank, with use in the morning for focus and calm and in the afternoon for stress, and says to avoid late-night use in sensitive people.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.klearmindclinics.com/blog/selank-dosing-guide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A peptide information site (The Peptide Initiative) says food timing is described as irrelevant for intranasal Selank because the route bypasses digestion, and that a mixed vial is kept in the refrigerator, never frozen, and used within about 14 to 21 days.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A clinic blog (Klearmind Clinics) lists mild nasal irritation, headache and temporary discomfort as common reported effects of Selank, with overstimulation described as rare.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.klearmindclinics.com/blog/selank-dosing-guide",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A peptide information site (The Peptide Initiative) lists nasal irritation, mild fatigue and mild headaches as common reports for Selank, and vivid dreams and dizziness as less frequent.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "PeakedLabs says Selank has strong human trial data showing anxiety relief comparable to benzodiazepines without sedation or tolerance, acting through BDNF, serotonin and enkephalin pathways; the site is an affiliate and referral platform to compounding pharmacies and telehealth providers.",

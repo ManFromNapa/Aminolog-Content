@@ -7,6 +7,7 @@
     "Delta-sleep inducing peptide"
   ],
   "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
   "used_for": "A nine-amino-acid peptide first isolated from rabbit brain blood in the 1970s and promoted online for sleep. Small, mostly 1980s human studies in chronic insomnia gave mixed, modest results, and later reviewers note its link to natural sleep has never been well established. No recent controlled insomnia trials were found.",
   "dosing": {
     "basis": "studied",
@@ -28,6 +29,34 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "In a double-blind study of 16 people with chronic insomnia, DSIP was given intravenously in the afternoon before each of three consecutive nights of sleep recording (intravenous use in a laboratory setting, not a self-administration protocol).",
+      "label": "research",
+      "citation_id": "pmid-1299794"
+    },
+    {
+      "text": "A peptide information site (The Peptide Initiative) says DSIP is commonly used in the evening, one to two hours before bed, that it can be taken fasted or fed, that subcutaneous injection is the usual self-administration route, and that a mixed vial is refrigerated, never frozen, and used within 28 days.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/protocols/dsip",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a placebo-controlled study of 24 women under anaesthesia, an intravenous DSIP bolus significantly increased heart rate and decreased heart rate variability, which the authors attributed to reduced parasympathetic tone. The study was in anaesthetized surgical patients, not people using DSIP for sleep.",
+      "label": "research",
+      "citation_id": "pmid-19142086"
+    },
+    {
+      "text": "A peptide information site (The Peptide Initiative) lists mild headache, brief dizziness, flushing or warmth and injection-site reactions as commonly reported with DSIP, and vivid dreams and mild nausea as less common.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/protocols/dsip",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "An integrative psychiatry clinic's page describes DSIP as a sleep peptide, presents the research as mixed with modest early gains, notes limited human data and lack of FDA approval, and positions it as experimental for patients who have tried standard options while promoting clinic consultations.",

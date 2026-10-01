@@ -7,6 +7,7 @@
     "Bepecin"
   ],
   "regulatory_status": "unapproved",
+  "category": "tissue_repair",
   "used_for": "Promoted online for tendon, ligament, muscle and gut healing and general recovery. It is investigated mainly in animal studies of tissue injury, with very limited human research (a few small clinic-based reports and early-stage trial registrations).",
   "dosing": {
     "basis": "studied",
@@ -28,6 +29,39 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "PeptideJournal.org, an educational site that sells nothing, says BPC-157 is usually taken on an empty stomach (at least 30 minutes before eating or 2 hours after a meal), with morning and before-bed times suggested for twice-daily use. It says injecting near a localized injury is thought to be most useful, the lower abdomen is the most common site, and sites are rotated. It says a mixed vial is kept refrigerated away from light and heat, not frozen, and used within about 2 to 3 weeks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a pilot of 12 women given a single bladder injection of BPC-157 for interstitial cystitis, no adverse events were reported. The study was uncontrolled and too small to establish safety.",
+      "label": "research",
+      "citation_id": "r-ic-pilot"
+    },
+    {
+      "text": "In a two-person pilot of intravenous BPC-157 infusions, no side effects and no change in tested blood markers were reported. Two participants is too few to establish safety.",
+      "label": "research",
+      "citation_id": "r-iv-pilot"
+    },
+    {
+      "text": "A registered pilot trial record states BPC-157 has not yet been studied in formal human clinical trials, so its side-effect profile is unknown.",
+      "label": "research",
+      "citation_id": "r-nct-ark"
+    },
+    {
+      "text": "PeptideJournal.org describes reported effects of BPC-157 as minimal, mainly a mild transient headache in the first few days, fatigue, injection-site irritation and rare dizziness, with nausea described as uncommon and more frequent with oral use.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A video promotes combining BPC-157 with TB-500 (the 'Wolverine stack') for injury healing and recovery (based on the video title and description; the host is a fitness and nutrition personality).",

@@ -3,12 +3,13 @@
   "title": "Peptide",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id","name","aliases","regulatory_status","used_for","dosing","internet_claims","research","last_reviewed"],
+  "required": ["id","name","aliases","regulatory_status","category","used_for","dosing","administration_guidance","side_effects","internet_claims","research","last_reviewed"],
   "properties": {
     "id": {"type":"string","pattern":"^[a-z0-9-]+$"},
     "name": {"type":"string","minLength":1},
     "aliases": {"type":"array","items":{"type":"string"}},
     "regulatory_status": {"enum":["approved","investigational","unapproved"]},
+    "category": {"enum":["weight_metabolic","growth_hormone","sexual_reproductive","tissue_repair","skin_pigmentation","immune_inflammation","cognitive_mood","longevity_mitochondrial","other_medical"]},
     "used_for": {"type":"string","minLength":1},
     "dosing": {
       "type":"object","additionalProperties":false,
@@ -20,6 +21,22 @@
           "required":["text","population","citation_id"],
           "properties":{"text":{"type":"string"},"population":{"type":"string"},"citation_id":{"type":"string"}}}}}
     },
+    "administration_guidance": {"type":"array","items":{"oneOf":[
+      {"type":"object","additionalProperties":false,"required":["text","label","citation_id"],
+       "properties":{"text":{"type":"string","minLength":1},"label":{"const":"research"},"citation_id":{"type":"string"}}},
+      {"type":"object","additionalProperties":false,"required":["text","label","source_type","url","retrieved"],
+       "properties":{"text":{"type":"string","minLength":1},"label":{"const":"internet"},
+        "source_type":{"enum":["reddit","youtube","podcast","forum","influencer","website","vendor"]},
+        "url":{"type":["string","null"]},
+        "retrieved":{"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}}}]}},
+    "side_effects": {"type":"array","items":{"oneOf":[
+      {"type":"object","additionalProperties":false,"required":["text","label","citation_id"],
+       "properties":{"text":{"type":"string","minLength":1},"label":{"const":"research"},"citation_id":{"type":"string"}}},
+      {"type":"object","additionalProperties":false,"required":["text","label","source_type","url","retrieved"],
+       "properties":{"text":{"type":"string","minLength":1},"label":{"const":"internet"},
+        "source_type":{"enum":["reddit","youtube","podcast","forum","influencer","website","vendor"]},
+        "url":{"type":["string","null"]},
+        "retrieved":{"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}}}]}},
     "internet_claims": {"type":"array","items":{
       "type":"object","additionalProperties":false,
       "required":["claim","source_type","url","retrieved"],
@@ -33,8 +50,8 @@
       "required":["id","evidence_type","source_kind","identifier","year","summary","finding"],
       "properties":{
         "id":{"type":"string"},
-        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document"]},
-        "source_kind":{"enum":["pubmed","clinicaltrials","fda"]},
+        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document","case_report","systematic_review","regulator_notice"]},
+        "source_kind":{"enum":["pubmed","clinicaltrials","fda","regulator"]},
         "identifier":{"type":"string"},
         "year":{"type":"integer"},
         "summary":{"type":"string"},

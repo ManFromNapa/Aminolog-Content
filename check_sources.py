@@ -67,9 +67,15 @@ def main():
                     labels.setdefault(i, []).append((name, r["year"]))
                 else:
                     fda_pages.setdefault(i, []).append(name)
+            elif k == "regulator":
+                fda_pages.setdefault(i, []).append(name)
         for c in d["internet_claims"]:
             if c["url"]:
                 claims.append((name, c["url"]))
+        for field in ("administration_guidance", "side_effects"):
+            for item in d.get(field, []):
+                if item.get("label") == "internet" and item.get("url"):
+                    claims.append((name, item["url"]))
 
     # PubMed in batches
     ids = list(pmids)
