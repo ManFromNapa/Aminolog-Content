@@ -7,7 +7,9 @@ root = pathlib.Path(__file__).parent
 schema = json.loads((root / "schema/peptide.schema.json").read_text())
 v = Draft202012Validator(schema)
 errors = []
-files = sorted((root / "peptides").glob("*.json"))
+only = set(sys.argv[1:])
+all_files = sorted((root / "peptides").glob("*.json"))
+files = [f for f in all_files if not only or f.stem in only]
 for f in files:
     d = json.loads(f.read_text())
     for e in v.iter_errors(d):
@@ -20,13 +22,20 @@ for f in files:
         k, i = r["source_kind"], r["identifier"]
         if k == "pubmed" and not re.fullmatch(r"\d+", i): errors.append(f"{f.name}: bad PMID {i}")
         if k == "clinicaltrials" and not re.fullmatch(r"NCT\d{8}", i): errors.append(f"{f.name}: bad NCT {i}")
-        if k == "fda" and not i.startswith("https://"): errors.append(f"{f.name}: FDA id must be URL")
+        if k in ("fda", "regulator") and not i.startswith("https://"): errors.append(f"{f.name}: FDA id must be URL")
     for c in d.get("internet_claims", []):
         if (c["source_type"] == "vendor") != (c["url"] is None):
             errors.append(f"{f.name}: vendor/url mismatch")
+    for field in ("administration_guidance", "side_effects"):
+        for n, item in enumerate(d.get(field, [])):
+            if item.get("label") == "research":
+                if item["citation_id"] not in ids: errors.append(f"{f.name}: {field}[{n}] cites unknown {item['citation_id']}")
+            elif item.get("label") == "internet":
+                if (item["source_type"] == "vendor") != (item["url"] is None):
+                    errors.append(f"{f.name}: {field}[{n}] vendor/url mismatch")
 mp = root / "manifest.json"
-if mp.exists():
+if mp.exists() and not only:
     m = json.loads(mp.read_text())
-    if sorted(m["peptides"]) != sorted(f.stem for f in files): errors.append("manifest does not match peptides/")
+    if sorted(m["peptides"]) != sorted(f.stem for f in all_files): errors.append("manifest does not match peptides/")
 print("\n".join(errors) or f"OK: {len(files)} files")
 sys.exit(1 if errors else 0)

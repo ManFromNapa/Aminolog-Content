@@ -7,6 +7,7 @@
     "Rybelsus"
   ],
   "regulatory_status": "approved",
+  "category": "weight_metabolic",
   "used_for": "FDA-labeled for chronic weight management and reducing cardiovascular risk in adults with obesity or overweight (Wegovy), MASH with liver fibrosis (Wegovy, accelerated approval), and type 2 diabetes glycemic control, cardiovascular and kidney risk reduction (Ozempic), each alongside diet and activity changes where specified.",
   "dosing": {
     "basis": "labeled",
@@ -28,6 +29,65 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Wegovy label states the injection is given once weekly on the same day each week, at any time of day, with or without meals, subcutaneously in the abdomen, thigh, or upper arm.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "The Wegovy label states that if a weekly injection is missed and the next scheduled dose is more than 2 days away, it is given as soon as possible, and if the next dose is less than 2 days away the missed dose is skipped and the regular day is resumed. After 2 or more consecutive missed doses, the label states dose escalation is restarted at a lower dosage to reduce gastrointestinal reactions.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "The Wegovy label states the tablet form is taken once daily in the morning on an empty stomach with water (up to 4 ounces), swallowed whole, with at least 30 minutes before eating, drinking other beverages, or taking other oral medicines. A missed tablet dose is skipped and the next dose taken the following day.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "The Wegovy label states an unused pen or syringe is stored in a refrigerator (2 to 8 C) and protected from light, and may be kept at 8 to 30 C for up to 28 days before the cap is removed. A multi-dose FlexTouch pen can be kept for 56 days after first use at 15 to 30 C or in the refrigerator, with the cap on and a new needle used for each injection. The product must not be frozen.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "The Ozempic label states the weekly dose is given at any time of day with or without meals, and that a missed dose can be administered within 5 days of the missed dose. It states to use a different injection site each week within the same body region, and to inject separately from insulin without mixing.",
+      "label": "research",
+      "citation_id": "fda-ozempic-label"
+    },
+    {
+      "text": "The Ozempic label states a pen is refrigerated (2 to 8 C) before first use, kept in the original carton, and after first use can be stored for 56 days at 15 to 30 C or in the refrigerator, not frozen.",
+      "label": "research",
+      "citation_id": "fda-ozempic-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the Wegovy label's pooled weight-management trials, gastrointestinal reactions were the most frequent: nausea 44% vs 16% with placebo, diarrhea 30% vs 16%, vomiting 24% vs 6%, constipation 24% vs 11%, and abdominal pain 20% vs 10%.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "The Wegovy label also lists headache (14% vs 10%), fatigue (11% vs 5%), dyspepsia, dizziness, and hair loss among adverse reactions, and hypoglycemia (6% vs 2%) in participants with type 2 diabetes.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "The Wegovy and Ozempic labels carry a boxed warning of thyroid C-cell tumors: semaglutide caused such tumors in rodents, the relevance to humans is unknown, and the drug is contraindicated with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+      "label": "research",
+      "citation_id": "fda-ozempic-label"
+    },
+    {
+      "text": "The Wegovy label lists warnings for acute pancreatitis and acute gallbladder disease, and notes that substantial or rapid weight loss can increase gallbladder risk.",
+      "label": "research",
+      "citation_id": "fda-wegovy-label"
+    },
+    {
+      "text": "In the Ozempic label's placebo-controlled trials in type 2 diabetes, documented symptomatic hypoglycemia occurred more often with insulin or a sulfonylurea added (for example 29.8% with basal insulin added vs 15.2% with placebo).",
+      "label": "research",
+      "citation_id": "fda-ozempic-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "WebMD patient reviews of Wegovy describe large weight losses for many people (some report tens of pounds over months), alongside frequent nausea, vomiting and constipation; some stop over side effects or cost.",

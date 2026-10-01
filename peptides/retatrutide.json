@@ -6,6 +6,7 @@
     "reta"
   ],
   "regulatory_status": "investigational",
+  "category": "weight_metabolic",
   "used_for": "Investigated in clinical trials (sponsored by Eli Lilly) for weight reduction in adults with obesity or overweight, type 2 diabetes, knee osteoarthritis and other obesity-related conditions. It is also promoted online as a weight-loss compound, including as unregulated 'research' product.",
   "dosing": {
     "basis": "studied",
@@ -32,6 +33,35 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "In the phase 3 TRIUMPH-2 trial, retatrutide was given as self-administered once-weekly subcutaneous injections. Retatrutide is investigational, so no label guidance on timing, meals, or storage exists.",
+      "label": "research",
+      "citation_id": "r-triumph2"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the phase 2 obesity trial, the most common adverse events were gastrointestinal, were dose-related, mostly mild to moderate, and were partly reduced by a lower starting dose. Dose-dependent increases in heart rate peaked at 24 weeks and declined afterward.",
+      "label": "research",
+      "citation_id": "r-nejm-2023"
+    },
+    {
+      "text": "In TRIUMPH-2 (type 2 diabetes and obesity), diarrhea occurred in 27 to 34% of retatrutide recipients vs 13% with placebo and nausea in 14 to 28% vs 8%.",
+      "label": "research",
+      "citation_id": "r-triumph2"
+    },
+    {
+      "text": "In TRIUMPH-2, dysesthesia occurred in 4 to 7% of retatrutide recipients vs 1% with placebo and hypotension in 1 to 6% vs under 1%. Permanent discontinuation due to adverse events or death was 12% with the 9 mg dose and 8% with the 12 mg dose, vs 5% with placebo.",
+      "label": "research",
+      "citation_id": "r-triumph2"
+    },
+    {
+      "text": "In TRANSCEND-T2D-1 (40 weeks), the most frequent adverse events were mostly mild to moderate gastrointestinal events that subsided over time. Discontinuations due to adverse events were 2 to 5% with retatrutide and 0% with placebo, and no severe hypoglycemia was reported.",
+      "label": "research",
+      "citation_id": "r-transcend-t2d1"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A video reviewer describes quitting retatrutide after six months and reports muscle loss and side effects alongside weight loss (based on the video title and description).",

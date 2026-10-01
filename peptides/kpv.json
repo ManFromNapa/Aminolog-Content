@@ -7,6 +7,7 @@
     "alpha-MSH(11-13)"
   ],
   "regulatory_status": "unapproved",
+  "category": "immune_inflammation",
   "used_for": "A three-amino-acid fragment (Lys-Pro-Val) of the hormone alpha-MSH. It has been studied almost only in cell cultures and mice, mainly for anti-inflammatory effects in the gut and skin. No human clinical trials were found, and it is promoted online for gut inflammation, skin conditions and general inflammation without human evidence.",
   "dosing": {
     "basis": "studied",
@@ -18,6 +19,46 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "In a mouse colitis study, KPV was given orally by adding it to drinking water, and the peptide was taken up into gut cells through the PepT1 transporter (animal study; no human administration data).",
+      "label": "research",
+      "citation_id": "pmid-18061177"
+    },
+    {
+      "text": "In a mouse colitis study, KPV was delivered by mouth inside hyaluronic acid nanoparticles embedded in a chitosan/alginate hydrogel, designed to release in the colon (animal study).",
+      "label": "research",
+      "citation_id": "pmid-28143741"
+    },
+    {
+      "text": "A prescribing clinic's page on oral KPV (Beverly Hills Rejuvenation Center) says the capsule form is taken once daily on an empty stomach, either first thing in the morning or between meals, and that timing relative to meals is set to influence exposure along the gut.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.bhrcenter.com/peptides/kpv-oral/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a mouse colitis study, KPV-loaded nanoparticles appeared nontoxic and biocompatible with intestinal cells in culture. This was a formulation test in animals and cells, and human side effects are not documented.",
+      "label": "research",
+      "citation_id": "pmid-28143741"
+    },
+    {
+      "text": "An independent reference site on KPV says oral use is associated with occasional mild nausea or loose stools in the first days, injected use with mild redness at the injection site, and topical use with occasional mild irritation, and states no serious adverse events appear in published research.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://thekpvpeptide.com/kpv-side-effects/",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A prescribing clinic (Beverly Hills Rejuvenation Center) describes mild nausea or gastrointestinal upset as the most common issue with oral KPV and says it often settles with timing adjustments.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.bhrcenter.com/peptides/kpv-oral/",
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A telehealth company article presents KPV as a gut and skin anti-inflammatory for people with inflammatory bowel disease or autoimmune skin conditions, saying it works without suppressing the immune system. It admits the evidence is preclinical and that KPV is not FDA-approved, but promotes it for use in a supervised protocol and says compounding access is changing. The page sells assessments and clinician-built peptide protocols.",

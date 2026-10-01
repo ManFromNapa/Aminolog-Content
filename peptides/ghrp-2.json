@@ -8,6 +8,7 @@
     "GPA-748"
   ],
   "regulatory_status": "unapproved",
+  "category": "growth_hormone",
   "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor. It has no FDA-approved product. It has been studied as a growth hormone stimulation test, and a 2013 Japanese study states that a GHRP-2 test is a recommended alternative for diagnosing adult growth hormone deficiency in Japan. It is promoted online for muscle, fat loss and recovery, which has not been shown in controlled human trials found for this entry. FDA lists it as a bulk substance that may present significant safety risks for compounding.",
   "dosing": {
     "basis": "studied",
@@ -29,6 +30,37 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Peptidepedia website says GHRP-2 is taken on an empty stomach, at least 30 minutes before eating or 2 or more hours after a meal, with the pre-bed injection emphasized, and that a mixed vial is refrigerated and used within 3 to 4 weeks, not frozen.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Subcutaneous GHRP-2 infusion increased food intake at a buffet meal by about 36% in seven healthy men.",
+      "label": "research",
+      "citation_id": "pmid-15699539"
+    },
+    {
+      "text": "Seven of ten children with growth hormone deficiency given oral GHRP-2 for 12 months reported a significant increase in appetite during the first 6 months; the change in BMI was not significant.",
+      "label": "research",
+      "citation_id": "pmid-14513874"
+    },
+    {
+      "text": "Intravenous GHRP-2 raised prolactin, ACTH and cortisol levels in healthy adults, in addition to growth hormone.",
+      "label": "research",
+      "citation_id": "pmid-9285939"
+    },
+    {
+      "text": "FDA lists GHRP-2 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
+      "label": "research",
+      "citation_id": "fda-category2-page"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A peptide wiki guide calls GHRP-2 the most potent classic growth hormone-releasing peptide with less hunger than GHRP-6, lists beginner to advanced dosing protocols and stacking with CJC-1295, and states it is not FDA-approved in the US.",

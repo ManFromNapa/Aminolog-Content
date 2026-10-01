@@ -7,6 +7,7 @@
     "recombinant human parathyroid hormone (1-34)"
   ],
   "regulatory_status": "approved",
+  "category": "other_medical",
   "used_for": "FDA-labeled (Forteo) for postmenopausal women with osteoporosis at high fracture risk, to increase bone mass in men with primary or hypogonadal osteoporosis at high fracture risk, and for men and women with osteoporosis from sustained glucocorticoid therapy, in each case at high risk for fracture or after failing or being intolerant to other osteoporosis therapy. It is a parathyroid hormone analog that builds bone rather than only slowing bone loss. Other teriparatide products, including generics, are on DailyMed.",
   "dosing": {
     "basis": "labeled",
@@ -18,6 +19,35 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Forteo label directs subcutaneous injection into the thigh or abdominal region.",
+      "label": "research",
+      "citation_id": "fda-forteo-label"
+    },
+    {
+      "text": "The label states the first injections should be given where the person can sit or lie down, because of the risk of orthostatic hypotension.",
+      "label": "research",
+      "citation_id": "fda-forteo-label"
+    },
+    {
+      "text": "The pen is stored refrigerated at 2 to 8 C (36 to 46 F) at all times except when injecting, a new needle is used for each injection, and the device is discarded 28 days after first use.",
+      "label": "research",
+      "citation_id": "fda-forteo-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Most common adverse reactions in the label's osteoporosis trials: pain 21.3% (placebo 20.5%), arthralgia 10.1% (8.4%) and nausea 8.5% (6.7%).",
+      "label": "research",
+      "citation_id": "fda-forteo-label"
+    },
+    {
+      "text": "The label warns of osteosarcoma (seen in rats; use is avoided in people at increased risk such as open epiphyses or prior radiation), hypercalcemia and cutaneous calcification, orthostatic hypotension (transient symptomatic episodes in 5% of volunteers), urolithiasis, and hypersensitivity reactions including anaphylaxis and angioedema.",
+      "label": "research",
+      "citation_id": "fda-forteo-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A 2022 peer-reviewed review article on PubMed Central describes how teriparatide's boxed warning for osteosarcoma (from rat studies) was removed in November 2020 after observational human data showed no increased risk, and the 2-year lifetime limit was relaxed.",

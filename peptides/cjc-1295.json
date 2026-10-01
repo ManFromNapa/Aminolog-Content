@@ -9,6 +9,7 @@
     "CJC-1295 without DAC"
   ],
   "regulatory_status": "unapproved",
+  "category": "growth_hormone",
   "used_for": "A long-acting synthetic analog of growth hormone-releasing hormone (GHRH). It has no approved medical use in the US. It is promoted online, often together with ipamorelin, for fat loss, muscle gain, sleep and recovery. Human research is very limited: a few small studies in healthy adults from 2006 to 2009 and one Phase 2 trial in people with HIV-associated visceral obesity that was terminated and never reported results. The CJC-1295 sold online is often described under different names (with or without DAC) that are different molecules.",
   "dosing": {
     "basis": "studied",
@@ -25,6 +26,34 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Peptidepedia website says CJC-1295 is said to work best on an empty stomach, at least 30 minutes before eating or 2 to 3 hours after meals, and that the version without DAC is usually timed at bedtime to match the night-time growth hormone surge. It says a vial mixed with bacteriostatic water keeps about 4 to 6 weeks refrigerated, versus 5 to 7 days if mixed with sterile water.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A medical spa chain's guide (Beverly Hills Rejuvenation Center) says CJC-1295 with ipamorelin is injected 30 to 60 minutes before bed on an empty stomach, 2 to 3 hours after eating, and says a mixed vial is commonly used within about 28 to 30 days, kept refrigerated, protected from light and not frozen.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.bhrcenter.com/cjc-1295-ipamorelin-dosage-guide-complete-protocol-for-safe-administration/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In two placebo-controlled trials in healthy adults, no serious adverse reactions were reported, and the authors called CJC-1295 relatively well tolerated, particularly at the lower doses tested.",
+      "label": "research",
+      "citation_id": "pmid-16352683"
+    },
+    {
+      "text": "FDA lists CJC-1295 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+      "label": "research",
+      "citation_id": "fda-category2-page"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A naturopathic clinic's blog says the CJC-1295 and ipamorelin pair may raise growth hormone to speed muscle recovery, add muscle, aid fat loss and improve sleep. It also states that peptides are not FDA-approved and have limited human studies, and the page promotes the clinic's consultations.",

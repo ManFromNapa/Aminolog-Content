@@ -8,6 +8,7 @@
     "Bendavia"
   ],
   "regulatory_status": "approved",
+  "category": "longevity_mitochondrial",
   "used_for": "FDA-approved under accelerated approval (NDA 215244, Forzinity, approval action dated September 2025) to improve muscle strength in adults and children with Barth syndrome weighing at least 30 kg. The label says continued approval may depend on a confirmatory trial. It is not approved for aging, longevity, heart failure, mitochondrial myopathy or any other use; the large primary mitochondrial myopathy trial missed its main endpoints.",
   "dosing": {
     "basis": "labeled",
@@ -24,6 +25,45 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Forzinity label directs subcutaneous injection into the abdomen (at least 2 inches from the navel) or outer thigh, with the injection site rotated daily.",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    },
+    {
+      "text": "The label states the dose should be given at the same time each day.",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    },
+    {
+      "text": "If a dose is missed, the label says to skip it and take the next dose at the scheduled time, and not to take a double dose.",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    },
+    {
+      "text": "Unopened vials are stored refrigerated at 2 to 8 C (36 to 46 F) and not frozen. After first opening, vials may be kept refrigerated or at room temperature (20 to 25 C) and are discarded 8 days after first opening.",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Injection site reactions were the main adverse reactions in the label's trial data (12 patients, versus placebo): erythema 100% (placebo 25%), pain 75% (42%), induration 67% (17%), pruritus 67% (17%), bruising 25% (0%) and urticaria 25% (0%).",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    },
+    {
+      "text": "The label warns of hypersensitivity reactions (rash, dermatitis, respiratory symptoms) and says to discontinue if severe reactions occur.",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    },
+    {
+      "text": "The label warns of benzyl alcohol toxicity in neonates (metabolic acidosis, gasping syndrome); the product is not approved for neonates.",
+      "label": "research",
+      "citation_id": "fda-forzinity-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "Empire Medical Training, a CME course provider, describes SS-31 as the first mitochondrial-targeted peptide with FDA approval, but only for Barth syndrome, calls longevity uses off-label and investigational, and says the human trial record is mixed, with a heart failure study negative on its primary endpoint.",

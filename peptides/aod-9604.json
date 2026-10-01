@@ -8,6 +8,7 @@
     "anti-obesity drug 9604"
   ],
   "regulatory_status": "unapproved",
+  "category": "weight_metabolic",
   "used_for": "A modified fragment of human growth hormone (residues 177-191) promoted online for fat loss. It was developed by the Australian company Metabolic Pharmaceuticals as an obesity drug. Web pages (for example Superpower and Peptide Library) describe a 24-week phase 2b trial of 536 people that found no significant weight loss versus placebo, with development dropped around 2007. That trial was not found in searches of ClinicalTrials.gov or PubMed, so these details rest on secondary sources. A 2013 paper by the developer's team (J Endocrinol Metab, not found in PubMed) reports six placebo-controlled trials in about 893 obese adults with a safety profile similar to placebo, and states a private expert panel judged it generally recognized as safe (GRAS) for food use. A search of FDA's GRAS Notice Inventory for AOD9604 on 2026-09-30 returned no records, and no FDA approval exists. Animal studies show weight-gain reduction in obese rodents.",
   "dosing": {
     "basis": "studied",
@@ -19,6 +20,27 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A medical spa chain's guide (Beverly Hills Rejuvenation Center) says AOD-9604 is injected first thing in the morning after an 8 to 10 hour overnight fast, with a wait of 30 to 60 minutes before eating, and that a mixed vial is refrigerated, kept from light, not frozen, and typically stable for 30 to 45 days.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.bhrcenter.com/aod-9604-dosage-guide-complete-protocol-for-safe-administration/",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "FDA lists AOD-9604 among bulk drug substances for compounding that may present significant safety risks, stating it may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+      "label": "research",
+      "citation_id": "fda-bulks-page"
+    },
+    {
+      "text": "In obese mice, AOD9604 did not induce hyperglycaemia or reduce insulin secretion, unlike human growth hormone (animal study; human adverse-event data were not found in the cited sources).",
+      "label": "research",
+      "citation_id": "pmid-11673763"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "Honest Peptide describes AOD-9604 as a growth hormone fragment that triggers fat breakdown without growth-promoting effects, while acknowledging human trials failed to show significant weight loss; the site sells AOD-9604 products for research use.",

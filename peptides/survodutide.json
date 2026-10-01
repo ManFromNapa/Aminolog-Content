@@ -5,6 +5,7 @@
     "BI 456906"
   ],
   "regulatory_status": "investigational",
+  "category": "weight_metabolic",
   "used_for": "Once-weekly glucagon and GLP-1 receptor dual agonist developed by Boehringer Ingelheim and studied for obesity, type 2 diabetes and liver disease (MASH/MASLD). Not FDA-approved: no Drugs@FDA or DailyMed product was found and phase 3 trials are registered on ClinicalTrials.gov. A search of news at the time of review found no announced FDA application. Some phase 3 results are now published; weight loss is meaningful but gastrointestinal side effects are common.",
   "dosing": {
     "basis": "studied",
@@ -26,6 +27,30 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "In the phase 2 trials, survodutide was given as once-weekly subcutaneous injections, with a dose-escalation period before a maintenance dose. Survodutide is investigational and has no label guidance on timing, meals, or storage.",
+      "label": "research",
+      "citation_id": "pmid-38330987"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the phase 2 obesity trial, adverse events occurred in 91% of survodutide recipients vs 75% with placebo, primarily gastrointestinal (75% vs 42%).",
+      "label": "research",
+      "citation_id": "pmid-38330987"
+    },
+    {
+      "text": "In the phase 2 MASH trial, nausea occurred in 66% vs 23% with placebo, diarrhea 49% vs 23%, and vomiting 41% vs 4%. Serious adverse events occurred in 8% with survodutide and 7% with placebo.",
+      "label": "research",
+      "citation_id": "pmid-38847460"
+    },
+    {
+      "text": "In the phase 3 SYNCHRONIZE-1 trial, gastrointestinal symptoms, typically mild to moderate, occurred in 80.9% to 89.7% of survodutide recipients (depending on the group) and 47.9% with placebo. No deaths were reported.",
+      "label": "research",
+      "citation_id": "pmid-42253238"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "BodySpec, a body-scan company, summarizes phase 2 results (about 15 percent weight loss, and liver benefit in MASH) and says survodutide is still investigational, with Breakthrough Therapy and Fast Track designations, and that the company does not sell the drug.",

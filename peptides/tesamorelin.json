@@ -7,6 +7,7 @@
     "Egrifta WR"
   ],
   "regulatory_status": "approved",
+  "category": "growth_hormone",
   "used_for": "FDA-labeled for reduction of excess abdominal fat in HIV-infected adults with lipodystrophy; not indicated for general weight loss.",
   "dosing": {
     "basis": "labeled",
@@ -23,6 +24,45 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "Egrifta SV label: unreconstituted vials are stored at room temperature in the original box, protected from light.",
+      "label": "research",
+      "citation_id": "fda-egrifta-sv-label"
+    },
+    {
+      "text": "Egrifta SV label: the solution is administered immediately after reconstitution; it is not stored, frozen or refrigerated, and unused solution is discarded.",
+      "label": "research",
+      "citation_id": "fda-egrifta-sv-label"
+    },
+    {
+      "text": "Egrifta WR label: one reconstituted vial provides doses for 7 consecutive days, kept at room temperature (not frozen), and any remaining solution is discarded after 7 days.",
+      "label": "research",
+      "citation_id": "fda-egrifta-wr-label"
+    },
+    {
+      "text": "Egrifta WR label: the bacteriostatic water diluent is discarded 28 days after first use.",
+      "label": "research",
+      "citation_id": "fda-egrifta-wr-label"
+    },
+    {
+      "text": "Labels state the injection goes subcutaneously into the abdomen with rotating sites, avoiding the navel, scar tissue and bruises.",
+      "label": "research",
+      "citation_id": "fda-egrifta-wr-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Egrifta SV label: injection site reactions 17% vs 6% placebo, arthralgia 13% vs 11%, peripheral edema 6% vs 2%, and myalgia 6% vs 2%.",
+      "label": "research",
+      "citation_id": "fda-egrifta-sv-label"
+    },
+    {
+      "text": "Label warnings: increased risk of neoplasms (preexisting malignancy should be inactive), elevated IGF-1, fluid retention (edema, arthralgia, carpal tunnel syndrome), glucose intolerance (elevated HbA1c in 5% vs 1% placebo), hypersensitivity reactions (4%), and increased mortality in critically ill patients.",
+      "label": "research",
+      "citation_id": "fda-egrifta-sv-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "Patient reviews of Egrifta WR are mixed: some describe reduced belly fat and easier movement, while others report no benefit, joint pain, hand numbness, preparation difficulty, and cost or supply problems.",

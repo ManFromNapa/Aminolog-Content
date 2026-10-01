@@ -6,6 +6,7 @@
     "NNC0174-0833"
   ],
   "regulatory_status": "investigational",
+  "category": "weight_metabolic",
   "used_for": "Long-acting amylin analogue studied for weight management, alone and as a fixed-dose combination with semaglutide (CagriSema) in obesity and type 2 diabetes. Not FDA-approved. Novo Nordisk announced that it submitted a New Drug Application for CagriSema to the FDA on 18 December 2025 (company press release); no FDA approval was found in Drugs@FDA or DailyMed when this entry was reviewed, so it is treated as investigational pending the FDA decision. Cagrilintide on its own has no submission found.",
   "dosing": {
     "basis": "studied",
@@ -27,6 +28,35 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "In the phase 2 dose-finding trial, cagrilintide was given as once-weekly subcutaneous self-injections. Cagrilintide alone is investigational and has no label guidance on timing, meals, or storage.",
+      "label": "research",
+      "citation_id": "pmid-34798060"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the phase 2 trial of cagrilintide alone, gastrointestinal adverse events occurred in 41 to 63% of participants vs 32% with placebo, mainly nausea (20 to 47% vs 18%), along with constipation, diarrhea, and administration-site reactions.",
+      "label": "research",
+      "citation_id": "pmid-34798060"
+    },
+    {
+      "text": "In the REDEFINE 1 trial of cagrilintide combined with semaglutide (CagriSema), gastrointestinal adverse events affected 79.6% of the combination group vs 39.9% with placebo, including nausea, vomiting, diarrhea, constipation, and abdominal pain, mainly transient and mild to moderate.",
+      "label": "research",
+      "citation_id": "pmid-40544433"
+    },
+    {
+      "text": "In the REDEFINE 2 trial in type 2 diabetes, gastrointestinal adverse events were reported by 72.5% of the CagriSema group vs 34.4% with placebo, mostly transient and mild or moderate.",
+      "label": "research",
+      "citation_id": "pmid-40544432"
+    },
+    {
+      "text": "In the phase 2 trial in type 2 diabetes, no level 2 or 3 hypoglycemia and no fatal adverse events were reported with CagriSema.",
+      "label": "research",
+      "citation_id": "pmid-37364590"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "Hubmeded, an education company for aesthetic clinicians, describes cagrilintide as a promising satiety peptide with 5 to 10 percent weight loss alone and up to about 15 percent with semaglutide, while stating it is not yet FDA-approved and still investigational.",

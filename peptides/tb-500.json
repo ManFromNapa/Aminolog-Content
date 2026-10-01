@@ -7,6 +7,7 @@
     "thymosin beta 4 17-23"
   ],
   "regulatory_status": "unapproved",
+  "category": "tissue_repair",
   "used_for": "Sold and promoted online for muscle, tendon and wound recovery, often paired with BPC-157. TB-500 is a short synthetic fragment (residues 17-23) related to thymosin beta-4; most published research, including human trials, used full-length thymosin beta-4 instead, which is a different molecule.",
   "dosing": {
     "basis": "studied",
@@ -23,6 +24,36 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A peptide information site that also sells or links to suppliers says TB-500 is injected subcutaneously with sites rotated between sessions to avoid lumps from repeated use of one spot, and that no particular time of day is specified. It says a mixed vial is kept refrigerated in the dark and used within about 2 to 4 weeks, with some references saying up to 30 days.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a phase 1 trial of full-length recombinant thymosin beta-4 (not TB-500) given intravenously to healthy volunteers, adverse events were mild to moderate with no serious events or dose-limiting toxicities.",
+      "label": "research",
+      "citation_id": "r-tb4-phase1"
+    },
+    {
+      "text": "A telehealth clinic's educational article (Midi Health) says reported TB-500 side effects include fatigue, headaches, injection-site reactions and appetite changes, and notes that these come from limited anecdotal reports.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.joinmidi.com/post/tb-500",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A peptide information site that also sells or links to suppliers says community reports of TB-500 describe mostly mild injection-site discomfort, redness and short-lived fatigue or a head-pressure feeling in the first few days, and that direct human safety data are essentially absent.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A video promotes taking BPC-157 and TB-500 together as the 'Wolverine stack' for muscle and injury recovery (based on the video title and description; the host is a fitness and nutrition personality).",

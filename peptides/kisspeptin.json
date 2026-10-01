@@ -8,6 +8,7 @@
     "kisspeptin 112-121"
   ],
   "regulatory_status": "investigational",
+  "category": "sexual_reproductive",
   "used_for": "A natural hypothalamic hormone that triggers release of GnRH and so luteinizing hormone (LH) and FSH. It is studied in academic clinical research on reproductive disorders (hypothalamic amenorrhea, hypogonadotropic hypogonadism), triggering egg maturation in IVF, and sexual desire, mostly in small trials. It is promoted online for libido, testosterone and fertility, though no approved product exists.",
   "dosing": {
     "basis": "studied",
@@ -44,6 +45,39 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "An educational peptide protocol site with affiliate supplier links says kisspeptin is often timed before sleep in community planning, that the mixed vial is kept refrigerated right away, and that its shelf life depends on the supplier's stated beyond-use limits rather than a fixed number of days. It also mentions rotating injection sites and letting the alcohol swab dry before injecting.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a randomized crossover trial of a single intravenous kisspeptin-54 infusion in women with hypoactive sexual desire disorder, kisspeptin was reported as well tolerated.",
+      "label": "research",
+      "citation_id": "pmid-36287566"
+    },
+    {
+      "text": "In a trial of women at high risk of ovarian hyperstimulation syndrome (OHSS) given kisspeptin-54 as an egg-maturation trigger, no woman developed moderate to critical OHSS.",
+      "label": "research",
+      "citation_id": "pmid-26192876"
+    },
+    {
+      "text": "A study of twice-weekly kisspeptin-54 injections for up to 8 weeks in women with hypothalamic amenorrhea reported no adverse effects, in a very small sample.",
+      "label": "research",
+      "citation_id": "pmid-20980998"
+    },
+    {
+      "text": "The same protocol site says reported effects include mild flushing or warmth shortly after injection, mild injection-site redness, transient headache and brief nausea.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A functional medicine clinic page promotes kisspeptin therapy as a breakthrough that restores libido, fertility and sex hormones naturally without suppressing the body, and invites readers to book a consultation. It presents the benefits without citing human trials, and the page sells the service.",

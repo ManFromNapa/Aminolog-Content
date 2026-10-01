@@ -7,6 +7,7 @@
     "amylin analog"
   ],
   "regulatory_status": "approved",
+  "category": "weight_metabolic",
   "used_for": "FDA-labeled (Symlin, NDA 021332, approved 2005) as an add-on treatment for adults with type 1 or type 2 diabetes who use mealtime insulin and have not reached glucose goals on optimal insulin. The label carries a boxed warning for severe hypoglycemia when used with insulin. Drugs@FDA currently lists all Symlin products as discontinued, although the label remains on DailyMed. Some online telehealth sites promote it off-label for weight loss, which is not a labeled use.",
   "dosing": {
     "basis": "labeled",
@@ -23,6 +24,45 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Symlin label states it is injected subcutaneously immediately before each major meal (at least 250 kcal or 30 g of carbohydrate), into the abdomen or thigh. Arm injection is not recommended because of variable absorption.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    },
+    {
+      "text": "The Symlin label states the product should be at room temperature before injecting to reduce injection site reactions, sites should be rotated and kept distinct from insulin injection sites, and Symlin is always given as a separate injection and never mixed with insulin.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    },
+    {
+      "text": "The Symlin label states that if a dose is missed, the next scheduled dose is given at the usual amount, with no make-up dose.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    },
+    {
+      "text": "The Symlin label states unused pen-injectors are refrigerated (2 to 8 C), protected from light, and not frozen. After first use, a pen may be refrigerated or kept at up to 30 C and is used within 30 days.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Symlin label carries a boxed warning of severe hypoglycemia: use with insulin increases the risk, particularly in type 1 diabetes, and when it occurs it is seen within 3 hours after an injection.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    },
+    {
+      "text": "In the Symlin label's pooled trials in type 1 diabetes on insulin, nausea occurred in 48% vs 17% with placebo, anorexia 17% vs 2%, and vomiting 11% vs 7%.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    },
+    {
+      "text": "In the pooled trials in type 2 diabetes on insulin, nausea occurred in 28% vs 12% with placebo, headache 13% vs 7%, anorexia 9% vs 2%, and vomiting 8% vs 4%. The label states nausea is more frequent at the start of treatment.",
+      "label": "research",
+      "citation_id": "fda-symlin-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A peptide information site says pramlintide produced modest weight loss in trials including people without diabetes, but is underused because it needs several daily injections and careful insulin coordination, and newer drugs work better.",

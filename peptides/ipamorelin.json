@@ -6,6 +6,7 @@
     "NNC 26-0161"
   ],
   "regulatory_status": "unapproved",
+  "category": "growth_hormone",
   "used_for": "A ghrelin-receptor (growth hormone secretagogue) peptide investigated for stimulating growth hormone release and for postoperative bowel recovery. It is promoted online for anti-aging, body composition and sleep, often combined with CJC-1295.",
   "dosing": {
     "basis": "studied",
@@ -27,6 +28,34 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Peptidepedia website says ipamorelin is best taken at least 30 minutes before eating or 2 or more hours after a meal, because food raises insulin and is said to interfere with the growth hormone response. It says a mixed vial keeps for 4 to 6 weeks refrigerated, should not be frozen, and should be protected from light.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "The My Pep Calc website says ipamorelin is injected either first thing in the morning after an overnight fast or at bedtime at least 2 hours after eating, with a wait of at least 30 minutes after the injection before eating.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.mypepcalc.com/learn/cjc-ipamorelin/ipamorelin-timing-guide",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a phase 2 trial of intravenous ipamorelin twice daily for up to 7 days after bowel surgery, treatment-emergent adverse events occurred in 87.5% of the ipamorelin group and 94.8% of the placebo group, and the authors described it as well tolerated.",
+      "label": "research",
+      "citation_id": "r-ileus-phase2"
+    },
+    {
+      "text": "FDA lists ipamorelin acetate among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities.",
+      "label": "research",
+      "citation_id": "r-fda-cat2"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A video from a chiropractor's channel argues that a CJC-1295/ipamorelin combination is the best growth hormone peptide stack; the description promotes booking a discovery call.",

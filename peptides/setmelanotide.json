@@ -6,6 +6,7 @@
     "RM-493"
   ],
   "regulatory_status": "approved",
+  "category": "weight_metabolic",
   "used_for": "FDA-labeled (Imcivree) to reduce excess body weight and maintain weight reduction in adults and children with acquired hypothalamic obesity (age 4 and older), Bardet-Biedl syndrome (age 2 and older), or POMC, PCSK1 or LEPR deficiency confirmed by genetic testing (age 2 and older). The label says it is not expected to work for other obesity, including common (polygenic) obesity or obesity from other genetic syndromes. It is a melanocortin 4 receptor agonist.",
   "dosing": {
     "basis": "labeled",
@@ -27,6 +28,45 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "Label: given once daily at the beginning of the day, without regard to meals.",
+      "label": "research",
+      "citation_id": "fda-imcivree-label"
+    },
+    {
+      "text": "Label: injected subcutaneously in the abdomen, thigh or arm, rotating to a different site each day.",
+      "label": "research",
+      "citation_id": "fda-imcivree-label"
+    },
+    {
+      "text": "Label: if a dose is missed, the once daily regimen resumes with the next scheduled dose.",
+      "label": "research",
+      "citation_id": "fda-imcivree-label"
+    },
+    {
+      "text": "Label: unopened vials are stored refrigerated (2 to 8 C), or may be kept at room temperature (up to 30 C) for up to 30 days; opened vials are discarded after 30 days or at expiration, whichever comes first.",
+      "label": "research",
+      "citation_id": "fda-imcivree-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Skin hyperpigmentation was the most common adverse reaction in the Bardet-Biedl syndrome trial (61% of participants, 23 of 38), with injection site erythema in 48%.",
+      "label": "research",
+      "citation_id": "bbs-2022"
+    },
+    {
+      "text": "In the POMC and LEPR deficiency trials, injection site reactions occurred in every participant; nausea occurred in 5 of 10 (POMC) and 4 of 11 (LEPR) participants and vomiting in 3 of 10 (POMC). No serious treatment-related adverse events occurred.",
+      "label": "research",
+      "citation_id": "pomc-lepr-2020"
+    },
+    {
+      "text": "Label warnings and precautions: disturbance in sexual arousal, depression and suicidal ideation, hypersensitivity reactions, skin hyperpigmentation and nevi development, and (in acquired hypothalamic obesity) acute adrenal insufficiency and sodium imbalance.",
+      "label": "research",
+      "citation_id": "fda-imcivree-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "The Obesity Action Coalition describes Imcivree as a daily injection for obesity from POMC, PCSK1 or LEPR deficiency, cites trial results of 8 in 10 participants losing at least 10% of body weight, and says it is not for common obesity or unconfirmed genetic causes. The page predates label expansions to other conditions.",

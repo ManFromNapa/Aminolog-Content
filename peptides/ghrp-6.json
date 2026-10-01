@@ -7,6 +7,7 @@
     "SK&F 110679"
   ],
   "regulatory_status": "unapproved",
+  "category": "growth_hormone",
   "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor and is known for stimulating appetite. It has no FDA-approved product. It has been used as a diagnostic stimulation test in endocrine research and is promoted online for muscle gain, appetite and recovery, which has not been shown in controlled human trials found for this entry. FDA lists it as a bulk substance that may present significant safety risks for compounding.",
   "dosing": {
     "basis": "studied",
@@ -28,6 +29,27 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Peptidepedia website says GHRP-6 is taken on an empty stomach, at least 30 minutes before eating or 2 or more hours after a meal, with the pre-bed injection described as the most important, and that a mixed vial is refrigerated, used within 28 days and not frozen.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A single-dose GHRP-6 test in patients and healthy controls activated the HPA axis (cortisol rise) with no detectable side effects reported.",
+      "label": "research",
+      "citation_id": "pmid-19946832"
+    },
+    {
+      "text": "FDA lists GHRP-6 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
+      "label": "research",
+      "citation_id": "fda-category2-page"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A peptide wiki guide describes GHRP-6 as the strongest appetite stimulant of the growth hormone-releasing peptides, with beginner to advanced dosing protocols and stacking with CJC-1295, while stating it is not FDA-approved and is banned by WADA.",

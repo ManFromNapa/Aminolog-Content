@@ -8,6 +8,7 @@
     "growth hormone-releasing hormone analog"
   ],
   "regulatory_status": "unapproved",
+  "category": "growth_hormone",
   "used_for": "Sermorelin is the first 29 amino acids of growth hormone-releasing hormone. Drugs@FDA shows Geref (sermorelin acetate) was approved under NDA 019863 (1990) and NDA 020443 (1997), but both are now listed as discontinued, and openFDA/Drugs@FDA show no currently marketed sermorelin product. FDA published a 2013 notice that Geref was not withdrawn for safety or effectiveness reasons. Today it is mainly promoted by anti-aging and telehealth clinics, usually as a compounded product, to raise growth hormone for body composition, sleep and energy in adults. The published human work found here is small and older, mostly in children with growth hormone deficiency and in healthy volunteers.",
   "dosing": {
     "basis": "studied",
@@ -24,6 +25,34 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Peptidepedia website says sermorelin is injected 15 to 30 minutes before bed on an empty stomach, at least 90 minutes after eating, and that a mixed vial is refrigerated and used within 4 to 6 weeks, with a vial left unrefrigerated for more than 72 hours to be discarded.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A telehealth clinic blog (Defy Medical) says a reconstituted sermorelin vial is kept refrigerated and can last up to 90 days, and can tolerate under 72 hours out of the fridge. It describes injecting slowly under the skin of the abdomen, arm, thigh or buttock and rotating sites. The clinic sells sermorelin therapy.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a 6-month trial in children with growth hormone deficiency, no serious side effects were seen; three children receiving GHRH(1-29)-NH2 reported mild injection site irritation.",
+      "label": "research",
+      "citation_id": "pmid-8329830"
+    },
+    {
+      "text": "In the same trial, nearly all children given GHRH(1-29)-NH2 (39 of 40) developed antibodies to it, which had almost disappeared 9 months after treatment stopped; no correlation with growth response was found.",
+      "label": "research",
+      "citation_id": "pmid-8329830"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A clinic blog says sermorelin is better than hormone replacement because it stimulates natural growth hormone release, and lists benefits including more muscle, less fat, better sleep, faster healing and heart health.",

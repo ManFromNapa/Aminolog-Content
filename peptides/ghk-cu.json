@@ -9,6 +9,7 @@
     "Glycyl-L-histidyl-L-lysine copper"
   ],
   "regulatory_status": "unapproved",
+  "category": "skin_pigmentation",
   "used_for": "Mainly an ingredient in cosmetic skin and hair products, promoted for wrinkles, skin firmness, wound and scar appearance and hair thickness. The evidence is largely cosmetic, topical, in vitro or in animals; there are very few controlled human trials, and injectable use is promoted online without an approved product or established human evidence.",
   "dosing": {
     "basis": "studied",
@@ -25,6 +26,31 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A peptide information site that also sells or links to suppliers says GHK-Cu is used either as a topical cream or serum applied once or twice daily, or as a subcutaneous injection of reconstituted powder rotated across the abdomen, outer thigh and back of the upper arm. It says the mixed vial is kept refrigerated and protected from light, used within the supplier's stated window, and discarded if cloudy or containing particles. It gives no preferred time of day.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A medical spa chain's marketing guide says many providers favor evening or bedtime injection on the rationale that tissue repair is concentrated during sleep, that a mixed vial is refrigerated and used within roughly 28 to 30 days, and that topical products are often the evidence-based starting point for facial anti-aging.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A peptide information site that also sells or links to suppliers says topical GHK-Cu can cause redness, tingling, dryness or transient irritation, especially at higher concentrations, and that injected use can cause local redness, mild swelling, transient warmth or a bluish bruise attributed to the copper complex.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A medical clinic's blog says GHK-Cu boosts collagen and elasticity, reduces wrinkles and may support hair growth and thickness, while conceding more studies are needed for the hair claims; the clinic itself offers GHK-Cu serums, a scalp solution and injections.",

@@ -9,6 +9,7 @@
     "octreotide acetate"
   ],
   "regulatory_status": "approved",
+  "category": "other_medical",
   "used_for": "FDA-labeled (Sandostatin injection and generics) to lower growth hormone and IGF-1 in acromegaly, and to treat severe diarrhea and flushing from metastatic carcinoid tumors and watery diarrhea from VIP-secreting tumors (VIPomas). The label states that tumor shrinkage or slower tumor growth was not shown in the trials behind the injection. Long-acting (Sandostatin LAR Depot) and oral (Mycapssa) forms are separate products. Octreotide is a somatostatin analog.",
   "dosing": {
     "basis": "labeled",
@@ -30,6 +31,40 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Sandostatin label states subcutaneous injection sites should be rotated in a systematic manner.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
+    },
+    {
+      "text": "The label states the solution can be allowed to reach room temperature before injection and should not be warmed artificially.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
+    },
+    {
+      "text": "The label states ampuls and vials are stored refrigerated at 2 to 8 C, and at room temperature (20 to 30 C) the product is stable for 14 days if protected from light.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
+    },
+    {
+      "text": "The label states ampuls should be opened just before administration and any unused portion discarded.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In people with acromegaly, adverse reactions reported in more than 10% included gallbladder abnormalities, sinus bradycardia, diarrhea, loose stools, nausea, abdominal discomfort, hyperglycemia and hypothyroidism. In other patients, gallbladder abnormalities were the one reaction above 10%.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
+    },
+    {
+      "text": "The label warns of cholelithiasis (gallstones), changes in blood glucose (hypoglycemia or hyperglycemia), hypothyroidism, atrioventricular conduction block, new fat malabsorption (steatorrhea) and lower vitamin B12 levels, and advises periodic monitoring.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "RxList's drug page summarizes the label: octreotide reduces growth hormone in acromegaly and flushing and diarrhea from tumors, with frequent digestive side effects, high rates of gallstones or sludge with long use, slow heart rate and conduction changes in some acromegaly patients, and blood sugar swings.",

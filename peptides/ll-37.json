@@ -7,6 +7,7 @@
     "human cathelicidin antimicrobial peptide"
   ],
   "regulatory_status": "unapproved",
+  "category": "immune_inflammation",
   "used_for": "LL-37 is the active fragment of the human cathelicidin protein, part of innate immune defense. It has been studied as a topical treatment for chronic leg ulcers (early trials showed mixed results) and in one tiny melanoma injection study. It is promoted online for immunity, infection and healing, including by injection, for which no published human trial was found.",
   "dosing": {
     "basis": "studied",
@@ -33,6 +34,46 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "A peptide information site that also sells or links to suppliers says LL-37 degrades in solution, so a mixed vial is kept refrigerated and out of light and used promptly rather than stored for weeks, and that no validated human injection protocol exists.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a first-in-human trial of topical LL-37 on venous leg ulcers (34 participants), no local or systemic safety concerns were reported.",
+      "label": "research",
+      "citation_id": "pmid-25041740"
+    },
+    {
+      "text": "In a small melanoma trial of LL-37 injected into tumors (3 participants), no serious adverse events were listed.",
+      "label": "research",
+      "citation_id": "nct-02225366"
+    },
+    {
+      "text": "Laboratory and mouse melanoma experiments found LL-37 increased invasion-linked and blood-vessel-promoting factors, raising a theoretical concern about tumor spread. This is animal and cell data, not observed in people.",
+      "label": "research",
+      "citation_id": "pmid-36980564"
+    },
+    {
+      "text": "A peptide information site that also sells or links to suppliers says reported LL-37 effects are mostly local, namely injection-site redness, swelling, itching or burning, which it links to histamine release from mast cells, and that persistent or spreading reactions are treated as a reason to stop.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A medical spa chain's marketing page says the most common effects are temporary injection-site redness, slight swelling or discomfort that resolves within hours, with some patients reporting temporary fatigue.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-09-30"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "A peptide-guide site (which also sells a paid guide) presents LL-37 as an immune, anti-infective and wound-healing peptide used off-label through compounding pharmacies, while stating that the evidence is mostly preclinical and the best human data is for wounds.",

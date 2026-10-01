@@ -6,6 +6,7 @@
     "Saxenda"
   ],
   "regulatory_status": "approved",
+  "category": "weight_metabolic",
   "used_for": "FDA-labeled as Victoza for glycemic control in adults and children 10 and older with type 2 diabetes and to reduce major cardiovascular events in adults with type 2 diabetes and established cardiovascular disease, and as Saxenda for long-term weight management alongside diet and activity in adults with obesity (or overweight with a weight-related condition) and in children 12 and older with obesity and body weight over 60 kg. The labels advise against using liraglutide products together and carry a boxed warning about thyroid C-cell tumors. Generic liraglutide products are also listed on DailyMed.",
   "dosing": {
     "basis": "labeled",
@@ -27,6 +28,50 @@
       }
     ]
   },
+  "administration_guidance": [
+    {
+      "text": "The Victoza label states the pen is injected subcutaneously once daily at any time of day, independently of meals, in the abdomen, thigh, or upper arm, and that no adjustment is needed when changing the injection site or timing. The Saxenda label states once-daily injection at any time of day without regard to meals.",
+      "label": "research",
+      "citation_id": "fda-victoza-label"
+    },
+    {
+      "text": "The Victoza and Saxenda labels state that after a missed dose the once-daily regimen is resumed with the next scheduled dose without an extra dose. If more than 3 days have elapsed since the last dose, the labels state treatment is restarted at the initial dosage to reduce gastrointestinal reactions.",
+      "label": "research",
+      "citation_id": "fda-victoza-label"
+    },
+    {
+      "text": "The Victoza label states injection sites within a region should be rotated to reduce the risk of cutaneous amyloidosis, and that when used with insulin the products are given as separate injections and never mixed.",
+      "label": "research",
+      "citation_id": "fda-victoza-label"
+    },
+    {
+      "text": "The Victoza label states a pen is refrigerated (2 to 8 C) before first use and not frozen. After first use it can be kept for 30 days at 15 to 30 C or in the refrigerator, with the cap on, protected from heat and sunlight, with the needle removed and a new needle used each time. The Saxenda label gives the same 30-day in-use rule.",
+      "label": "research",
+      "citation_id": "fda-victoza-label"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the Saxenda label's weight-management trials, nausea occurred in 39.3% vs 13.8% with placebo, diarrhea 20.9% vs 9.9%, constipation 19.4% vs 8.5%, vomiting 15.7% vs 3.9%, injection site reactions 13.9% vs 10.5%, and dyspepsia 9.6% vs 2.7%.",
+      "label": "research",
+      "citation_id": "fda-saxenda-label"
+    },
+    {
+      "text": "In the Victoza label's type 2 diabetes trials, nausea occurred in 18 to 20% vs 5% with placebo, diarrhea 10 to 12% vs 4%, vomiting 6 to 9% vs 2%, and decreased appetite about 10% vs 1%.",
+      "label": "research",
+      "citation_id": "fda-victoza-label"
+    },
+    {
+      "text": "The Victoza and Saxenda labels carry a boxed warning of thyroid C-cell tumors in rodents (human relevance undetermined) and contraindicate use with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+      "label": "research",
+      "citation_id": "fda-victoza-label"
+    },
+    {
+      "text": "The labels list warnings for acute pancreatitis and acute gallbladder disease, and the Saxenda label reports increased lipase in 5.3% vs 2.2% with placebo.",
+      "label": "research",
+      "citation_id": "fda-saxenda-label"
+    }
+  ],
   "internet_claims": [
     {
       "claim": "WebMD patient reviews of Saxenda describe weight losses from a few pounds to dozens of pounds and reduced food cravings for many users, alongside frequent nausea, digestive problems and fatigue; some find side effects hard to tolerate and a few report little effect.",
