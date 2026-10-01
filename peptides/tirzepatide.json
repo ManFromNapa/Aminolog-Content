@@ -21,6 +21,15 @@
         "population": "Adults and pediatric patients 10 years and older with type 2 diabetes",
         "citation_id": "fda-mounjaro-label"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A pharmacy intermediary blog says people who microdose tirzepatide commonly use amounts below the labeled starting dose, giving examples of 1.5 mg to 1.8 mg once weekly at the start, and a split approach of 0.5 mg every 3 days. The page presents these as off-label practices, not established dosing.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

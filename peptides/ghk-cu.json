@@ -24,6 +24,15 @@
         "population": "Mice",
         "citation_id": "pmid-29311918"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A clinic website says injectable GHK-Cu is most commonly dosed at 1 to 2 mg per day subcutaneously, and topical GHK-Cu at 2 to 4 percent once or twice daily.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

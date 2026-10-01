@@ -32,6 +32,15 @@
         "population": "Adults with melanoma (3 participants started)",
         "citation_id": "nct-02225366"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A dosing-guide site with a supplier shop link says LL-37 is commonly described at 125 mcg daily by subcutaneous injection or 50 to 60 mcg twice daily. It also lists a weight-based figure of 50 mcg per kg per day and topical use at 0.5 and 1.6 mg/mL twice weekly.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

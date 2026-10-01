@@ -23,6 +23,22 @@
         "population": "One-year-old female C3H/He mice",
         "citation_id": "pmid-16634527"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational peptide guide website (PeptidesExplorer) says the standard epitalon protocol is 5 to 10 mg per day injected subcutaneously, with 10 mg per day described as the classic approach, given in the evening. The source gives a range and says no officially approved dosing exists.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidesexplorer.com/blog/epitalon-dosage",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A medical education and training site (HubMedEd) says a standard epitalon dosage is 5 to 10 mg per day, sometimes divided into morning and evening doses. The page carries third-party supplier banner links, so it is classed as a vendor-affiliated source and not linked.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

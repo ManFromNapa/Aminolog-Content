@@ -27,6 +27,29 @@
         "population": "Rats",
         "citation_id": "r-rat-achilles-2026"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A clinic website says BPC-157 is commonly dosed in the 250 to 500 mcg per day range by subcutaneous injection, given once daily.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A physician-run site that promotes affiliate links and paid courses says 200 to 500 mcg per day is the most commonly used range for subcutaneous injection, and lists 250 to 500 mcg twice daily for acute injuries and 200 to 300 mcg once daily for chronic conditions. It also lists 500 to 1,000 mcg daily for oral use.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A supplement retailer's blog says typical daily doses fall between 200 and 1,000 mcg, with 500 mcg per day the most commonly reported, injected once or twice daily. For oral use it cites 250 to 500 mcg once or twice daily.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

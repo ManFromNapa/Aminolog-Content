@@ -18,6 +18,15 @@
         "population": "Obese Zucker rats",
         "citation_id": "pmid-11146367"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website (Peptide Dossier) says informal online protocols cite a 250 mcg starting dose escalating to 300 to 500 mcg, or 2 to 3 mcg per pound of body weight, taken 30 to 60 minutes before breakfast. The site states none of these protocols have human research support.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidedossier.com/guides/aod-9604-dosage/",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

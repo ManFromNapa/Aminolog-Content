@@ -22,6 +22,15 @@
         "population": "HIV-infected adults with lipodystrophy and excess abdominal fat",
         "citation_id": "fda-egrifta-wr-label"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An independent peptide information website (Peptide Library) says community users describe 2 mg subcutaneously daily (matching the approved dose), 1 mg daily as a cost-conscious level, and 1 mg at night combined with 100 mcg ipamorelin morning and evening. These are described as off-label community practices.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidelibrary.io/resources/tesamorelin-dosage-guide/",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

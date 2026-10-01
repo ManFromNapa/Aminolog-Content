@@ -17,6 +17,15 @@
         "population": "Human HaCaT keratinocyte cell line and a 3D skin model",
         "citation_id": "pmid-40073467"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website that states it is not affiliated with any vendor says oral KPV is commonly described at 500 mcg to 1 mg once or twice daily, injectable KPV at 250 to 500 mcg once or twice daily, and topical KPV at 0.1 to 1 percent once or twice daily. It says twice daily is the most common pattern.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://thekpvpeptide.com/kpv-dosage/",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

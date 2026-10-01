@@ -29,6 +29,22 @@
         "population": "Ten men with erectile dysfunction with organic risk factors",
         "citation_id": "pmid-11018622"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A pharmacy and peptide retail site says melanotan II is commonly used at 0.25 to 0.5 mg subcutaneously daily in an initial phase and 0.5 to 1 mg one to two times per week afterward, with a stated maximum of 2 mg per day.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide guide site with affiliate links and discount codes says melanotan II is commonly used at 0.25 to 0.5 mg subcutaneously daily during an initial phase and 0.5 to 1 mg one to two times per week afterward.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

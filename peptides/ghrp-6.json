@@ -27,6 +27,22 @@
         "population": "Children with growth hormone deficiency and healthy controls",
         "citation_id": "pmid-18772594"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide guide site that links to vendors says a standard protocol is 100 mcg GHRP-6 with 100 mcg CJC-1295 (no DAC) per injection, 2 to 3 times daily on an empty stomach, and describes tiers from 100 mcg to 300 mcg per dose.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "An affiliate-linked peptide site with discount codes says beginner use is 100 mcg twice daily, intermediate 200 mcg two to three times daily, and advanced 300 mcg three times daily, with weight-based figures of about 1 to 3 mcg/kg.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

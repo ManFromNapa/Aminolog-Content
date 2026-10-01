@@ -23,6 +23,22 @@
         "population": "30 healthy men aged 19 to 43",
         "citation_id": "pmid-8329825"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website (Peptide Dossier) says most sermorelin protocols begin with 200 mcg daily, increased to 300 mcg after 1 to 2 weeks, with 300 to 500 mcg daily described for experienced users. The site says it does not encourage use without medical supervision.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A compounded-peptide telehealth seller says the typical adult range is 200 to 500 mcg injected subcutaneously once daily at bedtime, with 100 to 200 mcg described as a conservative starting level. The page is part of a site that sells the product.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

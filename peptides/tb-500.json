@@ -22,6 +22,22 @@
         "population": "Healthy Chinese adult volunteers in a phase 1 trial",
         "citation_id": "r-tb4-phase1"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational site that carries banner ads for peptide providers says typical dosing is 2.0 to 2.5 mg given subcutaneously or intramuscularly every other day at the start, with a total weekly range of 4 to 8 mg divided into 2 to 3 administrations.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A dosing-guide site with supplier links and discount codes says TB-500 schedules of approximately 2 to 2.5 mg subcutaneously twice weekly, then once weekly, are used, and states these are not validated by a human randomized trial.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

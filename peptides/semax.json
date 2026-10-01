@@ -17,6 +17,22 @@
         "population": "110 adults after ischemic stroke",
         "citation_id": "pmid-29798983"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide-tracking app's blog (Regimen) says standard nasal Semax use is described in tiers: 100 mcg per nostril once daily at the low end, 200 to 300 mcg per nostril per session once or twice daily as a standard level, and 600 to 1,000 mcg per day split across two to three sessions at the high end. This is the source's description, not a recommendation.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "An educational dosing-guide website (DosingCalc) says a commonly described starting amount is 300 mcg per nostril once daily (600 mcg total), with 450 mcg per nostril (900 mcg total) described as a later level, a split option of 300 mcg twice daily, and up to 1,200 mcg per day in short intensive use. These are the source's statements, not established or recommended doses.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://dosingcalc.com/guides/semax-peptide-nootropic-research-dosing-protocols",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

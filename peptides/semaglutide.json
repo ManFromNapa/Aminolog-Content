@@ -27,6 +27,22 @@
         "population": "Adults with type 2 diabetes per the Ozempic label",
         "citation_id": "fda-ozempic-label"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A health information website that carries affiliate links to telehealth providers says people who microdose semaglutide commonly start at 0.05 mg to 0.125 mg once weekly, and that many stay below 0.5 mg weekly. The page notes there is no agreed definition of a microdose and describes the practice as not studied in a protocol.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A prescription discount service blog says some people report using semaglutide microdoses starting as low as 0.05 mg once weekly, and that some take 10 to 100 times lower doses than standard prescriptions. The page presents this as an unstudied off-label practice.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

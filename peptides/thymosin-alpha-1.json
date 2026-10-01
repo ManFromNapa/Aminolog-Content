@@ -23,6 +23,15 @@
         "population": "Hospitalized adults with COVID-19 and lymphocytopenia",
         "citation_id": "nct-04487444"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A dosing-guide site with supplier links and discount codes says community protocols circulating online include 1 mg daily for 10 to 30 days, and states these are not drawn from controlled trials.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
