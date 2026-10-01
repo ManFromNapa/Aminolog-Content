@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 
 EVIDENCE = {"human_trial": "Human trial", "animal_study": "Animal study", "in_vitro": "In vitro",
             "fda_label": "FDA label", "regulatory_document": "Regulatory document",
-            "case_report": "Case report", "systematic_review": "Systematic review",
+            "case_report": "Case report", "systematic_review": "Systematic review", "review": "Review",
             "regulator_notice": "Regulator notice"}
 
 
@@ -55,6 +55,9 @@ def main():
             r = by_id.get(e["citation_id"])
             cite = f"{EVIDENCE[r['evidence_type']]}, {link(r)}" if r else "MISSING CITATION"
             print(f"- {e['text']}  \n  *{e['population']}* ({cite})")
+        for e in d["dosing"].get("internet_entries", []):
+            src = f"[source]({e['url']})" if e["url"] else "no link (vendor)"
+            print(f"- **Internet dose** ({e['source_type']}, {src}): {e['text']}  \n  *{e['population']}*")
         print("\n### Research\n")
         for r in d["research"]:
             print(f"- **{EVIDENCE[r['evidence_type']]}**, {link(r)}, {r['year']}  \n"
@@ -77,6 +80,37 @@ def main():
         for c in d["internet_claims"]:
             src = f"[source]({c['url']})" if c["url"] else "no link (vendor)"
             print(f"- **{c['source_type']}**, {src}, retrieved {c['retrieved']}  \n  {c['claim']}")
+
+    blends = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(ROOT, "blends", "*.json")))]
+    if blends and not only:
+        print("\n---\n\n# Blends\n")
+        for b in blends:
+            by_id = {r["id"]: r for r in b["research"]}
+            print(f"\n## {b['name']}\n")
+            print(f"**Status:** {b['regulatory_status']}  \n**Components:** {', '.join(b['components'] + b['other_components'])}  \n"
+                  f"**Aliases:** {', '.join(b['aliases'])}\n\n{b['summary']}\n\n*Marketed for:* {b['used_for']}\n")
+            for title, field in (("Administration guidance", "administration_guidance"), ("Side effects", "side_effects")):
+                print(f"### {title}\n")
+                if not b[field]:
+                    print("_None recorded._")
+                for item in b[field]:
+                    if item["label"] == "research":
+                        r = by_id.get(item["citation_id"])
+                        cite = f"{EVIDENCE[r['evidence_type']]}, {link(r)}" if r else "MISSING CITATION"
+                        print(f"- **Research** ({cite}): {item['text']}")
+                    else:
+                        src = f"[source]({item['url']})" if item["url"] else "no link (vendor)"
+                        print(f"- **Internet** ({item['source_type']}, {src}): {item['text']}")
+                print()
+            print("### Research\n")
+            for r in b["research"]:
+                print(f"- **{EVIDENCE[r['evidence_type']]}**, {link(r)}, {r['year']}  \n  {r['summary']}  \n  *Finding:* {r['finding']}")
+            if not b["research"]:
+                print("_None on the combination._")
+            print("\n### Internet claims\n")
+            for c in b["internet_claims"]:
+                src = f"[source]({c['url']})" if c["url"] else "no link (vendor)"
+                print(f"- **{c['source_type']}**, {src}: {c['claim']}")
 
 
 if __name__ == "__main__":

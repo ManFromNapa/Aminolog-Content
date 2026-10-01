@@ -27,6 +27,22 @@
         "population": "Adults with type 2 diabetes per the Ozempic label",
         "citation_id": "fda-ozempic-label"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A health information website that carries affiliate links to telehealth providers says people who microdose semaglutide commonly start at 0.05 mg to 0.125 mg once weekly, and that many stay below 0.5 mg weekly. The page notes there is no agreed definition of a microdose and describes the practice as not studied in a protocol.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A prescription discount service blog says some people report using semaglutide microdoses starting as low as 0.05 mg once weekly, and that some take 10 to 100 times lower doses than standard prescriptions. The page presents this as an unstudied off-label practice.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -59,6 +75,25 @@
       "text": "The Ozempic label states a pen is refrigerated (2 to 8 C) before first use, kept in the original carton, and after first use can be stored for 56 days at 15 to 30 C or in the refrigerator, not frozen.",
       "label": "research",
       "citation_id": "fda-ozempic-label"
+    },
+    {
+      "text": "The Ozempic label states the day of weekly administration can be changed if necessary, as long as the time between two doses is at least 2 days (more than 48 hours). It also states pens must never be shared between patients, even if the needle is changed, and that when used with insulin the products can be injected in the same body region but not adjacent to each other.",
+      "label": "research",
+      "citation_id": "fda-ozempic-label"
+    },
+    {
+      "text": "A telehealth company's blog says the best injection time is whatever can be kept consistent each week, that morning injections may let nausea pass during waking hours while evening injections may suit those who want any nausea overnight, and that a low-fat, low-fiber meal may reduce early nausea.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A Healthline article on nausea with Ozempic describes eating smaller portions, choosing bland foods, avoiding greasy or spicy foods, taking frequent sips of water, and waiting at least 30 minutes after the injection before trying certain foods such as ginger or mints.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.healthline.com/health/drugs/ozempic-nausea-relief",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

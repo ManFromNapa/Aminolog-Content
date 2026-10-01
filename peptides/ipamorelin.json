@@ -26,6 +26,29 @@
         "population": "Adult female rats",
         "citation_id": "r-rat-bone-2001"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website (PeptidesExplorer) says a commonly used solo dose is 200 to 300 mcg injected subcutaneously, 1 to 3 times per day, and describes 100 to 200 mcg once daily at bedtime as a common beginner level. The site states this is a research compound, not an approved therapy.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidesexplorer.com/blog/ipamorelin-dosage",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "An affiliate-linked peptide information site says community-reported schedules use 100 to 300 mcg per injection, one to three times per day, and states these figures are community-derived, not from clinical trials.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide information site with supplier links says a standard protocol is 200 mcg per injection, and that research protocols typically use roughly 100 to 300 mcg per subcutaneous administration, one to three times per day.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -42,6 +65,13 @@
       "source_type": "website",
       "url": "https://www.mypepcalc.com/learn/cjc-ipamorelin/ipamorelin-timing-guide",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "The Peptidepedia website says ipamorelin is injected subcutaneously into the abdomen, thigh or shoulder with sites rotated, and that the lyophilized powder is dissolved with bacteriostatic water by swirling gently, never shaking.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

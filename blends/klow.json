@@ -1,0 +1,52 @@
+{
+  "id": "klow",
+  "name": "KLOW",
+  "aliases": [
+    "KLOW blend",
+    "GLOW plus KPV"
+  ],
+  "components": [
+    "kpv",
+    "ghk-cu",
+    "bpc-157",
+    "tb-500"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by research-peptide sellers and clinics as a GLOW variant with KPV added, for skin, inflammation and tissue repair. These uses are promotional claims, not approved indications.",
+  "summary": "KLOW is a nickname for a four-peptide blend that adds KPV to the GLOW combination of GHK-Cu, BPC-157 and TB-500. No approved product contains it, and no combination-specific human study was found in the sources reviewed. A Florida wellness clinic's guide describes such blends as not standardized products and says a blend does not automatically have clinical evidence because its ingredients were researched separately. FDA's compounding page states it has not identified human exposure data on drug products containing KPV. The detailed information is on the pages for KPV, GHK-Cu, BPC-157 and TB-500; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [],
+  "side_effects": [
+    {
+      "text": "FDA's compounding safety page states it has not identified any human exposure data on drug products containing KPV by any route. This statement concerns a component, not the combination.",
+      "label": "research",
+      "citation_id": "r-fda-cat2"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Research-peptide sellers describe KLOW as a fixed four-peptide vial combining GHK-Cu, BPC-157, TB-500 and KPV, sold as a research product.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A Florida wellness clinic's guide groups GLOW and KLOW as peptide blends and cautions that they are not standardized products.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
+      "finding": "FDA lists KPV among withdrawn substances and states it has not identified any human exposure data on drug products containing KPV administered via any route. It lists BPC-157, thymosin beta-4 fragment and GHK-Cu among withdrawn substances with immunogenicity and impurity concerns."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

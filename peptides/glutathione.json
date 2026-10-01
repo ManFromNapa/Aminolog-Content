@@ -1,0 +1,135 @@
+{
+  "id": "glutathione",
+  "name": "Glutathione",
+  "aliases": [
+    "GSH",
+    "L-glutathione",
+    "reduced glutathione",
+    "liposomal glutathione",
+    "IV glutathione",
+    "gluta"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "other_medical",
+  "compound_type": "peptide",
+  "used_for": "A naturally occurring tripeptide antioxidant (glutamate, cysteine, glycine) made in the body. It is sold as oral and liposomal supplements and offered in clinics as intravenous or injectable therapy, often for skin lightening or general wellness. Small trials show oral glutathione raises blood glutathione and some immune markers, and evidence for skin lightening is limited. Per a 2015 FDA consumer alert reported by Healio, the FDA has not approved any injectable drug for skin lightening, and secondary sources describe FDA concern about injectables compounded from dietary-grade powder.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2015 six-month randomized trial, oral glutathione 250 mg/day or 1,000 mg/day was given, with blood glutathione rising at both doses.",
+        "population": "54 non-smoking healthy adults",
+        "citation_id": "gsh-rct-2015"
+      },
+      {
+        "text": "In a 2018 one-month pilot study, oral liposomal glutathione 500 mg/day or 1,000 mg/day was given.",
+        "population": "12 healthy adults",
+        "citation_id": "gsh-liposomal-2018"
+      },
+      {
+        "text": "In a 2026 crossover pilot, single oral doses of standard glutathione 500 mg and micellar glutathione 300 mg were compared, followed by 30 days of micellar glutathione 600 mg/day.",
+        "population": "14 healthy adults",
+        "citation_id": "gsh-oral-2026"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A ScienceInsights explainer says most studies of oral glutathione for skin use daily doses between 250 and 1,000 mg, and that a trial of intravenous glutathione used 1,200 mg twice weekly for six weeks.",
+        "population": "Studies as described by the source, not a population the source tested itself",
+        "source_type": "website",
+        "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "A ScienceInsights explainer says oral glutathione is limited by digestive breakdown and takes 6 to 12 weeks for reported effects, topical forms are used for dark spots, and IV gives the highest blood levels but carries the greatest risks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A crossover trial of oral glutathione formulations in 14 healthy adults reported that a micellar formulation produced higher blood glutathione exposure than standard oral glutathione at the doses tested.",
+      "label": "research",
+      "citation_id": "gsh-oral-2026"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A ScienceInsights explainer says serious reactions concentrate in injectable forms, including severe allergic reactions such as Stevens-Johnson syndrome and anaphylaxis, and that IV glutathione with high-dose vitamin C raises kidney stone risk.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A dermatology clinic blog lists mild effects of injectable glutathione as nausea, headache and injection-site pain, and serious effects as liver injury, endotoxin-contamination shock-like reactions and anaphylaxis.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A Healio report says the FDA stated it has not approved any injectable drug for skin whitening, and that products often containing glutathione are unapproved new drugs with unverifiable contents.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.healio.com/news/dermatology/20150914/fda-warns-consumers-about-injectable-skin-lightening-products",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "ScienceInsights says in trials only 37.5% of IV glutathione recipients reported lighter skin vs 18.7% with placebo, with effects described as temporary.",
+      "source_type": "website",
+      "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Healio reports the FDA warned that injectable skin-lightening products, often containing glutathione, are unapproved and risk injecting an unknown substance.",
+      "source_type": "website",
+      "url": "https://www.healio.com/news/dermatology/20150914/fda-warns-consumers-about-injectable-skin-lightening-products",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "gsh-rct-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "24791752",
+      "year": 2015,
+      "summary": "Six-month randomized, double-blind, placebo-controlled trial of oral glutathione in 54 non-smoking adults.",
+      "finding": "Blood glutathione levels rose dose- and time-dependently and returned to baseline after washout; oxidative stress markers fell and natural killer cell activity increased at the higher level."
+    },
+    {
+      "id": "gsh-liposomal-2018",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28853742",
+      "year": 2018,
+      "summary": "One-month pilot study of oral liposomal glutathione in 12 healthy adults.",
+      "finding": "Raised glutathione in blood compartments and improved oxidative stress and immune function markers; small pilot without placebo group."
+    },
+    {
+      "id": "gsh-oral-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41897500",
+      "year": 2026,
+      "summary": "Randomized crossover pilot in 14 healthy adults comparing standard, liposomal and micellar oral glutathione, plus a 30-day safety follow-up.",
+      "finding": "The micellar formulation gave higher baseline-adjusted glutathione exposure than standard glutathione; tolerability was assessed over 30 days."
+    },
+    {
+      "id": "gsh-skin-2021",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "33871071",
+      "year": 2021,
+      "summary": "Double-blind randomized trial in 46 participants of topical and oral glutathione for skin whitening over 8 weeks.",
+      "finding": "Combined topical and oral glutathione lowered the melanin index vs placebo; small trial of oral and topical, not injected, glutathione."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

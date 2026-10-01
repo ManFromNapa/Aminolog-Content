@@ -1,0 +1,27 @@
+{
+  "id": "ghk-cu-bpc-157",
+  "name": "GHK-Cu / BPC-157",
+  "aliases": [
+    "Skin/repair stack"
+  ],
+  "components": [
+    "ghk-cu",
+    "bpc-157"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by telemedicine and peptide sellers as a skin and tissue repair pairing. These uses are promotional claims, not approved indications.",
+  "summary": "GHK-Cu / BPC-157 is a pairing of a copper-binding peptide and a gastric-derived research peptide, sold as a mixed or paired product. No approved product contains it, and no combination-specific human study was found in the sources reviewed. A telemedicine article notes that GHK-Cu is in FDA's category 2 for injectable routes and says online discussions often gloss over route and regulatory status. The detailed information is on the pages for GHK-Cu and BPC-157; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [],
+  "side_effects": [],
+  "internet_claims": [
+    {
+      "claim": "A telemedicine company's article markets the pair as a skin and repair stack and warns that most online discussion glosses over the route of administration and the regulatory status of both peptides.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

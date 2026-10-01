@@ -1,0 +1,144 @@
+{
+  "id": "larazotide",
+  "name": "Larazotide",
+  "aliases": [
+    "Larazotide acetate",
+    "AT-1001",
+    "AT1001",
+    "INN-202",
+    "Zonulin antagonist"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "other_medical",
+  "compound_type": "peptide",
+  "used_for": "Larazotide acetate is an eight-amino-acid peptide taken by mouth that was developed as a tight junction regulator for celiac disease and is discussed online as a 'leaky gut' peptide. Phase 2 trials gave mixed results, and the pivotal phase 3 trial (NCT03569007) was terminated by its sponsor in 2022 after an interim analysis, so no regulator has approved it. Claims about leaky gut outside celiac disease rest on mechanism and small studies rather than on proven human benefit.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2015 phase 2b randomized, placebo-controlled trial, larazotide acetate 0.5, 1, or 2 mg was given three times daily for 12 weeks (the 0.5 mg dose met the primary endpoint; the 1 and 2 mg doses did not differ from placebo).",
+        "population": "342 adults with celiac disease on a gluten-free diet with ongoing symptoms",
+        "citation_id": "r-ph2b-2015"
+      },
+      {
+        "text": "In a 2013 exploratory randomized trial, larazotide acetate 1, 4, or 8 mg was given three times daily for 6 weeks during a daily gluten challenge of 2.7 g.",
+        "population": "184 people with celiac disease",
+        "citation_id": "r-gluten-2013"
+      },
+      {
+        "text": "In a 2012 dose-ranging placebo-controlled study, larazotide acetate 0.25, 1, 4, or 8 mg was given three times daily for 14 days, with or without a 2.4 g daily gluten challenge.",
+        "population": "86 people with celiac disease",
+        "citation_id": "r-gluten-2012"
+      },
+      {
+        "text": "A ClinicalTrials.gov record of the phase 3 trial lists larazotide 0.25 mg and 0.50 mg capsules three times daily versus placebo (the trial was terminated).",
+        "population": "Adults with persistent celiac disease symptoms (307 enrolled per the record)",
+        "citation_id": "r-nct-ph3"
+      }
+    ],
+    "internet_entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "The celiac trials gave larazotide acetate as an oral capsule around meals; in the phase 2b trial in people with persistent symptoms on a gluten-free diet it was given for 12 weeks after a placebo run-in.",
+      "label": "research",
+      "citation_id": "r-ph2b-2015"
+    },
+    {
+      "text": "Peptide Dive, an information site stating it has no vendors or affiliates, says larazotide is taken orally before meals and acts locally in the gut lumen rather than being absorbed into the body.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidedive.com/peptides/larazotide/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a 342-person phase 2b trial, safety was reported as comparable with placebo.",
+      "label": "research",
+      "citation_id": "r-ph2b-2015"
+    },
+    {
+      "text": "In the gluten challenge study of 184 people, adverse event rates were similar between larazotide and placebo.",
+      "label": "research",
+      "citation_id": "r-gluten-2013"
+    },
+    {
+      "text": "A meta-analysis of four randomized trials (626 patients) reported fewer adverse events with larazotide than placebo overall.",
+      "label": "research",
+      "citation_id": "r-meta-2022"
+    },
+    {
+      "text": "Peptide Dive describes side effects as mild, such as stomach discomfort and headache, and lists pregnancy as a contraindication.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidedive.com/peptides/larazotide/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Peptide Dive calls larazotide the most studied 'leaky gut' peptide, says it is often paired with BPC-157, and says it is not FDA approved, describing phase 3 results as mixed.",
+      "source_type": "website",
+      "url": "https://peptidedive.com/peptides/larazotide/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-ph2b-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25683116",
+      "year": 2015,
+      "summary": "Multicenter randomized, double-blind, placebo-controlled phase 2b trial (Gastroenterology) of larazotide acetate in 342 adults with celiac disease who still had symptoms despite a gluten-free diet, with 12 weeks of treatment.",
+      "finding": "Symptom scores were better than placebo in the lowest of three amounts tested but not in the higher amounts, so results were mixed. Safety was comparable with placebo."
+    },
+    {
+      "id": "r-gluten-2013",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23163616",
+      "year": 2013,
+      "summary": "Exploratory randomized placebo-controlled study (Aliment Pharmacol Ther) of larazotide acetate in 184 people with celiac disease eating a daily gluten challenge for six weeks.",
+      "finding": "The intestinal permeability marker did not differ from placebo, but gluten-induced symptoms and anti-transglutaminase antibody rises were lower in some larazotide groups. Adverse events were similar to placebo."
+    },
+    {
+      "id": "r-gluten-2012",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "22825365",
+      "year": 2012,
+      "summary": "Dose-ranging placebo-controlled study (Am J Gastroenterol) of larazotide acetate in 86 people with celiac disease, with or without gluten challenge, for 14 days.",
+      "finding": "The permeability measure was too variable to show a statistically significant effect of gluten challenge or larazotide. The study was small and short."
+    },
+    {
+      "id": "r-meta-2022",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "34339872",
+      "year": 2022,
+      "summary": "Systematic review and meta-analysis (Clin Res Hepatol Gastroenterol) of four randomized trials of larazotide acetate in celiac disease (626 patients).",
+      "finding": "No difference in the lactulose-to-mannitol ratio. Symptom scores were better with larazotide during gluten challenge but not in people on a gluten-free diet alone. Fewer adverse events than placebo."
+    },
+    {
+      "id": "r-ph1-2007",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17697209",
+      "year": 2007,
+      "summary": "Early in-patient randomized placebo-controlled safety study (Aliment Pharmacol Ther) of single doses of AT-1001 (larazotide) in celiac disease subjects challenged with gluten.",
+      "finding": "No increase in adverse events versus placebo and less gluten-induced permeability rise and fewer symptoms were seen in the treated group, in a very small study."
+    },
+    {
+      "id": "r-nct-ph3",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT03569007",
+      "year": 2019,
+      "summary": "ClinicalTrials.gov record of the phase 3 trial of larazotide acetate versus placebo for persistent celiac disease symptoms. Status terminated by the sponsor, with 307 participants enrolled.",
+      "finding": "The trial was terminated by its sponsor and did not lead to an approval."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

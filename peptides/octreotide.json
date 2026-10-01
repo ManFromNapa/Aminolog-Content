@@ -51,6 +51,11 @@
       "text": "The label states ampuls should be opened just before administration and any unused portion discarded.",
       "label": "research",
       "citation_id": "fda-sandostatin-label"
+    },
+    {
+      "text": "The Sandostatin label states the injection is not compatible in total parenteral nutrition solutions (a glycosyl octreotide conjugate forms and may reduce efficacy), but is stable for 24 hours in sterile isotonic saline or 5% dextrose in water.",
+      "label": "research",
+      "citation_id": "fda-sandostatin-label"
     }
   ],
   "side_effects": [

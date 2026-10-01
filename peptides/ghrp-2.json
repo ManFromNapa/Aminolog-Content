@@ -28,6 +28,15 @@
         "population": "Six healthy young adults and six elderly adults (2 micrograms per kg)",
         "citation_id": "pmid-9285939"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An affiliate-linked peptide site says the usual range is 100 to 300 mcg per injection, 1 to 3 times daily, with tiers of 100 mcg twice daily for beginners up to 150 to 200 mcg three times daily for advanced users.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -37,6 +46,13 @@
       "source_type": "website",
       "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "The Peptidepedia website says GHRP-2 is injected subcutaneously into abdominal fat, thigh or deltoid with sites rotated, that the powder is dissolved with bacteriostatic water by swirling, never shaking, and that vials are kept in the original packaging or foil away from light.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

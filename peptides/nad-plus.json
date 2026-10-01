@@ -1,0 +1,121 @@
+{
+  "id": "nad-plus",
+  "name": "NAD+",
+  "aliases": [
+    "nicotinamide adenine dinucleotide",
+    "NAD",
+    "NAD+ injection",
+    "NAD+ IV",
+    "NMN",
+    "nicotinamide mononucleotide",
+    "NR",
+    "nicotinamide riboside"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "longevity_mitochondrial",
+  "compound_type": "coenzyme",
+  "used_for": "A coenzyme present in every cell, central to energy metabolism and DNA repair, that declines with age. NAD+ itself is marketed in wellness clinics as subcutaneous or intravenous therapy, while precursors NMN and NR are sold as oral supplements. Human trials show oral NR and NMN raise blood NAD+, but benefits on health outcomes are mixed, and a 2026 systematic review found no outcome trials of injected NAD+. It has no FDA approval for any indication, and it is not a peptide.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2026 retrospective review of commercial IV sessions, 500 mg of NAD+ or NR was given by IV on four consecutive days, with 30 days of follow-up.",
+        "population": "Clients receiving IV NAD+ or IV NR in a commercial setting (retrospective, uncontrolled)",
+        "citation_id": "nad-iv-2026"
+      },
+      {
+        "text": "In a 2025 randomized trial in long-COVID, oral nicotinamide riboside (NR, a precursor, not NAD+ itself) 2000 mg/day was given for up to 20 weeks.",
+        "population": "58 adults with long-COVID",
+        "citation_id": "nr-longcovid-2025"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "Testing.com says subcutaneous NAD+ protocols commonly start at about 20 mg per injection and go up to about 100 mg, with maintenance often 50 to 100 mg weekly, and that some prescribers advise against exceeding about 300 mg per week subcutaneously.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.testing.com/treatments/nad/",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "Testing.com says IV NAD+ doses of 500 to 1,000 mg per day over four to ten days are used in intensive addiction detox protocols under medical supervision.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.testing.com/treatments/nad/",
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "Testing.com says NAD+ is given by self-administered subcutaneous injection, by clinic IV infusion over several hours, or as oral precursors NMN or NR, and that the oral precursors have more human evidence than injections.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.testing.com/treatments/nad/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A 2026 retrospective review of commercial IV sessions reported that NAD+ infusions took longer on average (97 vs 37 minutes) than NR infusions because of symptoms that slowed the rate.",
+      "label": "research",
+      "citation_id": "nad-iv-2026"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The retrospective IV study reported that people receiving NAD+ IV had moderate to severe gastrointestinal symptoms, increased heart rate and chest pressure during infusions, which resolved after the infusion ended; NR IV caused minor tingling and mild cramping.",
+      "label": "research",
+      "citation_id": "nad-iv-2026"
+    },
+    {
+      "text": "Testing.com lists headache, nausea, dizziness, lightheadedness and flushing as common reactions that depend on dose and rate, and says rapid IV administration can cause blood pressure drops and faster heart rate.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.testing.com/treatments/nad/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Testing.com says claimed benefits include energy, healthy aging, cognitive clarity, addiction recovery and metabolic health, but most rest on preclinical research and no large randomized trials exist for most claims.",
+      "source_type": "website",
+      "url": "https://www.testing.com/treatments/nad/",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Testing.com states NAD+ is not FDA-approved for any medical indication and that compounded preparations bypass FDA review.",
+      "source_type": "website",
+      "url": "https://www.testing.com/treatments/nad/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "nad-boosters-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41540253",
+      "year": 2026,
+      "summary": "Randomized, open-label, placebo-controlled study in 65 healthy adults comparing 14 days of nicotinamide, NR and NMN.",
+      "finding": "NR and NMN, but not nicotinamide, comparably raised circulating NAD+; the authors propose a gut microbiome dependent mechanism."
+    },
+    {
+      "id": "nad-iv-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41704678",
+      "year": 2026,
+      "summary": "Retrospective review of electronic records from a commercial setting comparing four consecutive days of IV NAD+ with IV NR, with 30 days of follow-up.",
+      "finding": "IV NAD+ caused more gastrointestinal symptoms, heart rate rise and chest pressure than NR; no significant changes were seen in liver, kidney, thyroid or inflammatory markers. Uncontrolled and not a randomized trial."
+    },
+    {
+      "id": "nr-longcovid-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41357333",
+      "year": 2025,
+      "summary": "Randomized double-blind placebo-controlled trial of oral NR in 58 people with long-COVID (NCT04809974), assessing NAD+, cognition and symptoms.",
+      "finding": "Illustrates the oral precursor evidence base; the abstract retrieved did not state outcome results, and the trial did not test injected NAD+."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "abaloparatide",
+  "name": "Abaloparatide",
+  "aliases": [
+    "Tymlos",
+    "BA058",
+    "PTHrP analog",
+    "parathyroid hormone-related peptide analog"
+  ],
+  "regulatory_status": "approved",
+  "category": "other_medical",
+  "compound_type": "peptide",
+  "used_for": "Abaloparatide is a 34 amino acid synthetic analog of parathyroid hormone-related protein, a bone-building (anabolic) agent. The FDA label (Tymlos, daily subcutaneous pen) covers treatment of postmenopausal women with osteoporosis at high fracture risk and treatment to increase bone density in men with osteoporosis at high fracture risk. Randomized trials report fracture and bone density outcomes; it is a prescription osteoporosis drug rather than a typical wellness peptide.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: Tymlos (abaloparatide) is 80 mcg subcutaneously once daily into the periumbilical region of the abdomen, with supplemental calcium and vitamin D if dietary intake is inadequate; the label notes use beyond 2 years has not been evaluated.",
+        "population": "Adults with osteoporosis at high risk for fracture (postmenopausal women, and men with primary or hypogonadal osteoporosis)",
+        "citation_id": "fda-tymlos-label"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Tymlos label states it is injected subcutaneously into the periumbilical abdomen, with the site rotated daily and given at about the same time each day, never intravenously or intramuscularly.",
+      "label": "research",
+      "citation_id": "fda-tymlos-label"
+    },
+    {
+      "text": "The Tymlos label states the first several doses should be given where the patient can sit or lie down in case of orthostatic hypotension, and that the clear colorless solution should be checked for particles or cloudiness.",
+      "label": "research",
+      "citation_id": "fda-tymlos-label"
+    },
+    {
+      "text": "The Tymlos label states supplemental calcium and vitamin D should be taken if dietary intake is inadequate.",
+      "label": "research",
+      "citation_id": "fda-tymlos-label"
+    },
+    {
+      "text": "The Tymlos label states before first use the pen is refrigerated at 2 to 8 C, after first use it can be kept for up to 30 days at 20 to 25 C, and it should not be frozen or exposed to heat.",
+      "label": "research",
+      "citation_id": "fda-tymlos-label"
+    },
+    {
+      "text": "WebMD patient reviews of Tymlos say people frequently inject before bed so that any side effects pass while they sleep.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "The American College of Rheumatology's patient page says the medicine is injected under the skin of the stomach every day with rotation of sites, and that some people have dizziness or low blood pressure within about four hours so may inject while seated or reclined.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://rheumatology.org/patients/abaloparatide-tymlos",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Tymlos label lists hypercalciuria, dizziness, nausea, headache, palpitations, fatigue, upper abdominal pain and vertigo as common adverse reactions in women, and injection site erythema, dizziness, arthralgia, injection site swelling and pain in men.",
+      "label": "research",
+      "citation_id": "fda-tymlos-label"
+    },
+    {
+      "text": "The Tymlos label warns of orthostatic hypotension, hypercalcemia and anaphylaxis, and states osteosarcoma occurred in rats at multiples of human exposure while an increased risk was not observed in observational studies in people; use is avoided in patients at increased osteosarcoma risk.",
+      "label": "research",
+      "citation_id": "fda-tymlos-label"
+    },
+    {
+      "text": "In the ATOM trial in men, the most common adverse events (5% or more) were injection site reaction, dizziness, nasopharyngitis, arthralgia, bronchitis, hypertension and headache.",
+      "label": "research",
+      "citation_id": "atom-2022"
+    },
+    {
+      "text": "WebMD reviewers of Tymlos mention a raised heart rate lasting 1 to 2 hours, headaches, chest tightness, palpitations, dizziness and flushing, while some report few or no side effects; cost and insurance are common complaints.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "WebMD patient reviews average 3.5 out of 5 across 35 reviews, with about 69% reporting a positive effect, with users describing better bone density scores, less fracture pain, and high cost.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says abaloparatide is an anabolic agent that in trials gave greater hip and spine BMD gains than teriparatide, and that it increased osteosarcoma incidence in rodents with human risk unknown.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Abaloparatide",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-tymlos-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=712143d9-e21e-4013-bb3b-3426a21060a8",
+      "year": 2026,
+      "summary": "FDA DailyMed prescribing information for Tymlos (abaloparatide) injection, Radius Health, 2026.",
+      "finding": "Labeled for postmenopausal osteoporosis at high fracture risk and to increase bone density in men with osteoporosis at high risk; includes orthostatic hypotension, hypercalcemia and osteosarcoma warnings."
+    },
+    {
+      "id": "active-2016",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "27533157",
+      "year": 2016,
+      "summary": "Phase 3 ACTIVE randomized trial of abaloparatide versus placebo (and open-label teriparatide) in 2,463 postmenopausal women over 18 months.",
+      "finding": "New morphometric vertebral fractures occurred less frequently in the active treatment groups than with placebo."
+    },
+    {
+      "id": "atom-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36190391",
+      "year": 2022,
+      "summary": "ATOM randomized trial (NCT03512262) of abaloparatide versus placebo for 12 months in 228 men with osteoporosis.",
+      "finding": "Lumbar spine BMD rose 8.48% versus 1.17% with placebo, with gains at hip and femoral neck; safety consistent with earlier studies."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

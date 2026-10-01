@@ -1,0 +1,56 @@
+{
+  "id": "sermorelin-ipamorelin",
+  "name": "Sermorelin / Ipamorelin",
+  "aliases": [],
+  "components": [
+    "sermorelin",
+    "ipamorelin"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by clinics and peptide sellers for sleep, recovery and lean mass support through two complementary routes of stimulating growth hormone release.",
+  "summary": "This blend combines sermorelin, a growth hormone-releasing hormone fragment, with ipamorelin, an unapproved ghrelin-receptor peptide. It is described mainly in seller and clinic material; no approved product and no combination-specific human study was found. FDA's compounding safety-risk page lists ipamorelin acetate in category 2 and does not mention sermorelin. Each component's own page holds the detailed information (Sermorelin and Ipamorelin); formulations vary by seller.",
+  "administration_guidance": [
+    {
+      "text": "A Miami anti-aging clinic's blog (Rewind Anti-Aging) says the two peptides are typically injected subcutaneously, often together at bedtime to match the nightly growth hormone rise, and that some clinicians use a split schedule with ipamorelin alone in the morning.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The same clinic blog lists injection site irritation, mild headache in the first week, transient flushing and slight appetite changes as effects it associates with the pairing.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "FDA lists ipamorelin acetate among bulk drug substances for compounding that may present significant safety risks, citing immunogenicity from aggregation or impurities.",
+      "label": "research",
+      "citation_id": "r-fda-cat2"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A Miami anti-aging clinic's blog (Rewind Anti-Aging, which sells peptide therapy) calls the pairing synergistic, with sermorelin acting on growth hormone-releasing hormone receptors and ipamorelin on ghrelin receptors, and notes sermorelin was formerly FDA-approved for diagnostic use while ipamorelin is not approved.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (fetched 2026-10-01).",
+      "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. Sermorelin is not mentioned on the page."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "ara-290",
+  "name": "ARA-290",
+  "aliases": [
+    "Cibinetide",
+    "ARA290",
+    "Cibinetide acetate",
+    "EPO-derived peptide",
+    "Innate repair receptor agonist"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "other_medical",
+  "compound_type": "peptide",
+  "used_for": "ARA-290 (cibinetide) is a short synthetic peptide designed from the structure of erythropoietin so that it engages the innate repair receptor without raising red blood cell counts. It was studied in small phase 2 trials of neuropathic pain and nerve fiber loss (sarcoidosis, type 2 diabetes) and in a very small diabetic macular edema study, and is marketed online for nerve repair and general recovery. Human evidence is limited to short, small, mostly single-region trials, no phase 3 trial has been run, and the ClinicalTrials.gov records found were completed, terminated or of unknown status. It is not FDA approved for any use.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2012 randomized placebo-controlled pilot trial, ARA-290 2 mg was given intravenously three times weekly for 4 weeks.",
+        "population": "22 adults with sarcoidosis and small fiber neuropathy symptoms",
+        "citation_id": "r-sarc-2012"
+      },
+      {
+        "text": "In a 2017 phase 2b randomized trial, cibinetide 1, 4, or 8 mg per day was compared with placebo for 28 days.",
+        "population": "64 people with sarcoidosis-associated small nerve fiber loss and neuropathic pain",
+        "citation_id": "r-sarc-2b-2017"
+      },
+      {
+        "text": "In a 2015 phase 2 placebo-controlled study, ARA-290 4 mg was self-administered subcutaneously daily for 28 days, with follow-up for a further month.",
+        "population": "People with type 2 diabetes and painful neuropathy",
+        "citation_id": "r-t2d-2015"
+      },
+      {
+        "text": "In a 2020 open-label phase 2 study, cibinetide 4 mg per day was self-injected subcutaneously for 12 weeks.",
+        "population": "9 adults with diabetic macular edema (8 completed)",
+        "citation_id": "r-dme-2020"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information platform that lists product vendors says people commonly use 4 mg daily by subcutaneous injection, with a range of 4 to 8 mg daily.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide education website with affiliate supplier links states research conventions of 2 mg daily rising to 2 to 4 mg daily over 4 to 8 weeks, or 4 mg daily for 6 to 8 weeks for neuropathy, and notes these are not clinically established.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide wiki that lists vendor links says its research protocol is 2 mg three times weekly for 4 weeks, and a clinical application of 4 mg once daily for 28 days.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "Published trials gave ARA-290 by self-administered subcutaneous injection or by intravenous injection, over courses of a few weeks, followed by an observation period without treatment.",
+      "label": "research",
+      "citation_id": "r-t2d-2015"
+    },
+    {
+      "text": "The sarcoidosis pilot trial gave ARA-290 intravenously under study conditions for four weeks versus placebo; the phase 2b trial compared several daily amounts against placebo over 28 days.",
+      "label": "research",
+      "citation_id": "r-sarc-2012"
+    },
+    {
+      "text": "Superpower, a health testing company that states it does not sell or facilitate access to ARA-290, says trials used intravenous and subcutaneous injections for periods of roughly 4 to 28 days, and does not give storage or reconstitution information.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/ara-290",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the sarcoidosis pilot trial of 22 patients, no safety concerns were raised by clinical or laboratory assessments.",
+      "label": "research",
+      "citation_id": "r-sarc-2012"
+    },
+    {
+      "text": "In a phase 2 trial in type 2 diabetes with painful neuropathy, no potential safety issues were identified over 28 days of treatment and one month of follow-up.",
+      "label": "research",
+      "citation_id": "r-t2d-2015"
+    },
+    {
+      "text": "In a nine-person diabetic macular edema study, no serious adverse events and no antibodies to cibinetide were seen. The study was too small to establish safety.",
+      "label": "research",
+      "citation_id": "r-dme-2020"
+    },
+    {
+      "text": "A peptide information site (mypeptidestory.com, which carries vendor directories and affiliate links) says trial safety was relatively favorable and warns that gray-market products carry authenticity, purity and sterility risks.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Superpower says ARA-290 is not FDA approved, received an orphan drug designation for sarcoidosis-related neuropathy, never advanced to approval, that its developer Araim Pharmaceuticals ceased operations, and that no active trials are registered.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/ara-290",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A peptide information site with vendor directories and affiliate links says human evidence exists only for a specific neuropathic disease (sarcoidosis small fiber neuropathy), while claims of general recovery and anti-inflammation for healthy people are not backed by human data.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Superpower notes that the human evidence comes from phase 2 work at a single research center in the Netherlands and that no phase 3 or multicenter replication exists.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/peptides/ara-290",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-sarc-2012",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23168581",
+      "year": 2012,
+      "summary": "Randomized, double-blind, placebo-controlled pilot (Mol Med) of ARA-290 given intravenously for four weeks to 22 patients with sarcoidosis and small fiber neuropathy symptoms.",
+      "finding": "The treated group improved on the small fiber neuropathy screening list versus placebo, and no safety concerns were raised. Pain and fatigue scores improved similarly in both groups, and the trial was small and exploratory."
+    },
+    {
+      "id": "r-sarc-2b-2017",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28475703",
+      "year": 2017,
+      "summary": "Phase 2b, 28-day randomized trial (Invest Ophthalmol Vis Sci) of 64 people with sarcoidosis-associated small nerve fiber loss and neuropathic pain, comparing three amounts of cibinetide with placebo.",
+      "finding": "Corneal nerve fiber area increased versus placebo in one of the three groups and skin regenerating fibers rose in that group. Pain improved in all groups, including placebo. The trial was short and used surrogate endpoints."
+    },
+    {
+      "id": "r-t2d-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25387363",
+      "year": 2015,
+      "summary": "Phase 2 placebo-controlled study (Mol Med) of ARA-290 self-injected subcutaneously for 28 days in people with type 2 diabetes and painful neuropathy.",
+      "finding": "No safety issues were identified. Hemoglobin A1c, lipids and the PainDetect neuropathy score improved versus placebo, and corneal nerve density rose in participants with low baseline density. The study was small and short."
+    },
+    {
+      "id": "r-dme-2020",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "32674280",
+      "year": 2020,
+      "summary": "Open-label phase 2 study (J Clin Med) of cibinetide self-injected for 12 weeks in 9 patients with diabetic macular edema (8 completed).",
+      "finding": "Visual acuity and retinal thickness did not improve on average, while a questionnaire score and some exploratory measures improved in some participants. No serious adverse events were seen. Too small to draw conclusions."
+    },
+    {
+      "id": "r-nct-sarc",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT02039687",
+      "year": 2014,
+      "summary": "ClinicalTrials.gov record of a completed phase 2 study (64 participants) of ARA-290 on corneal nerve fiber density and neuropathic symptoms in sarcoidosis, with sites in the United States and the Netherlands.",
+      "finding": "The record shows the trial completed; it does not by itself show efficacy. The published results are summarized in the phase 2b paper. No active registered ARA-290 trial was found."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

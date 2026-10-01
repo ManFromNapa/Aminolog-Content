@@ -1,0 +1,104 @@
+{
+  "id": "pinealon",
+  "name": "Pinealon",
+  "aliases": [
+    "EDR peptide",
+    "Glu-Asp-Arg",
+    "Khavinson peptide",
+    "Pinealon tripeptide"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
+  "compound_type": "peptide",
+  "used_for": "A synthetic tripeptide (Glu-Asp-Arg) developed by a Russian research group as one of the Khavinson short-peptide bioregulators, promoted online for memory, sleep, neuroprotection and anti-aging. The research is mainly cell culture and rodent work from one research network, plus a small Russian-language human report with limited methods. It is not a regulated drug in the US and there is no good independent human evidence of benefit.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "A peptide reference site that lists suppliers says commonly reported amounts are 200 to 500 mcg subcutaneously once daily, 5 days per week for 30-day courses, or 10 to 20 mg as an oral capsule, and notes these are not established for humans.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "A seller of a pinealon-containing blend (PeRx) says pinealon has been given as oral capsules in historical Russian studies, as a subcutaneous injection in its own blend and as a nasal spray by some vendors, notes that no published human study compares these routes, and describes evening use in its blend.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "The same seller says its reconstituted blend is kept refrigerated at 2 to 8 C, not frozen, and stays stable for several weeks.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A small Russian-language human study of pinealon and a related tripeptide in 32 older adults with chronic illness reported signs of pro-oxidant activity in a chemiluminescence test and a fall in CD34-positive blood stem cell counts, although the authors judged the peptides safe at the level of chromatin condensation.",
+      "label": "research",
+      "citation_id": "pmid-26390612"
+    },
+    {
+      "text": "A seller (PeRx) lists redness at the injection site, vivid dreams early on and an occasional mild headache as reported effects, and says formal safety data are absent.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A peptide seller (PeRx) promotes pinealon for sleep, memory, neuroprotection and anti-aging, while its own article states that no indexed study has measured sleep or melatonin in people given pinealon and that the evidence is mainly cell and rodent work from a single institute.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-21978084",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "21978084",
+      "year": 2011,
+      "summary": "Cell-culture study (Rejuvenation Res) of pinealon in rat cerebellar granule cells, neutrophils and PC12 cells under oxidative stress.",
+      "finding": "Pinealon reduced reactive oxygen species accumulation and necrotic cell death in a concentration-dependent way and altered ERK 1/2 activation and the cell cycle. Cell data from the originating research network."
+    },
+    {
+      "id": "pmid-22567179",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "22567179",
+      "year": 2012,
+      "summary": "Rat study (Int J Clin Exp Med) in which pregnant rats with diet-induced hyperhomocysteinemia were given pinealon, and the offspring were tested.",
+      "finding": "Offspring of treated rats had better spatial learning and their cerebellar neurons showed less oxidative stress and fewer necrotic cells. Animal data only."
+    },
+    {
+      "id": "pmid-28509493",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "28509493",
+      "year": 2015,
+      "summary": "Russian-language rat study (Adv Gerontol) comparing pinealon and Cortexin in 18-month-old rats under hypobaric hypoxia and mild hypothermia.",
+      "finding": "Both preparations changed behavior and brain neurochemistry (adrenergic mediator and serotonin accumulation); Cortexin affected free radical processes and caspase 3 more than pinealon. Animal data only."
+    },
+    {
+      "id": "pmid-26390612",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26390612",
+      "year": 2015,
+      "summary": "Russian-language report (Adv Gerontol) of pinealon and Vesugen in 32 people aged 41 to 83 with polymorbidity and organic brain syndrome in remission. No placebo group is described in the abstract.",
+      "finding": "The authors report anabolic effects and slowed biological-age indicators, but also pro-oxidant activity and a fall in CD34-positive stem cell counts. Small uncontrolled study from the originating research network."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

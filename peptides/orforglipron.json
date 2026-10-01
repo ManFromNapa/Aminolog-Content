@@ -1,0 +1,132 @@
+{
+  "id": "orforglipron",
+  "name": "Orforglipron",
+  "aliases": [
+    "Foundayo",
+    "LY3502970",
+    "oral GLP-1 pill"
+  ],
+  "regulatory_status": "approved",
+  "category": "weight_metabolic",
+  "compound_type": "small_molecule",
+  "used_for": "A once-daily oral, non-peptide small-molecule agonist of the GLP-1 receptor developed by Eli Lilly. The FDA approved it as Foundayo in April 2026 for weight reduction in adults with obesity, or with overweight and weight-related conditions, alongside a reduced-calorie diet and increased activity (per the current DailyMed label and trade press). It is not a peptide. Phase 3 trials showed weight loss and improved blood sugar control, with a gastrointestinal side effect profile typical of the GLP-1 class.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: Foundayo (orforglipron) tablets, starting dosage is 0.8 mg orally once daily; after at least 30 days increase to 2.5 mg once daily, then after at least 30 days to 5.5 mg once daily.",
+        "population": "Adults with obesity, or overweight with at least one weight-related comorbidity, with a reduced-calorie diet and increased physical activity",
+        "citation_id": "fda-foundayo-label"
+      },
+      {
+        "text": "Label: Foundayo may be increased to the next level (9 mg, 14.5 mg or 17.2 mg once daily) after at least 30 days on the current dosage based on response and tolerability; the maximum is 17.2 mg once daily.",
+        "population": "Adults with obesity, or overweight with at least one weight-related comorbidity",
+        "citation_id": "fda-foundayo-label"
+      },
+      {
+        "text": "Label: Foundayo maximum dosage is 9 mg once daily when used with a strong CYP3A4 inhibitor.",
+        "population": "Adults taking Foundayo with a strong CYP3A4 inhibitor",
+        "citation_id": "fda-foundayo-label"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Foundayo label states the tablet is taken orally once daily with or without food, and swallowed whole without breaking, crushing, or chewing.",
+      "label": "research",
+      "citation_id": "fda-foundayo-label"
+    },
+    {
+      "text": "The Foundayo label states a missed dose is taken as soon as possible without doubling the next dose, and that after 7 or more consecutive missed doses the dose escalation is restarted at a lower dosage.",
+      "label": "research",
+      "citation_id": "fda-foundayo-label"
+    },
+    {
+      "text": "The Foundayo label states tablets are stored at room temperature (20 to 25 C), with excursions permitted between 15 and 30 C.",
+      "label": "research",
+      "citation_id": "fda-foundayo-label"
+    },
+    {
+      "text": "An HCPLive podcast summary describes Foundayo as a GLP-1 pill for weight loss that can be taken at any time of day without food or water restrictions.",
+      "label": "internet",
+      "source_type": "podcast",
+      "url": "https://www.hcplive.com/view/diabetes-dialogue-orforglipron-receives-fda-approval-for-chronic-weight-management",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Foundayo label lists the most common adverse reactions as nausea (26 to 35% vs 10% with placebo), constipation (20 to 27% vs 9%), diarrhea (21 to 25% vs 11%), vomiting (13 to 24% vs 4%), dyspepsia (12 to 16% vs 4%), and abdominal pain (13 to 14% vs 7%).",
+      "label": "research",
+      "citation_id": "fda-foundayo-label"
+    },
+    {
+      "text": "The Foundayo label carries a boxed warning on thyroid C-cell tumors seen in rodents with GLP-1 receptor agonists (none were seen with orforglipron in rodents, and human relevance is undetermined) and is contraindicated with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+      "label": "research",
+      "citation_id": "fda-foundayo-label"
+    },
+    {
+      "text": "The label lists warnings for acute pancreatitis, severe gastrointestinal reactions, acute kidney injury from volume depletion, hypoglycemia with insulin or sulfonylureas, hypersensitivity, diabetic retinopathy complications, gallbladder disease, and delayed gastric emptying relevant to anesthesia.",
+      "label": "research",
+      "citation_id": "fda-foundayo-label"
+    },
+    {
+      "text": "In the ATTAIN-1 trial, treatment discontinuation due to gastrointestinal adverse events ranged from 5.3 to 10.3% across orforglipron groups vs 2.7% with placebo.",
+      "label": "research",
+      "citation_id": "attain-1-2025"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "HCPLive hosts describe orforglipron as the first oral GLP-1 weight-loss pill without food or water restrictions, with about 12.4% mean weight loss vs 0.9% for placebo in the highest-dose group over 72 weeks.",
+      "source_type": "podcast",
+      "url": "https://www.hcplive.com/view/diabetes-dialogue-orforglipron-receives-fda-approval-for-chronic-weight-management",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A peptide-affiliate blog says orforglipron has no food or water restrictions unlike oral semaglutide; the page predates approval and carries affiliate links to sellers.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-foundayo-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed prescribing information for Foundayo (orforglipron) tablets, Eli Lilly, revised August 2026.",
+      "finding": "Lists the approved indication for weight reduction in adults, administration with or without food, the boxed thyroid C-cell warning, and adverse reaction rates."
+    },
+    {
+      "id": "attain-1-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40960239",
+      "year": 2025,
+      "summary": "Phase 3 randomized, placebo-controlled trial (ATTAIN-1) of once-daily orforglipron for 72 weeks in 3,127 adults with obesity without diabetes, plus lifestyle modification.",
+      "finding": "Mean weight loss was 7.5 to 11.2% across the three orforglipron groups vs 2.1% with placebo; more than half of the highest-dose group lost at least 10%; adverse effects matched the GLP-1 class."
+    },
+    {
+      "id": "achieve-1-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40544435",
+      "year": 2025,
+      "summary": "Phase 3 randomized trial (ACHIEVE-1) of orforglipron vs placebo for 40 weeks in 559 adults with early type 2 diabetes managed with diet and exercise.",
+      "finding": "All three orforglipron groups lowered HbA1c more than placebo (mean difference about 0.8 to 1.1 percentage points), reaching mean HbA1c of 6.5 to 6.7%."
+    },
+    {
+      "id": "attain-1-nct",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05869903",
+      "year": 2023,
+      "summary": "Registry record for ATTAIN-1, the phase 3 study of orforglipron in adults with obesity or overweight with weight-related comorbidities, with United States sites.",
+      "finding": "Confirms the trial is registered on ClinicalTrials.gov (status active, not recruiting)."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

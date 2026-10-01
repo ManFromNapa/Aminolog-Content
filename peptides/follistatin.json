@@ -1,0 +1,158 @@
+{
+  "id": "follistatin",
+  "name": "Follistatin (follistatin-344 and gene therapy research)",
+  "aliases": [
+    "Follistatin-344",
+    "Follistatin 344",
+    "FS344",
+    "FS-344",
+    "Follistatin-315",
+    "FST",
+    "Follistatin gene therapy"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "tissue_repair",
+  "compound_type": "protein",
+  "used_for": "Follistatin is a natural protein that binds and blocks myostatin and activin, which limit muscle growth. Injectable products labeled follistatin-344 are sold online to bodybuilders for muscle gain, and a testing study found many such products did not contain follistatin. Human research is limited to small AAV gene therapy trials in muscular dystrophy and inclusion body myositis, and case reports of eye problems in bodybuilders who injected it. It is not FDA-approved, and the World Anti-Doping Agency prohibits it.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2015 phase 1/2a trial, an AAV1 gene therapy encoding follistatin FS344 was injected into both quadriceps muscles at 3 x 10^11 vector genomes per kg per leg in the first cohort and 6 x 10^11 vector genomes per kg per leg in the second. This is gene therapy, not the follistatin peptide sold online.",
+        "population": "Six adults with Becker muscular dystrophy",
+        "citation_id": "r-bmd-gt-2015"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A community peptide knowledge base (PeptideWiki) says follistatin 344 is commonly described at 100 to 200 micrograms per day by subcutaneous injection, with some people trying 200 to 300 micrograms. The page says there are no human dose-response studies, and it contains affiliate discount links to suppliers, so it is treated as a seller-affiliated source.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "In a phase 1/2a trial for Becker muscular dystrophy, a follistatin gene (FS344) was delivered by an AAV1 viral vector through direct injections into the quadriceps muscles of six patients. This is gene therapy, not an injected follistatin protein.",
+      "label": "research",
+      "citation_id": "r-bmd-gt-2015"
+    },
+    {
+      "text": "In a retrospective case series from one hospital, eleven bodybuilders had injected follistatin-344 subcutaneously into the abdomen from vials before developing eye problems.",
+      "label": "research",
+      "citation_id": "r-cscr-2020"
+    },
+    {
+      "text": "PeptaHub, an informational site with no sales or affiliate links stated, says community protocols use subcutaneous injection or intramuscular injection into target muscles about 30 minutes before training, and says no validated human protocol exists for injected follistatin-344. It gives no storage or mixing guidance.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptahub.com/peptides/follistatin-344",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "A retrospective case series of 11 male bodybuilders reported central serous chorioretinopathy (fluid under the retina) after follistatin-344 injections. Fluid cleared in about two months in those with one prior injection, and it recurred in three with repeated injections.",
+      "label": "research",
+      "citation_id": "r-cscr-2020"
+    },
+    {
+      "text": "In the Becker muscular dystrophy gene therapy trial of six patients, no adverse effects were reported after intramuscular follistatin gene delivery. The trial was tiny and not of injected protein.",
+      "label": "research",
+      "citation_id": "r-bmd-gt-2015"
+    },
+    {
+      "text": "PeptaHub lists retinal damage in bodybuilders, suppression of FSH, fertility concerns, connective tissue injuries when muscle outgrows tendon, and unknown long-term effects as reported risks.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptahub.com/peptides/follistatin-344",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "MediSearch, a medical information search engine that does not sell follistatin, says follistatin may disrupt pituitary hormones including FSH and that side effects are poorly understood.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://medisearch.io/blog/understanding-follistatin-supplements-benefits-and-risks",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "MediSearch says follistatin supplements are claimed to support muscle development and metabolic health based on animal research, that follistatin has not been studied in humans as a supplement, and that only nine of 17 black-market products tested actually contained follistatin.",
+      "source_type": "website",
+      "url": "https://medisearch.io/blog/understanding-follistatin-supplements-benefits-and-risks",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "PeptaHub describes the evidence for follistatin-344 as mainly preclinical, with human data coming from gene therapy trials rather than injectable protein, and grades the muscle benefit as preliminary.",
+      "source_type": "website",
+      "url": "https://peptahub.com/peptides/follistatin-344",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia reports that higher circulating follistatin levels are associated with increased risk of type 2 diabetes, early death, heart failure, stroke and chronic kidney disease, and describes follistatin gene therapy research in animal models.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Follistatin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-bmd-gt-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25322757",
+      "year": 2015,
+      "summary": "Phase 1/2a open-label trial (Mol Ther) of AAV1-delivered follistatin FS344 gene therapy injected into the thigh muscles of six people with Becker muscular dystrophy.",
+      "finding": "Four of six walked farther on a 6-minute walk test and muscle biopsies showed less fibrosis and more normal fibers, with no adverse effects reported. With six unblinded patients it is proof-of-principle only."
+    },
+    {
+      "id": "r-nct-bmd-sibm",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT01519349",
+      "year": 2012,
+      "summary": "Registered Phase 1 gene transfer trial of follistatin in Becker muscular dystrophy and sporadic inclusion body myositis at Nationwide Children's Hospital (Ohio), listed as completed.",
+      "finding": "A completed US trial registration for the gene therapy, which is not the injected peptide sold online."
+    },
+    {
+      "id": "r-nct-dmd",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT02354781",
+      "year": 2015,
+      "summary": "Registered Phase 1/2 trial of intramuscular rAAV1.CMV.huFollistatin344 gene transfer in Duchenne muscular dystrophy at Nationwide Children's Hospital, listed as completed with 3 participants.",
+      "finding": "Another completed small US gene therapy registration. It does not test injected follistatin-344."
+    },
+    {
+      "id": "r-cscr-2020",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "32671599",
+      "year": 2020,
+      "summary": "Retrospective case series (Int Ophthalmol) from one clinic of 11 male bodybuilders with central serous chorioretinopathy after subcutaneous follistatin-344 injections.",
+      "finding": "The authors conclude follistatin-344 injection may be a risk factor for the eye condition. It is a small uncontrolled series, not a trial."
+    },
+    {
+      "id": "r-aged-mice-2021",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "33964607",
+      "year": 2021,
+      "summary": "Study (Neurobiol Aging) of follistatin overexpression delivered by AAV in aged mice.",
+      "finding": "Muscle weight and torque improved and nerve-muscle junction function improved, though loss of motor units was unchanged. This is gene delivery in mice."
+    },
+    {
+      "id": "r-mdx-2018",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "30368252",
+      "year": 2018,
+      "summary": "Study (Skelet Muscle) of an engineered follistatin that blocks myostatin and activin in the mdx mouse model of Duchenne muscular dystrophy.",
+      "finding": "Blocking both ligands produced more muscle hypertrophy and improved dystrophic pathology compared with myostatin blockade alone in mice."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

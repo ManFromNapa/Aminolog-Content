@@ -1,0 +1,130 @@
+{
+  "id": "peg-mgf",
+  "name": "PEG-MGF",
+  "aliases": [
+    "Pegylated mechano growth factor",
+    "Pegylated MGF",
+    "PEG MGF",
+    "Mechano growth factor pegylated"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "tissue_repair",
+  "compound_type": "peptide",
+  "used_for": "PEG-MGF is the MGF E-domain peptide with polyethylene glycol attached, intended to make it last longer in the body than native MGF. It is marketed online for muscle repair and growth. No human trial of PEG-MGF was found, and the underlying MGF muscle claims are disputed in the laboratory literature. The FDA lists PEG-MGF among bulk drug substances that may present significant safety risks for compounding, saying it has found no human exposure data.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "A peptide information database (Peptide Database) says PEG-MGF is commonly described at 200 to 400 micrograms per injection, 2 to 3 times weekly after training, with a more conservative range of 100 to 200 micrograms twice weekly. The page states it is for educational purposes only.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptide-db.com/peptides/peg-mgf",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "In a bodybuilding forum thread (IronMagazine Forums), posters describe using about 120 to 200 micrograms of PEG-MGF after workouts, with one describing 200 micrograms 4 times per week and another suggesting 200 micrograms on off days. The posts are anecdotal and disagree on frequency.",
+        "population": "As described by the source, not a study population",
+        "source_type": "forum",
+        "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Peptide Catalog (a site with affiliate links to a peptide supplier) says community users treat PEG-MGF as the systemic injectable form because pegylation is claimed to extend its half-life to days, a claim it says no peer-reviewed study verifies.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "Professor Peptide (a site with affiliate links to peptide vendors) says MGF and PEG-MGF are used by subcutaneous or intramuscular injection after reconstitution with bacteriostatic water, that post-workout timing is anecdotal, and that reconstituted solution is refrigerated at 2 to 8 C and not frozen.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "Wikipedia says synthetic MGF forms may include PEGylation of the tyrosine residue to extend persistence, described as a research approach.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The FDA states it has not identified any human exposure data on drug products containing PEG-MGF by any route and lacks important information about safety issues, and it cites a risk of immunogenicity and complexity from peptide-related impurities.",
+      "label": "research",
+      "citation_id": "r-fda-bulk"
+    },
+    {
+      "text": "The Peptide Catalog (affiliate-linked) mentions injection-site redness, swelling and irritation reported by community users and raises concern from a study of the MGF E-peptide in human prostate cancer cells.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "The Peptide Catalog says PEG-MGF is the practical injectable form of MGF, that its claimed half-life of days is unverified, and that both forms are among the least-substantiated muscle peptides. The site has affiliate links to a supplier.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Professor Peptide says the rationale for PEG-MGF is entirely pharmacokinetic and theoretical, and that no controlled human efficacy trial exists. The site discloses earning commissions from peptide vendors.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia notes that MGF breaks down rapidly, which led to stabilized and pegylated versions, and that MGF has been banned by the World Anti-Doping Agency.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fda-bulk",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA page on certain bulk drug substances for compounding that may present significant safety risks, which lists PEG-MGF.",
+      "finding": "The FDA says compounded PEG-MGF may carry significant immunogenicity risk and complexity from impurities, and that it found no human exposure data on any route."
+    },
+    {
+      "id": "r-fornaro-2014",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "24253050",
+      "year": 2014,
+      "summary": "Study (Am J Physiol Endocrinol Metab) by two pharmaceutical companies that tried to reproduce reported effects of the synthetic MGF peptide on mouse and human myoblasts and primary muscle stem cells. It tested the unpegylated peptide.",
+      "finding": "The MGF peptide had no apparent effect on muscle cells or stem cells, while mature IGF-1 did, which undercuts the premise for a longer-lasting version."
+    },
+    {
+      "id": "r-kira-2016",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "26991004",
+      "year": 2016,
+      "summary": "Receptor-activation assays (PLoS One) of full-length MGF, MGF peptide and a stabilized Goldspink-MGF analog on the IGF-1 receptor, compared with IGF-1.",
+      "finding": "Full-length MGF directly activated the IGF-1 receptor in the assays. The study did not test PEG-MGF, and the authors say in vivo relevance is unknown."
+    },
+    {
+      "id": "r-mouse-mi-2014",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "25606570",
+      "year": 2014,
+      "summary": "Mouse study (Int J Cardiovasc Res) of a stabilized synthetic peptide analog of the MGF E-domain delivered after experimental myocardial infarction.",
+      "finding": "The peptide delayed decline in heart function in mice. It is an animal heart study of a stabilized peptide, not PEG-MGF in people."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

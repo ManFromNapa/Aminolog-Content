@@ -1,0 +1,33 @@
+{
+  "id": "tesamorelin-mots-c",
+  "name": "Tesamorelin / MOTS-c",
+  "aliases": [
+    "body recomposition stack"
+  ],
+  "components": [
+    "tesamorelin",
+    "mots-c"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by clinics as a body recomposition stack, combining a growth hormone-releasing hormone analog with a mitochondrial peptide for visceral fat reduction and metabolic support.",
+  "summary": "This blend pairs tesamorelin, an FDA-approved growth hormone-releasing hormone analog (labeled for a specific HIV-related fat condition), with MOTS-c, an unapproved mitochondrial peptide studied mostly in cells and rodents. No approved product contains the combination, and no combination-specific human study was found. A clinic page says the rationale for such stacks rests more on mechanism and limited research than on large human trials. Each component's own page holds the detailed information (Tesamorelin and MOTS-c); formulations and sources vary by seller.",
+  "administration_guidance": [],
+  "side_effects": [],
+  "internet_claims": [
+    {
+      "claim": "A Miami anti-aging clinic's blog (Rewind Anti-Aging, which sells peptide therapy) describes tesamorelin plus MOTS-c as a body recomposition stack aimed at visceral fat reduction and metabolic optimization, with a protocol lasting several months under lab monitoring.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "The same clinic says most of its peptides are investigational or compounded and not FDA-approved for these uses, and that the synergy rationale is grounded more in mechanism and limited research than in large human trials.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

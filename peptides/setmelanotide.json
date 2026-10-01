@@ -48,6 +48,11 @@
       "text": "Label: unopened vials are stored refrigerated (2 to 8 C), or may be kept at room temperature (up to 30 C) for up to 30 days; opened vials are discarded after 30 days or at expiration, whichever comes first.",
       "label": "research",
       "citation_id": "fda-imcivree-label"
+    },
+    {
+      "text": "Label: the vial is removed from the refrigerator about 15 minutes before injection, or warmed by rolling it gently between the palms for 60 seconds.",
+      "label": "research",
+      "citation_id": "fda-imcivree-label"
     }
   ],
   "side_effects": [

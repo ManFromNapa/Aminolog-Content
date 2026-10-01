@@ -1,0 +1,137 @@
+{
+  "id": "calcitonin",
+  "name": "Calcitonin (salmon calcitonin)",
+  "aliases": [
+    "Miacalcin",
+    "calcitonin salmon",
+    "salmon calcitonin",
+    "calcitonin nasal spray",
+    "Fortical"
+  ],
+  "regulatory_status": "approved",
+  "category": "other_medical",
+  "compound_type": "peptide",
+  "used_for": "Salmon calcitonin is a 32 amino acid peptide hormone that lowers blood calcium and bone resorption. FDA-labeled forms are an injection (Miacalcin: Paget's disease of bone, hypercalcemia, and postmenopausal osteoporosis when alternatives are not suitable) and a nasal spray (postmenopausal osteoporosis more than 5 years after menopause when alternatives are not suitable). The labels state fracture reduction efficacy has not been demonstrated and note a meta-analysis suggesting a higher malignancy rate, so continued need is to be re-evaluated periodically.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: Miacalcin injection for symptomatic Paget's disease of bone is 100 USP Units (0.5 mL) per day subcutaneously or intramuscularly.",
+        "population": "Adults with symptomatic Paget's disease of bone",
+        "citation_id": "fda-miacalcin-inj-label"
+      },
+      {
+        "text": "Label: Miacalcin injection for early treatment of hypercalcemia starts at 4 USP Units/kg every 12 hours subcutaneously or intramuscularly, with the label describing increases to 8 USP Units/kg every 12 hours and then every 6 hours if response is unsatisfactory.",
+        "population": "Adults with hypercalcemia",
+        "citation_id": "fda-miacalcin-inj-label"
+      },
+      {
+        "text": "Label: Miacalcin injection for postmenopausal osteoporosis is 100 USP Units (0.5 mL) per day subcutaneously or intramuscularly.",
+        "population": "Women more than 5 years postmenopause with osteoporosis",
+        "citation_id": "fda-miacalcin-inj-label"
+      },
+      {
+        "text": "Label: calcitonin salmon nasal spray is 1 spray (200 USP Calcitonin Salmon Units) per day intranasally, alternating nostrils daily.",
+        "population": "Women more than 5 years postmenopause with osteoporosis",
+        "citation_id": "fda-calcitonin-nasal-label"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The calcitonin nasal spray label states it is given once daily intranasally, alternating nostrils each day, with the pump primed before first use, and that adequate calcium and vitamin D intake should be ensured.",
+      "label": "research",
+      "citation_id": "fda-calcitonin-nasal-label"
+    },
+    {
+      "text": "The nasal spray label states unopened bottles are refrigerated at 2 to 8 C and not frozen, and a bottle in use is kept upright at room temperature for up to 30 to 35 days depending on bottle size.",
+      "label": "research",
+      "citation_id": "fda-calcitonin-nasal-label"
+    },
+    {
+      "text": "The Miacalcin injection label states to inspect the clear colorless solution for particles, that intramuscular injection is preferable when the volume is large, that sterile injection technique is used, and that vials are stored refrigerated at 2 to 8 C and protected from freezing.",
+      "label": "research",
+      "citation_id": "fda-miacalcin-inj-label"
+    },
+    {
+      "text": "The Miacalcin injection label states hypocalcemia must be corrected before starting therapy and that serum calcium and symptoms of hypocalcemia should be monitored during the first administrations.",
+      "label": "research",
+      "citation_id": "fda-miacalcin-inj-label"
+    },
+    {
+      "text": "WebMD patient reviews of calcitonin salmon (Miacalcin) describe mostly once-daily nasal spray use, with some saying it helped bone density or pain and others describing nasal irritation or sores.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Miacalcin injection label lists nausea with or without vomiting (10%), injection site inflammation (10%) and flushing (2% to 5%) as the most common adverse reactions, and warns of hypersensitivity including anaphylaxis, hypocalcemia and malignancy.",
+      "label": "research",
+      "citation_id": "fda-miacalcin-inj-label"
+    },
+    {
+      "text": "The Miacalcin injection label states a meta-analysis of 21 randomized trials found malignancies in 4.1% of calcitonin-treated patients versus 2.9% with placebo, suggesting increased risk, and that the need for continued therapy should be re-evaluated periodically.",
+      "label": "research",
+      "citation_id": "fda-miacalcin-inj-label"
+    },
+    {
+      "text": "The nasal spray label warns of nasal adverse reactions including rhinitis, epistaxis and severe ulceration, recommends periodic nasal examinations, and states circulating antibodies to calcitonin may develop and reduce response.",
+      "label": "research",
+      "citation_id": "fda-calcitonin-nasal-label"
+    },
+    {
+      "text": "WebMD reviewers of Miacalcin nasal spray describe nasal irritation, sores or bleeding, an unpleasant odor, headaches, and some report hair loss or muscle aches.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "WebMD reviews average 3.6 out of 5 across 45 reviews, with about 69% reporting a positive effect; users cite bone density and pain relief in osteoporosis alongside nasal side effects.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says salmon calcitonin is used for postmenopausal osteoporosis, hypercalcemia and Paget's disease, with investigational interest in phantom limb pain and spinal stenosis, and that an oral form was in development.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Calcitonin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-miacalcin-inj-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26caf31f-7f7c-48a8-a1ac-35d2ceefda2b",
+      "year": 2026,
+      "summary": "FDA DailyMed prescribing information for Miacalcin (calcitonin salmon) injection, Mylan Institutional, 2026.",
+      "finding": "Indicated for symptomatic Paget's disease of bone, hypercalcemia and postmenopausal osteoporosis; fracture reduction efficacy has not been demonstrated; malignancy and hypocalcemia warnings."
+    },
+    {
+      "id": "fda-calcitonin-nasal-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c82eb602-12e1-692b-d660-f8d5b5736b54",
+      "year": 2026,
+      "summary": "FDA DailyMed prescribing information for calcitonin salmon nasal spray (Apotex), revised September 2026.",
+      "finding": "Indicated for postmenopausal osteoporosis in women more than 5 years postmenopause when alternatives are not suitable; nasal adverse reactions and malignancy warnings."
+    },
+    {
+      "id": "proof-2000",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "10996576",
+      "year": 2000,
+      "summary": "5-year randomized placebo-controlled PROOF trial of salmon calcitonin nasal spray in 1,255 postmenopausal women with osteoporosis.",
+      "finding": "One tested dose lowered new vertebral fracture risk by 33% versus placebo (RR 0.67); the other two doses did not differ significantly from placebo, and lumbar spine BMD rose about 1 to 1.5%."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

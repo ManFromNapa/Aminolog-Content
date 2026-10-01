@@ -21,6 +21,22 @@
         "population": "Planned: adults 18 to 65 with prediabetes and overweight or obesity",
         "citation_id": "nct-07505745"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide protocol site (Path To Peptides, which discloses commission-earning links) says MOTS-c use is described as 5 to 10 mg per week, either as one weekly injection or split across two to three doses. The page carries affiliate links, so it is classed as vendor and not linked.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide directory site (PeptideProbe, which discloses affiliate links to telehealth services) says a typical MOTS-c dose is 5 to 10 mg subcutaneously, two to three times per week. The page carries affiliate links, so it is classed as vendor and not linked.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -42,6 +58,13 @@
       "source_type": "website",
       "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "An educational site (PeptIQ, which carries referral links to clinics) says MOTS-c is taken fasted in the morning, 15 to 30 minutes before eating, that black coffee and plain tea are described as not breaking the fast, that morning use applies even for afternoon workouts, and that evening use is discouraged for missing the fasted window and possibly affecting sleep.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

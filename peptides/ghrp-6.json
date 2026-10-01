@@ -27,6 +27,22 @@
         "population": "Children with growth hormone deficiency and healthy controls",
         "citation_id": "pmid-18772594"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide guide site that links to vendors says a standard protocol is 100 mcg GHRP-6 with 100 mcg CJC-1295 (no DAC) per injection, 2 to 3 times daily on an empty stomach, and describes tiers from 100 mcg to 300 mcg per dose.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "An affiliate-linked peptide site with discount codes says beginner use is 100 mcg twice daily, intermediate 200 mcg two to three times daily, and advanced 300 mcg three times daily, with weight-based figures of about 1 to 3 mcg/kg.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -36,6 +52,18 @@
       "source_type": "website",
       "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A 2001 study in cattle found that GH responses to GHRP-6 and to GHRH were lower 1 hour after feeding than 1 hour before feeding, and that GHRP-6 combined with GHRH restored the response after feeding.",
+      "label": "research",
+      "citation_id": "mcmahon-2001-feeding"
+    },
+    {
+      "text": "The Peptidepedia website says GHRP-6 causes intense hunger within 15 to 20 minutes of injection, so users typically eat 20 to 30 minutes afterward. It says sites are abdominal fat, thigh or deltoid with rotation, and that the vial should never be shaken.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [
@@ -118,6 +146,15 @@
       "year": 2020,
       "summary": "FDA warning letter to a compounding pharmacy (1 April 2020), fetched 2026-09-30.",
       "finding": "The letter lists GHRP-6 among substances the pharmacy compounded and says products made from them were not eligible for the section 503A exemptions; it notes GHRP-6 was nominated without adequate support for FDA to evaluate it."
+    },
+    {
+      "id": "mcmahon-2001-feeding",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11431156",
+      "year": 2001,
+      "summary": "Cattle study of GHRP-6 and GHRH-induced growth hormone release before and after feeding (McMahon et al., J Endocrinol).",
+      "finding": "GH release induced by GHRP-6 or GHRH was lower 1 hour after feeding than 1 hour before, while the two together produced a large release both before and after feeding."
     }
   ],
   "last_reviewed": "2026-09-30"

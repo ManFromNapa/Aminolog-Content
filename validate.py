@@ -26,6 +26,9 @@ for f in files:
     for c in d.get("internet_claims", []):
         if (c["source_type"] == "vendor") != (c["url"] is None):
             errors.append(f"{f.name}: vendor/url mismatch")
+    for n, e in enumerate(d.get("dosing", {}).get("internet_entries", [])):
+        if (e["source_type"] == "vendor") != (e["url"] is None):
+            errors.append(f"{f.name}: dosing.internet_entries[{n}] vendor/url mismatch")
     for field in ("administration_guidance", "side_effects"):
         for n, item in enumerate(d.get(field, [])):
             if item.get("label") == "research":
@@ -33,9 +36,38 @@ for f in files:
             elif item.get("label") == "internet":
                 if (item["source_type"] == "vendor") != (item["url"] is None):
                     errors.append(f"{f.name}: {field}[{n}] vendor/url mismatch")
+# Blends
+bschema = json.loads((root / "schema/blend.schema.json").read_text())
+bv = Draft202012Validator(bschema)
+peptide_ids = {f.stem for f in all_files}
+blend_files = sorted((root / "blends").glob("*.json")) if (root / "blends").exists() else []
+for f in blend_files:
+    b = json.loads(f.read_text())
+    for e in bv.iter_errors(b): errors.append(f"blends/{f.name}: {e.message}")
+    if b.get("id") != f.stem: errors.append(f"blends/{f.name}: id != filename")
+    if b.get("id") in peptide_ids: errors.append(f"blends/{f.name}: id clashes with a peptide")
+    for c in b.get("components", []):
+        if c not in peptide_ids: errors.append(f"blends/{f.name}: unknown component {c}")
+    if len(b.get("components", [])) + len(b.get("other_components", [])) < 2:
+        errors.append(f"blends/{f.name}: a blend needs at least two components")
+    ids = {r["id"] for r in b.get("research", [])}
+    for r in b.get("research", []):
+        k, i = r["source_kind"], r["identifier"]
+        if k == "pubmed" and not re.fullmatch(r"\d+", i): errors.append(f"blends/{f.name}: bad PMID {i}")
+        if k == "clinicaltrials" and not re.fullmatch(r"NCT\d{8}", i): errors.append(f"blends/{f.name}: bad NCT {i}")
+        if k in ("fda", "regulator") and not i.startswith("https://"): errors.append(f"blends/{f.name}: FDA id must be URL")
+    for c in b.get("internet_claims", []):
+        if (c["source_type"] == "vendor") != (c["url"] is None): errors.append(f"blends/{f.name}: vendor/url mismatch")
+    for field in ("administration_guidance", "side_effects"):
+        for n, item in enumerate(b.get(field, [])):
+            if item.get("label") == "research" and item["citation_id"] not in ids:
+                errors.append(f"blends/{f.name}: {field}[{n}] cites unknown {item['citation_id']}")
+            if item.get("label") == "internet" and (item["source_type"] == "vendor") != (item["url"] is None):
+                errors.append(f"blends/{f.name}: {field}[{n}] vendor/url mismatch")
 mp = root / "manifest.json"
 if mp.exists() and not only:
     m = json.loads(mp.read_text())
     if sorted(m["peptides"]) != sorted(f.stem for f in all_files): errors.append("manifest does not match peptides/")
+    if sorted(m.get("blends", [])) != sorted(f.stem for f in blend_files): errors.append("manifest does not match blends/")
 print("\n".join(errors) or f"OK: {len(files)} files")
 sys.exit(1 if errors else 0)

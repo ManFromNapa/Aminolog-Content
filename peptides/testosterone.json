@@ -1,0 +1,232 @@
+{
+  "id": "testosterone",
+  "name": "Testosterone",
+  "aliases": [
+    "Testosterone cypionate",
+    "Testosterone enanthate",
+    "Testosterone undecanoate",
+    "Depo-Testosterone",
+    "Xyosted",
+    "Aveed",
+    "TRT",
+    "Testosterone replacement therapy",
+    "Test",
+    "Test cyp"
+  ],
+  "regulatory_status": "approved",
+  "category": "sexual_reproductive",
+  "compound_type": "hormone",
+  "used_for": "Testosterone is a steroid sex hormone, not a peptide. It is included because it is often offered by the same clinics that sell peptide therapies and appears in sermorelin, BPC-157 and testosterone blends. In the US it is FDA-approved as several prescription products (injections, gels and others) for testosterone replacement in men with hypogonadism due to specified medical conditions, and is a Schedule III controlled substance. The labels state that safety and efficacy in age-related hypogonadism have not been established, and the large TRAVERSE trial found cardiovascular event rates comparable to placebo in hypogonadal men at elevated cardiovascular risk, with higher rates of atrial fibrillation, acute kidney injury and pulmonary embolism.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: Depo-Testosterone (testosterone cypionate) injection states that for replacement in the hypogonadal male, 50 to 400 mg should be administered intramuscularly every two to four weeks.",
+        "population": "Adult males with hypogonadism",
+        "citation_id": "fda-depo-testosterone-label"
+      },
+      {
+        "text": "Label: Xyosted (testosterone enanthate) subcutaneous autoinjector states a starting dose of 75 mg subcutaneously in the abdominal region once weekly, adjusted by 25 mg up or down based on trough total testosterone measured after 6 weeks.",
+        "population": "Adult males with hypogonadism",
+        "citation_id": "fda-xyosted-label"
+      },
+      {
+        "text": "Label: Aveed (testosterone undecanoate) injection states 750 mg (3 mL) intramuscularly, repeated after 4 weeks, then every 10 weeks, with observation in a healthcare setting for 30 minutes after each injection.",
+        "population": "Adult males with hypogonadism",
+        "citation_id": "fda-aveed-label"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A Substack author writing about TRT says men commonly use 100 to 250 mg of testosterone cypionate or enanthate per week, often split into two doses of 50 to 100 mg.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "The same Substack author says women commonly use 5 to 15 mg per week, typically about 10 mg of testosterone cypionate weekly or 5 mg every other day.",
+        "population": "As described by the source for women, not a study population",
+        "source_type": "website",
+        "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A hormone clinic blog says TRT patients typically receive 75 to 100 mg intramuscularly per week or 150 to 200 mg every two weeks.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "The same clinic blog says bodybuilding protocols commonly involve 300 to 600 mg of testosterone enanthate or cypionate per week, with some users exceeding this.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Depo-Testosterone (testosterone cypionate) label states the product is for intramuscular use only, is an oil-based solution that is absorbed slowly from the injection site, and is stored at controlled room temperature (20 to 25 C) protected from light.",
+      "label": "research",
+      "citation_id": "fda-depo-testosterone-label"
+    },
+    {
+      "text": "The Xyosted (testosterone enanthate) label states the product is a single-dose autoinjector for subcutaneous use, is not refrigerated or frozen, and is stored at controlled room temperature (20 to 25 C) in its carton, protected from light. The label states the liquid should be clear to light yellow and not used if cloudy or containing particles.",
+      "label": "research",
+      "citation_id": "fda-xyosted-label"
+    },
+    {
+      "text": "The Aveed (testosterone undecanoate) label states that patients are observed in a healthcare setting for 30 minutes after each injection, and that the product is available only through a restricted REMS program because of the risk of pulmonary oil microembolism reactions and anaphylaxis. It is stored at controlled room temperature in the original carton.",
+      "label": "research",
+      "citation_id": "fda-aveed-label"
+    },
+    {
+      "text": "The Endocrine Society guideline recommends diagnosing hypogonadism only in men with symptoms and signs of testosterone deficiency and consistently low morning fasting testosterone on repeat testing, and suggests treatment aim for mid-normal testosterone concentrations during therapy with any approved formulation.",
+      "label": "research",
+      "citation_id": "endocrine-society-guideline-2018"
+    },
+    {
+      "text": "Cleveland Clinic describes testosterone replacement as available through several routes (skin gels and patches, nasal gel, intramuscular and subcutaneous injections, implanted pellets, and oral or buccal forms) and says it treats symptoms of low testosterone without curing the underlying cause.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A telehealth company's blog says its providers mainly work with testosterone and related ancillary medications and handle peptides case by case, and that growth hormone peptides are the add-on most often discussed alongside testosterone.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Aveed label carries a boxed warning for serious pulmonary oil microembolism (POME) reactions, with urge to cough, dyspnea, throat tightening, chest pain, dizziness and syncope, and for anaphylaxis including life-threatening reactions, which can occur after any injection including the first.",
+      "label": "research",
+      "citation_id": "fda-aveed-label"
+    },
+    {
+      "text": "The Xyosted label states the product can increase blood pressure; in its clinical trials ambulatory monitoring showed average increases of about 3.9 mm Hg systolic and 1.5 mm Hg diastolic after 12 weeks, and about 10% of treated patients started or changed antihypertensive medication during the 1-year study. The label's warnings also cover venous thromboembolism, worsening benign prostatic hyperplasia and possible prostate cancer risk.",
+      "label": "research",
+      "citation_id": "fda-xyosted-label"
+    },
+    {
+      "text": "The Depo-Testosterone label lists adverse reactions including gynecomastia, acne, oligospermia at high amounts, polycythemia, headache, anxiety, depression, changes in libido, fluid retention, venous thromboembolism, myocardial infarction and stroke, and pain or inflammation at the intramuscular injection site.",
+      "label": "research",
+      "citation_id": "fda-depo-testosterone-label"
+    },
+    {
+      "text": "The Depo-Testosterone label states testosterone has been subject to abuse, typically at amounts higher than approved and with other anabolic androgenic steroids, and that such abuse can cause serious cardiovascular and psychiatric adverse reactions.",
+      "label": "research",
+      "citation_id": "fda-depo-testosterone-label"
+    },
+    {
+      "text": "In the TRAVERSE trial, a higher incidence of atrial fibrillation, acute kidney injury and pulmonary embolism was observed with testosterone gel than with placebo, while the composite of cardiovascular death, nonfatal myocardial infarction and nonfatal stroke was similar between groups.",
+      "label": "research",
+      "citation_id": "traverse-2023"
+    },
+    {
+      "text": "Cleveland Clinic lists acne, ankle swelling, prostate stimulation, breast enlargement, worsening sleep apnea, testicular shrinkage, reduced sperm count, and raised PSA and red blood cell counts as possible effects, and says treatment can cause fertility problems that are slow and costly to reverse.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Cleveland Clinic says testosterone replacement treats symptoms of low testosterone in men with clinically low levels and requires ongoing use, because it does not fix the underlying cause.",
+      "source_type": "website",
+      "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A telehealth TRT company's blog says peptides such as sermorelin, ipamorelin and CJC-1295 are the most logical add-on for men over 40 on testosterone, claiming better recovery, sleep and gradual body composition change, while describing evidence for healing peptides such as BPC-157 as mostly animal-based.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Anti-aging clinics selling combined testosterone and peptide programs say the two target different hormone systems and are complementary, with testosterone for androgen signaling and peptides such as sermorelin for growth hormone release.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "The FDA states testosterone is approved only for men with low testosterone together with an associated medical condition, and that postmarket blood pressure studies showed measurable blood pressure increases across testosterone products.",
+      "source_type": "website",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-depo-testosterone-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for Depo-Testosterone (testosterone cypionate) injection, a Schedule III product, label revised September 2025.",
+      "finding": "Indicated for replacement therapy in men with primary or hypogonadotropic hypogonadism; states safety and efficacy in age-related hypogonadism have not been established and lists warnings including thromboembolism, blood pressure increase and abuse."
+    },
+    {
+      "id": "fda-xyosted-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for Xyosted (testosterone enanthate) subcutaneous autoinjector.",
+      "finding": "Boxed warning on blood pressure increases was removed in 2025 and replaced with a warnings and precautions entry; ambulatory monitoring showed small average blood pressure rises."
+    },
+    {
+      "id": "fda-aveed-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for Aveed (testosterone undecanoate) injection.",
+      "finding": "Boxed warning for serious pulmonary oil microembolism reactions and anaphylaxis, 30-minute post-injection observation, and availability only through a REMS program."
+    },
+    {
+      "id": "fda-testosterone-class-labeling-2025",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+      "year": 2025,
+      "summary": "FDA drug safety communication dated February 28, 2025 on class-wide labeling changes for testosterone products.",
+      "finding": "Removes boxed warning language on cardiovascular risk based on TRAVERSE, adds a blood pressure warning, and retains the limitation of use for age-related hypogonadism."
+    },
+    {
+      "id": "traverse-2023",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37326322",
+      "year": 2023,
+      "summary": "TRAVERSE: randomized, double-blind, placebo-controlled noninferiority trial of 5246 men aged 45 to 80 with hypogonadism and preexisting or high risk of cardiovascular disease, using transdermal testosterone gel (NCT03518034).",
+      "finding": "Major adverse cardiac events occurred in 7.0% with testosterone and 7.3% with placebo (hazard ratio 0.96), meeting noninferiority; atrial fibrillation, acute kidney injury and pulmonary embolism were more frequent with testosterone."
+    },
+    {
+      "id": "testosterone-trials-2016",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26886521",
+      "year": 2016,
+      "summary": "Testosterone Trials: 790 men aged 65 or older with low testosterone and symptoms received testosterone gel or placebo for 1 year (NCT00799617).",
+      "finding": "Moderate benefit in sexual function and some benefit for mood and depressive symptoms, no benefit for vitality, and no significant walking benefit in the physical function trial; too few participants to draw conclusions about risks."
+    },
+    {
+      "id": "endocrine-society-guideline-2018",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "29562364",
+      "year": 2018,
+      "summary": "Endocrine Society clinical practice guideline on testosterone therapy in men with hypogonadism.",
+      "finding": "Recommends diagnosing hypogonadism only with symptoms plus repeatedly low morning fasting testosterone, advises against starting therapy in men with conditions such as prostate or breast cancer, elevated hematocrit or near-term fertility plans."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

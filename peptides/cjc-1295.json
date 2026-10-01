@@ -24,6 +24,22 @@
         "population": "Healthy men aged 20 to 40",
         "citation_id": "pmid-17018654"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website (PeptidesExplorer) says CJC-1295 with DAC is commonly described at 1,000 to 2,000 mcg per dose, once or twice per week, and CJC-1295 without DAC (Mod GRF 1-29) at 100 to 300 mcg per dose, 1 to 3 times per day. The page presents these as protocol ranges, not approved dosing.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide information site with supplier links says a common convention for CJC-1295 combined with ipamorelin is 300 to 500 mcg of total blend per injection, 2 to 3 times daily on an empty stomach.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -40,6 +56,13 @@
       "source_type": "website",
       "url": "https://www.bhrcenter.com/cjc-1295-ipamorelin-dosage-guide-complete-protocol-for-safe-administration/",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "The Peptidepedia website says CJC-1295 sites are rotated among abdominal fat, thighs and upper arms, and that after a missed injection the regular schedule is resumed without doubling up.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

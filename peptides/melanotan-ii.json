@@ -29,6 +29,22 @@
         "population": "Ten men with erectile dysfunction with organic risk factors",
         "citation_id": "pmid-11018622"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A pharmacy and peptide retail site says melanotan II is commonly used at 0.25 to 0.5 mg subcutaneously daily in an initial phase and 0.5 to 1 mg one to two times per week afterward, with a stated maximum of 2 mg per day.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide guide site with affiliate links and discount codes says melanotan II is commonly used at 0.25 to 0.5 mg subcutaneously daily during an initial phase and 0.5 to 1 mg one to two times per week afterward.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -38,6 +54,20 @@
       "source_type": "vendor",
       "url": null,
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "The Peptide Initiative, an educational site that does not appear to sell products, says evening or bedtime injection lets a user sleep through early nausea or flushing, that an empty stomach speeds absorption but may worsen nausea (a light snack 30 to 60 minutes beforehand is suggested), that food timing matters less after the first week, and that sites (abdomen, outer thigh, upper arm) are rotated to prevent fatty lumps. It also says a mixed vial is refrigerated at once and used within 28 to 30 days, with daily injections at first and fewer per week afterward.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "The same guide says brief UV exposure every few days during the early phase is needed to activate the pigment the body is producing. Melanotan II is unapproved and the sun exposure advice is a community claim, not an established practice.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

@@ -34,6 +34,16 @@
       "text": "The label states storage in a refrigerator at 2 to 8 C (36 to 46 F), protected from light.",
       "label": "research",
       "citation_id": "fda-scenesse-label"
+    },
+    {
+      "text": "The label states the patient is placed in a comfortable reclined supine position before the insertion site is identified, and is monitored for 30 minutes after the implant is placed.",
+      "label": "research",
+      "citation_id": "fda-scenesse-label"
+    },
+    {
+      "text": "The label states the implant is resorbable and may not be locatable from about 10 days after insertion, which makes removal difficult after that time.",
+      "label": "research",
+      "citation_id": "fda-scenesse-label"
     }
   ],
   "side_effects": [

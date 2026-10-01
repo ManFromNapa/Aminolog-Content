@@ -38,6 +38,26 @@
       "text": "The label states storage at or below 25 C (77 F), without freezing, protected from light.",
       "label": "research",
       "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label states bremelanotide may slow gastric emptying and affect absorption of oral medications taken at the same time, and may significantly reduce exposure to oral naltrexone, so use with oral naltrexone products for alcohol or opioid addiction is to be avoided.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label reports that nausea usually begins within an hour of the injection and lasts about two hours, and that nausea improves for most patients with the second dose.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label reports that blood pressure and heart rate usually return to baseline within 12 hours after the injection.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
+    },
+    {
+      "text": "The label states autoinjectors with a purple view window, or a cloudy or discolored solution, are to be discarded, and that the label does not give food or meal timing instructions.",
+      "label": "research",
+      "citation_id": "fda-vyleesi-label"
     }
   ],
   "side_effects": [

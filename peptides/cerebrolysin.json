@@ -1,0 +1,122 @@
+{
+  "id": "cerebrolysin",
+  "name": "Cerebrolysin",
+  "aliases": [
+    "Cerebrolisin",
+    "Porcine brain peptide",
+    "Brain-derived peptide mixture",
+    "Cerebrolysin injection"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
+  "compound_type": "mixture",
+  "used_for": "A mixture of low-molecular-weight peptides and amino acids from porcine brain, made by Ever Pharma and used by injection in Russia, Eastern Europe, China and other Asian countries for stroke, dementia and brain injury. It is not a single peptide and is not approved in the US. The best data are randomized trials and meta-analyses: a Cochrane review found little to no difference in death or serious adverse events in acute stroke, and evidence for dementia is described as low quality. It is also sold online as a nootropic.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a multicenter randomized trial in 192 people with Alzheimer disease, 30 mL of cerebrolysin was given intravenously five days per week for four weeks.",
+        "population": "Adults with Alzheimer disease",
+        "citation_id": "pmid-12111446"
+      },
+      {
+        "text": "In a 2012 randomized trial in 1070 patients with acute ischemic stroke, 30 mL of cerebrolysin was given daily as an intravenous infusion for 10 days, alongside aspirin.",
+        "population": "Adults with acute ischemic stroke",
+        "citation_id": "pmid-22282884"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide education site (Peptide Initiative) says 5 to 10 mL is used intramuscularly per injection for 10 to 20 days, and 10 to 50 mL intravenously once daily, and cites trial examples of 20 to 50 mL daily for stroke and 10 to 30 mL for Alzheimer disease. The site says cerebrolysin is not FDA approved.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "Wikipedia's article says cerebrolysin is given by injection, is available by prescription where marketed, and was not an approved drug in the United States as of October 2020.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a 192-patient randomized Alzheimer's trial of intravenous cerebrolysin, adverse events occurred in 73% of placebo patients and 64% of cerebrolysin patients, most commonly headache, dizziness, weight loss and anxiety.",
+      "label": "research",
+      "citation_id": "pmid-12111446"
+    },
+    {
+      "text": "A Cochrane review found Cerebrolysin probably results in little to no difference in the number of people with serious adverse events in acute ischaemic stroke (moderate-certainty evidence).",
+      "label": "research",
+      "citation_id": "pmid-37818733"
+    },
+    {
+      "text": "Wikipedia's article lists nausea, dizziness, headache and sweating as common side effects, and says it is not recommended for people with epilepsy, kidney disease or sensitivity to its components.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Wikipedia's article says cerebrolysin is an experimental pig-brain peptide mixture that may contain neurotrophic factors, that a 2023 review found no benefit for preventing death in acute ischemic stroke, and that results in vascular dementia were preliminary.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-37818733",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "37818733",
+      "year": 2023,
+      "summary": "Cochrane systematic review and meta-analysis of seven randomized trials (1773 participants) of Cerebrolysin or similar agents started within 48 hours of acute ischaemic stroke.",
+      "finding": "Little to no difference in all-cause death (moderate certainty) or serious adverse events, with unclear or high risk of bias across trials."
+    },
+    {
+      "id": "pmid-31710397",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "31710397",
+      "year": 2019,
+      "summary": "Cochrane systematic review of six randomized trials (597 participants) of Cerebrolysin in vascular dementia, supported by industry in several trials.",
+      "finding": "Courses of intravenous Cerebrolysin were associated with improved cognition and global function and no difference in adverse effects, but the evidence was very low quality and not definitive."
+    },
+    {
+      "id": "pmid-12111446",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "12111446",
+      "year": 2002,
+      "summary": "Randomized, double-blind, placebo-controlled trial (J Neural Transm) of intravenous cerebrolysin in 192 patients with Alzheimer's disease.",
+      "finding": "Cerebrolysin showed significantly better global function (CIBIC+) at week 12, with adverse events comparable to placebo."
+    },
+    {
+      "id": "pmid-22282884",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "22282884",
+      "year": 2012,
+      "summary": "Randomized, double-blind, placebo-controlled trial (Stroke) of intravenous cerebrolysin in 1070 patients with acute ischemic stroke in Asia.",
+      "finding": "The primary combined outcome showed no significant difference between groups; a post hoc subgroup with severe stroke showed a trend favoring cerebrolysin."
+    },
+    {
+      "id": "pmid-33620612",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "33620612",
+      "year": 2021,
+      "summary": "Prospective meta-analysis (Neurol Sci) of two randomized placebo-controlled trials of cerebrolysin in 185 patients with moderate to severe traumatic brain injury.",
+      "finding": "Small to medium effect favoring cerebrolysin at day 30 and day 90, with comparable safety to placebo."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

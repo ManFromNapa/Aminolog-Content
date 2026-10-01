@@ -1,0 +1,58 @@
+{
+  "id": "cjc-1295-ipamorelin",
+  "name": "CJC-1295 / Ipamorelin",
+  "aliases": [
+    "CJC/Ipa",
+    "CJC-1295 + Ipamorelin",
+    "GH optimization stack",
+    "Classic GH stack"
+  ],
+  "components": [
+    "cjc-1295",
+    "ipamorelin"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed online and by peptide therapy clinics as a growth hormone stack for body composition, recovery, sleep and anti-aging. These uses are promotional claims, not approved indications.",
+  "summary": "CJC-1295 / Ipamorelin is a combination of a growth hormone releasing hormone analog and a ghrelin-receptor (growth hormone secretagogue) peptide that is sold or compounded as a pair. No FDA-approved product contains this combination, and no combination-specific human outcome study was found in the sources reviewed; one telemedicine article states that the growth hormone biology is real but the stack outcomes are not well proven. For detailed information, see the pages for CJC-1295 and Ipamorelin; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [],
+  "side_effects": [
+    {
+      "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
+      "label": "research",
+      "citation_id": "r-fda-cat2"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A telemedicine company's article calls CJC-1295 plus ipamorelin the classic growth hormone stack, marketed for fat loss, lean mass, sleep and recovery, while stating that the growth hormone biology is real but the stack outcomes are not well proven.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A Miami anti-aging clinic's blog calls the pairing the single most prescribed peptide stack in anti-aging medicine and says the two stimulate growth hormone through complementary pathways, citing one study as suggesting effects beyond either agent alone.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A Florida wellness clinic's guide says CJC-1295 and ipamorelin are commonly discussed for growth hormone signaling and recovery, and states that CJC-1295 is not FDA-approved for anti-aging, fat loss or muscle building and that FDA has identified safety concerns.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-fda-cat2",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
+      "finding": "FDA lists ipamorelin acetate in category 2 for 503B outsourcing facilities and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. It also lists CJC-1295 among withdrawn substances, stating that compounded drugs containing it may pose risk for immunogenicity for certain routes and may have complexities with peptide-related impurities and API characterization."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

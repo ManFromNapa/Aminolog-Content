@@ -1,0 +1,55 @@
+{
+  "id": "cagrisema",
+  "name": "CagriSema",
+  "aliases": [
+    "cagrilintide/semaglutide",
+    "Cagrilintide + semaglutide"
+  ],
+  "components": [
+    "cagrilintide",
+    "semaglutide"
+  ],
+  "other_components": [],
+  "regulatory_status": "investigational",
+  "used_for": "Developed by Novo Nordisk as a once-weekly injectable combination for weight management in adults with overweight or obesity. Unlicensed sellers also offer the two peptides together.",
+  "summary": "CagriSema is a fixed combination of cagrilintide (an amylin analog) and semaglutide (a GLP-1 receptor agonist) under study by Novo Nordisk. A new drug application was filed with FDA on 18 December 2025 according to the company, and no approval was found as of this review; no FDA statement on it could be read. Phase 3 trials of the combination exist (for example REDEFINE 1, NCT05567796), unlike the other blends. The detailed information is on the pages for Cagrilintide and Semaglutide; formulations vary by seller.",
+  "administration_guidance": [],
+  "side_effects": [
+    {
+      "text": "In REDEFINE 1, gastrointestinal adverse events were more frequent with CagriSema than placebo (79.6% versus 39.9%) and were mostly mild to moderate.",
+      "label": "research",
+      "citation_id": "pmid-40544433"
+    }
+  ],
+  "internet_claims": [],
+  "research": [
+    {
+      "id": "nct05567796",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05567796",
+      "year": 2022,
+      "summary": "REDEFINE 1: phase 3 trial (Novo Nordisk, started November 2022, about 3,400 participants) of once-weekly CagriSema in people with overweight or obesity, listed as active, not recruiting with results posted on ClinicalTrials.gov.",
+      "finding": "Primary outcomes were relative change in body weight and achievement of at least 5% weight reduction at week 68 versus placebo."
+    },
+    {
+      "id": "pmid-40544433",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40544433",
+      "year": 2025,
+      "summary": "Coadministered cagrilintide and semaglutide in adults with overweight or obesity (N Engl J Med; REDEFINE 1, 68-week phase 3 trial).",
+      "finding": "Weight change was -20.4% with CagriSema versus -3.0% with placebo, with gastrointestinal adverse events in 79.6% versus 39.9%. Funded by Novo Nordisk."
+    },
+    {
+      "id": "pmid-40544432",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40544432",
+      "year": 2025,
+      "summary": "REDEFINE 2: 68-week phase 3 trial of CagriSema versus placebo in 1,206 adults with obesity and type 2 diabetes (N Engl J Med; NCT05394519).",
+      "finding": "Weight change was -13.7% with CagriSema versus -3.4% with placebo; gastrointestinal events were 72.5% versus 34.4%."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

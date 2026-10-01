@@ -1,0 +1,180 @@
+{
+  "id": "thymosin-beta-4",
+  "name": "Thymosin beta-4 (full length, Tbeta4)",
+  "aliases": [
+    "Thymosin beta 4",
+    "Thymosin beta-4",
+    "Tbeta4",
+    "Tβ4",
+    "TB4",
+    "TMSB4X",
+    "RGN-259 (ophthalmic form)",
+    "NL005 (recombinant form)"
+  ],
+  "regulatory_status": "investigational",
+  "category": "tissue_repair",
+  "compound_type": "peptide",
+  "used_for": "Thymosin beta-4 is a naturally occurring peptide of about 43 amino acids that binds actin, and it is promoted online for injury recovery and tissue repair. It is a separate entry from TB-500, which is a fragment of it. In humans it has been studied mainly as an ophthalmic solution (RGN-259) for dry eye and neurotrophic keratopathy and as an intravenous recombinant form in healthy volunteers and after heart attack, while most muscle, tendon and wound claims rest on animal and laboratory work. No thymosin beta-4 product is FDA-approved; a Phase 3 ophthalmic trial is registered in the US.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a phase I trial of recombinant human thymosin beta-4 (NL005), single intravenous doses from 0.05 to 25 micrograms per kg were given across seven ascending cohorts, and 0.5, 2.0 and 5.0 micrograms per kg were given once daily for 10 days in the multiple-dose cohorts.",
+        "population": "Healthy adult volunteers in China (54 in the single-dose part, 30 in the multiple-dose part)",
+        "citation_id": "r-ph1-iv"
+      },
+      {
+        "text": "In a 2015 phase 2 trial of thymosin beta-4 eye drops (RGN-259), a 0.1% solution was instilled in the eyes 6 times daily for 28 days. This is ophthalmic use, not injection.",
+        "population": "Nine adults with severe dry eye",
+        "citation_id": "r-ph2-severe-dryeye"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A medical education site for aesthetic and regenerative practitioners (Hubmed) says TB-500 is commonly described with an initial phase of 2.0 to 2.5 mg every other day by subcutaneous or intramuscular injection, a total of 4 to 8 mg per week, and 2 to 6 mg per month afterward. The site presents this as information for licensed professionals, not as medical advice.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "A first-in-human study of a recombinant human thymosin beta-4 (NL005) in healthy Chinese volunteers gave it by intravenous injection, as single and repeated administrations, and observed participants for 28 days.",
+      "label": "research",
+      "citation_id": "r-ph1-iv"
+    },
+    {
+      "text": "Thymosin beta-4 has been studied in dry eye as eye drops (RGN-259) rather than as an injection, in Phase 2 trials compared with vehicle or placebo.",
+      "label": "research",
+      "citation_id": "r-ph2-dryeye-cae"
+    },
+    {
+      "text": "Superpower, a health-testing company that says it does not sell, prescribe or compound thymosin beta-4, says it is available only through licensed compounding pharmacies by prescription and that subcutaneous and topical ophthalmic formulations exist. The page gives no practical guidance on timing, mixing or storage.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/thymosin-beta-4",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A telehealth clinic that prescribes compounded peptides says, on a page about TB-500 that it treats as the same compound as thymosin beta-4, that the peptide is injected subcutaneously into the belly fat or thigh and that it is stored in a refrigerator at 2 to 8 C after reconstitution.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A physician's peptide-therapy practice says thymosin beta-4 is given as subcutaneous injections, and its page does not state any fasted or fed requirement or any storage or mixing instructions.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the first-in-human study of recombinant thymosin beta-4 in healthy volunteers, adverse events were mild to moderate, with no dose-limiting toxicities or serious adverse events reported.",
+      "label": "research",
+      "citation_id": "r-ph1-iv"
+    },
+    {
+      "text": "In a randomized placebo-controlled Phase 2 trial of 72 people with dry eye, no adverse events were observed with thymosin beta-4 eye drops.",
+      "label": "research",
+      "citation_id": "r-ph2-dryeye-cae"
+    },
+    {
+      "text": "In a small Phase 2 trial of thymosin beta-4 eye drops for severe dry eye, the drops were reported as safe and well tolerated. Only nine people were enrolled.",
+      "label": "research",
+      "citation_id": "r-ph2-severe-dryeye"
+    },
+    {
+      "text": "Superpower says adverse events in Phase 1 studies were infrequent and mild to moderate (injection-site reactions, mild eye discomfort with eye drops, low-frequency headache) and that long-term safety data for chronic compounded subcutaneous use are limited.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/thymosin-beta-4",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A physician's peptide-therapy practice lists mild fatigue, headache, redness or swelling at the injection site and temporary mood changes as possible effects and calls the peptide generally well tolerated.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Superpower presents thymosin beta-4 as having real clinical trial data, particularly in eye disease, but as experimental with most other uses preclinical or early-phase, and says it was not FDA-approved for any indication as of April 2026.",
+      "source_type": "website",
+      "url": "https://superpower.com/guides/thymosin-beta-4",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia describes thymosin beta-4 as an actin-binding protein studied for skin, corneal and cardiac repair, notes its ophthalmic form (timbetasin, RGN-259) in trials for dry eye and neurotrophic keratopathy, and says the World Anti-Doping Agency bans it.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Thymosin_beta-4",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A sports-medicine physician's podcast episode from March 2022 is titled as covering thymosin beta-4 for injury recovery and describes it as a popular peptide.",
+      "source_type": "podcast",
+      "url": "https://www.youtube.com/watch?v=HcuYhU7y_zw",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A naturopathic doctor says in a video that, after BPC-157, thymosin beta-4 is the peptide most often prescribed in his office for patients in pain, and that it is sometimes mistakenly called TB500.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-ph1-iv",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34346165",
+      "year": 2021,
+      "summary": "Randomized, double-blind, placebo-controlled Phase I study (J Cell Mol Med) of a recombinant human thymosin beta-4 (NL005) given intravenously to 54 healthy Chinese volunteers in single-dose cohorts and 30 in multiple-dose cohorts.",
+      "finding": "Adverse events were mild to moderate, with no dose-limiting toxicities or serious adverse events and no obvious accumulation on repeated administration. It tested safety and pharmacokinetics in healthy people, not efficacy."
+    },
+    {
+      "id": "r-ph2-dryeye-cae",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26056426",
+      "year": 2015,
+      "summary": "Single-center, double-masked, placebo-controlled Phase II study (Clin Ophthalmol) of thymosin beta-4 eye drops (RGN-259) in 72 people with moderate to severe dry eye, using a controlled adverse environment chamber.",
+      "finding": "Neither primary endpoint (ocular discomfort, inferior corneal staining) differed significantly from placebo, but several secondary endpoints improved and no adverse events were reported. This is ophthalmic use, not injection."
+    },
+    {
+      "id": "r-ph2-severe-dryeye",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25826322",
+      "year": 2015,
+      "summary": "Small multicenter, randomized, double-masked Phase 2 trial (Cornea) of thymosin beta-4 eye drops (RGN-259) versus vehicle in nine people with severe dry eye at 2 US sites (NCT01393132).",
+      "finding": "Eyes treated with the drops showed greater reductions in ocular discomfort and corneal staining at day 56 than vehicle, and the drops were reported as safe and well tolerated. The sample was very small."
+    },
+    {
+      "id": "r-nct-seer2",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05555589",
+      "year": 2026,
+      "summary": "Registered randomized Phase 3 trial (SEER-2) comparing RGN-259 ophthalmic solution with placebo in neurotrophic keratopathy, recruiting at US sites.",
+      "finding": "The registration shows a thymosin beta-4 ophthalmic product in late-stage US trials. It is a trial record, not a result, and says nothing about injected thymosin beta-4."
+    },
+    {
+      "id": "r-stemi-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41229390",
+      "year": 2025,
+      "summary": "Study (Cardiovasc Res) of recombinant human thymosin beta-4 in mouse heart-attack models plus a randomized, placebo-controlled trial of 96 patients with ST-segment elevation myocardial infarction after reperfusion.",
+      "finding": "In mice the treatment preserved cardiac function. In the human trial, infarct area was reduced in the subgroup treated early after the procedure, but the overall difference across all 96 patients was not significant, and the authors call for further randomized studies."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

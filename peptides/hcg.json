@@ -1,0 +1,179 @@
+{
+  "id": "hcg",
+  "name": "HCG (human chorionic gonadotropin)",
+  "aliases": [
+    "hCG",
+    "human chorionic gonadotropin",
+    "chorionic gonadotropin",
+    "Novarel",
+    "Pregnyl",
+    "Ovidrel",
+    "choriogonadotropin",
+    "HCG diet"
+  ],
+  "regulatory_status": "approved",
+  "category": "sexual_reproductive",
+  "compound_type": "protein",
+  "used_for": "hCG is a glycoprotein hormone (alpha and beta subunits) made by the placenta that acts like LH. FDA-labeled products (Novarel, Pregnyl) are approved for prepubertal cryptorchidism, selected cases of hypogonadotropic hypogonadism in men, and ovulation induction in women, and the label states hCG has not been demonstrated effective for obesity. It is also used off label alongside testosterone therapy to maintain testicular function and fertility. The FDA states there is no substantial evidence it increases weight loss, and over-the-counter hCG diet products are treated as illegal. hCG is a large protein hormone rather than a small peptide, and appears on sports anti-doping lists.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: Novarel (chorionic gonadotropin) for prepubertal cryptorchidism not due to anatomical obstruction lists regimens advocated by various authorities, including 4,000 USP Units intramuscularly three times weekly for three weeks, or 500 to 1,000 USP Units per injection in other regimens.",
+        "population": "Prepubertal boys with cryptorchidism not due to anatomical obstruction",
+        "citation_id": "fda-novarel-label"
+      },
+      {
+        "text": "Label: Novarel for selected cases of hypogonadotropic hypogonadism in males lists 500 to 1,000 USP Units intramuscularly three times a week for three weeks, then the same dose twice a week for three weeks, or 4,000 USP Units three times weekly for six to nine months.",
+        "population": "Adult males with selected cases of hypogonadotropic hypogonadism",
+        "citation_id": "fda-novarel-label"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "An AI health information platform (Doctronic) says hCG alongside testosterone therapy is commonly given as 250 to 500 IU subcutaneously two to three times per week, and cites 1,500 to 3,000 IU three times weekly for fertility restoration.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A private urology clinic blog says hCG for maintenance during testosterone therapy is commonly 500 to 1,000 IU subcutaneously 2 to 3 times per week, and 1,500 to 3,000 IU every other day for fertility recovery.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A telehealth referral site with affiliate links says hCG maintenance on testosterone therapy is commonly 500 IU subcutaneously 2 to 3 times per week, and 1,000 to 1,500 IU every other day for fertility recovery.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Novarel label states it is for intramuscular use only and is supplied as a freeze-dried powder with bacteriostatic water diluent containing benzyl alcohol.",
+      "label": "research",
+      "citation_id": "fda-novarel-label"
+    },
+    {
+      "text": "The Novarel label states the unreconstituted product is stored at controlled room temperature (20 to 25 C), and the reconstituted product is refrigerated at 2 to 8 C and used within 30 days.",
+      "label": "research",
+      "citation_id": "fda-novarel-label"
+    },
+    {
+      "text": "The Novarel label states the regimens it lists are those advocated by various authorities and that the regimen depends on the indication, age, weight and physician preference.",
+      "label": "research",
+      "citation_id": "fda-novarel-label"
+    },
+    {
+      "text": "In a randomized trial comparing clomiphene, hCG injections and a combination in men with hypogonadism wishing to preserve fertility, testosterone rose in all three groups, with no significant difference in testosterone response among groups.",
+      "label": "research",
+      "citation_id": "bju-2018"
+    },
+    {
+      "text": "Wikipedia says hCG is extracted from the urine of pregnant women or produced by recombinant methods, and is used in assisted reproduction and to maintain fertility during testosterone replacement therapy.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Novarel label lists headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia and injection site pain, and states hypersensitivity reactions, local and systemic, have been reported.",
+      "label": "research",
+      "citation_id": "fda-novarel-label"
+    },
+    {
+      "text": "The Novarel label lists contraindications including precocious puberty, prostatic carcinoma or other androgen-dependent neoplasm, and prior allergic reaction to hCG, and states hCG may cause fetal harm in pregnancy.",
+      "label": "research",
+      "citation_id": "fda-novarel-label"
+    },
+    {
+      "text": "The FDA states that people following the very low calorie diets recommended with hCG weight-loss products face risks including gallstones, electrolyte imbalance and heart arrhythmias, and that it has received reports of serious adverse events including pulmonary embolism, depression, cerebrovascular events, cardiac arrest and death.",
+      "label": "research",
+      "citation_id": "fda-hcg-weightloss"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Wikipedia notes that Albert Simeons's 'hCG diet' paired hCG with extreme calorie restriction, that the FDA requires a disclaimer that there is no substantial evidence hCG increases weight loss, and that over-the-counter hCG products were banned as fraudulent in December 2011.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia notes professional athletes have been banned after testing positive for hCG, which is on banned-substance lists because it can restore testosterone production after steroid use.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says hCG triggers ovulation in women and stimulates testosterone production in men, and is used in assisted reproduction and to maintain fertility during testosterone replacement.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-novarel-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+      "year": 2025,
+      "summary": "FDA DailyMed prescribing information for Novarel (chorionic gonadotropin) for injection, Ferring, revised September 2025.",
+      "finding": "Labeled for prepubertal cryptorchidism, selected hypogonadotropic hypogonadism in men, and ovulation induction; the label states hCG has not been demonstrated effective for obesity."
+    },
+    {
+      "id": "fda-hcg-weightloss",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/medication-health-fraud/questions-and-answers-hcg-products-weight-loss",
+      "year": 2016,
+      "summary": "FDA questions and answers page on hCG products for weight loss (content current as of May 2016).",
+      "finding": "States there is no substantial evidence hCG increases weight loss, that homeopathic OTC hCG weight-loss products are illegal, and that hCG is approved only as an injectable for some female infertility and male hormonal conditions."
+    },
+    {
+      "id": "hcg-obesity-1990",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "2405506",
+      "year": 1990,
+      "summary": "Double-blind placebo-controlled trial of hCG injections plus a restricted diet in 40 obese women for 6 weeks.",
+      "finding": "hCG showed no advantage over placebo for weight loss, hunger or other measures; the authors concluded there is no rationale for hCG injections in obesity."
+    },
+    {
+      "id": "hcg-obesity-1976",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "786001",
+      "year": 1976,
+      "summary": "Randomized double-blind trial in 51 women of hCG versus placebo with the same low calorie diet over 32 days.",
+      "finding": "No significant difference in weight loss, circumference or hunger between hCG and placebo."
+    },
+    {
+      "id": "bju-2018",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "29772111",
+      "year": 2018,
+      "summary": "Randomized trial in 282 men with hypogonadism wishing to preserve fertility, comparing clomiphene, hCG, and both.",
+      "finding": "All three arms raised testosterone with no significant difference among groups; the combination had a greater symptom score gain."
+    },
+    {
+      "id": "hcg-lowdose-2010",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20484472",
+      "year": 2010,
+      "summary": "Randomized trial in 37 healthy men with experimentally induced gonadotropin deficiency testing very low hCG exposures on intratesticular testosterone.",
+      "finding": "Intratesticular testosterone rose in a dose-dependent way with hCG, indicating hCG can stimulate testicular testosterone production in this experimental model."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

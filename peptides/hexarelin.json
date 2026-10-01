@@ -32,6 +32,15 @@
         "population": "Mice",
         "citation_id": "pmid-29756411"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website (PeptidesExplorer) says typical use is 100 to 200 mcg subcutaneously once or twice daily on an empty stomach, with 100 mcg once daily described as conservative and 200 mcg once or twice daily as standard.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [

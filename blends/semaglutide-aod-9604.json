@@ -1,0 +1,31 @@
+{
+  "id": "semaglutide-aod-9604",
+  "name": "Semaglutide / AOD-9604",
+  "aliases": [],
+  "components": [
+    "semaglutide",
+    "aod-9604"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Described by telehealth sources as a weight-loss stack in which AOD-9604, a growth hormone fragment promoted for fat loss, is added to a GLP-1 medication.",
+  "summary": "This blend combines semaglutide, an FDA-approved GLP-1 receptor agonist, with AOD-9604, an unapproved growth hormone fragment. No approved product contains both, and no combination-specific human study was found. A telehealth blog says most stacks have more marketing momentum than clinical evidence, especially for combinations. Each component's own page holds the detailed information (Semaglutide and AOD-9604); formulations vary by seller.",
+  "administration_guidance": [],
+  "side_effects": [],
+  "internet_claims": [
+    {
+      "claim": "A telehealth company's blog (Meto, which offers compounded medications) lists semaglutide plus AOD-9604 among popular peptide stacks and grades the evidence for such stacks mostly as biomarker-level or mechanistic rather than human outcomes.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A telehealth company's blog (Meto, which offers consultations and compounded medications) says most peptide stacks have far more marketing momentum than clinical evidence, especially for combinations, and that more experimental stacks call for a more conservative risk posture.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [],
+  "last_reviewed": "2026-10-01"
+}

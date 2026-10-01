@@ -1,0 +1,179 @@
+{
+  "id": "mk-677",
+  "name": "MK-677 (ibutamoren)",
+  "aliases": [
+    "Ibutamoren",
+    "Ibutamoren mesylate",
+    "MK-0677",
+    "MK0677",
+    "LUM-201",
+    "Nutrobal",
+    "Oral growth hormone secretagogue"
+  ],
+  "regulatory_status": "investigational",
+  "category": "growth_hormone",
+  "compound_type": "small_molecule",
+  "used_for": "MK-677 (ibutamoren) is an oral small molecule that mimics ghrelin and raises growth hormone and IGF-1; it is not a peptide. It is sold online for muscle gain, recovery and sleep, but it is not approved, and its development under the name LUM-201 is now a Phase 3 trial in children with growth hormone deficiency. In older adults it increased fat-free mass and IGF-1 but also body weight, glucose and appetite, and one hip-fracture trial stopped early after a heart failure signal. The FDA lists ibutamoren as posing significant risks for compounding.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2-year trial in healthy older adults, oral MK-677 25 mg or placebo was given once daily.",
+        "population": "65 healthy adults aged 60 to 81",
+        "citation_id": "r-nass-2008"
+      },
+      {
+        "text": "In a 2010 trial after hip fracture, MK-0677 25 mg per day or placebo was given. The trial was terminated early because of a congestive heart failure safety signal.",
+        "population": "123 elderly patients recovering from hip fracture",
+        "citation_id": "r-adunsky-2011"
+      },
+      {
+        "text": "In a 12-month trial, MK-677 25 mg or placebo was given daily. It did not slow disease progression.",
+        "population": "563 patients with mild to moderate Alzheimer disease",
+        "citation_id": "r-ad-2008"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "Rupa Health, a laboratory testing company that does not sell MK-677, says the typical range described for MK-677 is 10 to 25 mg per day, with about 10 mg described as enough for general wellness and up to 25 mg for fitness enthusiasts and athletes. The page notes it is not FDA-approved.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.rupahealth.com/post/mk-677-your-ultimate-ibutamoren-resource",
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "In the 2-year placebo-controlled trial in healthy older adults, MK-677 was taken by mouth and was compared with placebo.",
+      "label": "research",
+      "citation_id": "r-nass-2008"
+    },
+    {
+      "text": "Healthy Male, an Australian men's health organization that does not sell it, says MK-677 can be taken orally as a powder, tablet or liquid, whereas peptides are injected, and gives no dosing information.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "Members of the Elite Fitness bodybuilding forum mostly favor taking MK-677 in the evening or before bed, partly because it raises hunger and can be slept through, while one moderator suggested the morning to help appetite and another told a user to watch their sleep.",
+      "label": "internet",
+      "source_type": "forum",
+      "url": "https://www.elitefitness.com/forum/threads/proper-way-to-dose-mk677.1506753/",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a 2-year randomized trial in 65 healthy older adults, MK-677 raised growth hormone and IGF-1 and fat-free mass, with the most frequent effects being increased appetite that subsided over months and transient mild leg swelling and muscle pain. Body weight rose, fasting glucose rose slightly, insulin sensitivity fell and cortisol rose.",
+      "label": "research",
+      "citation_id": "r-nass-2008"
+    },
+    {
+      "text": "A randomized trial in 123 elderly hip-fracture patients was terminated early because of a safety signal of congestive heart failure in a limited number of patients, and the authors describe an unfavorable safety profile in that population.",
+      "label": "research",
+      "citation_id": "r-adunsky-2011"
+    },
+    {
+      "text": "The FDA says ibutamoren mesylate poses significant safety risks because of the potential for congestive heart failure, and cites the terminated hip-fracture trial. It also notes limited data showing effects on cortisol and blood glucose.",
+      "label": "research",
+      "citation_id": "r-fda-bulk"
+    },
+    {
+      "text": "In a small crossover study of 22 hemodialysis patients, MK-0677 raised IGF-1 and no serious adverse effects were attributed to it.",
+      "label": "research",
+      "citation_id": "r-hd-2018"
+    },
+    {
+      "text": "Healthy Male lists increased appetite, swelling, anxiety, numbness, muscle pain, diabetes-like effects (higher blood glucose and lower insulin sensitivity) and possible heart failure concerns.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Healthy Male says MK-677 has gotten plenty of attention for claims of muscle growth, better sleep and enhanced recovery, but that there is no evidence of these benefits, that it has no approved uses in Australia and that it is banned in sport.",
+      "source_type": "website",
+      "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Rupa Health, a lab testing and practitioner platform that does not sell MK-677, says it is popular among fitness enthusiasts, bodybuilders and anti-aging advocates for claimed muscle growth, recovery, bone density, skin, sleep and cognitive benefits, and that it is not FDA-approved.",
+      "source_type": "website",
+      "url": "https://www.rupahealth.com/post/mk-677-your-ultimate-ibutamoren-resource",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "A video by a urologist and men's health specialist presents MK-677 as a growth hormone boost without needles and asks in its title whether it is muscle growth or metabolic disaster (based on the title and description).",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XsW8AGchV14",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says ibutamoren has been used experimentally by some in the bodybuilding community despite not being approved for human consumption in the United States, and that it is banned in most sports.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Ibutamoren",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "r-nass-2008",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18981485",
+      "year": 2008,
+      "summary": "Two-year, double-blind, placebo-controlled trial (Ann Intern Med) of oral MK-677 in 65 healthy adults aged 60 to 81.",
+      "finding": "MK-677 raised growth hormone and IGF-1 to young-adult levels and increased fat-free mass without serious adverse effects, but also raised body weight, fasting glucose and cortisol and lowered insulin sensitivity, with no gain in strength or function."
+    },
+    {
+      "id": "r-adunsky-2011",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "21067829",
+      "year": 2011,
+      "summary": "Multicenter, randomized, placebo-controlled Phase IIb trial (Arch Gerontol Geriatr) of MK-0677 in 123 elderly patients recovering from hip fracture.",
+      "finding": "IGF-1 rose but most functional measures did not improve, and the trial was terminated early because of a congestive heart failure safety signal."
+    },
+    {
+      "id": "r-ad-2008",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19015485",
+      "year": 2008,
+      "summary": "Double-blind multicenter trial (Neurology) of MK-677 versus placebo for 12 months in 563 patients with mild to moderate Alzheimer disease.",
+      "finding": "Serum IGF-1 rose, but there were no significant differences on any cognitive or functional scale, so it did not slow disease progression."
+    },
+    {
+      "id": "r-hd-2018",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28340044",
+      "year": 2018,
+      "summary": "Randomized, blinded crossover study (Nephrol Dial Transplant) of MK-0677 versus placebo in 26 hemodialysis patients.",
+      "finding": "IGF-1 was about 65% higher than placebo after MK-0677 with minimal adverse effects, but the study only measured IGF-1 and the authors say efficacy studies are needed."
+    },
+    {
+      "id": "r-nct-lum201",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT06948214",
+      "year": 2026,
+      "summary": "Registered Phase 3 randomized, placebo-controlled trial (OraGrowtH) of oral LUM-201, whose keywords name ibutamoren mesylate, in prepubertal children with growth hormone deficiency, recruiting at US sites.",
+      "finding": "Shows the molecule is under active US clinical development for a pediatric indication. A trial record is not a result and says nothing about use for muscle gain or anti-aging."
+    },
+    {
+      "id": "r-fda-bulk",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA page on certain bulk drug substances for compounding that may present significant safety risks, which lists ibutamoren mesylate.",
+      "finding": "The FDA says ibutamoren poses significant safety risks because of potential congestive heart failure, citing the terminated hip-fracture trial."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "gonadorelin",
+  "name": "Gonadorelin",
+  "aliases": [
+    "GnRH",
+    "gonadotropin-releasing hormone",
+    "LHRH",
+    "Factrel",
+    "Lutrepulse",
+    "Cystorelin",
+    "Fertagyl"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "sexual_reproductive",
+  "compound_type": "peptide",
+  "used_for": "Gonadorelin is a ten amino acid peptide identical to the hypothalamic hormone GnRH, which prompts the pituitary to release LH and FSH. Wikipedia states it is not available for clinical use in humans in the United States, and the gonadorelin labels currently on DailyMed are for veterinary products (for example Factrel, labeled for cattle only). Compounded gonadorelin injections are marketed by telehealth clinics as an alternative to hCG for men on testosterone therapy, while human evidence found here is limited to small studies of pulsatile pump treatment in congenital hypogonadotropic hypogonadism; controlled evidence for the compounded testosterone-adjunct use was not found.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2019 nonrandomized study in 28 azoospermic men with congenital hypogonadotropic hypogonadism, 10 men received gonadorelin initially at 10 mcg every 90 minutes subcutaneously by a wearable pulsatile infusion pump, compared with 18 men on cyclical hCG/hMG injections.",
+        "population": "Men with congenital hypogonadotropic hypogonadism and azoospermia",
+        "citation_id": "pump-chh-2019"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information website (Peptides Institute) lists gonadorelin as 50 to 100 mcg subcutaneously 2 to 3 times weekly as an adjunct to testosterone therapy, and 100 to 250 mcg 2 to 3 times weekly for hypogonadotropic hypogonadism. The page shows no sales links.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.peptidesinstitute.org/peptides/gonadorelin",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide dosing blog with supplier and affiliate links says gonadorelin maintenance is commonly 100 to 150 mcg twice weekly and fertility restoration 200 to 250 mcg twice weekly by injection.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "A comparison of a pulsatile gonadorelin pump with cyclical gonadotropin therapy in men with congenital hypogonadotropic hypogonadism reported spermatogenesis earlier with the pump (median 6 months) than with cyclical gonadotropins (median 14 months) in this small nonrandomized study.",
+      "label": "research",
+      "citation_id": "pump-chh-2019"
+    },
+    {
+      "text": "The Factrel veterinary label states the product is given as an intramuscular injection in cattle only and is restricted to use by or on the order of a licensed veterinarian.",
+      "label": "research",
+      "citation_id": "fda-factrel-vet-label"
+    },
+    {
+      "text": "Wikipedia says gonadorelin has a very short terminal half-life of 10 to 40 minutes, is available for pulsatile subcutaneous delivery by portable pump, and is not available for clinical use in humans in the United States.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Gonadorelin",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "text": "A TRT clinic's educational page says gonadorelin is given by subcutaneous injection because its action is brief, and that the clinic does not regard it as interchangeable with hCG because it acts on the pituitary rather than the testes.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In the small pump versus cyclical gonadotropin comparison in men with congenital hypogonadotropic hypogonadism, skin allergic reactions were a common side effect of the gonadorelin pump, while higher testosterone with facial acne and breast tenderness occurred more with cyclical gonadotropins.",
+      "label": "research",
+      "citation_id": "pump-chh-2019"
+    },
+    {
+      "text": "A TRT clinic's educational page lists possible effects such as headache, testicular fullness or tenderness, temporary shifts in testosterone or estradiol, breast or nipple tenderness, water retention and mood changes.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A TRT clinic's page says compounded gonadorelin is used with testosterone therapy to prevent testicular shrinkage and keep sperm production going, while conceding it lacks the clinical evidence behind hCG for fertility preservation.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia notes gonadorelin differs from GnRH agonist drugs used for suppression because it raises rather than lowers sex hormones, and is not available for clinical use in humans in the United States.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Gonadorelin",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-factrel-vet-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1451663c-b85a-4b45-8b27-6d572d0032f9",
+      "year": 2026,
+      "summary": "FDA DailyMed label for Factrel (gonadorelin hydrochloride) injection, Zoetis, approved under NADA 139-237 for cattle only.",
+      "finding": "The FDA-approved gonadorelin product found on DailyMed is a veterinary drug for ovarian follicular cysts and estrus synchronization in cattle; this is not a human approval."
+    },
+    {
+      "id": "pump-chh-2019",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "30569789",
+      "year": 2019,
+      "summary": "Nonrandomized comparison in 28 azoospermic men with congenital hypogonadotropic hypogonadism of a pulsatile gonadorelin pump (10 men) versus cyclical hCG/hMG therapy (18 men) over 24 months.",
+      "finding": "Spermatogenesis occurred earlier with the pump (median 6 vs 14 months) with similar overall rates (90% vs 83%); small, nonrandomized, and in a different population than the testosterone-adjunct use being marketed."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

@@ -27,6 +27,22 @@
         "population": "24 female surgical patients (ASA I or II)",
         "citation_id": "pmid-19142086"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information database (Peptide Initiative) says circulated subcutaneous DSIP amounts are 100 mcg, 200 mcg (described as the most circulated) and 300 mcg once daily, and notes that none of these have human trial support. The page says the only human-tested dose was a single intravenous infusion.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptideinitiative.com/peptides/protocols/dsip-protocol",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "An educational peptide guide website (PeptidesExplorer) says the standard DSIP dosage is 100 to 300 mcg injected subcutaneously 30 to 60 minutes before bed, and that most users start at 100 mcg with 200 mcg the most widely adopted. The source gives a range and does not present it as an approved dose.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -41,6 +57,13 @@
       "source_type": "website",
       "url": "https://peptideinitiative.com/peptides/protocols/dsip",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A peptide information site (The Peptide Initiative) says DSIP is injected subcutaneously in the abdomen, outer thigh or upper arm with sites rotated, and that it is typically used alone in the evening while growth hormone peptides may be used at other times.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/dsip/injection-guide",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [

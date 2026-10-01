@@ -23,6 +23,22 @@
         "population": "30 healthy men aged 19 to 43",
         "citation_id": "pmid-8329825"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational website (Peptide Dossier) says most sermorelin protocols begin with 200 mcg daily, increased to 300 mcg after 1 to 2 weeks, with 300 to 500 mcg daily described for experienced users. The site says it does not encourage use without medical supervision.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A compounded-peptide telehealth seller says the typical adult range is 200 to 500 mcg injected subcutaneously once daily at bedtime, with 100 to 200 mcg described as a conservative starting level. The page is part of a site that sells the product.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -39,6 +55,18 @@
       "source_type": "vendor",
       "url": null,
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A 1999 review states that in children with idiopathic growth hormone deficiency, once daily subcutaneous sermorelin was given at bedtime in the treatment studies it covered.",
+      "label": "research",
+      "citation_id": "prakash-1999-biodrugs"
+    },
+    {
+      "text": "The Peptidepedia website says sermorelin is injected into the abdomen, front of the thigh or back of the upper arm with rotation, that 15 to 30 minutes before bed lines up with the early slow-wave-sleep growth hormone pulse, that daytime use is said to be less effective, and that reconstituted vials should never be frozen.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [
@@ -109,6 +137,15 @@
       "year": 1993,
       "summary": "Pharmacokinetic and hormone-response study of GHRH(1-29)-NH2 given intravenously or intranasally to 30 healthy men (Wilton et al., Acta Paediatr Suppl).",
       "finding": "Intravenous doses released growth hormone, which stayed elevated for about 3 hours; nasal absorption was low (3 to 5% bioavailability). This is a short-term study in healthy men and does not show clinical benefit."
+    },
+    {
+      "id": "prakash-1999-biodrugs",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "18031173",
+      "year": 1999,
+      "summary": "Review of sermorelin in the diagnosis and treatment of children with idiopathic growth hormone deficiency (Prakash and Goa, BioDrugs), covering the treatment trials.",
+      "finding": "The review states that once daily subcutaneous sermorelin given at bedtime was effective in some prepubertal children with idiopathic growth hormone deficiency, based on limited data."
     }
   ],
   "last_reviewed": "2026-09-30"

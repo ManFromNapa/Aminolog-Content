@@ -1,0 +1,113 @@
+{
+  "id": "lixisenatide",
+  "name": "Lixisenatide",
+  "aliases": [
+    "Adlyxin",
+    "Lyxumia",
+    "Soliqua",
+    "Soliqua 100/33",
+    "iGlarLixi",
+    "AVE0010"
+  ],
+  "regulatory_status": "approved",
+  "category": "weight_metabolic",
+  "compound_type": "peptide",
+  "used_for": "Lixisenatide is a 44 amino acid GLP-1 receptor agonist. In the United States the FDA-labeled product found on DailyMed is Soliqua 100/33, a fixed-ratio combination of insulin glargine and lixisenatide for adults with type 2 diabetes; Alzforum states Sanofi discontinued the stand-alone Adlyxin in 2023 for business reasons. It is a diabetes drug, not a weight-loss product, and a 2024 phase 2 trial in early Parkinson's disease is the main non-diabetes research.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Label: Soliqua 100/33 (insulin glargine and lixisenatide) is started at 15 units (15 units insulin glargine and 5 mcg lixisenatide) subcutaneously once daily within the hour before the first meal, in patients naive to basal insulin or GLP-1 receptor agonists or on less than 30 units of basal insulin.",
+        "population": "Adults with type 2 diabetes mellitus",
+        "citation_id": "fda-soliqua-label"
+      },
+      {
+        "text": "Label: Soliqua 100/33 is started at 30 units (30 units insulin glargine and 10 mcg lixisenatide) once daily in patients already on 30 to 60 units of basal insulin; the maximum is 60 units daily (60 units insulin glargine and 20 mcg lixisenatide).",
+        "population": "Adults with type 2 diabetes mellitus",
+        "citation_id": "fda-soliqua-label"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Soliqua label states it is injected subcutaneously once daily within 1 hour before the first meal of the day, and that a missed dose is skipped to the next scheduled time rather than doubled.",
+      "label": "research",
+      "citation_id": "fda-soliqua-label"
+    },
+    {
+      "text": "The Soliqua label states unused pens are refrigerated at 2 to 8 C, not frozen, and protected from light, and after first use are kept at up to 25 C and discarded 28 days after first use, with the needle removed after each injection.",
+      "label": "research",
+      "citation_id": "fda-soliqua-label"
+    },
+    {
+      "text": "Alzforum's lixisenatide page says Sanofi discontinued marketing of Adlyxin for diabetes in 2023, citing business reasons.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.alzforum.org/therapeutics/lixisenatide",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Soliqua label lists hypoglycemia, nausea, nasopharyngitis, diarrhea, upper respiratory tract infection and headache as reactions in 5% or more of patients, and warns severe hypoglycemia can cause seizures and can be life-threatening.",
+      "label": "research",
+      "citation_id": "fda-soliqua-label"
+    },
+    {
+      "text": "In the ELIXA cardiovascular outcomes trial of 6,068 patients with a recent acute coronary event, lixisenatide was noninferior but not superior to placebo for major cardiovascular events (hazard ratio 1.02), with no higher rate of serious adverse events reported.",
+      "label": "research",
+      "citation_id": "elixa-2015"
+    },
+    {
+      "text": "WebMD reviewers of Soliqua describe gas, belching, heartburn and reflux lasting hours after injection, hypoglycemia at some injection sites, and good glucose control for some users after months.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "WebMD reviews of Soliqua average 3.8 out of 5 across 6 reviews, with 83% reporting a positive effect but mixed tolerability.",
+      "source_type": "website",
+      "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+      "retrieved": "2026-10-01"
+    },
+    {
+      "claim": "Wikipedia says lixisenatide showed protective effects in animal models of Parkinson's disease, which led to interest in it as a candidate treatment.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Lixisenatide",
+      "retrieved": "2026-10-01"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-soliqua-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4bba538b-cf7c-4310-ae8f-cb711ed21bcc",
+      "year": 2026,
+      "summary": "FDA DailyMed prescribing information for Soliqua 100/33 (insulin glargine and lixisenatide), Sanofi, revised March 2026.",
+      "finding": "Indicated as an adjunct to diet and exercise for glycemic control in adults with type 2 diabetes; hypoglycemia is the most common reaction."
+    },
+    {
+      "id": "elixa-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26630143",
+      "year": 2015,
+      "summary": "ELIXA randomized trial (NCT01147250) of lixisenatide versus placebo in 6,068 patients with type 2 diabetes and a recent acute coronary event, median 25 months.",
+      "finding": "Primary cardiovascular events occurred in 13.4% versus 13.2% (hazard ratio 1.02), showing noninferiority but not superiority."
+    },
+    {
+      "id": "lixipark-2024",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38598572",
+      "year": 2024,
+      "summary": "Phase 2 double-blind placebo-controlled trial of lixisenatide in 156 people with early Parkinson's disease for 12 months.",
+      "finding": "Motor scores worsened about 3 points less than placebo (difference 3.08, 95% CI 0.86 to 5.30), a small effect in a phase 2 trial."
+    }
+  ],
+  "last_reviewed": "2026-10-01"
+}

@@ -17,6 +17,22 @@
         "population": "Rats made morphine-dependent",
         "citation_id": "pmid-36322304"
       }
+    ],
+    "internet_entries": [
+      {
+        "text": "An educational dosing-calculator website (Peptitools) says self-directed users commonly take 250 to 500 mcg once or twice daily, and 250 to 500 mcg as a single situational dose. The page also notes a clinical trial protocol of about 900 mcg per day split across three administrations. Presented as a description of what a source says, not a recommendation.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.peptitools.com/peptides/selank",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "An educational dosing-guide website (DosingCalc) says a common nasal protocol is about 300 mcg two to three times daily, attributed to a Russian generalized anxiety disorder trial, and that injection uses the same 300 mcg amount less often. The source gives this as a commonly cited pattern, not an established or recommended dose.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://dosingcalc.com/guides/selank-dosing-nootropic-research-protocols",
+        "retrieved": "2026-10-01"
+      }
     ]
   },
   "administration_guidance": [
@@ -33,6 +49,13 @@
       "source_type": "website",
       "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
       "retrieved": "2026-09-30"
+    },
+    {
+      "text": "A peptide information site (The Peptide Initiative) describes Selank use as repeated courses of about two weeks followed by a break of one to three weeks rather than continuous use, and says its pages flag possible additive sedation or unpredictable effects with benzodiazepines, with caution advised alongside SSRIs, SNRIs and sleep medications.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+      "retrieved": "2026-10-01"
     }
   ],
   "side_effects": [
