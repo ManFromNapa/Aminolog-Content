@@ -14,7 +14,22 @@
   "used_for": "A 24-amino-acid peptide encoded in mitochondrial DNA, studied as a cytoprotective and neuroprotective signal. Most research is in cells and rodents, often with the more potent S14G analog (HNG), plus observational human work linking higher circulating levels to longevity. It is sold online as a longevity peptide, but no human intervention trial was found and it is not an approved drug.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2006 mouse stroke study, the analog HNG was given at 0.1 microgram intracerebroventricularly 30 minutes before ischemia, or at 1 microgram intraperitoneally 1 hour before ischemia.",
+        "population": "Mice with experimental stroke",
+        "citation_id": "pmid-16960089"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide guide site that carries advertiser links says community-extrapolated, unvalidated protocols use 0.5 to 3 mg of HNG subcutaneously daily, and 5 to 10 mg daily of native humanin.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

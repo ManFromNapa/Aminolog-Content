@@ -15,7 +15,22 @@
   "used_for": "IGF-1 LR3 is a lab-made analog of insulin-like growth factor 1 with an arginine substitution and an N-terminal extension, which lowers its binding to IGF-binding proteins. It is sold online as a research chemical for muscle growth, and sources describe it as never approved or evaluated in a human clinical trial. The only approved IGF-1 analog is mecasermin (Increlex), which is a different molecule indicated for severe primary IGF-1 deficiency in children. Evidence on LR3 itself is limited to animal and laboratory work, and it is prohibited in sport.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2025 study, IGF-1 LR3 was infused at about 1.17 micrograms per kg per hour for one week into growth-restricted fetal sheep, and it did not improve fetal growth.",
+        "population": "Growth-restricted fetal sheep",
+        "citation_id": "r-sheep-2025"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information site (AllAboutPeptides) says IGF-1 LR3 is commonly described at 10 to 20 micrograms per day for beginners, 20 to 40 for intermediate users and 50 to 100 for advanced users, with cycles of 4 to 6 weeks. The page carries a link to a recommended vendor, so it is treated as a seller-affiliated source.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

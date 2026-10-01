@@ -14,7 +14,32 @@
   "used_for": "A synthetic small molecule that activates the estrogen-related receptors (ERR alpha, beta and gamma), developed in academic labs and described as an exercise mimetic. It is not a peptide. Published work is in mice and cell models, where it increased exercise endurance, energy expenditure and fat oxidation and reduced fat gain. No human trials were found and no FDA approval was found.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2024 study, SLU-PP-332 was given by intraperitoneal injection at 50 mg/kg twice daily for 28 days.",
+        "population": "Diet-induced obese mice (and ob/ob mice for 12 days)",
+        "citation_id": "slu-jpet-2024"
+      },
+      {
+        "text": "Animal study only, not human data: in a 2023 study, SLU-PP-332 was given by intraperitoneal injection at 50 mg/kg twice daily in efficacy experiments, after a 30 mg/kg injection was used for pharmacokinetics.",
+        "population": "Mice",
+        "citation_id": "slu-acs-chem-biol-2023"
+      },
+      {
+        "text": "Animal study only, not human data: in a 2024 heart failure study, SLU-PP-332 was given by intraperitoneal injection at 25 mg/kg twice daily.",
+        "population": "Mice with pressure overload-induced heart failure",
+        "citation_id": "slu-circulation-2024"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A supplement-industry influencer's blog (with an affiliate discount code for a supplement containing it) lists oral SLU-PP-332 ranges of 100 to 200 mg/day as conservative, 400 mg/day as mid-range, and 600 to 800 mg/day or more as higher, and says the author personally used 400 to 800 mg for three weeks.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

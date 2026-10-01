@@ -14,7 +14,51 @@
   "used_for": "ARA-290 (cibinetide) is a short synthetic peptide designed from the structure of erythropoietin so that it engages the innate repair receptor without raising red blood cell counts. It was studied in small phase 2 trials of neuropathic pain and nerve fiber loss (sarcoidosis, type 2 diabetes) and in a very small diabetic macular edema study, and is marketed online for nerve repair and general recovery. Human evidence is limited to short, small, mostly single-region trials, no phase 3 trial has been run, and the ClinicalTrials.gov records found were completed, terminated or of unknown status. It is not FDA approved for any use.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a 2012 randomized placebo-controlled pilot trial, ARA-290 2 mg was given intravenously three times weekly for 4 weeks.",
+        "population": "22 adults with sarcoidosis and small fiber neuropathy symptoms",
+        "citation_id": "r-sarc-2012"
+      },
+      {
+        "text": "In a 2017 phase 2b randomized trial, cibinetide 1, 4, or 8 mg per day was compared with placebo for 28 days.",
+        "population": "64 people with sarcoidosis-associated small nerve fiber loss and neuropathic pain",
+        "citation_id": "r-sarc-2b-2017"
+      },
+      {
+        "text": "In a 2015 phase 2 placebo-controlled study, ARA-290 4 mg was self-administered subcutaneously daily for 28 days, with follow-up for a further month.",
+        "population": "People with type 2 diabetes and painful neuropathy",
+        "citation_id": "r-t2d-2015"
+      },
+      {
+        "text": "In a 2020 open-label phase 2 study, cibinetide 4 mg per day was self-injected subcutaneously for 12 weeks.",
+        "population": "9 adults with diabetic macular edema (8 completed)",
+        "citation_id": "r-dme-2020"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information platform that lists product vendors says people commonly use 4 mg daily by subcutaneous injection, with a range of 4 to 8 mg daily.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide education website with affiliate supplier links states research conventions of 2 mg daily rising to 2 to 4 mg daily over 4 to 8 weeks, or 4 mg daily for 6 to 8 weeks for neuropathy, and notes these are not clinically established.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide wiki that lists vendor links says its research protocol is 2 mg three times weekly for 4 weeks, and a clinical application of 4 mg once daily for 28 days.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

@@ -16,7 +16,16 @@
   "used_for": "Lipotropic injections are compounded mixtures, commonly methionine, inositol and choline (MIC) and sometimes vitamin B12, carnitine or other additions, given intramuscularly or subcutaneously in clinics and med spas for fat loss. Contents vary by clinic, and they are not FDA-approved for weight loss. Sources read state that controlled evidence for the injected mixtures is minimal or absent, and no registered trials or controlled studies were found for this entry.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "Medical News Today says lipotropic injection dosage depends on the ingredients and each clinic's protocol, that some clinics give them once weekly and others more often, and that no scientific data support the dosage claims made by weight-loss clinics.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

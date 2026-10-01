@@ -12,7 +12,22 @@
   "used_for": "A synthetic D-retro-inverso peptide designed to disrupt the FOXO4-p53 interaction so that senescent cells undergo apoptosis (a senolytic). It is sold online as an anti-aging research peptide. Data are from cells and mice only, including a rodent study in which clearing senescent cells worsened pulmonary hypertension, and no registered human trial was found. It is not an approved drug.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2020 study in naturally aged male mice (20 to 24 months), FOXO4-DRI was given at 5 mg/kg by intraperitoneal injection every other day for three administrations.",
+        "population": "Aged male mice",
+        "citation_id": "pmid-31959736"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide reference site that lists vendors says the research community uses 3 to 25 mg per injection, that this is highly variable, and that no established human dose exists.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

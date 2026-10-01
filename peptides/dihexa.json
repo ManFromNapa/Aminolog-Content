@@ -12,7 +12,22 @@
   "used_for": "A modified small peptide-like compound (a peptidomimetic) derived from angiotensin IV and designed to be orally active and cross the blood-brain barrier. It is sold online as a nootropic, based on rodent studies showing improved spatial learning and increased synapse formation through the hepatocyte growth factor (HGF) and c-Met system (a key 2014 mechanism paper has since been retracted). No completed human trial of dihexa was found, and it is not an approved drug in the US.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2021 study in 6-month-old APP/PS1 Alzheimer model mice, dihexa at 1.44 mg/kg or 2.88 mg/kg was given once daily for three months.",
+        "population": "APP/PS1 mice",
+        "citation_id": "pmid-34827486"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information site (Path To Peptides) says people commonly report oral amounts of 10 to 100 mg per dose taken 1 to 3 times per week, with a stated starter range of 10 to 20 mg weekly, or a 1 to 5% transdermal cream used daily. The site says no validated human dose exists.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

@@ -26,6 +26,9 @@ for f in files:
     for c in d.get("internet_claims", []):
         if (c["source_type"] == "vendor") != (c["url"] is None):
             errors.append(f"{f.name}: vendor/url mismatch")
+    for n, e in enumerate(d.get("dosing", {}).get("internet_entries", [])):
+        if (e["source_type"] == "vendor") != (e["url"] is None):
+            errors.append(f"{f.name}: dosing.internet_entries[{n}] vendor/url mismatch")
     for field in ("administration_guidance", "side_effects"):
         for n, item in enumerate(d.get(field, [])):
             if item.get("label") == "research":

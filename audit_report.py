@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 
 EVIDENCE = {"human_trial": "Human trial", "animal_study": "Animal study", "in_vitro": "In vitro",
             "fda_label": "FDA label", "regulatory_document": "Regulatory document",
-            "case_report": "Case report", "systematic_review": "Systematic review",
+            "case_report": "Case report", "systematic_review": "Systematic review", "review": "Review",
             "regulator_notice": "Regulator notice"}
 
 
@@ -55,6 +55,9 @@ def main():
             r = by_id.get(e["citation_id"])
             cite = f"{EVIDENCE[r['evidence_type']]}, {link(r)}" if r else "MISSING CITATION"
             print(f"- {e['text']}  \n  *{e['population']}* ({cite})")
+        for e in d["dosing"].get("internet_entries", []):
+            src = f"[source]({e['url']})" if e["url"] else "no link (vendor)"
+            print(f"- **Internet dose** ({e['source_type']}, {src}): {e['text']}  \n  *{e['population']}*")
         print("\n### Research\n")
         for r in d["research"]:
             print(f"- **{EVIDENCE[r['evidence_type']]}**, {link(r)}, {r['year']}  \n"

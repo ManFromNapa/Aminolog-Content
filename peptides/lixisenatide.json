@@ -15,7 +15,18 @@
   "used_for": "Lixisenatide is a 44 amino acid GLP-1 receptor agonist. In the United States the FDA-labeled product found on DailyMed is Soliqua 100/33, a fixed-ratio combination of insulin glargine and lixisenatide for adults with type 2 diabetes; Alzforum states Sanofi discontinued the stand-alone Adlyxin in 2023 for business reasons. It is a diabetes drug, not a weight-loss product, and a 2024 phase 2 trial in early Parkinson's disease is the main non-diabetes research.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Soliqua 100/33 (insulin glargine and lixisenatide) is started at 15 units (15 units insulin glargine and 5 mcg lixisenatide) subcutaneously once daily within the hour before the first meal, in patients naive to basal insulin or GLP-1 receptor agonists or on less than 30 units of basal insulin.",
+        "population": "Adults with type 2 diabetes mellitus",
+        "citation_id": "fda-soliqua-label"
+      },
+      {
+        "text": "Label: Soliqua 100/33 is started at 30 units (30 units insulin glargine and 10 mcg lixisenatide) once daily in patients already on 30 to 60 units of basal insulin; the maximum is 60 units daily (60 units insulin glargine and 20 mcg lixisenatide).",
+        "population": "Adults with type 2 diabetes mellitus",
+        "citation_id": "fda-soliqua-label"
+      }
+    ]
   },
   "administration_guidance": [
     {

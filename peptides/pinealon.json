@@ -13,7 +13,16 @@
   "used_for": "A synthetic tripeptide (Glu-Asp-Arg) developed by a Russian research group as one of the Khavinson short-peptide bioregulators, promoted online for memory, sleep, neuroprotection and anti-aging. The research is mainly cell culture and rodent work from one research network, plus a small Russian-language human report with limited methods. It is not a regulated drug in the US and there is no good independent human evidence of benefit.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "A peptide reference site that lists suppliers says commonly reported amounts are 200 to 500 mcg subcutaneously once daily, 5 days per week for 30-day courses, or 10 to 20 mg as an oral capsule, and notes these are not established for humans.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

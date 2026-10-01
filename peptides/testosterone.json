@@ -19,7 +19,53 @@
   "used_for": "Testosterone is a steroid sex hormone, not a peptide. It is included because it is often offered by the same clinics that sell peptide therapies and appears in sermorelin, BPC-157 and testosterone blends. In the US it is FDA-approved as several prescription products (injections, gels and others) for testosterone replacement in men with hypogonadism due to specified medical conditions, and is a Schedule III controlled substance. The labels state that safety and efficacy in age-related hypogonadism have not been established, and the large TRAVERSE trial found cardiovascular event rates comparable to placebo in hypogonadal men at elevated cardiovascular risk, with higher rates of atrial fibrillation, acute kidney injury and pulmonary embolism.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Depo-Testosterone (testosterone cypionate) injection states that for replacement in the hypogonadal male, 50 to 400 mg should be administered intramuscularly every two to four weeks.",
+        "population": "Adult males with hypogonadism",
+        "citation_id": "fda-depo-testosterone-label"
+      },
+      {
+        "text": "Label: Xyosted (testosterone enanthate) subcutaneous autoinjector states a starting dose of 75 mg subcutaneously in the abdominal region once weekly, adjusted by 25 mg up or down based on trough total testosterone measured after 6 weeks.",
+        "population": "Adult males with hypogonadism",
+        "citation_id": "fda-xyosted-label"
+      },
+      {
+        "text": "Label: Aveed (testosterone undecanoate) injection states 750 mg (3 mL) intramuscularly, repeated after 4 weeks, then every 10 weeks, with observation in a healthcare setting for 30 minutes after each injection.",
+        "population": "Adult males with hypogonadism",
+        "citation_id": "fda-aveed-label"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A Substack author writing about TRT says men commonly use 100 to 250 mg of testosterone cypionate or enanthate per week, often split into two doses of 50 to 100 mg.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "The same Substack author says women commonly use 5 to 15 mg per week, typically about 10 mg of testosterone cypionate weekly or 5 mg every other day.",
+        "population": "As described by the source for women, not a study population",
+        "source_type": "website",
+        "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A hormone clinic blog says TRT patients typically receive 75 to 100 mg intramuscularly per week or 150 to 200 mg every two weeks.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "The same clinic blog says bodybuilding protocols commonly involve 300 to 600 mg of testosterone enanthate or cypionate per week, with some users exceeding this.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {
@@ -174,7 +220,7 @@
     },
     {
       "id": "endocrine-society-guideline-2018",
-      "evidence_type": "regulatory_document",
+      "evidence_type": "review",
       "source_kind": "pubmed",
       "identifier": "29562364",
       "year": 2018,

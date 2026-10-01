@@ -13,7 +13,39 @@
   "used_for": "A small-molecule inhibitor of nicotinamide N-methyltransferase (NNMT), an enzyme linked to fat cell metabolism. It is not a peptide, though it is sold alongside research peptides, mainly as oral capsules or injectables labeled for research. Evidence is limited to cell and diet-induced obese mouse studies, where body weight and fat mass fell. No human trials were found, and it has no FDA approval.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2024 study, 5A1MQ was given to diet-induced obese mice as a once-daily subcutaneous injection at 10 mg/kg/day or 32 mg/kg/day for about 30 days.",
+        "population": "Diet-induced obese mice",
+        "citation_id": "5a1mq-dio-2024"
+      },
+      {
+        "text": "Animal study only, not human data: in a 2018 study, the NNMT inhibitor 5-amino-1MQ was given subcutaneously at 20 mg/kg three times daily (about 34 mg/kg/day) for 11 days.",
+        "population": "Diet-induced obese mice",
+        "citation_id": "nnmt-inhibitors-2018"
+      },
+      {
+        "text": "Animal study only, not human data: in a 2022 study, 5-amino-1-methylquinolinium was given by subcutaneous injection at 32 mg/kg combined with a low-fat diet.",
+        "population": "Diet-induced obese mice",
+        "citation_id": "nnmt-microbiome-2022"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide dosing guide with supplier discount codes and affiliate links says the research community commonly uses 50 to 150 mg per day orally (100 mg described as the most common target) and 2.5 to 5 mg once daily subcutaneously, and notes no human trial has established a dose.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide information site with a shop button to a recommended vendor lists oral 5-amino-1MQ as 50 mg capsules taken one to three times daily (50 to 150 mg per day).",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

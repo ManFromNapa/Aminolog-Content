@@ -13,7 +13,16 @@
   "used_for": "A synthetic dipeptide (Lys-Glu) developed by the Khavinson group as the smallest active fragment of thymalin, promoted online as an immune and anti-aging bioregulator. Evidence is cell and animal work from the originating network (mice with longer lifespan and fewer spontaneous tumors) and gene-expression studies. No human trial of vilon alone was found, and it is not an approved drug.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "A peptide education site (Peptide Initiative) says an introductory range of 200 to 500 mcg subcutaneously once daily for 5 to 10 days, and 500 mcg once daily for 10 to 12 days as a fuller course, and describes the compound as research use only.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

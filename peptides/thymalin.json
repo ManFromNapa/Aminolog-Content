@@ -12,7 +12,16 @@
   "used_for": "A polypeptide extract from calf thymus developed by the Khavinson group in Russia and registered as a drug there, promoted online as an immune and anti-aging bioregulator. Evidence consists of Russian-language clinical reports, including a long follow-up of 266 older people with a control group from the originating institute, plus cell and animal studies. It is not approved by the FDA, and independent Western randomized evidence was not found. Its dipeptide components include Lys-Glu (KE), which is sold separately as Vilon.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "A peptide wiki with affiliate discount codes says thymalin is commonly used at 10 mg intramuscularly or subcutaneously daily for 5 to 10 days, or a more conservative 5 mg daily for 10 days.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

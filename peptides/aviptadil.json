@@ -16,7 +16,19 @@
   "used_for": "Aviptadil is the synthetic form of vasoactive intestinal peptide (VIP), a 28-amino-acid peptide. In the UK it is used with phentolamine as an intracavernosal injection (Invicorp) for erectile dysfunction after oral treatments fail, and Scottish and Welsh health technology reviews address it, but it is not approved in the US. In the US the FDA declined an emergency use authorization for intravenous aviptadil (Zyesami) in COVID-19 respiratory failure in 2021, and the later randomized TESICO trial found no benefit. Compounded intranasal VIP is also used off label in mold-illness (CIRS) circles on weak observational evidence.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In the 2023 TESICO trial, intravenous aviptadil was given as a daily 12-hour infusion for 3 days, targeting 600 pmol/kg on day 1, 1200 pmol/kg on day 2, and 1800 pmol/kg on day 3.",
+        "population": "Hospitalized adults with COVID-19 acute hypoxaemic respiratory failure (461 randomized)",
+        "citation_id": "r-tesico-2023"
+      },
+      {
+        "text": "The ClinicalTrials.gov record of the earlier US trial describes intravenous aviptadil in escalating doses of 50, 100, and 150 pmol/kg/hr versus saline placebo, with the published report describing 3 days of treatment.",
+        "population": "Patients with critical COVID-19 and respiratory failure",
+        "citation_id": "r-nct-iv"
+      }
+    ],
+    "internet_entries": []
   },
   "administration_guidance": [
     {

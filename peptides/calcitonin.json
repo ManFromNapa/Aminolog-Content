@@ -14,7 +14,28 @@
   "used_for": "Salmon calcitonin is a 32 amino acid peptide hormone that lowers blood calcium and bone resorption. FDA-labeled forms are an injection (Miacalcin: Paget's disease of bone, hypercalcemia, and postmenopausal osteoporosis when alternatives are not suitable) and a nasal spray (postmenopausal osteoporosis more than 5 years after menopause when alternatives are not suitable). The labels state fracture reduction efficacy has not been demonstrated and note a meta-analysis suggesting a higher malignancy rate, so continued need is to be re-evaluated periodically.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Miacalcin injection for symptomatic Paget's disease of bone is 100 USP Units (0.5 mL) per day subcutaneously or intramuscularly.",
+        "population": "Adults with symptomatic Paget's disease of bone",
+        "citation_id": "fda-miacalcin-inj-label"
+      },
+      {
+        "text": "Label: Miacalcin injection for early treatment of hypercalcemia starts at 4 USP Units/kg every 12 hours subcutaneously or intramuscularly, with the label describing increases to 8 USP Units/kg every 12 hours and then every 6 hours if response is unsatisfactory.",
+        "population": "Adults with hypercalcemia",
+        "citation_id": "fda-miacalcin-inj-label"
+      },
+      {
+        "text": "Label: Miacalcin injection for postmenopausal osteoporosis is 100 USP Units (0.5 mL) per day subcutaneously or intramuscularly.",
+        "population": "Women more than 5 years postmenopause with osteoporosis",
+        "citation_id": "fda-miacalcin-inj-label"
+      },
+      {
+        "text": "Label: calcitonin salmon nasal spray is 1 spray (200 USP Calcitonin Salmon Units) per day intranasally, alternating nostrils daily.",
+        "population": "Women more than 5 years postmenopause with osteoporosis",
+        "citation_id": "fda-calcitonin-nasal-label"
+      }
+    ]
   },
   "administration_guidance": [
     {

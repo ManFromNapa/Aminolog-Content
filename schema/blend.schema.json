@@ -28,7 +28,7 @@
       "required":["id","evidence_type","source_kind","identifier","year","summary","finding"],
       "properties":{
         "id":{"type":"string"},
-        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document","case_report","systematic_review","regulator_notice"]},
+        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document","case_report","systematic_review","review","regulator_notice"]},
         "source_kind":{"enum":["pubmed","clinicaltrials","fda","regulator"]},
         "identifier":{"type":"string"},
         "year":{"type":"integer"},

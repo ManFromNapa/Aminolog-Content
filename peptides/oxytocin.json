@@ -15,7 +15,32 @@
   "used_for": "Oxytocin is a nine amino acid peptide hormone. The FDA-approved product (Pitocin, injection) is labeled for hospital use in labor induction and stimulation, adjunct management of incomplete abortion, and control of postpartum bleeding. Compounded nasal sprays, sublingual troches and creams are marketed online for mood, bonding, stress and sexual function, but these uses are not FDA-approved, and randomized trials of the nasal route in autism and alcohol use disorder have not shown clear benefit.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Pitocin (oxytocin injection) for labor induction or stimulation is given only by intravenous infusion, with an initial dose of 0.5 to 1 milliunit per minute, increased in increments of 1 to 2 milliunits per minute at 30 to 60 minute intervals until the desired contraction pattern is reached.",
+        "population": "Pregnant adults for medically indicated induction or stimulation of labor",
+        "citation_id": "fda-pitocin-label"
+      },
+      {
+        "text": "Label: Pitocin for control of postpartum uterine bleeding is described as 10 units given intramuscularly after delivery of the placenta, or 10 to 40 units added to an intravenous infusion running (maximum 40 units to 1000 mL).",
+        "population": "Adults after delivery with postpartum uterine bleeding",
+        "citation_id": "fda-pitocin-label"
+      },
+      {
+        "text": "Label: Pitocin for incomplete, inevitable, or elective abortion is described as an intravenous infusion of 10 units in 500 mL of physiologic saline or 5% dextrose-in-water after curettage.",
+        "population": "Adults with incomplete, inevitable, or elective abortion",
+        "citation_id": "fda-pitocin-label"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide education website (SeekPeptides) says intranasal oxytocin is commonly cited at 24 IU (about 40 mcg) as three sprays per nostril, 10 to 20 IU for anxiety or mood uses, and 24 to 32 IU for sexual enhancement. The site promotes its own membership service.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

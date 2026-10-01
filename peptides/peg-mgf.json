@@ -13,7 +13,23 @@
   "used_for": "PEG-MGF is the MGF E-domain peptide with polyethylene glycol attached, intended to make it last longer in the body than native MGF. It is marketed online for muscle repair and growth. No human trial of PEG-MGF was found, and the underlying MGF muscle claims are disputed in the laboratory literature. The FDA lists PEG-MGF among bulk drug substances that may present significant safety risks for compounding, saying it has found no human exposure data.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "A peptide information database (Peptide Database) says PEG-MGF is commonly described at 200 to 400 micrograms per injection, 2 to 3 times weekly after training, with a more conservative range of 100 to 200 micrograms twice weekly. The page states it is for educational purposes only.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptide-db.com/peptides/peg-mgf",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "In a bodybuilding forum thread (IronMagazine Forums), posters describe using about 120 to 200 micrograms of PEG-MGF after workouts, with one describing 200 micrograms 4 times per week and another suggesting 200 micrograms on off days. The posts are anecdotal and disagree on frequency.",
+        "population": "As described by the source, not a study population",
+        "source_type": "forum",
+        "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

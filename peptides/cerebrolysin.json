@@ -13,7 +13,27 @@
   "used_for": "A mixture of low-molecular-weight peptides and amino acids from porcine brain, made by Ever Pharma and used by injection in Russia, Eastern Europe, China and other Asian countries for stroke, dementia and brain injury. It is not a single peptide and is not approved in the US. The best data are randomized trials and meta-analyses: a Cochrane review found little to no difference in death or serious adverse events in acute stroke, and evidence for dementia is described as low quality. It is also sold online as a nootropic.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a multicenter randomized trial in 192 people with Alzheimer disease, 30 mL of cerebrolysin was given intravenously five days per week for four weeks.",
+        "population": "Adults with Alzheimer disease",
+        "citation_id": "pmid-12111446"
+      },
+      {
+        "text": "In a 2012 randomized trial in 1070 patients with acute ischemic stroke, 30 mL of cerebrolysin was given daily as an intravenous infusion for 10 days, alongside aspirin.",
+        "population": "Adults with acute ischemic stroke",
+        "citation_id": "pmid-22282884"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide education site (Peptide Initiative) says 5 to 10 mL is used intramuscularly per injection for 10 to 20 days, and 10 to 50 mL intravenously once daily, and cites trial examples of 20 to 50 mL daily for stroke and 10 to 30 mL for Alzheimer disease. The site says cerebrolysin is not FDA approved.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {
@@ -54,7 +74,7 @@
   "research": [
     {
       "id": "pmid-37818733",
-      "evidence_type": "human_trial",
+      "evidence_type": "systematic_review",
       "source_kind": "pubmed",
       "identifier": "37818733",
       "year": 2023,
@@ -63,7 +83,7 @@
     },
     {
       "id": "pmid-31710397",
-      "evidence_type": "human_trial",
+      "evidence_type": "systematic_review",
       "source_kind": "pubmed",
       "identifier": "31710397",
       "year": 2019,
@@ -90,7 +110,7 @@
     },
     {
       "id": "pmid-33620612",
-      "evidence_type": "human_trial",
+      "evidence_type": "systematic_review",
       "source_kind": "pubmed",
       "identifier": "33620612",
       "year": 2021,

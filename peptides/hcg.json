@@ -17,7 +17,41 @@
   "used_for": "hCG is a glycoprotein hormone (alpha and beta subunits) made by the placenta that acts like LH. FDA-labeled products (Novarel, Pregnyl) are approved for prepubertal cryptorchidism, selected cases of hypogonadotropic hypogonadism in men, and ovulation induction in women, and the label states hCG has not been demonstrated effective for obesity. It is also used off label alongside testosterone therapy to maintain testicular function and fertility. The FDA states there is no substantial evidence it increases weight loss, and over-the-counter hCG diet products are treated as illegal. hCG is a large protein hormone rather than a small peptide, and appears on sports anti-doping lists.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Novarel (chorionic gonadotropin) for prepubertal cryptorchidism not due to anatomical obstruction lists regimens advocated by various authorities, including 4,000 USP Units intramuscularly three times weekly for three weeks, or 500 to 1,000 USP Units per injection in other regimens.",
+        "population": "Prepubertal boys with cryptorchidism not due to anatomical obstruction",
+        "citation_id": "fda-novarel-label"
+      },
+      {
+        "text": "Label: Novarel for selected cases of hypogonadotropic hypogonadism in males lists 500 to 1,000 USP Units intramuscularly three times a week for three weeks, then the same dose twice a week for three weeks, or 4,000 USP Units three times weekly for six to nine months.",
+        "population": "Adult males with selected cases of hypogonadotropic hypogonadism",
+        "citation_id": "fda-novarel-label"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "An AI health information platform (Doctronic) says hCG alongside testosterone therapy is commonly given as 250 to 500 IU subcutaneously two to three times per week, and cites 1,500 to 3,000 IU three times weekly for fertility restoration.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A private urology clinic blog says hCG for maintenance during testosterone therapy is commonly 500 to 1,000 IU subcutaneously 2 to 3 times per week, and 1,500 to 3,000 IU every other day for fertility recovery.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A telehealth referral site with affiliate links says hCG maintenance on testosterone therapy is commonly 500 IU subcutaneously 2 to 3 times per week, and 1,000 to 1,500 IU every other day for fertility recovery.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

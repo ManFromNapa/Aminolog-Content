@@ -17,7 +17,27 @@
   "used_for": "Thymosin beta-4 is a naturally occurring peptide of about 43 amino acids that binds actin, and it is promoted online for injury recovery and tissue repair. It is a separate entry from TB-500, which is a fragment of it. In humans it has been studied mainly as an ophthalmic solution (RGN-259) for dry eye and neurotrophic keratopathy and as an intravenous recombinant form in healthy volunteers and after heart attack, while most muscle, tendon and wound claims rest on animal and laboratory work. No thymosin beta-4 product is FDA-approved; a Phase 3 ophthalmic trial is registered in the US.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a phase I trial of recombinant human thymosin beta-4 (NL005), single intravenous doses from 0.05 to 25 micrograms per kg were given across seven ascending cohorts, and 0.5, 2.0 and 5.0 micrograms per kg were given once daily for 10 days in the multiple-dose cohorts.",
+        "population": "Healthy adult volunteers in China (54 in the single-dose part, 30 in the multiple-dose part)",
+        "citation_id": "r-ph1-iv"
+      },
+      {
+        "text": "In a 2015 phase 2 trial of thymosin beta-4 eye drops (RGN-259), a 0.1% solution was instilled in the eyes 6 times daily for 28 days. This is ophthalmic use, not injection.",
+        "population": "Nine adults with severe dry eye",
+        "citation_id": "r-ph2-severe-dryeye"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A medical education site for aesthetic and regenerative practitioners (Hubmed) says TB-500 is commonly described with an initial phase of 2.0 to 2.5 mg every other day by subcutaneous or intramuscular injection, a total of 4 to 8 mg per week, and 2 to 6 mg per month afterward. The site presents this as information for licensed professionals, not as medical advice.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

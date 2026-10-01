@@ -13,7 +13,13 @@
   "used_for": "Abaloparatide is a 34 amino acid synthetic analog of parathyroid hormone-related protein, a bone-building (anabolic) agent. The FDA label (Tymlos, daily subcutaneous pen) covers treatment of postmenopausal women with osteoporosis at high fracture risk and treatment to increase bone density in men with osteoporosis at high fracture risk. Randomized trials report fracture and bone density outcomes; it is a prescription osteoporosis drug rather than a typical wellness peptide.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Tymlos (abaloparatide) is 80 mcg subcutaneously once daily into the periumbilical region of the abdomen, with supplemental calcium and vitamin D if dietary intake is inadequate; the label notes use beyond 2 years has not been evaluated.",
+        "population": "Adults with osteoporosis at high risk for fracture (postmenopausal women, and men with primary or hypogonadal osteoporosis)",
+        "citation_id": "fda-tymlos-label"
+      }
+    ]
   },
   "administration_guidance": [
     {

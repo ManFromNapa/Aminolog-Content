@@ -16,7 +16,29 @@
   "used_for": "Gonadorelin is a ten amino acid peptide identical to the hypothalamic hormone GnRH, which prompts the pituitary to release LH and FSH. Wikipedia states it is not available for clinical use in humans in the United States, and the gonadorelin labels currently on DailyMed are for veterinary products (for example Factrel, labeled for cattle only). Compounded gonadorelin injections are marketed by telehealth clinics as an alternative to hCG for men on testosterone therapy, while human evidence found here is limited to small studies of pulsatile pump treatment in congenital hypogonadotropic hypogonadism; controlled evidence for the compounded testosterone-adjunct use was not found.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a 2019 nonrandomized study in 28 azoospermic men with congenital hypogonadotropic hypogonadism, 10 men received gonadorelin initially at 10 mcg every 90 minutes subcutaneously by a wearable pulsatile infusion pump, compared with 18 men on cyclical hCG/hMG injections.",
+        "population": "Men with congenital hypogonadotropic hypogonadism and azoospermia",
+        "citation_id": "pump-chh-2019"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide information website (Peptides Institute) lists gonadorelin as 50 to 100 mcg subcutaneously 2 to 3 times weekly as an adjunct to testosterone therapy, and 100 to 250 mcg 2 to 3 times weekly for hypogonadotropic hypogonadism. The page shows no sales links.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://www.peptidesinstitute.org/peptides/gonadorelin",
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide dosing blog with supplier and affiliate links says gonadorelin maintenance is commonly 100 to 150 mcg twice weekly and fertility restoration 200 to 250 mcg twice weekly by injection.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

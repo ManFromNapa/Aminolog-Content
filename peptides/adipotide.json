@@ -13,7 +13,34 @@
   "used_for": "Adipotide (FTPP) is a peptidomimetic, a peptide-like molecule containing D-amino acids, that homes to prohibitin on blood vessels supplying white fat and triggers cell death in them. It caused fat loss and improved insulin resistance in obese monkeys, with reversible kidney tubule changes at the doses tested, and is sold online as a 'research chemical' for fat loss. No published human trial results were found and no registered ClinicalTrials.gov trial was found; it is not approved by the FDA and not a legal compounded drug.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "Animal study only, not human data: in a 2011 study in obese rhesus macaques, adipotide 0.43 mg/kg was given by daily subcutaneous injection for 28 consecutive days, followed by a 4-week recovery period.",
+        "population": "Obese Old World monkeys (animal study)",
+        "citation_id": "r-monkey-2011"
+      },
+      {
+        "text": "Animal study only, not human data: in the same 2011 report, an initial dose-finding study in monkeys increased the dose through 0.10, 0.25, 0.43, and 0.75 mg/kg given subcutaneously over 63 days, and a toxicology study used 0.25, 0.43, and 0.75 mg/kg daily for 28 days.",
+        "population": "Monkeys (animal study)",
+        "citation_id": "r-monkey-2011"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide wiki with supplier affiliate links says animal research used 1 mg/kg per day, and speculates a theoretical human-equivalent figure of about 0.01 to 0.03 mg/kg per day, while stating the compound has never been tested in humans.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      },
+      {
+        "text": "A peptide information site with a supplier promo code lists 'research dosing' of 5, 10, or 20 mcg/kg once daily by subcutaneous injection for 21 to 28 days.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

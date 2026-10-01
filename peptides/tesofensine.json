@@ -12,7 +12,32 @@
   "used_for": "A small-molecule serotonin, noradrenaline and dopamine reuptake inhibitor, not a peptide. It was first studied for Alzheimer's and Parkinson's disease, where weight loss emerged as an effect, and was then studied for obesity, including a combination with metoprolol (Tesomet). A phase 2 trial found weight loss beyond diet alone, with dry mouth, insomnia and heart rate increases reported. Wikipedia states it has no approval for sale anywhere.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a 2008 phase 2 trial, tesofensine 0.25 mg, 0.5 mg or 1.0 mg was given once daily for 24 weeks with an energy-restricted diet.",
+        "population": "203 adults with obesity (BMI 30 to under 40)",
+        "citation_id": "tesofensine-lancet-2008"
+      },
+      {
+        "text": "In a 2022 trial, Tesomet (tesofensine 0.5 mg with metoprolol 50 mg) was given for 24 weeks with diet and lifestyle counselling.",
+        "population": "21 adults with hypothalamic obesity",
+        "citation_id": "tesomet-ho-2022"
+      },
+      {
+        "text": "In a 2010 randomized study, tesofensine 2.0 mg daily was given for 7 days, then 1.0 mg daily for 7 days.",
+        "population": "32 overweight or obese men",
+        "citation_id": "tesofensine-appetite-2010"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A peptide site with affiliate links and vendor discount codes says community protocols cluster at 0.5 mg per day, with 0.25 mg per day for the first one to two weeks to check tolerance.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

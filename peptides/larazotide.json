@@ -14,7 +14,29 @@
   "used_for": "Larazotide acetate is an eight-amino-acid peptide taken by mouth that was developed as a tight junction regulator for celiac disease and is discussed online as a 'leaky gut' peptide. Phase 2 trials gave mixed results, and the pivotal phase 3 trial (NCT03569007) was terminated by its sponsor in 2022 after an interim analysis, so no regulator has approved it. Claims about leaky gut outside celiac disease rest on mechanism and small studies rather than on proven human benefit.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a 2015 phase 2b randomized, placebo-controlled trial, larazotide acetate 0.5, 1, or 2 mg was given three times daily for 12 weeks (the 0.5 mg dose met the primary endpoint; the 1 and 2 mg doses did not differ from placebo).",
+        "population": "342 adults with celiac disease on a gluten-free diet with ongoing symptoms",
+        "citation_id": "r-ph2b-2015"
+      },
+      {
+        "text": "In a 2013 exploratory randomized trial, larazotide acetate 1, 4, or 8 mg was given three times daily for 6 weeks during a daily gluten challenge of 2.7 g.",
+        "population": "184 people with celiac disease",
+        "citation_id": "r-gluten-2013"
+      },
+      {
+        "text": "In a 2012 dose-ranging placebo-controlled study, larazotide acetate 0.25, 1, 4, or 8 mg was given three times daily for 14 days, with or without a 2.4 g daily gluten challenge.",
+        "population": "86 people with celiac disease",
+        "citation_id": "r-gluten-2012"
+      },
+      {
+        "text": "A ClinicalTrials.gov record of the phase 3 trial lists larazotide 0.25 mg and 0.50 mg capsules three times daily versus placebo (the trial was terminated).",
+        "population": "Adults with persistent celiac disease symptoms (307 enrolled per the record)",
+        "citation_id": "r-nct-ph3"
+      }
+    ],
+    "internet_entries": []
   },
   "administration_guidance": [
     {
@@ -92,7 +114,7 @@
     },
     {
       "id": "r-meta-2022",
-      "evidence_type": "human_trial",
+      "evidence_type": "systematic_review",
       "source_kind": "pubmed",
       "identifier": "34339872",
       "year": 2022,

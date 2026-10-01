@@ -20,7 +20,16 @@
         "entries":{"type":"array","items":{
           "type":"object","additionalProperties":false,
           "required":["text","population","citation_id"],
-          "properties":{"text":{"type":"string"},"population":{"type":"string"},"citation_id":{"type":"string"}}}}}
+          "properties":{"text":{"type":"string"},"population":{"type":"string"},"citation_id":{"type":"string"}}}},
+        "internet_entries":{"type":"array","items":{
+          "type":"object","additionalProperties":false,
+          "required":["text","population","source_type","url","retrieved"],
+          "properties":{
+            "text":{"type":"string","minLength":1},
+            "population":{"type":"string"},
+            "source_type":{"enum":["reddit","youtube","podcast","forum","influencer","website","vendor"]},
+            "url":{"type":["string","null"]},
+            "retrieved":{"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}}}}}
     },
     "administration_guidance": {"type":"array","items":{"oneOf":[
       {"type":"object","additionalProperties":false,"required":["text","label","citation_id"],
@@ -51,7 +60,7 @@
       "required":["id","evidence_type","source_kind","identifier","year","summary","finding"],
       "properties":{
         "id":{"type":"string"},
-        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document","case_report","systematic_review","regulator_notice"]},
+        "evidence_type":{"enum":["human_trial","animal_study","in_vitro","fda_label","regulatory_document","case_report","systematic_review","review","regulator_notice"]},
         "source_kind":{"enum":["pubmed","clinicaltrials","fda","regulator"]},
         "identifier":{"type":"string"},
         "year":{"type":"integer"},

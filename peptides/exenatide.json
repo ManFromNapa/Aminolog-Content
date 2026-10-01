@@ -14,7 +14,18 @@
   "used_for": "Exenatide is a 39 amino acid GLP-1 receptor agonist, a synthetic version of exendin-4 from Gila monster saliva. Byetta is FDA-labeled as an adjunct to diet and exercise for glycemic control in adults with type 2 diabetes, and Drugs@FDA lists the once-weekly Bydureon BCise as discontinued while the Byetta label and a generic exenatide injection remain on DailyMed. It is a diabetes drug, weight loss in trials was modest, and it has also been studied in Parkinson's disease.",
   "dosing": {
     "basis": "labeled",
-    "entries": []
+    "entries": [
+      {
+        "text": "Label: Byetta (exenatide) is started at 5 mcg subcutaneously twice daily within 60 minutes before the morning and evening meals.",
+        "population": "Adults with type 2 diabetes mellitus",
+        "citation_id": "fda-byetta-label"
+      },
+      {
+        "text": "Label: Byetta may be increased to 10 mcg twice daily after 1 month of therapy, based on clinical response.",
+        "population": "Adults with type 2 diabetes mellitus",
+        "citation_id": "fda-byetta-label"
+      }
+    ]
   },
   "administration_guidance": [
     {

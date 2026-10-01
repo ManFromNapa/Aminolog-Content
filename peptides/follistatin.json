@@ -16,7 +16,22 @@
   "used_for": "Follistatin is a natural protein that binds and blocks myostatin and activin, which limit muscle growth. Injectable products labeled follistatin-344 are sold online to bodybuilders for muscle gain, and a testing study found many such products did not contain follistatin. Human research is limited to small AAV gene therapy trials in muscular dystrophy and inclusion body myositis, and case reports of eye problems in bodybuilders who injected it. It is not FDA-approved, and the World Anti-Doping Agency prohibits it.",
   "dosing": {
     "basis": "studied",
-    "entries": []
+    "entries": [
+      {
+        "text": "In a 2015 phase 1/2a trial, an AAV1 gene therapy encoding follistatin FS344 was injected into both quadriceps muscles at 3 x 10^11 vector genomes per kg per leg in the first cohort and 6 x 10^11 vector genomes per kg per leg in the second. This is gene therapy, not the follistatin peptide sold online.",
+        "population": "Six adults with Becker muscular dystrophy",
+        "citation_id": "r-bmd-gt-2015"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A community peptide knowledge base (PeptideWiki) says follistatin 344 is commonly described at 100 to 200 micrograms per day by subcutaneous injection, with some people trying 200 to 300 micrograms. The page says there are no human dose-response studies, and it contains affiliate discount links to suppliers, so it is treated as a seller-affiliated source.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-01"
+      }
+    ]
   },
   "administration_guidance": [
     {

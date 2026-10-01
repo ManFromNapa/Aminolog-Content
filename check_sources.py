@@ -77,6 +77,9 @@ def main():
         for c in d["internet_claims"]:
             if c["url"]:
                 claims.append((name, c["url"]))
+        for e in d.get("dosing", {}).get("internet_entries", []):
+            if e.get("url"):
+                claims.append((name, e["url"]))
         for field in ("administration_guidance", "side_effects"):
             for item in d.get(field, []):
                 if item.get("label") == "internet" and item.get("url"):
