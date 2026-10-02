@@ -122,7 +122,319 @@
       "year": 2022,
       "summary": "ATOM randomized trial (NCT03512262) of abaloparatide versus placebo for 12 months in 228 men with osteoporosis.",
       "finding": "Lumbar spine BMD rose 8.48% versus 1.17% with placebo, with gains at hip and femoral neck; safety consistent with earlier studies."
+    },
+    {
+      "id": "activextend-2018",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "29800372",
+      "year": 2018,
+      "summary": "ACTIVExtend open-label extension of the ACTIVE trial: 1,139 postmenopausal women (558 from the abaloparatide group, 581 from placebo) took alendronate for up to 24 months after 18 months of abaloparatide or placebo. Bone et al., Journal of Clinical Endocrinology and Metabolism.",
+      "finding": "Over the full 43 months, 0.9% of evaluable women in the abaloparatide-then-alendronate group had a new vertebral fracture versus 5.6% in the placebo-then-alendronate group, and bone density gains made during abaloparatide increased further on alendronate."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label dose is 80 micrograms (mcg) injected under the skin once daily, with calcium and vitamin D added if food intake is too low. The same 80 mcg dose was used in the women's and men's trials. The American College of Rheumatology says total calcium intake from food and supplements should be at least 1,200 milligrams (mg) a day.",
+      "items": [
+        {
+          "text": "The Tymlos label states the recommended dose is 80 mcg given subcutaneously once daily, and that patients should receive supplemental calcium and vitamin D if dietary intake is inadequate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "In the ACTIVE trial, 824 postmenopausal women received 80 mcg of abaloparatide daily by subcutaneous injection for 18 months, compared with placebo and open-label teriparatide 20 mcg.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "active-2016"
+        },
+        {
+          "text": "In the ATOM trial, men with osteoporosis received abaloparatide for 12 months, and the label states the men's trial used 80 mcg subcutaneously once daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "atom-2022"
+        },
+        {
+          "text": "The American College of Rheumatology patient page says total calcium intake from food and supplements should be at least 1,200 mg a day and that vitamin D should be taken as the provider recommends.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://rheumatology.org/patients/abaloparatide-tymlos",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says to inject at about the same time every day, with the first few doses given where you can sit or lie down because blood pressure can drop within 4 hours. The label also notes heart rate rises within 15 minutes and settles in about 6 hours. Patient reviews on WebMD say some people inject at bedtime to sleep through side effects, which the label does not address.",
+      "items": [
+        {
+          "text": "The Tymlos label states to administer at approximately the same time every day, and to give the first several doses where the patient can sit or lie down if necessary in case orthostatic hypotension occurs.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label states orthostatic hypotension may occur typically within 4 hours of injection, with possible dizziness, palpitations, fast heartbeat or nausea that may resolve by lying down.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label states abaloparatide is associated with a dose-dependent heart rate increase that develops within 15 minutes after injection and resolves in about 6 hours, with a mean peak increase of 15 beats per minute at 80 mcg in a heart-rhythm study.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The American College of Rheumatology patient page says to inject at the same time every day and that within four hours of injecting some people have low blood pressure or feel dizzy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://rheumatology.org/patients/abaloparatide-tymlos",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD patient reviews of Tymlos say people frequently inject before bed so that any side effects pass while they sleep, and one reviewer describes injecting about 30 minutes before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label's patient guide says Tymlos can be taken with or without food or drink. No studies were found testing meal timing or blood sugar effects, and no online source was found with food rules.",
+      "items": [
+        {
+          "text": "The Tymlos patient Medication Guide, part of the FDA label, states you can take Tymlos with or without food or drink.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label dose is one injection a day, and no more than one injection in a day. If you forget your usual time, the guide says to take it as soon as you can that day. One WebMD reviewer says they inject only every other day because of a raised heart rate, which differs from the label.",
+      "items": [
+        {
+          "text": "The Tymlos label states the dose is 80 mcg once daily, and the patient guide says not to take more than 1 injection in the same day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos patient guide states that if you forget or cannot take Tymlos at your usual time, take it as soon as you can on that day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "WebMD patient reviews of Tymlos include a reviewer who says rapid heart rate was their biggest complaint and that they could only give themselves a shot every other day because it raises their heart rate.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+          "retrieved": "2026-10-02",
+          "conflicts_with_label": true
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The label says safety and benefit have not been studied beyond 2 years, and use for more than 2 years in a lifetime is not recommended. Trials ran 12 months in men and 18 months in women, and a follow-up study switched women to a different bone drug, alendronate, for 24 more months. No study was found of what happens after stopping with no follow-on drug. WebMD reviewers report using it from a few weeks to several years.",
+      "items": [
+        {
+          "text": "The Tymlos label states safety and efficacy have not been evaluated beyond 2 years of treatment and that use for more than 2 years during a patient's lifetime is not recommended.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "In the ACTIVE trial women treated with abaloparatide for 18 months had fewer new vertebral fractures than those on placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "active-2016"
+        },
+        {
+          "text": "In the ATOM trial men received abaloparatide for 12 months, and lumbar spine bone density rose 8.48% versus 1.17% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "atom-2022"
+        },
+        {
+          "text": "In ACTIVExtend, 1,139 women from ACTIVE took alendronate for up to 24 months after 18 months of abaloparatide or placebo; over 43 months, 0.9% of the abaloparatide group had a new vertebral fracture versus 5.6% of the placebo group.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "activextend-2018"
+        },
+        {
+          "text": "The American College of Rheumatology patient page says use of abaloparatide is limited to two years for safety and efficacy reasons.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://rheumatology.org/patients/abaloparatide-tymlos",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD patient reviews of Tymlos report use ranging from a few weeks to 2 to less than 5 years, and one reviewer says she will not resume it because of cost.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Before first use, pens are kept in the refrigerator, and after first use they can sit at room temperature for up to 30 days. Inject into the abdomen around the navel and rotate the spot every day, and never inject into a vein or muscle. The solution should be clear and colorless.",
+      "items": [
+        {
+          "text": "The Tymlos label states that before first use the product is stored under refrigeration at 2 to 8 C (36 to 46 F), after first use it is stored for up to 30 days at 20 to 25 C (68 to 77 F), and it should not be frozen or subjected to heat.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label states to inject into the periumbilical region of the abdomen, rotate the site every day, and not inject intravenously or intramuscularly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label states the solution should be inspected before use and is clear and colorless, and not to be used if solid particles appear or it is cloudy or colored. It also advises against transferring medicine from the pen to a syringe.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The American College of Rheumatology patient page says the medicine is injected under the skin of the stomach with a very small needle, with the injection site changed every day, and that a used pen can stay at room temperature or in the refrigerator.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://rheumatology.org/patients/abaloparatide-tymlos",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Abaloparatide switches on the parathyroid hormone type 1 receptor, a docking site on bone-building cells. Daily doses stimulate new bone formation on bone surfaces. The bone-building effect shown in animals matches what trials report in people.",
+      "items": [
+        {
+          "text": "The Tymlos label states abaloparatide is a PTHrP(1-34) analog that acts as an agonist at the PTH1 receptor, activating cAMP signaling, and that once-daily administration stimulates new bone formation on trabecular and cortical surfaces by stimulating osteoblast activity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "Wikipedia describes abaloparatide as a 34 amino acid synthetic analog of parathyroid hormone-related protein that selectively activates the parathyroid hormone 1 receptor with a more anabolic signaling pattern.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Abaloparatide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In the phase 3 ACTIVE trial, women taking abaloparatide for 18 months had fewer new spine fractures and higher bone density than placebo. In men, spine bone density rose 8.48% versus 1.17% on placebo over 12 months. Online sources repeat the trial findings.",
+      "items": [
+        {
+          "text": "In the ACTIVE trial of 2,463 postmenopausal women, new morphometric vertebral fractures occurred less often with abaloparatide than placebo over 18 months, and hypercalcemia was less common with abaloparatide (3.4%) than teriparatide (6.4%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "active-2016"
+        },
+        {
+          "text": "In the ATOM trial of 228 men with osteoporosis, lumbar spine bone density rose 8.48% with abaloparatide versus 1.17% with placebo over 12 months.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "atom-2022"
+        },
+        {
+          "text": "Wikipedia says abaloparatide showed greater bone density increases at the spine, hip and femoral neck than placebo and teriparatide in the ACTIVE trial.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Abaloparatide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD patient reviews average 3.5 out of 5 across 35 reviews with about 69% reporting a positive effect, and users describe better bone density scores and less fracture pain, along with high cost.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "In the women's trial the most common reactions were hypercalciuria (extra calcium in urine, 11%), dizziness (10%), nausea (8%) and headache (8%). In men, injection site redness (13%), dizziness and joint pain were most common.",
+      "items": [
+        {
+          "text": "The Tymlos label lists, for women versus placebo, hypercalciuria 11% vs 9%, dizziness 10% vs 6%, nausea 8% vs 3%, headache 8% vs 6%, palpitations 5% vs 0.4%, fatigue 3% vs 2%, upper abdominal pain 3% vs 2% and vertigo 2% vs 2%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label lists, for men versus placebo, injection site erythema 13% vs 5%, dizziness 9% vs 1%, arthralgia 7% vs 1%, injection site swelling 7% vs 0% and injection site pain 6% vs 0%, with contusion, nausea, diarrhea, abdominal distension, abdominal pain and bone pain at 2 to 3%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "In the ATOM trial in men, the most common adverse events (5% or more) were injection site reaction, dizziness, nasopharyngitis, arthralgia, bronchitis, hypertension and headache.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "atom-2022"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns of low blood pressure on standing, high blood calcium (3% vs 0.1% on placebo), calcium in urine and allergic reactions. Rats developed bone cancer (osteosarcoma) at high exposures, though human studies have not shown increased risk.",
+      "items": [
+        {
+          "text": "The Tymlos label warns of orthostatic hypotension, hypercalcemia and anaphylaxis, and states osteosarcoma occurred in rats at multiples of human exposure while an increased risk was not observed in observational studies in people; use is avoided in patients at increased osteosarcoma risk.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label reports hypercalcemia (corrected serum calcium of 10.7 mg/dL or more at 4 hours after injection) in 3% of women on Tymlos versus 0.1% on placebo, and states it is not recommended in patients with pre-existing hypercalcemia or primary hyperparathyroidism.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        },
+        {
+          "text": "The Tymlos label reports orthostatic blood pressure decline at 1 hour after the first injection in 4% on Tymlos versus 3% on placebo in women, and 6% versus 3% in men.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-tymlos-label"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "WebMD reviewers describe a raised heart rate for 1 to 2 hours, headaches, chest tightness, palpitations, dizziness and flushing. Some report few or no side effects, and cost and insurance are common complaints.",
+      "items": [
+        {
+          "text": "WebMD reviewers of Tymlos mention a raised heart rate lasting 1 to 2 hours, headaches, chest tightness, palpitations, dizziness and flushing, while some report few or no side effects; cost and insurance are common complaints.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-tymlos-abaloparatide?conditionid=&sortval=1&page=2&next_page=true",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

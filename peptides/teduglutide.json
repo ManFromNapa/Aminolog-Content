@@ -103,7 +103,279 @@
       "year": 2020,
       "summary": "24-week phase III trial in 59 children with short bowel syndrome and intestinal failure: two blinded teduglutide doses versus a non-blinded standard-of-care group (Kocoshis et al., JPEN).",
       "finding": "At least 20% reduction in parenteral support occurred in 54.2% (0.025 mg/kg) and 69.2% (0.05 mg/kg) versus 11.1% with standard care. A few children (2 and 3) reached full enteral autonomy. Pyrexia and vomiting were the most common adverse events. The standard-of-care arm was small (9) and not blinded."
+    },
+    {
+      "id": "pmid-26844839",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26844839",
+      "year": 2016,
+      "summary": "STEPS-2: 2-year open-label extension (no control group) of teduglutide 0.05 mg/kg daily in 88 adults with short bowel syndrome and intestinal failure (Schwartz et al., Clin Transl Gastroenterol; NCT00930644).",
+      "finding": "Of 88 enrolled, 65 completed. Among completers, 28 of 30 (93%) who had also taken teduglutide in the first trial met the response definition (at least 20% less weekly parenteral support), with a mean reduction of 7.6 L per week (66%). Thirteen patients reached full enteral autonomy. The most common adverse events were abdominal pain (34%), catheter sepsis (28%) and decreased weight (25%)."
+    },
+    {
+      "id": "pmid-29761915",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "29761915",
+      "year": 2018,
+      "summary": "STEPS-3: 1-year open-label extension in 14 adults with short bowel syndrome who finished STEPS-2, giving teduglutide 0.05 mg/kg daily for up to 42 months in total (Seidner et al., Nutr Clin Pract; NCT01560403).",
+      "finding": "Parenteral support fell by about 50% from baseline at the last dosing visit. Two patients reached parenteral support independence and two others kept the independence they had reached in STEPS-2. No treatment-related serious adverse events were reported. Only 14 patients took part and there was no control group."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label dose is 0.05 mg/kg once daily by injection under the skin, or 0.025 mg/kg daily with moderate to severe kidney impairment. A children's trial tested 0.025 and 0.05 mg/kg, and an adult trial found 0.10 mg/kg no better than 0.05 mg/kg.",
+      "items": [
+        {
+          "text": "Label: 0.05 mg/kg once daily by subcutaneous injection, rotating sites among the abdomen, thighs and upper arms.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "Label: 0.025 mg/kg once daily for moderate or severe renal impairment and end-stage renal disease (eGFR below 60 mL/min/1.73 m2).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "In the phase III children's trial (59 children), the 0.025 mg/kg and 0.05 mg/kg daily doses both reduced parenteral support by at least 20% more often than standard care (54.2% and 69.2% versus 11.1%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-31495952"
+        },
+        {
+          "text": "In a 24-week randomized trial in 83 adults, the 0.05 mg/kg dose raised the response rate versus placebo (16 of 35 versus 1 of 16), while the higher 0.10 mg/kg dose did not reach significance.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-21317170"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says to inject once a day at the same time each day. It does not name a time of day. No online source found says otherwise.",
+      "items": [
+        {
+          "text": "The Gattex label states the drug is given once each day at the same time.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label gives no rules about meals or fasting. It does warn that the drug may increase absorption of oral medicines, so people on certain pills are monitored.",
+      "items": [
+        {
+          "text": "The label warns that patients on oral drugs needing titration or with a narrow therapeutic index should be monitored because absorption of oral drugs may increase. The label notes altered mental status was seen in patients taking benzodiazepines.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily. If a dose is missed, take it as soon as possible that day, and never take two doses in one day. The label says not to stop without talking to a healthcare provider.",
+      "items": [
+        {
+          "text": "If a dose is missed, the label states it should be taken as soon as possible that day, and two doses should not be taken on the same day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "The label states the next dose is taken the next day at the usual time, and that treatment should not be stopped without consulting a healthcare provider.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 24 weeks, with longer open-label follow-up of 2 to 3.5 years in adults. Stopping can cause fluid and electrolyte problems, and in a children's extension most responders needed to restart. One online reviewer stopped and restarted.",
+      "items": [
+        {
+          "text": "Label: discontinuing teduglutide may cause fluid and electrolyte imbalance, so fluid and electrolyte status is monitored after stopping.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "Label: in the adult extension study, 21 of 22 (96%) of Study 1 responders who completed 2 more years of continuous treatment kept their response. This extension had no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "Label: in the children's extension, 13 of 15 (87%) patients who responded in the 24-week study needed more treatment after stopping because they worsened or stopped improving.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "STEPS-2 and STEPS-3 followed adults on 0.05 mg/kg daily for up to 30 and 42 months in open-label extensions without a control group. Parenteral support kept falling in many patients and some reached full enteral autonomy.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26844839"
+        },
+        {
+          "text": "STEPS-3 followed 14 adults for up to 42 months total on teduglutide with no control group. Parenteral support was about 50% below baseline and two patients reached independence from parenteral support.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29761915"
+        },
+        {
+          "text": "A reviewer on WebMD patient reviews says they stopped taking Gattex and tried it again. Only 4 reviews are listed, and the page gives no detail on why or what happened.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-gattex-teduglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Kits are refrigerated at 2 to 8 C until dispensed, then kept at room temperature up to 25 C with a 90 day use-by date and never frozen. Mixed medicine must be used within 3 hours and any leftover thrown away.",
+      "items": [
+        {
+          "text": "Before dispensing, the one-vial kits are stored refrigerated at 2 to 8 C (36 to 46 F) and not frozen. After the pharmacy dispenses them, the label says to store them at room temperature up to 25 C (77 F), not frozen, with a 90 day use-by date.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "The label states the powder is reconstituted with the supplied preservative-free Sterile Water for Injection by gently rolling the vial, and the vial is not shaken.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "The label states the reconstituted solution is not frozen, the dose is administered within 3 hours of reconstitution, and any unused portion is discarded (single use).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "The Gattex label directs subcutaneous injection alternating between the four abdominal quadrants, or alternating thighs or arms.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Teduglutide copies a natural gut hormone called glucagon-like peptide-2 (GLP-2). It binds GLP-2 receptors in the intestine, which triggers release of growth and blood-flow signals.",
+      "items": [
+        {
+          "text": "The label describes teduglutide as an analog of human GLP-2 that binds GLP-2 receptors on intestinal enteroendocrine cells, subepithelial myofibroblasts and enteric neurons. This triggers local release of insulin-like growth factor 1, nitric oxide and keratinocyte growth factor.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In the label's 24-week adult trial, 63% of people on teduglutide cut their parenteral support (intravenous nutrition or fluids) by at least 20%, versus 30% on placebo. In children, 69% on the 0.05 mg/kg dose did, versus 11% on standard care.",
+      "items": [
+        {
+          "text": "Label, Study 1 (86 adults with short bowel syndrome, 24 weeks): 63% (27 of 43) of teduglutide patients versus 30% (13 of 43) of placebo patients were responders (at least 20% less weekly parenteral support), p=0.002. Mean weekly volume fell by 4.4 L versus 2.3 L.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "Phase III children's trial (59 children): at least 20% less parenteral support in 69.2% on 0.05 mg/kg versus 11.1% with standard care. A few children reached full enteral autonomy, and the standard-care group was small and not blinded.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-31495952"
+        },
+        {
+          "text": "In 83 adults, 16 of 35 on 0.05 mg/kg responded versus 1 of 16 on placebo. Three treated patients were weaned off parenteral support, and villus height and lean body mass increased.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-21317170"
+        },
+        {
+          "text": "A reviewer on WebMD patient reviews says it started working on the first day. WebMD lists 4 reviews with an average rating of 3.7 out of 5, and one reviewer said it was effective for them.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-gattex-teduglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "In the adult label trials: abdominal pain (30%), nausea (23%), upper respiratory infection (21%), abdominal swelling (20%), injection site reactions (13%), vomiting and fluid overload (12% each) and hypersensitivity (10%). In children, fever and vomiting were the most common.",
+      "items": [
+        {
+          "text": "Most common adverse reactions in adults in the label: abdominal pain 30%, nausea 23%, upper respiratory tract infection 21%, abdominal distension 20%, injection site reaction 13%, vomiting 12%, fluid overload 12% and hypersensitivity 10%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "In the 24-week phase III children's trial, pyrexia (fever) and vomiting were the most common adverse events.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-31495952"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns the drug may speed the growth of tumors and polyps, and that blockages, gallbladder, bile and pancreas problems, fluid overload and extra absorption of oral medicines can occur. Colonoscopy and lab checks are required.",
+      "items": [
+        {
+          "text": "The label warns that teduglutide may cause hyperplastic changes including neoplasia (acceleration of neoplastic growth).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        },
+        {
+          "text": "The label also warns of intestinal obstruction, biliary and pancreatic disease, fluid overload, and increased absorption of oral medications with a narrow therapeutic index.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-gattex-label"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "WebMD reviewers describe stomach pain, bloating, nausea, dehydration, weight gain and stoma problems, and one reviewer had suspected bowel obstructions. These are anecdotes from 4 reviews.",
+      "items": [
+        {
+          "text": "WebMD patient reviews of Gattex describe stomach pain, bloating, nausea during the first two to three weeks and dehydration.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-gattex-teduglutide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A WebMD reviewer reports a protruding, bleeding or greatly enlarged stoma (the surgical opening of the gut) while taking Gattex, and another notes weight gain.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-gattex-teduglutide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A WebMD reviewer reports several possible bowel obstructions that they were able to clear themselves, with one trip to the emergency department.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-gattex-teduglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

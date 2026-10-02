@@ -130,7 +130,349 @@
       "year": 2020,
       "summary": "ClinicalTrials.gov record of the completed phase 2/3 trial of intravenous aviptadil for critical COVID-19 with respiratory failure (US sites).",
       "finding": "Status completed. It is the registration of the trial reported in Crit Care Med; no approval followed."
+    },
+    {
+      "id": "smc-invicorp-2017",
+      "evidence_type": "regulatory_document",
+      "source_kind": "regulator",
+      "identifier": "https://scottishmedicines.org.uk/media/3091/aviptadil_phentolamine_mesilate_invicorp_final_nov_2017_for_website.pdf",
+      "year": 2017,
+      "summary": "Scottish Medicines Consortium advice (SMC No. 1284/17, published December 2017) on aviptadil/phentolamine (Invicorp) for erectile dysfunction, summarizing the UK product information and the pivotal open-label crossover study (VP007, 187 men in phase 1).",
+      "finding": "Accepted for restricted use in NHS Scotland after oral PDE5 inhibitors and other non-injectable treatments fail. One 25 microgram/2 mg ampoule by injection into the penis, no more than once daily or 3 times weekly. Grade 3 (intercourse-suitable) erections in 84% of ampoule injections versus 83% with alprostadil."
+    },
+    {
+      "id": "invicorp-uk-leaflet",
+      "evidence_type": "regulatory_document",
+      "source_kind": "regulator",
+      "identifier": "https://imedi.co.uk/invicorp-25-micrograms-2-mg-solution-for-injection",
+      "year": 2015,
+      "summary": "UK patient information leaflet for Invicorp 25 micrograms/2 mg solution for injection (Evolan Pharma AB, revised 07/2015), as reproduced on the iMedi medicines site and read on 2026-10-02.",
+      "finding": "Dose 25 micrograms/2 mg, at most one injection a day and 3 a week. Store in a refrigerator at 2 to 8 degrees C, do not freeze, use within 24 hours of removing the ampoule. Flushing and bruising are common; priapism is rare."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Studied doses only, since aviptadil has no US label. The UK ED injection is one 25 microgram/2 mg ampoule with phentolamine. The IV COVID-19 doses ran 600 to 1800 pmol/kg over 3 days and did not help in the larger trial. Online sources describe about 50 micrograms per nasal spray for mold illness, which has not been tested in trials.",
+      "items": [
+        {
+          "text": "UK product information: one ampoule holds aviptadil 25 micrograms and phentolamine 2 mg, injected into the side of the penis (intracavernosal). The first injection is given under medical supervision. In the pivotal study, doses started at 12.5 micrograms/0.5 mg and went up to 25 micrograms/2 mg until an intercourse-suitable erection was reached.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "smc-invicorp-2017"
+        },
+        {
+          "text": "In the 2023 TESICO trial, intravenous aviptadil was given as a daily 12-hour infusion for 3 days, targeting 600 pmol/kg on day 1, 1200 pmol/kg on day 2, and 1800 pmol/kg on day 3. (Hospitalized adults with COVID-19 acute hypoxaemic respiratory failure, 461 randomized.)",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        },
+        {
+          "text": "The ClinicalTrials.gov record of the earlier US trial describes intravenous aviptadil in escalating doses of 50, 100, and 150 pmol/kg/hr versus saline placebo, with the published report describing 3 days of treatment. (Patients with critical COVID-19 and respiratory failure.)",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nct-iv"
+        },
+        {
+          "text": "Outliyr, an information site that says it does not sell VIP, says intranasal VIP is described at about 50 micrograms per spray, with a conservative start of 50 micrograms once or twice daily. It describes community nasal protocols as observational and not PubMed-indexed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a guide with affiliate links to peptide sellers, says intranasal VIP is 50 micrograms per nostril (100 micrograms total) and subcutaneous VIP is 50 to 100 micrograms once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The UK ED injection is used when an erection is wanted, and the erection should not last more than one hour. Online sources describe nasal VIP as four doses spread across the day. No trial has tested nasal timing.",
+      "items": [
+        {
+          "text": "UK advice says the injection should give an erection satisfactory for intercourse, and the erection should not last longer than one hour. The leaflet says an erection lasting longer than 4 hours needs urgent medical care.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "smc-invicorp-2017"
+        },
+        {
+          "text": "In TESICO, each aviptadil dose was given as a 12-hour IV infusion on 3 consecutive days in hospital.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        },
+        {
+          "text": "Outliyr says the Invicorp combination is used on demand.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a guide with affiliate links to sellers, says the 4-times-daily nasal schedule is morning, midday, afternoon and evening.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The UK leaflet gives no food rule for the injection. No source found tests meals or fasting with aviptadil.",
+      "items": [
+        {
+          "text": "The UK package leaflet lists no food or drink restriction for Invicorp.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "invicorp-uk-leaflet"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "UK advice caps the ED injection at once a day and 3 times a week. The IV COVID-19 course was once daily for 3 days. Online sources describe nasal VIP up to 4 times daily, which is a different product and route.",
+      "items": [
+        {
+          "text": "UK advice: injection frequency should not exceed once daily or 3 times weekly. Each ampoule is one dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "smc-invicorp-2017"
+        },
+        {
+          "text": "In TESICO, aviptadil was given once daily for 3 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        },
+        {
+          "text": "Outliyr says intranasal VIP is described at up to roughly 4 times daily, or once or twice daily as a conservative start.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideBenchmark, a vendor review site that says it does not sell peptides, says one small clinical protocol used a 50 microgram nasal spray 4 times per day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidebenchmark.com/blog/vip-peptide-fda-category-1-pcac-history-cirs/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The IV COVID-19 course lasted 3 days. For ED the UK leaflet advises doctor checks about every 3 months, and nodules can form with repeated injections. Online sources describe nasal VIP for 30 days up to indefinitely, with no trial support.",
+      "items": [
+        {
+          "text": "TESICO and the earlier US trial gave aviptadil for 3 days only.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        },
+        {
+          "text": "UK leaflet: the doctor should monitor men regularly (for example every 3 months), especially early in self-injection. Small nodules on the penis may occur with repeated injections (rare, up to 1 in 1,000).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "invicorp-uk-leaflet"
+        },
+        {
+          "text": "Outliyr says intranasal maintenance continues as long as the desired effect persists, after a short trial to gauge response.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a guide with affiliate links to sellers, says CIRS (chronic inflammatory response syndrome) use is a minimum of 30 days, usually 1 to 3 months, with some people continuing once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The UK injection is refrigerated at 2 to 8 degrees C and used within 24 hours of removal. IV aviptadil was given only in hospital. Compounded nasal VIP is cold-stored and its quality depends on the pharmacy.",
+      "items": [
+        {
+          "text": "UK leaflet: store in a refrigerator (2 to 8 degrees C), do not freeze. The ampoule can reach room temperature before use and should be used within 24 hours of leaving the refrigerator.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "invicorp-uk-leaflet"
+        },
+        {
+          "text": "UK leaflet: avoid veins and the underside of the penis, inject at a right angle into the side, and dispose of the ampoule, syringe and needle in a sharps container.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "invicorp-uk-leaflet"
+        },
+        {
+          "text": "In a UK clinic study, men were taught to self-inject the aviptadil and phentolamine combination into the penis (intracavernosal) in a nurse-led clinic, with follow-up at six weeks.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-ed-2025"
+        },
+        {
+          "text": "In the TESICO trial aviptadil was given as a short intravenous infusion course in hospitalized COVID-19 patients, not as a self-administered product.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        },
+        {
+          "text": "Outliyr says intranasal VIP is a compounded aqueous solution that needs cold storage, and that its sterility, identity and stability depend on the compounding pharmacy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a guide with affiliate links to sellers, says reconstituted VIP is kept at 2 to 8 degrees C and used within about 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Aviptadil is the lab-made form of vasoactive intestinal polypeptide (VIP). In the penis it relaxes smooth muscle, and in the lungs its effects have been shown mainly in lab studies.",
+      "items": [
+        {
+          "text": "UK advice: aviptadil is VIP, a signaling molecule that relaxes cavernosal (penile) smooth muscle and may help trap blood in the penis. Phentolamine blocks alpha receptors, widening blood vessels. Together they produce an erection after sensory stimulation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "smc-invicorp-2017"
+        },
+        {
+          "text": "The authors of the earlier COVID-19 trial cite lab studies where VIP increased surfactant production, reduced inflammatory cytokines and blocked virus replication in lung cells. Human benefit was not shown in the larger TESICO trial.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-crit-2022"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "For ED, the UK combination gave intercourse-suitable erections in about 84% of injections in a trial of men, and 59% of refractory men in a retrospective review. For COVID-19 respiratory failure, the largest trial found no benefit.",
+      "items": [
+        {
+          "text": "TESICO (phase 3, 461 patients): odds ratio 1.11 for a better day-90 outcome (95% CI 0.80 to 1.55), and 38% versus 36% mortality at day 90. The trial was stopped for futility.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        },
+        {
+          "text": "Earlier US trial (196 patients, 2:1 to aviptadil): the main endpoint was not significant, though secondary analyses suggested better survival. TESICO did not confirm benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-crit-2022"
+        },
+        {
+          "text": "In the pivotal open-label crossover trial, 84% of aviptadil/phentolamine ampoule injections gave an intercourse-suitable erection versus 83% for alprostadil. Pain on injection occurred in 3% versus 28% of injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "smc-invicorp-2017"
+        },
+        {
+          "text": "In a retrospective single-center review of 308 men with refractory ED, 59% found the injection effective (76% after painful alprostadil, 36% after alprostadil failure). Uncontrolled and without validated measures.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-ed-2025"
+        },
+        {
+          "text": "Outliyr says nasal VIP as the last step of a biotoxin (Shoemaker) protocol for CIRS (chronic inflammatory response syndrome) rests on observational single-clinic reports, not trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "NRx Pharmaceuticals, the company behind Zyesami, said in a press release that on 4 November 2021 the FDA declined an emergency use authorization for aviptadil in critical COVID-19 for insufficient data, and that the company would continue through Right to Try.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common (ED injection)",
+      "summary": "Facial flushing is the most common effect, with bruising at the injection site. Pain on injection was much less common than with alprostadil.",
+      "items": [
+        {
+          "text": "In a retrospective study of 308 men using the aviptadil and phentolamine injection, facial flushing was the most common adverse event (22.5%) and ischemic priapism occurred in one man (0.3%).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-ed-2025"
+        },
+        {
+          "text": "UK leaflet: flushing of the face and upper body and bruising at the injection site are common (up to 1 in 10). Headache, dizziness and a faster or abnormal heartbeat are uncommon.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "invicorp-uk-leaflet"
+        },
+        {
+          "text": "In the pivotal trial, facial flushing occurred in 16% of aviptadil/phentolamine injections versus 3% with alprostadil, and pain on injection in 3% versus 28%. No priapism was reported.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "smc-invicorp-2017"
+        }
+      ]
+    },
+    {
+      "title": "Warnings (ED injection)",
+      "summary": "A painful erection lasting over 4 hours needs urgent care. Rare cases of chest pain or heart attack are listed.",
+      "items": [
+        {
+          "text": "UK leaflet: a long-lasting painful erection is rare (up to 1 in 1,000) and needs help if it lasts over 4 hours. Angina and heart attack are very rare (up to 1 in 10,000). Not for men with leukaemia, multiple myeloma, sickle cell disease, Peyronie's disease or a penile implant, or on blood thinners.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "invicorp-uk-leaflet"
+        }
+      ]
+    },
+    {
+      "title": "In trials (IV, COVID-19)",
+      "summary": "In the largest trial, serious events were more frequent with aviptadil than placebo, but not significantly.",
+      "items": [
+        {
+          "text": "In the TESICO trial, the primary safety outcome (death, serious adverse events, organ failure, serious infection or grade 3 or 4 events up to day 5) occurred in 63% of aviptadil patients versus 56% with placebo, a difference that was not statistically significant.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-tesico-2023"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Outliyr describes flushing, low blood pressure, fast heartbeat and bowel upset for VIP generally. These descriptions are not from nasal-spray trials.",
+      "items": [
+        {
+          "text": "Outliyr says VIP's main concern is vasodilation, with flushing, low blood pressure, fast heartbeat and diarrhea or cramping described as dose-dependent and brief.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/vip",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

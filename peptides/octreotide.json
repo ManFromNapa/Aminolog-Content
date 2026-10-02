@@ -107,5 +107,238 @@
       "finding": "Median time to tumor progression was 14.3 months with octreotide LAR versus 6 months with placebo (hazard ratio 0.34). Survival did not differ significantly and the analysis was not confirmatory because there were few deaths. This tested the long-acting form, not the short-acting injection."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The Sandostatin label gives different starting doses by condition. Acromegaly starts at 50 mcg under the skin three times daily, and carcinoid tumors and VIP-secreting tumors (VIPomas) use 100 to 600 mcg or 200 to 300 mcg per day split into two to four doses.",
+      "items": [
+        {
+          "text": "Sandostatin injection label, acromegaly: starting dose 50 mcg subcutaneously three times daily, adjusted by growth hormone and IGF-1 levels; the most common dose is 100 mcg three times daily, with some patients needing up to 500 mcg three times daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "Sandostatin injection label, carcinoid tumors: 100 to 600 mcg per day in two to four divided subcutaneous doses during the first 2 weeks (mean about 300 mcg per day).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "Sandostatin injection label, VIPomas: 200 to 300 mcg per day in two to four divided subcutaneous doses during the first 2 weeks (range 150 to 750 mcg).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "The label gives no meal rule for the injection. It warns that octreotide can push blood sugar down or up, so glucose is monitored.",
+      "items": [
+        {
+          "text": "The Sandostatin label states octreotide changes the balance between insulin, glucagon and growth hormone (GH), which can cause low or high blood sugar. This was seen in 3% (low) and 16% (high) of people with acromegaly, and the label advises monitoring glucose and adjusting insulin or other diabetes drugs.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label uses three daily doses for acromegaly and two to four divided daily doses for tumor symptoms. Two patient-education pages say to take a missed dose as soon as you remember, and the label itself gives no missed-dose rule.",
+      "items": [
+        {
+          "text": "The Sandostatin label states acromegaly dosing starts at 50 mcg three times daily and is adjusted using GH and IGF-1 (insulin-like growth factor 1) checks every two weeks, and that doses above 300 mcg per day seldom add benefit.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "The label states carcinoid and VIPoma doses are given as two to four divided subcutaneous doses per day during the first 2 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "Memorial Sloan Kettering Cancer Center, a cancer hospital, says for short-acting injections to take a missed dose as soon as you think of it, and if it is close to the next dose to skip the missed one and return to the normal time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/octreotide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Cleveland Clinic says if you miss a dose, take it as soon as you can, and if it is almost time for the next dose, take only that dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/drugs/20427-octreotide-injection-solution",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "In the acromegaly trial octreotide was given for 6 months, and in the carcinoid trial the long-acting form was given monthly until the tumor progressed. The label says to pause the injection for about 4 weeks each year in people who had radiation to reassess the disease.",
+      "items": [
+        {
+          "text": "The label states Sandostatin should be withdrawn yearly for approximately 4 weeks in people with acromegaly who have received irradiation, to assess disease activity, and that if GH or IGF-1 rises and symptoms return, therapy may be resumed.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "A double-blind trial of subcutaneous octreotide versus placebo followed by two doses for 6 months in 115 people with acromegaly lowered GH and IGF-1 in many participants.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-1416572"
+        },
+        {
+          "text": "PROMID tested monthly long-acting octreotide LAR 30 mg versus placebo in 85 people with midgut neuroendocrine tumors, with median time to tumor progression of 14.3 versus 6 months. This used the long-acting form, not the short-acting injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-19704057"
+        },
+        {
+          "text": "Cleveland Clinic says to keep taking octreotide unless your care team tells you to stop, and gives no fixed length of treatment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/drugs/20427-octreotide-injection-solution",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Ampuls are kept refrigerated and protected from light, and are stable at room temperature for 14 days. Each ampul is opened just before use and any leftover is thrown away. Injection sites are rotated.",
+      "items": [
+        {
+          "text": "The Sandostatin label states subcutaneous injection sites should be rotated in a systematic manner.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "The label states the solution can be allowed to reach room temperature before injection and should not be warmed artificially.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "The label states ampuls and vials are stored refrigerated at 2 to 8 C, and at room temperature (20 to 30 C) the product is stable for 14 days if protected from light.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "The label states ampuls should be opened just before administration and any unused portion discarded.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "The Sandostatin label states the injection is not compatible in total parenteral nutrition solutions (a glycosyl octreotide conjugate forms and may reduce efficacy), but is stable for 24 hours in sterile isotonic saline or 5% dextrose in water.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "Memorial Sloan Kettering Cancer Center says to move the injection site with each shot, to stay at least 2 inches from the last injection, and to stay at least 2 inches from the belly button.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/octreotide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Cleveland Clinic says to use a different site for each injection to reduce irritation, and to store octreotide in the refrigerator protected from light, with up to 14 days at room temperature.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/drugs/20427-octreotide-injection-solution",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Octreotide acts like the natural hormone somatostatin but is more potent at blocking GH, glucagon and insulin. It also blocks release of serotonin, gastrin and vasoactive intestinal peptide (VIP), which is how it eases tumor flushing and diarrhea.",
+      "items": [
+        {
+          "text": "The Sandostatin label states octreotide has actions similar to somatostatin and is an even more potent inhibitor of GH, glucagon and insulin. It also inhibits release of serotonin, gastrin, VIP, secretin, motilin and pancreatic polypeptide, and decreases splanchnic (gut) blood flow.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In a 115-person double-blind trial in acromegaly, about half reached GH below 5 micrograms/L and over half normalized IGF-1. The long-acting form roughly doubled time to tumor progression in a midgut tumor trial (14.3 versus 6 months).",
+      "items": [
+        {
+          "text": "In 115 people with acromegaly, octreotide lowered GH and IGF-1; about half reached GH below 5 micrograms/L and over half normalized IGF-1, and symptoms improved in about two thirds.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-1416572"
+        },
+        {
+          "text": "PROMID: median time to tumor progression was 14.3 months with octreotide LAR versus 6 months with placebo (hazard ratio 0.34), and survival did not differ significantly. The label states tumor shrinkage or growth benefits were not shown in the trials for the short-acting injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-19704057"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "In acromegaly, over 10% had gallbladder abnormalities, slow heart rate, diarrhea, loose stools, nausea, abdominal discomfort, high blood sugar and underactive thyroid. RxList's label summary also lists frequent digestive effects.",
+      "items": [
+        {
+          "text": "In people with acromegaly, adverse reactions reported in more than 10% included gallbladder abnormalities, sinus bradycardia, diarrhea, loose stools, nausea, abdominal discomfort, hyperglycemia and hypothyroidism. In other patients, gallbladder abnormalities were the one reaction above 10%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "In the 6-month placebo-controlled acromegaly trial, transient diarrhea, biliary sludge and gallstones occurred.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-1416572"
+        },
+        {
+          "text": "RxList, a drug information site, summarizes the label as reporting frequent digestive side effects with octreotide, and slow heart rate in some people with acromegaly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.rxlist.com/sandostatin-drug.htm",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns of gallstones, blood sugar swings, thyroid changes, heart block, fat malabsorption and low vitamin B12, and advises monitoring.",
+      "items": [
+        {
+          "text": "The label warns of cholelithiasis (gallstones), changes in blood glucose (hypoglycemia or hyperglycemia), hypothyroidism, atrioventricular conduction block, new fat malabsorption (steatorrhea) and lower vitamin B12 levels, and advises periodic monitoring.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-sandostatin-label"
+        },
+        {
+          "text": "RxList, a drug information site, says long use brings high rates of gallstones or sludge, conduction changes in some people with acromegaly, and blood sugar swings.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.rxlist.com/sandostatin-drug.htm",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

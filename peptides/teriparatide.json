@@ -88,7 +88,318 @@
       "year": 2009,
       "summary": "36-month double-blind trial of teriparatide 20 mcg daily versus alendronate 10 mg daily in 428 people with glucocorticoid-induced osteoporosis (Saag et al., Arthritis Rheum).",
       "finding": "Lumbar spine density rose 11.0% versus 5.3%; new vertebral fractures occurred in 1.7% versus 7.7%. Nonvertebral fractures did not differ (7.5% vs 7.0%). Elevated blood calcium was more common with teriparatide (21% vs 7%)."
+    },
+    {
+      "id": "michalska-2012",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "22426952",
+      "year": 2012,
+      "summary": "Randomized 12-month trial of teriparatide 20 mcg daily given in the morning or the evening in 50 postmenopausal women with osteoporosis (Michalska et al., Osteoporosis International).",
+      "finding": "Lumbar spine bone density rose 9.1% with morning dosing versus 4.8% with evening dosing. Bone turnover markers rose more in the evening group (PINP +358% vs +215%). Bone density at the forearm fell in both groups and the hip did not change significantly."
+    },
+    {
+      "id": "leder-2009-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19435827",
+      "year": 2009,
+      "summary": "Prospective cohort substudy of 14 postmenopausal women and 17 men with osteoporosis given teriparatide 37 mcg daily for 24 months, then followed 12 months off treatment (Leder et al., J Clin Endocrinol Metab).",
+      "finding": "After teriparatide was stopped, spine bone density fell 7.1% in women and 4.1% in men. Hip and femoral neck density fell in women but stayed stable in men."
+    },
+    {
+      "id": "leder-data-followup-2017",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28286299",
+      "year": 2017,
+      "summary": "Follow-up of postmenopausal women from the DATA trials, 50 of 69 returning 1 to 2 years after completing therapy (Leder et al., Bone).",
+      "finding": "In 22 women who got no follow-up bone drug, spine density fell 10.0% and femoral neck 4.2% overall (femoral neck -0.8% after teriparatide specifically). Women who started an antiresorptive drug promptly kept their gains."
+    },
+    {
+      "id": "cosman-cyclic-2020",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "31419313",
+      "year": 2020,
+      "summary": "Randomized 3-year trial in 70 postmenopausal women of 18 months teriparatide then 18 months denosumab versus three cycles of 6 months teriparatide then 6 months denosumab (Cosman et al., J Bone Miner Res).",
+      "finding": "At 36 months, spine density rose 16% (standard) versus 12% (cyclic), with similar hip gains. The cyclic group did better at some sites at 18 months."
+    },
+    {
+      "id": "ganapathy-2023",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36410666",
+      "year": 2023,
+      "summary": "Open-label randomized trial in 86 women comparing 20 mcg daily teriparatide for 2 years with 3 months on then 3 months off for 4 years (Ganapathy et al., Bone).",
+      "finding": "For the same total dose, spine volumetric bone density rose 12% (daily) versus 11% (cyclic), with no significant difference in spine or hip strength."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label dose is 20 mcg once a day under the skin. A trial found similar fracture benefit at 20 and 40 mcg. Online sources repeat the fixed 20 mcg dose.",
+      "items": [
+        {
+          "text": "The Forteo label gives the recommended dose as 20 mcg per dose given subcutaneously once a day. It tells patients to take supplemental calcium and vitamin D if daily dietary intake is inadequate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "In a randomized trial of postmenopausal women with prior spine fractures, parathyroid hormone (1-34) 20 or 40 mcg daily cut new spine fractures to 5% and 4% versus 14% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "neer-2001"
+        },
+        {
+          "text": "Peptide Protocol Wiki, an educational site that does not sell products, says the dose is a fixed 20 mcg with no dose titration.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label does not name a time of day. One small randomized trial found a bigger spine gain with morning dosing than evening dosing, and a site says to use about the same time each day.",
+      "items": [
+        {
+          "text": "In 50 postmenopausal women given 20 mcg daily for 12 months, spine bone density rose 9.1% with morning injections versus 4.8% with evening injections. Evening dosing raised bone turnover markers more.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "michalska-2012"
+        },
+        {
+          "text": "The label says the first doses should be given where the patient can sit or lie down, because brief orthostatic hypotension (a drop in blood pressure on standing) was seen in 5% of volunteers, typically within 4 hours of dosing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "Peptide Protocol Wiki says to give it at approximately the same time each day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label sets no meal rules that I could confirm, and its patient leaflet says calcium and vitamin D pills can be taken at the same time as the injection. The drug raises blood calcium for several hours after each dose.",
+      "items": [
+        {
+          "text": "The patient leaflet in the Forteo label says that if a provider recommends calcium and vitamin D supplements, they can be taken at the same time as the injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "The label reports blood calcium rises about 2 hours after a 20 mcg dose, peaks at 4 to 6 hours and returns to baseline by 16 to 24 hours.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "Peptide Protocol Wiki says there are no food or fasting requirements.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label says once a day and not more than one injection in the same day. One online site says a missed dose can be taken that day and not doubled, which the label text I read does not state.",
+      "items": [
+        {
+          "text": "The Forteo patient leaflet says to inject once each day and not to take more than one injection in the same day. It says an overdose can cause nausea, vomiting, weakness or dizziness.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "Peptide Protocol Wiki says that if a dose is missed, give it as soon as possible that day and do not double the dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The label asks for use beyond 2 years in a lifetime only for people who stay at high fracture risk. Bone density falls after stopping unless another bone drug follows. Cycling on and off has been studied and was not better than daily use.",
+      "items": [
+        {
+          "text": "The label says use of Forteo for more than 2 years during a patient's lifetime should only be considered if the patient remains at or has returned to high fracture risk. Its main trials lasted 11 months in men and 19 months in women.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "A 36-month trial in 428 people with glucocorticoid-induced osteoporosis found teriparatide 20 mcg daily raised spine density 11.0% versus 5.3% with alendronate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "saag-gio-2009"
+        },
+        {
+          "text": "In 31 adults given teriparatide for 24 months and then followed 12 months off, spine bone density fell 7.1% in women and 4.1% in men after stopping.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "leder-2009-jcem"
+        },
+        {
+          "text": "In 22 postmenopausal women left without a follow-up bone drug, spine density fell 10.0% over 1 to 2 years, while women who started an antiresorptive promptly kept their gains.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "leder-data-followup-2017"
+        },
+        {
+          "text": "In 70 women, three 6-month teriparatide cycles each followed by denosumab gave spine gains of 12% at 36 months versus 16% with 18 months of continuous use then denosumab.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cosman-cyclic-2020"
+        },
+        {
+          "text": "In 86 women, 3 months on then 3 months off for 4 years gave about the same spine bone density and strength gain as 2 years of daily use at the same total dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ganapathy-2023"
+        },
+        {
+          "text": "Peptide Protocol Wiki says use is no longer limited to 2 years after the 2020 label change, that duration is a clinical judgment, and that an antiresorptive drug should follow to hold the gains. The label still ties use beyond 2 years to high fracture risk.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A 2022 peer-reviewed review on PubMed Central (Krege et al., JBMR Plus) says the 2-year lifetime limit in the label was relaxed in November 2020.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9465003/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The pen stays refrigerated at 2 to 8 C, is never frozen, and is thrown away 28 days after first use. Inject into the thigh or abdomen and never share a pen.",
+      "items": [
+        {
+          "text": "The label says to store Forteo refrigerated at 2 to 8 C (36 to 46 F) at all times except when giving the dose, recap the pen when not in use, and not to freeze it or use it if frozen. It says to throw the pen away 28 days after first use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "The label directs subcutaneous injection into the thigh or abdomen, not into a vein or muscle. It says not to transfer the medicine to a syringe, to use a new needle each time, and not to share pens.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "The patient instructions say to use the pen right away after taking it from the refrigerator and to put it back right away after each use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "Peptide Protocol Wiki says to store the pen at 2 to 8 C, do not freeze it, use it for 28 days after the first injection, and rotate sites between thigh and abdomen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It is the first 34 amino acids of human parathyroid hormone. Given once a day, it turns on bone-building cells more than bone-removing cells, so bone mass rises.",
+      "items": [
+        {
+          "text": "The label says teriparatide binds the same receptors as parathyroid hormone (PTH) with the same affinity. Once-daily dosing stimulates new bone formation on trabecular and cortical surfaces by favoring osteoblast (bone-building cell) activity over osteoclast activity. It says continuous excess PTH, as in hyperparathyroidism, may harm bone.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In postmenopausal women with prior spine fractures, new spine fractures fell from 14% to 5%, and glucocorticoid users gained more spine density than with alendronate.",
+      "items": [
+        {
+          "text": "Neer et al. report new vertebral fractures in 14% with placebo versus 5% (20 mcg) and 4% (40 mcg), and nonvertebral fragility fractures in 6% versus 3%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "neer-2001"
+        },
+        {
+          "text": "In 428 people with glucocorticoid-induced osteoporosis, spine density rose 11.0% versus 5.3% with alendronate and new spine fractures were 1.7% versus 7.7%. Nonvertebral fractures did not differ.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "saag-gio-2009"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "In the label's osteoporosis trials pain, joint pain, nausea and dizziness were the most common reactions, and most were also common on placebo.",
+      "items": [
+        {
+          "text": "The label's most common adverse reactions were pain 21.3% (placebo 20.5%), arthralgia (joint pain) 10.1% (8.4%) and nausea 8.5% (6.7%). Dizziness was 8.0% (5.4%) and leg cramps 2.6% (1.3%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "Neer et al. describe side effects as mostly occasional nausea and headache.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "neer-2001"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns of osteosarcoma (seen in rats), high blood calcium, blood pressure drops after injection, kidney stones and severe allergic reactions. Human data have not shown an increased bone cancer risk.",
+      "items": [
+        {
+          "text": "The label warns of osteosarcoma (seen in rats; use is avoided in people at increased risk such as open growth plates or prior radiation), hypercalcemia and cutaneous calcification, orthostatic hypotension (transient symptomatic episodes in 5% of volunteers), urolithiasis, and hypersensitivity reactions including anaphylaxis and angioedema.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "Transient high blood calcium in the 4 to 6 hours after a dose occurred in 11% of women and 6% of men on Forteo versus 2% and 0% on placebo. The label also warns calcium may predispose people on digoxin to toxicity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forteo-label"
+        },
+        {
+          "text": "In people with glucocorticoid-induced osteoporosis, elevated blood calcium was more common with teriparatide than alendronate (21% vs 7%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "saag-gio-2009"
+        },
+        {
+          "text": "A 2022 peer-reviewed review on PubMed Central (Krege et al., JBMR Plus) says the osteosarcoma boxed warning, based on rat studies, was removed in November 2020 after observational human data showed no increased risk.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9465003/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

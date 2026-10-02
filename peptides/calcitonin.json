@@ -131,7 +131,368 @@
       "year": 2000,
       "summary": "5-year randomized placebo-controlled PROOF trial of salmon calcitonin nasal spray in 1,255 postmenopausal women with osteoporosis.",
       "finding": "One tested dose lowered new vertebral fracture risk by 33% versus placebo (RR 0.67); the other two doses did not differ significantly from placebo, and lumbar spine BMD rose about 1 to 1.5%."
+    },
+    {
+      "id": "ema-calcitonin-2012",
+      "evidence_type": "regulator_notice",
+      "source_kind": "regulator",
+      "identifier": "https://www.ema.europa.eu/en/news/european-medicines-agency-recommends-limiting-long-term-use-calcitonin-medicines",
+      "year": 2012,
+      "summary": "European Medicines Agency (EMA) press release of 20 July 2012 on its review of calcitonin medicines by the Committee for Medicinal Products for Human Use (CHMP).",
+      "finding": "In long-term trials the cancer risk was 0.7% to 2.4% higher with calcitonin than placebo. EMA recommended no nasal spray for osteoporosis and only short-term injection use: up to 4 weeks for bone loss from immobilisation, normally up to 3 months (6 in exceptional cases) for Paget's disease."
+    },
+    {
+      "id": "toth-2005-bone",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15664001",
+      "year": 2005,
+      "summary": "Randomized open-label trial in 71 men (mean age 59) with osteoporosis comparing calcium and vitamin D alone with the same plus calcitonin nasal spray 200 IU daily during alternate months for 18 months (Toth et al., Bone).",
+      "finding": "Lumbar spine bone mineral density rose 3.5% versus 0.83% in controls and femoral neck 3.2% versus 0.68%, with no significant forearm difference and no significant side effects versus controls."
+    },
+    {
+      "id": "tekeoglu-2005-rheumatol-int",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15660234",
+      "year": 2005,
+      "summary": "Open-label randomized trial of 120 postmenopausal women with osteoporosis comparing continuous nasal calcitonin 200 IU daily with two cyclic regimens (alternating 15 days, or 10 consecutive days per month) for 1 year (Tekeoglu et al., Rheumatology International).",
+      "finding": "Bone density, pain scores and a bone breakdown marker improved in all three groups with no significant difference between regimens."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Labeled doses are 100 USP Units a day by injection for Paget's disease and osteoporosis, and one 200 USP Unit nasal spray a day for osteoporosis. Hypercalcemia (high blood calcium) uses weight-based injections. In one large trial only the 200 IU nasal dose reduced spine fractures.",
+      "items": [
+        {
+          "text": "Label: Miacalcin injection for symptomatic Paget's disease of bone is 100 United States Pharmacopeia (USP) Units (0.5 mL) per day subcutaneously or intramuscularly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "Label: Miacalcin injection for early treatment of hypercalcemia starts at 4 USP Units/kg every 12 hours subcutaneously or intramuscularly, with the label describing increases to 8 USP Units/kg every 12 hours and then every 6 hours if response is unsatisfactory.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "Label: Miacalcin injection for postmenopausal osteoporosis is 100 USP Units (0.5 mL) per day subcutaneously or intramuscularly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "Label: calcitonin salmon nasal spray is 1 spray (200 USP Calcitonin Salmon Units) per day intranasally, alternating nostrils daily. The nasal label states bioavailability is about 3% of the injection and that single doses above 400 International Units gave no further biological response.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "In the 5-year PROOF trial of 1,255 postmenopausal women with osteoporosis, nasal doses of 100, 200 or 400 International Units (IU) daily were tested. Only the 200 IU dose significantly cut new spine fractures (33% lower than placebo).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "proof-2000"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The labels give no time of day. Before starting, low blood calcium must be corrected and watched during the first doses. Kaiser Permanente's drug encyclopedia suggests bedtime injections may ease nausea, which no label states.",
+      "items": [
+        {
+          "text": "The Miacalcin injection label states hypocalcemia must be corrected before starting therapy and that serum calcium and symptoms of hypocalcemia should be monitored during the first administrations.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "Kaiser Permanente's drug encyclopedia says using the injection at bedtime may help reduce side effects such as nausea and stomach upset.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.calcitonin-salmon-200-unit-ml-injection-solution.299898",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Kaiser Permanente's drug encyclopedia says the nasal spray is used at the same time each day for consistency.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.calcitonin-salmon-200-unit-actuation-nasal-spray.232454",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The labels give no food rules. They call for at least 1000 mg calcium and 400 International Units of vitamin D daily.",
+      "items": [
+        {
+          "text": "The nasal spray label states adequate calcium and vitamin D intake should be ensured, at least 1000 mg elemental calcium and 400 International Units of vitamin D per day. The injection label gives the same amounts for osteoporosis and Paget's disease.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The nasal spray is used once daily, alternating nostrils. Two small open-label trials found skipping days or months still improved bone density, which differs from the label and is not proven better. The labels give no missed-dose rule.",
+      "items": [
+        {
+          "text": "The calcitonin nasal spray label states it is given once daily intranasally, alternating nostrils each day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "In a 120-woman open-label trial, 200 IU nasal calcitonin taken only on alternating 15 days per month, or on 10 consecutive days per month, improved bone density about as much as daily use over 1 year. The label describes daily use.",
+          "label": "research",
+          "validity": "moderate",
+          "conflicts_with_label": true,
+          "citation_id": "tekeoglu-2005-rheumatol-int"
+        },
+        {
+          "text": "In a 71-man open-label trial, 200 IU nasal calcitonin was used daily only during alternate months for 18 months and raised spine and hip bone density versus calcium and vitamin D alone. The label describes daily use.",
+          "label": "research",
+          "validity": "moderate",
+          "conflicts_with_label": true,
+          "citation_id": "toth-2005-bone"
+        },
+        {
+          "text": "Kaiser Permanente's drug encyclopedia says that for a missed dose of the injection or nasal spray, use it as soon as you remember and skip it if it is near the next dose. The US labels reviewed give no missed-dose rule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.calcitonin-salmon-200-unit-actuation-nasal-spray.232454",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD patient reviews of calcitonin salmon (Miacalcin) describe mostly once-daily nasal spray use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The US labels say to re-evaluate the need for treatment periodically because of a possible cancer link, and antibodies can reduce response over time. Trials lasted 1 to 5 years. Europe advised nasal spray not be used for osteoporosis and injections for only a few weeks to months. No data on stopping were found.",
+      "items": [
+        {
+          "text": "The Miacalcin injection label states that because of the possible link between malignancy and calcitonin salmon, the need for continued therapy should be re-evaluated periodically.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "The nasal label states circulating antibodies to calcitonin salmon may develop and cause loss of response to treatment, and that this should be considered if an initial response stops.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "Two label-reported randomized placebo-controlled 2-year trials in 266 women more than 5 years after menopause tested 200 IU nasal spray daily. Spine bone density rose 1.36% (with calcium) and 2.87% (without calcium) more than placebo, with no effect shown on forearm or hip bone.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "The 5-year PROOF trial of nasal calcitonin in 1,255 women found 783 completed 3 years and 511 completed 5 years of treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "proof-2000"
+        },
+        {
+          "text": "The European Medicines Agency (EMA) recommended in 2012 that nasal calcitonin no longer be prescribed for osteoporosis and that the injection be used short term only, normally up to 3 months for Paget's disease and up to 4 weeks for bone loss from immobilisation. This differs from the US labels.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ema-calcitonin-2012"
+        },
+        {
+          "text": "Kaiser Permanente's drug encyclopedia says to use the lowest effective dose for the shortest time, because long-term treatment carries a rare cancer risk.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.calcitonin-salmon-200-unit-ml-injection-solution.299898",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD reviewers report using calcitonin salmon for periods from under 1 month to 10 years or more, and some say they stopped because of nasal side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Unopened nasal bottles and injection vials go in the refrigerator, never frozen. An opened nasal bottle stays upright at room temperature for 30 to 35 days. Check injection solution for particles.",
+      "items": [
+        {
+          "text": "The nasal spray label states unopened bottles are refrigerated at 2 to 8 C and not frozen. A bottle in use is kept upright at room temperature (20 to 25 C) for up to 30 days (2 mL bottle) or 35 days (3.7 mL bottle), and discarded after 14 or 30 doses.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "The nasal label states to let the bottle reach room temperature and prime the pump once before first use (not before each dose), and to place the nozzle in the nostril with the head upright.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "The Miacalcin injection label states vials are stored refrigerated at 2 to 8 C and protected from freezing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "The Miacalcin injection label states to inspect the clear colorless solution and not use it if cloudy, particulate or the vial is damaged. It states intramuscular injection is preferable when the volume exceeds 2 mL, split across sites, and that sterile injection technique is used.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "Kaiser Permanente's drug encyclopedia says to change the injection site each time and to keep an opened, primed nasal bottle upright at room temperature away from light and moisture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.calcitonin-salmon-200-unit-ml-injection-solution.299898",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It acts on calcitonin receptors, mainly in bone, to slow the cells that break bone down. Its role in normal human bone is not fully understood.",
+      "items": [
+        {
+          "text": "The labels describe calcitonin salmon as a calcitonin receptor agonist that acts primarily on bone, with kidney and gut effects, and note receptors on osteoclasts (cells that break down bone) and osteoblasts. They state its role in normal human bone physiology is not fully worked out.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "The Miacalcin injection label states single injections cause a marked transient drop in bone breakdown, and prolonged use causes a persistent smaller decrease with fewer osteoclasts.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "Wikipedia says salmon calcitonin works mainly by inhibiting osteoclasts and is absorbed and cleared rapidly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Calcitonin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Nasal spray raised spine bone density about 1.4% to 2.9% over placebo after 2 years, with no shown effect on hip or forearm. In the large PROOF trial only the 200 IU dose cut spine fractures (33%). The labels say fracture reduction has not been demonstrated.",
+      "items": [
+        {
+          "text": "Two 2-year placebo-controlled trials (266 women, label) found 200 IU nasal spray raised lumbar spine bone density by 1.36% to 2.87% more than placebo, with no effect on forearm or hip. The labels state fracture reduction efficacy has not been demonstrated.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "PROOF: in 1,255 women with osteoporosis, 200 IU nasal spray daily cut new spine fractures 33% versus placebo over 5 years (relative risk 0.67). The 100 and 400 IU doses did not differ significantly from placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "proof-2000"
+        },
+        {
+          "text": "WebMD reviewers describe mixed results, with some reporting increased bone density or pain relief and others describing nasal side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Injection: nausea (about 10%), injection site inflammation (about 10%) and flushing. Nasal spray: rhinitis (runny nose, 12% vs 7% placebo) and back pain, plus nosebleeds and headache at rates close to placebo.",
+      "items": [
+        {
+          "text": "The Miacalcin injection label lists nausea with or without vomiting (10%), injection site inflammation (10%) and flushing (2% to 5%) as the most common adverse reactions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "In the nasal spray label's trial table, rhinitis occurred in 12% vs 7% with placebo and back pain 5% vs 2%. Nasal symptoms (11% vs 16%), arthralgia (4% vs 5%), epistaxis (4% vs 5%) and headache (3% vs 5%) were no more common than placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        },
+        {
+          "text": "Kaiser Permanente's drug encyclopedia lists runny nose, nosebleeds, nasal irritation, dry nose with crusting, headache, dizziness and nausea as common nasal spray effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.calcitonin-salmon-200-unit-actuation-nasal-spray.232454",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Serious allergic reactions, low blood calcium, nasal ulcers and a possible higher cancer rate in long-term trials.",
+      "items": [
+        {
+          "text": "The Miacalcin injection label warns of serious hypersensitivity reactions including fatal anaphylaxis and of hypocalcemia (low blood calcium) with tetany and seizures.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "The Miacalcin injection label states a meta-analysis of 21 randomized trials found malignancies in 4.1% of calcitonin-treated patients versus 2.9% with placebo, suggesting increased risk, and that the need for continued therapy should be re-evaluated periodically.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-miacalcin-inj-label"
+        },
+        {
+          "text": "The nasal spray label warns of nasal adverse reactions including rhinitis, epistaxis and severe ulceration, and recommends periodic nasal examinations. It says to stop the spray if severe ulceration occurs.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-calcitonin-nasal-label"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The European Medicines Agency found 0.7% to 2.4% more cancers with long-term calcitonin than placebo.",
+      "items": [
+        {
+          "text": "EMA's 2012 review found the risk of developing cancer was 0.7% to 2.4% higher with long-term calcitonin than placebo, and it recommended limiting use to short-term treatment and ending nasal use for osteoporosis.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ema-calcitonin-2012"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "WebMD reviewers mostly describe nasal irritation, sores or bleeding, an unpleasant smell and headaches, with some reporting hair loss or muscle aches. These are patient reports, not trial data.",
+      "items": [
+        {
+          "text": "WebMD reviewers of Miacalcin nasal spray describe nasal irritation, sores or bleeding, an unpleasant odor, headaches, and some report hair loss or muscle aches.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-calcitonin-salmon-miacalcin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
