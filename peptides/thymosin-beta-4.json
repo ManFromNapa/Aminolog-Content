@@ -174,7 +174,427 @@
       "year": 2025,
       "summary": "Study (Cardiovasc Res) of recombinant human thymosin beta-4 in mouse heart-attack models plus a randomized, placebo-controlled trial of 96 patients with ST-segment elevation myocardial infarction after reperfusion.",
       "finding": "In mice the treatment preserved cardiac function. In the human trial, infarct area was reduced in the subgroup treated early after the procedure, but the overall difference across all 96 patients was not significant, and the authors call for further randomized studies."
+    },
+    {
+      "id": "r-ruff-2010",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20536472",
+      "year": 2010,
+      "summary": "Randomized, placebo-controlled Phase 1 study (Ruff et al., Ann N Y Acad Sci) of synthetic thymosin beta-4 given intravenously to healthy volunteers: four cohorts of 10 people each received a single dose, then the same dose daily for 14 days.",
+      "finding": "Doses of 42 to 1260 mg (as stated in the abstract) were well tolerated, with infrequent mild or moderate adverse events and no dose-limiting toxicity or serious adverse events. After a single dose, drug levels rose in proportion to dose and the half-life lengthened as the dose increased. It tested safety, not efficacy."
+    },
+    {
+      "id": "r-nk-phase3",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36613994",
+      "year": 2022,
+      "summary": "Randomized, placebo-controlled, double-masked Phase 3 trial (Sosne et al., Int J Mol Sci) of 0.1% RGN-259 (thymosin beta-4) eye drops, applied five times daily for 4 weeks, in 18 people with stage 2 to 3 neurotrophic keratopathy (10 treated, 8 placebo).",
+      "finding": "Complete healing of the corneal defect at day 29 occurred in 6 of 10 treated versus 1 of 8 placebo eyes (p=0.0656, not significant); healing was significant at day 43 (p=0.0359). Adverse events were minimal with one treatment-related event. The trial was tiny and is ophthalmic, not injection."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Studies used intravenous (IV) injections in healthy volunteers or eye drops, not the injections sold online. Online sources describe 2 to 5 mg injected under the skin, which has not been studied.",
+      "items": [
+        {
+          "text": "In a Phase 1 trial of recombinant thymosin beta-4 (NL005), single IV doses from 0.05 to 25 micrograms per kg were given to healthy Chinese adults, and 0.5, 2.0 and 5.0 micrograms per kg were given daily for 10 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph1-iv"
+        },
+        {
+          "text": "In an earlier Phase 1 trial, healthy volunteers received synthetic thymosin beta-4 intravenously at 42, 140, 420 or 1260 mg (units as stated in the abstract), as a single dose and then daily for 14 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ruff-2010"
+        },
+        {
+          "text": "In a Phase 2 trial in nine adults with severe dry eye, a 0.1% thymosin beta-4 eye drop (RGN-259) was used 6 times daily for 28 days. This is ophthalmic use, not injection.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2-severe-dryeye"
+        },
+        {
+          "text": "In a Phase 3 trial of 18 people with neurotrophic keratopathy (a corneal nerve disease), 0.1% RGN-259 eye drops were used five times daily for 4 weeks. This is ophthalmic use, not injection.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nk-phase3"
+        },
+        {
+          "text": "A medical education site for aesthetic and regenerative practitioners (Hubmed) says TB-500 is commonly described with an initial phase of 2.0 to 2.5 mg every other day by subcutaneous or intramuscular injection, a total of 4 to 8 mg per week, and 2 to 6 mg per month afterward. The site presents this as information for licensed professionals, not as medical advice.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative, an educational site that does not sell peptides, lists a suggested thymosin beta-4 dose of 2 to 5 mg by subcutaneous injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate-linked peptide site, lists 750 mcg daily during loading and 500 mcg twice weekly for maintenance, and also a 1.5 mg twice-weekly loading option.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study compared times of day. Two online sources call timing flexible or list morning dosing.",
+      "items": [
+        {
+          "text": "Peptide Initiative says the injection can be given in the morning or evening and that timing is flexible.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate-linked peptide site, lists morning (AM) dosing in its protocols.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food and thymosin beta-4. One site says food does not matter, and a clinic page sets no fasting rule.",
+      "items": [
+        {
+          "text": "Peptide Initiative says timing is not affected by food intake.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A physician's peptide-therapy practice, which sells peptide treatment, does not state any fasted or fed requirement on its thymosin beta-4 page.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "In trials, IV doses were given once daily for 10 to 14 days and eye drops 5 to 6 times daily. Online schedules range from every other day to weekly, none studied. No source covered missed doses.",
+      "items": [
+        {
+          "text": "Healthy volunteers received IV thymosin beta-4 once daily for 10 days, with no obvious accumulation on repeated dosing.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph1-iv"
+        },
+        {
+          "text": "Healthy volunteers received the same IV dose daily for 14 days after a single-dose phase.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ruff-2010"
+        },
+        {
+          "text": "Eye drops were used 6 times daily in a small Phase 2 dry eye trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2-severe-dryeye"
+        },
+        {
+          "text": "Eye drops were used five times daily in the Phase 3 neurotrophic keratopathy trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nk-phase3"
+        },
+        {
+          "text": "Hubmed says the TB-500 initial phase is every other day, with total weekly dosage of 4 to 8 mg divided into 2 to 3 weekly administrations, then 2 to 6 mg per month for maintenance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says once or twice weekly during a 4 to 6 week loading phase, then weekly maintenance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate-linked peptide site, lists 2 weeks of daily dosing, then 2 to 6 weeks of twice-weekly dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Human studies lasted 10 days to 4 weeks of treatment. Online sources describe 4 to 12 week cycles, which no study tested.",
+      "items": [
+        {
+          "text": "In healthy volunteers, IV thymosin beta-4 was given for 10 days and participants were followed for 28 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph1-iv"
+        },
+        {
+          "text": "In healthy volunteers, IV thymosin beta-4 was given daily for 14 days and was well tolerated.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ruff-2010"
+        },
+        {
+          "text": "In the Phase 3 eye trial, drops were used for 4 weeks and healing was still significant at day 43, after treatment ended.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nk-phase3"
+        },
+        {
+          "text": "Hubmed says TB-500 treatment cycles typically span 6 to 12 weeks, subject to reassessment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative lists an 8 to 12 week cycle with a 4 to 6 week loading phase.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate-linked peptide site, lists 4 to 8 weeks in total.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says thymosin beta-4 improves dry eye and neurotrophic keratopathy with effects lasting long after the end of treatment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Thymosin_beta-4",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No study covered storage. Online sources say to keep vials at 2 to 8 C, refrigerate after mixing, and rotate injection sites.",
+      "items": [
+        {
+          "text": "Superpower, a health-testing company that says it does not sell, prescribe or compound thymosin beta-4, says it is available only through licensed compounding pharmacies by prescription and that subcutaneous and topical ophthalmic formulations exist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower's page gives no practical guidance on timing, mixing or storage.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telehealth clinic that prescribes compounded peptides says, on a page about TB-500 that it treats as the same compound as thymosin beta-4, that the peptide is injected subcutaneously into the belly fat or thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The same telehealth clinic says the peptide is stored in a refrigerator at 2 to 8 C after reconstitution.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A physician's peptide-therapy practice says thymosin beta-4 is given as subcutaneous injections, and its page does not give storage or mixing instructions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative says to keep the vial at 2 to 8 C away from light and freezing, store the mixed solution in the refrigerator without freezing, and rotate sites among the lower abdomen, outer thigh and back of the upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate-linked peptide site, says to add 2 mL of bacteriostatic water to a 10 mg vial (5 mg/mL), swirl gently, refrigerate at 2 to 8 C and discard after 28 days, injecting near the injury or in belly fat.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A natural protein that binds actin, a building block of the cell skeleton. Whether this explains any effect in people is not shown by the trials found.",
+      "items": [
+        {
+          "text": "Wikipedia says thymosin beta-4 forms a 1:1 complex with globular (G) actin and is regarded as the principal actin-sequestering protein in many cell types.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Thymosin_beta-4",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower says it sequesters G-actin monomers, promoting cell migration, blood vessel growth and anti-inflammatory signaling after tissue injury.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Only eye drops and one heart attack trial have shown signals, all small. No trial tested injection for muscle, tendon or wound recovery.",
+      "items": [
+        {
+          "text": "In nine people with severe dry eye, treated eyes had greater reductions in discomfort and corneal staining at day 56 than vehicle. The sample was very small.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2-severe-dryeye"
+        },
+        {
+          "text": "In 72 people with dry eye, neither primary endpoint differed significantly from placebo, though several secondary endpoints improved.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2-dryeye-cae"
+        },
+        {
+          "text": "In 18 people with neurotrophic keratopathy, 6 of 10 treated versus 1 of 8 placebo had complete healing at day 29 (p=0.0656, not significant).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nk-phase3"
+        },
+        {
+          "text": "In 96 heart attack patients given recombinant thymosin beta-4, infarct area fell in the subgroup treated early, but the difference across all patients was not significant.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-stemi-2025"
+        },
+        {
+          "text": "Superpower says thymosin beta-4 has real clinical trial data, particularly in eye disease, but is experimental, with most other uses preclinical or early-phase.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Mild to moderate events in short human trials of IV and eye-drop forms. No long-term data on injections.",
+      "items": [
+        {
+          "text": "In the first-in-human study of recombinant thymosin beta-4 in healthy volunteers, adverse events were mild to moderate, with no dose-limiting toxicities or serious adverse events.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph1-iv"
+        },
+        {
+          "text": "In an earlier IV study with 14 days of daily dosing, adverse events were infrequent and mild or moderate, with no serious events.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ruff-2010"
+        },
+        {
+          "text": "In a randomized placebo-controlled Phase 2 trial of 72 people with dry eye, no adverse events were observed with thymosin beta-4 eye drops.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2-dryeye-cae"
+        },
+        {
+          "text": "In a small Phase 2 trial of eye drops for severe dry eye, the drops were reported as safe and well tolerated. Only nine people were enrolled.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2-severe-dryeye"
+        },
+        {
+          "text": "In the 18-person Phase 3 eye trial, adverse events were minimal, with one treatment-related event and no serious treatment-related events.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nk-phase3"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Websites describe injection-site redness or swelling, headache and fatigue, and note limited long-term safety data.",
+      "items": [
+        {
+          "text": "Superpower says adverse events in Phase 1 studies were infrequent and mild to moderate (injection-site reactions, mild eye discomfort with eye drops, low-frequency headache) and that long-term safety data for chronic compounded subcutaneous use are limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A physician's peptide-therapy practice lists mild fatigue, headache, redness or swelling at the injection site and temporary mood changes as possible effects and calls the peptide generally well tolerated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative lists injection-site redness and swelling as common, and temporary mild headache, mild bruising and transient fatigue as less common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymosin-beta-4-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate-linked peptide site, lists mild injection-site irritation and occasional mild fatigue reported in the community.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -175,7 +175,374 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
       "finding": "Cathelicidin LL-37 appears in the list of substances nominated but withdrawn (previously category 2). The page says compounded LL-37 may pose immunogenicity risk and peptide impurity concerns, and FDA lacks sufficient safety information. This does not make LL-37 an approved drug."
+    },
+    {
+      "id": "pmid-23246832",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "23246832",
+      "year": 2012,
+      "summary": "Narrative review (Cell Immunol) by Vandamme and colleagues summarizing what is known about LL-37, the human cathelicidin peptide.",
+      "finding": "Describes LL-37 as an antibacterial, antifungal and antiviral peptide that also attracts and modulates immune cells and can promote wound healing and new blood vessel growth. It notes a possible role in cancer."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Human trials used LL-37 applied to the skin (0.5 to 1.6 mg/mL) or injected into melanoma tumors, never injected under the skin for general use. Online sources describe 100 to 200 micrograms (mcg) by injection under the skin, which has not been studied.",
+      "items": [
+        {
+          "text": "Applied to the skin twice weekly for 4 weeks at 0.5, 1.6 or 3.2 mg/mL versus placebo in 34 adults with hard-to-heal venous leg ulcers. Healing improved at 0.5 and 1.6 mg/mL but not at 3.2 mg/mL (small trial).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25041740"
+        },
+        {
+          "text": "Applied to the skin at 0.5 or 1.6 mg/mL with compression therapy versus placebo in 148 adults with hard-to-heal venous leg ulcers. No significant overall benefit was found.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34687253"
+        },
+        {
+          "text": "Registered trial design, no results posted: 0.5 mg/mL cream twice weekly for 4 weeks versus placebo in a planned 40 adults with diabetic foot ulcers (Indonesia).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-04098562"
+        },
+        {
+          "text": "Registered trial: injected into tumors, starting at 250 micrograms per tumor once weekly for up to 8 weeks, with a second cohort at 500 micrograms per tumor. Only 3 adults with melanoma started.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-02225366"
+        },
+        {
+          "text": "A dosing-guide site with a supplier shop link says LL-37 is commonly described at 125 mcg daily by subcutaneous injection or 50 to 60 mcg twice daily. It also lists a weight-based figure of 50 mcg per kg per day and topical use at 0.5 and 1.6 mg/mL twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says no validated human injection protocol exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer, an educational website that links to suppliers, says 100 to 200 mcg per day is used for immune support and 10 to 50 mcg/mL for topical wound use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peaked Labs, a peptide-guide site that sells a paid guide, says 100 to 200 mcg injected under the skin is used for immune support, and 50 to 100 mcg/mL applied to wounds. It says this is mostly preclinical evidence.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "In trials the skin treatment was applied twice weekly and the tumor injections once weekly. Online sources describe once daily injections (often 5 days a week) or 2 to 3 times a week, with no trial behind either.",
+      "items": [
+        {
+          "text": "Twice weekly application to leg ulcers was used in the 34-person trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25041740"
+        },
+        {
+          "text": "Twice weekly application to leg ulcers was used in the 148-person trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34687253"
+        },
+        {
+          "text": "Tumor injections were given once weekly in the registered melanoma trial.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-02225366"
+        },
+        {
+          "text": "A dosing-guide site with a supplier shop link says LL-37 is commonly described at 125 mcg daily or 50 to 60 mcg twice daily by subcutaneous injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that links to supplier partners, says community use is once daily, often 5 days a week, and states this is not validated by trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peaked Labs says 100 to 200 mcg is injected 2 to 3 times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says systemic use is once daily by injection under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Human skin trials lasted 4 weeks and the melanoma trial up to 8 weeks. No study of stopping or repeating courses was found. Online sources describe 2 to 8 week blocks with breaks, which has not been tested.",
+      "items": [
+        {
+          "text": "Treatment lasted 4 weeks in the 34-person leg ulcer trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25041740"
+        },
+        {
+          "text": "Tumor injections ran for up to 8 weeks in the registered melanoma trial.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-02225366"
+        },
+        {
+          "text": "Peaked Labs says 4 to 8 week cycles with 2 to 4 week breaks are standard.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says 4 to 8 weeks on and 4 weeks off for immune support.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that links to supplier partners, describes blocks of 2 to 4 weeks followed by a break and says the schedule is community-derived.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No trial or label storage rules exist for LL-37. Online sources say the powder is kept frozen and a mixed vial is kept refrigerated and used promptly because LL-37 degrades in solution.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers says LL-37 degrades in solution, so a mixed vial is kept refrigerated and out of light and used promptly rather than stored for weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that links to supplier partners, says the powder is stored at -20 C long term and a mixed vial at 2 to 8 C and used promptly. It describes 5 mg of powder with 2 mL of bacteriostatic water as a common mix (2.5 mg/mL).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A natural human immune peptide that damages microbe membranes and also signals to immune cells. How these effects work after a person injects it is not known.",
+      "items": [
+        {
+          "text": "A review describes LL-37 as an antimicrobial peptide that also attracts and modulates immune cells and promotes wound healing and blood vessel growth.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-23246832"
+        },
+        {
+          "text": "Natural LL-37 was high in healing wounds and missing from the edge of chronic ulcers, and blocking it slowed skin re-growth in skin culture. Cell data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-12603850"
+        },
+        {
+          "text": "LL-37 promoted new blood vessel growth in animal and cell models.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-12782669"
+        },
+        {
+          "text": "PeptidesExplorer says LL-37 inserts into bacterial membranes and recruits immune cells through a receptor called FPRL1.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health-testing company, says LL-37 breaks up microbe membranes and attracts immune cells through FPRL1, and that it is not fully selective, so it can disrupt human cell membranes at higher concentrations.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Small trials of skin LL-37 on leg ulcers gave mixed results, and the larger trial found no significant benefit. No human trial of injected LL-37 for immunity or infection was found.",
+      "items": [
+        {
+          "text": "In 34 adults with venous leg ulcers, healing was higher at 0.5 and 1.6 mg/mL than placebo over 4 weeks, but not at 3.2 mg/mL. The trial was small and company-sponsored.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25041740"
+        },
+        {
+          "text": "In 148 adults with venous leg ulcers, the main analysis found no significant improvement in healing over placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34687253"
+        },
+        {
+          "text": "Only 3 adults started the melanoma injection trial and one withdrew for lack of efficacy. It is too small to show benefit.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-02225366"
+        },
+        {
+          "text": "Peaked Labs says the evidence is mostly preclinical and the best human data is for wounds.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "No safety concerns were reported in a first small skin trial, and no serious events were listed in a 3-person melanoma trial. Neither is enough to show long-term safety.",
+      "items": [
+        {
+          "text": "In a first-in-human trial of LL-37 applied to venous leg ulcers (34 participants), no local or systemic safety concerns were reported.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25041740"
+        },
+        {
+          "text": "In a small melanoma trial of LL-37 injected into tumors (3 participants), no serious adverse events were listed.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-02225366"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources mostly describe injection-site redness, swelling and itching, sometimes with flu-like symptoms or fatigue. These come from sellers and guide sites, not trials.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers says reported LL-37 effects are mostly local, namely injection-site redness, swelling, itching or burning, which it links to histamine release from mast cells, and that persistent or spreading reactions are treated as a reason to stop.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A medical spa chain's marketing page says the most common effects are temporary injection-site redness, slight swelling or discomfort that resolves within hours, with some patients reporting temporary fatigue.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Peaked Labs says injection-site redness, mild irritation and brief swelling are the most frequent reports, and that some people have mild flu-like symptoms in the first 24 to 48 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer lists injection-site redness, warmth, flushing and soreness as common, and headache and mild fatigue as less common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Lab and mouse work suggests LL-37 could favor tumor spread, and it is linked to some inflammatory skin diseases. None of this has been tested in people taking it.",
+      "items": [
+        {
+          "text": "Laboratory and mouse melanoma experiments found LL-37 increased invasion-linked and blood-vessel-promoting factors, raising a theoretical concern about tumor spread. This is animal and cell data, not observed in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-36980564"
+        },
+        {
+          "text": "Superpower says LL-37 is a recognized psoriasis autoantigen, contributes to inflammation in rosacea, and has been linked to tumor growth in breast, ovarian and lung cancers. It frames these as theoretical concerns.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer lists autoimmune flare risk, neutrophil trap release (NETosis) at high doses, and Herxheimer-like reactions from biofilm breakdown among serious concerns.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/peptides/ll-37",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA lists LL-37 among compounding substances that may pose significant safety risks. It is not an approved drug.",
+      "items": [
+        {
+          "text": "The FDA says compounded LL-37 may pose immunogenicity risk and peptide impurity concerns, and that it lacks sufficient safety information.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bulk-substances-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -126,5 +126,274 @@
       "finding": "The peptide delayed decline in heart function in mice. It is an animal heart study of a stabilized peptide, not PEG-MGF in people."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose has been studied and PEG-MGF has no approved use. Online sources describe about 100 to 400 micrograms (mcg) per injection, which is untested.",
+      "items": [
+        {
+          "text": "A peptide information database (Peptide Database) says PEG-MGF is commonly described at 200 to 400 mcg per injection, with a more conservative range of 100 to 200 mcg. The page states it is for educational purposes only.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "In a bodybuilding forum thread (IronMagazine Forums), posters describe about 120 to 200 mcg of PEG-MGF per dose, including 120 mcg at first and later 200 mcg. One poster says a dose of about 200 mcg is the one used in Russian protocols. The posts are anecdotal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Nothing was tested in people. Online sources suggest injecting after a workout, but posters disagree and one says to use it on off days.",
+      "items": [
+        {
+          "text": "A peptide information database (Peptide Database) says PEG-MGF is best injected within 1 to 2 hours after a workout.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "In a bodybuilding forum thread (IronMagazine Forums), one poster uses it right after workouts, one runs it 1 hour before a workout, and another says it belongs on non-workout days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Professor Peptide (a site with affiliate links to peptide vendors) says post-workout timing for MGF and PEG-MGF is anecdotal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No human schedule exists. Online sources describe anything from once a week to 4 times a week.",
+      "items": [
+        {
+          "text": "A peptide information database (Peptide Database) says PEG-MGF is commonly used 2 to 3 times weekly, or twice weekly at the conservative dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "In a bodybuilding forum thread (IronMagazine Forums), one poster uses 200 mcg 4 times a week, another says it should be used once a week, and a third uses it three times weekly. The posters disagree.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No study tested repeated use. Online sources describe courses of about 4 to 8 weeks, which is untested.",
+      "items": [
+        {
+          "text": "A peptide information database (Peptide Database) says a typical PEG-MGF cycle is 4 to 8 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "In a bodybuilding forum thread (IronMagazine Forums), one poster describes a 4 week cycle followed by 4 weeks off, and another asks whether to cycle every 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. Online sources say to mix the powder with bacteriostatic water and keep it refrigerated, and inject under the skin or into muscle.",
+      "items": [
+        {
+          "text": "A peptide information database (Peptide Database) says to refrigerate PEG-MGF at 2 to 8 C, protect it from light, and to add bacteriostatic water slowly along the vial wall and swirl gently without shaking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Professor Peptide (a site with affiliate links to peptide vendors) says MGF and PEG-MGF are used by subcutaneous or intramuscular injection after reconstitution with bacteriostatic water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Professor Peptide (affiliate-linked) says reconstituted solution is refrigerated at 2 to 8 C and not frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "In a bodybuilding forum thread (IronMagazine Forums), one poster says they keep reconstituted peptides in bacteriostatic water for about 14 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.ironmagazineforums.com/threads/peg-mgf-users.151551/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "PEG-MGF is a stabilized piece of an insulin-like growth factor 1 (IGF-1) variant with a polyethylene glycol chain added to last longer. How it works in people is unknown, and lab tests of the unmodified peptide gave conflicting results.",
+      "items": [
+        {
+          "text": "Full-length mechano growth factor activated the IGF-1 receptor in cell assays. PEG-MGF was not tested, and the authors say relevance in living animals is unknown.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-kira-2016"
+        },
+        {
+          "text": "Two pharmaceutical companies could not reproduce reported effects of the MGF peptide on mouse and human muscle cells, while mature IGF-1 did work. This tested the unpegylated peptide.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-fornaro-2014"
+        },
+        {
+          "text": "Wikipedia says mechano growth factor is a splice variant of IGF-1 that is rapidly broken down in the body, and that synthetic forms may attach polyethylene glycol to the tyrosine residue to improve stability.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog (a site with affiliate links to a peptide supplier) says pegylation is claimed to extend the half-life to days, a claim it says no peer-reviewed study verifies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide information database (Peptide Database) says pegylation extends the half-life to 48 to 72 hours, with no study cited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No human trial of PEG-MGF was found. Lab and animal findings are mixed, and online sources themselves call the evidence thin.",
+      "items": [
+        {
+          "text": "A mouse study of a stabilized MGF E-domain peptide after experimental heart attack found it delayed the decline in heart function. This is animal heart data, not PEG-MGF in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-mouse-mi-2014"
+        },
+        {
+          "text": "The MGF peptide had no apparent effect on muscle cells or stem cells in a lab study that tried to reproduce earlier claims.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-fornaro-2014"
+        },
+        {
+          "text": "The Peptide Catalog (affiliate-linked) says PEG-MGF is the practical injectable form of MGF, that its claimed half-life of days is unverified, and that both forms are among the least-substantiated muscle peptides.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Professor Peptide (affiliate-linked) says the rationale for PEG-MGF is entirely theoretical and that no controlled human efficacy trial exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA found no human exposure data on PEG-MGF and warns of immune reactions and impurities.",
+      "items": [
+        {
+          "text": "The FDA states it has not identified any human exposure data on drug products containing PEG-MGF by any route and lacks important information about safety issues, and it cites a risk of immunogenicity and complexity from peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-bulk"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources mention injection-site reactions and fatigue, plus a lab-based cancer concern. None of this comes from PEG-MGF trials.",
+      "items": [
+        {
+          "text": "The Peptide Catalog (affiliate-linked) mentions injection-site redness, swelling and irritation reported by community users.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Catalog (affiliate-linked) raises concern from a study of the MGF E-peptide in human prostate cancer cells.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide information database (Peptide Database) lists injection-site soreness and mild fatigue as common, and says to stop if there are unusual growths, severe injection reactions, persistent headaches, vision changes or swelling.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/peg-mgf",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Sport rules",
+      "summary": "Wikipedia says mechano growth factor is banned by the World Anti-Doping Agency.",
+      "items": [
+        {
+          "text": "Wikipedia says illicit use by athletes led to mechano growth factor being banned by the World Anti-Doping Agency.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Mechano_growth_factor",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

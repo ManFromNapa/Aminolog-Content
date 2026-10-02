@@ -124,6 +124,15 @@
       "finding": "LR3 did not improve fetal growth, and circulating amino acids fell, which the authors suggest may reflect higher amino acid use. It is a fetal sheep study."
     },
     {
+      "id": "r-tomas-1996",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "8708565",
+      "year": 1996,
+      "summary": "Rat study (Tomas et al., J Endocrinol) comparing LR3IGF-I with IGF-I given for 7 days by continuous infusion or by one or two injections a day, in normal growing rats and in rats made catabolic with dexamethasone.",
+      "finding": "LR3IGF-I has very low affinity for IGF-binding proteins and is cleared faster than IGF-I, yet it was about 1.5 to 2 times more potent when infused and stayed more potent for several effects when injected once daily. Injection worked much less well than continuous infusion, and LR3IGF-I was barely equal to IGF-I for reversing muscle loss."
+    },
+    {
       "id": "r-mouse-nasal-2025",
       "evidence_type": "animal_study",
       "source_kind": "pubmed",
@@ -133,5 +142,347 @@
       "finding": "LR3 improved body composition and altered amyloid plaque features but did not significantly change cognitive symptoms, so the authors say it does not support LR3 as a monotherapy."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose has been studied. Studied doses are animal only, while online sources describe about 10 to 100 micrograms a day. The approved related drug mecasermin (Increlex) is dosed by body weight for children, not in micrograms.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: in a 2025 study, IGF-1 LR3 was infused at about 1.17 micrograms per kg per hour for one week into growth-restricted fetal sheep, and it did not improve fetal growth.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sheep-2025"
+        },
+        {
+          "text": "Animal study only, not human data: rats received LR3IGF-I by injection once or twice daily at 320 micrograms a day (normal rats) or 400 micrograms a day (rats made catabolic with dexamethasone) for 7 days.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tomas-1996"
+        },
+        {
+          "text": "Related drug, not a label for LR3: the Increlex (mecasermin) label gives a starting dose of 0.04 to 0.08 mg per kg twice daily by subcutaneous injection in children with severe primary IGF-1 deficiency, raised by 0.04 mg per kg per dose after at least one week if tolerated, up to 0.12 mg per kg twice daily.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-increlex-label"
+        },
+        {
+          "text": "A peptide information site (AllAboutPeptides) says IGF-1 LR3 is commonly described at 10 to 20 micrograms per day for beginners, 20 to 40 for intermediate users and 50 to 100 for advanced users. The page carries a link to a recommended vendor, so it is treated as a seller-affiliated source.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer, an education site, lists a beginner dose of 20 to 30 micrograms a day, a standard dose of 30 to 40 and an advanced dose of 40 to 50 split across the day. None of this comes from a human study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/igf-1-lr3-dosage-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HubMed Ed, an education company that promotes its own peptide-therapy courses and does not sell IGF-1 LR3, says suggested protocols often use about 10 to 20 micrograms a day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to an outside peptide seller, says 20 to 50 micrograms once daily under the skin, with a research range of 20 to 80 micrograms a day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day for LR3. Online sources name post-workout, before bed or morning, and the sources disagree.",
+      "items": [
+        {
+          "text": "PeptidesExplorer says post-workout or before bed are the best windows.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/igf-1-lr3-dosage-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to an outside peptide seller, says to inject in the morning.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The approved related drug mecasermin must be given within 20 minutes of a meal or snack because of low blood sugar. Online sources say to take LR3 with carbohydrates or food, which is untested for LR3.",
+      "items": [
+        {
+          "text": "Related drug, not a label for LR3: the Increlex label says to give it shortly before or after (within 20 minutes of) a meal or snack because of its insulin-like effects on blood sugar, and to withhold the dose if the patient cannot eat.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-increlex-label"
+        },
+        {
+          "text": "HubMed Ed says taking IGF-1 LR3 with some carbohydrates can help keep blood sugar stable.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says never to inject on an empty stomach and to wait 30 to 60 minutes after eating. It says to eat 30 to 50 grams of carbohydrate right after a post-workout dose, then a full meal about 30 minutes later.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/igf-1-lr3-dosage-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to an outside peptide seller, says to give the dose with food to reduce insulin-like blood sugar effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Mecasermin is given twice daily and missed doses are not made up. No human data exist for LR3, and online sources describe once-daily or split daily dosing.",
+      "items": [
+        {
+          "text": "Related drug, not a label for LR3: the Increlex label says that if a dose is missed, the next doses should not be increased to make up for it.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-increlex-label"
+        },
+        {
+          "text": "In rats, LR3IGF-I was more potent than IGF-I even when injected once daily, but injection once or twice a day worked much less well than continuous infusion. This is an animal study.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tomas-1996"
+        },
+        {
+          "text": "PeptidesExplorer says to inject once daily for beginners and to split the dose for advanced users.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/igf-1-lr3-dosage-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HubMed Ed says the peptide stays active for 20 to 30 hours and that injections are typically daily during active cycles. It gives no study for either claim.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to an outside peptide seller, says to inject once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human trial of any length exists for LR3. Animal studies ran from 1 week to 7 months, and online sources describe 4 to 6 weeks on followed by a break, which is untested.",
+      "items": [
+        {
+          "text": "In growth-restricted fetal sheep, one week of LR3 infusion did not improve growth. This is an animal study.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sheep-2025"
+        },
+        {
+          "text": "In a mouse model of Alzheimer disease, LR3 given through the nose for 7 months improved body composition but did not significantly change cognitive symptoms.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-mouse-nasal-2025"
+        },
+        {
+          "text": "A peptide information site (AllAboutPeptides) describes cycles of 4 to 6 weeks. The page carries a link to a recommended vendor, so it is treated as a seller-affiliated source.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer describes 4 to 6 weeks on and 4 to 6 weeks off as the standard protocol and says no post-cycle therapy is needed because it does not suppress hormones.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/igf-1-lr3-dosage-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HubMed Ed says the 4 to 6 week course is usually followed by a break of equal or longer length to let receptors reset.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to an outside peptide seller, says 4 to 6 weeks should be followed by a 4 to 6 week washout so the body's own hormone axis can recover. This disagrees with PeptidesExplorer, and neither claim has been tested in people.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Label storage exists only for mecasermin, which is refrigerated and used within 30 days of opening. Online storage advice for LR3 is not backed by any study.",
+      "items": [
+        {
+          "text": "Related drug, not a label for LR3: the Increlex label says unopened vials are refrigerated at 2 to 8 C, not frozen and protected from light, and that an opened vial is kept refrigerated and used within 30 days.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-increlex-label"
+        },
+        {
+          "text": "Related drug, not a label for LR3: the Increlex label says it is given by subcutaneous injection only, not into a vein, and that injection sites are rotated among the upper arm, thigh, buttock and abdomen.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-increlex-label"
+        },
+        {
+          "text": "HubMed Ed says IGF-1 LR3 is given by subcutaneous injection into the abdomen or thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says the freeze-dried powder keeps 12 to 24 months in a freezer or 6 to 12 months in a refrigerator, and that mixed solution is refrigerated for 2 to 4 weeks away from light and never shaken. It lists under-the-skin sites on the lower abdomen, outer thighs and upper arms, and also lists muscle injection, which the mecasermin label does not allow.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/igf-1-lr3-dosage-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to an outside peptide seller, says the powder is stored frozen at minus 20 C and mixed with bacteriostatic water, and that the mixed solution is kept at 2 to 8 C and not repeatedly frozen and thawed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "LR3 is a changed form of IGF-1 that binds poorly to IGF-binding proteins, which in animals makes it more potent. How it acts in people has not been studied.",
+      "items": [
+        {
+          "text": "Related drug, not a label for LR3: the Increlex label says IGF-1 activates the type 1 IGF-1 receptor, which resembles the insulin receptor, and drives uptake of glucose, fatty acids and amino acids to support growing tissue.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-increlex-label"
+        },
+        {
+          "text": "In rats, LR3IGF-I binds IGF-binding proteins very poorly and clears from the blood faster than IGF-I, yet it was about 1.5 to 2 times more potent when infused.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tomas-1996"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No human trial of LR3 was found. Animal results are mixed, with greater growth effects than IGF-1 in rats but no growth benefit in growth-restricted fetal sheep and no cognitive benefit in Alzheimer mice.",
+      "items": [
+        {
+          "text": "In rats, injected LR3IGF-I was more potent than IGF-I for several growth effects, but it was barely equal to IGF-I for reversing muscle loss in rats made catabolic.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tomas-1996"
+        },
+        {
+          "text": "In growth-restricted fetal sheep, one week of LR3 did not improve fetal growth.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sheep-2025"
+        },
+        {
+          "text": "In Alzheimer-model mice, 7 months of intranasal LR3 improved body composition and changed amyloid plaques but did not significantly change cognitive symptoms.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-mouse-nasal-2025"
+        },
+        {
+          "text": "The Peptide Protocol Wiki says no pharmacokinetic, pharmacodynamic, tolerability or safety data exist in humans for IGF-1 LR3.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/igf-1-lr3/risks",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Related approved drug",
+      "summary": "LR3 has no label. The label for the related drug mecasermin warns of severe low blood sugar and other serious effects, and it is not proof of what LR3 does.",
+      "items": [
+        {
+          "text": "The Increlex (mecasermin) label warns of severe hypoglycemia including seizures, intracranial hypertension, tonsil and adenoid enlargement, slipped capital femoral epiphysis and scoliosis progression, and contraindicates it in children with active or past malignancy. LR3 itself has no human label.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-increlex-label"
+        }
+      ]
+    },
+    {
+      "title": "Animal studies",
+      "summary": "One animal study found lower amino acid levels in the blood. No human safety data exist.",
+      "items": [
+        {
+          "text": "In growth-restricted fetal sheep given LR3 for one week, circulating amino acids fell, which the authors suggest may reflect higher amino acid use.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sheep-2025"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Education sites list low blood sugar, possible cell-growth risk and product quality as the main concerns, none from human trials of LR3.",
+      "items": [
+        {
+          "text": "The Peptide Protocol Wiki, an educational site that says it does not sell products, lists oncogenic potential through IGF-1 receptor signaling, severe hypoglycemia, unregulated product quality and the absence of any human clinical trial as the main risks of IGF-1 LR3.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/igf-1-lr3/risks",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HubMed Ed lists blood sugar swings, hypoglycemia if injected without eating, insulin resistance with frequent use, water retention, headaches, joint stiffness and a theoretical risk of stimulating abnormal cell growth.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

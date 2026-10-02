@@ -135,7 +135,512 @@
       "year": 2020,
       "summary": "Phase 2 open-label trial of thymalfasin versus no extra treatment in hospitalized adults with COVID-19 and lymphocytopenia (56 enrolled; ClinicalTrials.gov).",
       "finding": "The study was terminated early because of slow enrollment and the principal investigator moving institutions; no results are posted, so it provides no efficacy data."
+    },
+    {
+      "id": "pmid-9581695",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9581695",
+      "year": 1998,
+      "summary": "Randomized controlled trial in 98 patients with chronic hepatitis B comparing 26 weeks or 52 weeks of thymosin alpha-1 1.6 mg subcutaneously twice a week with no treatment (Chien et al., Hepatology).",
+      "finding": "The complete virological response rate 18 months after entry was 40.6% after the 26-week course, and lower (about 26%) after 52 weeks. Both were higher than in untreated patients. Responses kept accumulating after therapy ended, and no significant side effects were seen."
+    },
+    {
+      "id": "pmid-11381492",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "11381492",
+      "year": 2001,
+      "summary": "Pharmacist review of thymosin alpha-1 pharmacology, pharmacokinetics, trials and dosing (Ancell et al., Am J Health Syst Pharm).",
+      "finding": "Thymosin alpha-1 is thought to modulate the immune system by augmenting T-cell function. It is rapidly absorbed, peaks in serum within 2 hours and has a half-life of about 2 hours. For hepatitis B and C the reviewed dose was 1.6 mg subcutaneously twice a week. Most studies saw only local irritation at the injection site."
+    },
+    {
+      "id": "pmid-9537454",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9537454",
+      "year": 1998,
+      "summary": "Randomized, double-blind, placebo-controlled trial in 109 patients with chronic hepatitis C of interferon with or without thymosin alpha-1 1.6 mg subcutaneously twice weekly for 26 weeks (Sherman et al., Hepatology).",
+      "finding": "End-of-treatment biochemical response was 37.1% with the combination, 16.2% with interferon alone and 2.7% with placebo. Sustained responses were low (14.2% versus 8.1%). The authors called for longer duration and varied dosing."
+    },
+    {
+      "id": "pmid-39814420",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "39814420",
+      "year": 2025,
+      "summary": "TESTS: multicentre, double-blind, placebo-controlled phase 3 trial of thymosin alpha-1 injected subcutaneously every 12 hours for up to 7 days in 1,106 adults with sepsis at 22 centres in China (Wu et al., BMJ; NCT02867267; partly funded by SciClone Pharmaceuticals).",
+      "finding": "28-day mortality was 23.4% with thymosin alpha-1 and 24.1% with placebo (hazard ratio 0.99, 95% CI 0.77 to 1.27). No secondary or safety outcome differed significantly. The authors found no clear evidence of benefit."
+    },
+    {
+      "id": "pmid-17600290",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "17600290",
+      "year": 2007,
+      "summary": "Review of thymosin alpha-1 from animal models to clinical trials (Garaci et al., Ann N Y Acad Sci).",
+      "finding": "Reports that thymosin alpha-1 can activate infected dendritic cells through Toll-like receptor signaling and increase expression of tumor, viral and major histocompatibility complex antigens, partly explaining its synergy with interferon."
+    },
+    {
+      "id": "pmid-26096650",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "26096650",
+      "year": 2015,
+      "summary": "Lab study of thymosin alpha-1 on human monocyte-derived dendritic cells stimulated with viral or bacterial Toll-like receptor agonists or infected with viruses or bacteria (Giacomini et al., Expert Opin Biol Ther).",
+      "finding": "Thymosin alpha-1 increased dendritic cell maturation markers and interferon with viral stimulation, and lowered the same measures with bacterial stimulation. This is cell culture work, not a clinical result."
+    },
+    {
+      "id": "pmid-32442287",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "32442287",
+      "year": 2020,
+      "summary": "Retrospective review of 76 severe COVID-19 patients at 2 hospitals in Wuhan, comparing those who received thymosin alpha-1 with those who did not (Liu et al., Clin Infect Dis).",
+      "finding": "Mortality was 11.11% with thymosin alpha-1 versus 30.00% without (P = .044). The groups were not randomized, so this does not show the drug caused the difference."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Trials in hepatitis B and C used 1.6 mg injected under the skin twice a week, and a hepatitis B trial found 0.8 mg and 1.6 mg similar. Online sources describe 1.6 mg twice weekly, with a few describing 1 mg daily or higher doses; no approved US label sets a dose.",
+      "items": [
+        {
+          "text": "A randomized trial in 98 patients with chronic hepatitis B gave 1.6 mg subcutaneously twice a week.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9581695"
+        },
+        {
+          "text": "A pharmacist review gave 1.6 mg subcutaneously twice a week as the dose used in hepatitis B and C trials.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11381492"
+        },
+        {
+          "text": "A trial in 316 Japanese adults with chronic hepatitis B compared 0.8 mg and 1.6 mg. Response rates were similar in both groups (for example 22.8% HBe-antigen clearance at 1.6 mg).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15850471"
+        },
+        {
+          "text": "A hepatitis C trial of 109 patients gave 1.6 mg twice weekly with interferon.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9537454"
+        },
+        {
+          "text": "A registered phase 2 trial in hospitalized adults with COVID-19 and lymphocytopenia planned 1.6 mg subcutaneously per dose. It ended early with 56 enrolled and posted no results.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nct-04487444"
+        },
+        {
+          "text": "Peptide Protocol Wiki, an educational site that lists supplier links, says the standard amount is 1.6 mg injected subcutaneously.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says the usual dose is 1.6 mg twice weekly, and for acute conditions 1.6 mg daily or 3.2 mg twice weekly, possibly rising to 6.4 mg twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says 1.6 mg twice weekly for adults, and 40 micrograms per kilogram for adults under 40 kg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A dosing-guide site with supplier links and discount codes says community protocols circulating online include 1 mg daily, and states these are not drawn from controlled trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day. Online sources say any consistent time works.",
+      "items": [
+        {
+          "text": "Peptidepedia says it can be given at any time of day without regard to meals. It adds that some practitioners prefer mornings, but no clinical evidence requires a specific time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says thymosin alpha-1 has no specified time of day, with the emphasis on consistent spacing between injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food or fasting with thymosin alpha-1. One online source says meals do not matter.",
+      "items": [
+        {
+          "text": "Peptidepedia says it can be given without regard to meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Hepatitis B and C trials gave it twice a week, and the sepsis phase 3 trial gave it every 12 hours for up to 7 days. Online sources mostly agree on twice weekly, with some describing daily dosing, and none were backed by a label.",
+      "items": [
+        {
+          "text": "Randomized hepatitis B trial: 1.6 mg subcutaneously twice a week.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9581695"
+        },
+        {
+          "text": "Sepsis phase 3 trial (1,106 adults): injection every 12 hours for up to 7 days, stopped earlier at ICU discharge, death or withdrawal. It found no mortality benefit.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-39814420"
+        },
+        {
+          "text": "A registered phase 2 COVID-19 trial planned a once-daily injection for 1 week.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nct-04487444"
+        },
+        {
+          "text": "A pharmacist review says thymosin alpha-1 is absorbed quickly, peaks within 2 hours, returns to baseline within 24 hours and has a half-life of about 2 hours.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11381492"
+        },
+        {
+          "text": "Peptide Protocol Wiki says twice weekly separated by 3 to 4 days as the standard, daily during chemotherapy cycles for cancer, and daily for 7 days in sepsis.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says twice weekly, 3 to 4 days apart, and that a dose missed by 1 to 2 days is usually resumed without doubling up.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says 1.6 mg two to three times per week during active treatment, with daily injections for 7 to 14 days during illness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A dosing guide site that links to a peptide seller says thymosin alpha-1 is injected once daily in its standard protocol, whereas clinical regimens are described as twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Hepatitis B trials gave 24 to 52 weeks, and in one trial 26 weeks did at least as well as 52 weeks. The sepsis trial gave up to 7 days. Online sources describe breaks of 1 to 4 weeks that no study tested, and no human data on tolerance were found.",
+      "items": [
+        {
+          "text": "In 98 patients with hepatitis B, 26 weeks of treatment gave a 40.6% complete response at 18 months, and extending to 52 weeks did not do better. Responses kept increasing after treatment ended.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9581695"
+        },
+        {
+          "text": "In 316 Japanese adults with hepatitis B, treatment ran 24 weeks with follow-up to 72 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15850471"
+        },
+        {
+          "text": "The sepsis phase 3 trial treated for up to 7 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-39814420"
+        },
+        {
+          "text": "A registered phase 2 COVID-19 trial planned 1 week of treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nct-04487444"
+        },
+        {
+          "text": "Peptide Protocol Wiki says 6 to 12 months for hepatitis B, typically 3 to 6 months for immune support, and treatment matching the chemotherapy course in cancer.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says it does not appear to cause receptor downregulation or tachyphylaxis (fading effect), so continuous use is common, and some practitioners use 8 to 12 week cycles followed by 4-week breaks for prevention.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says the most common protocol is 3 months on then 1 month off, and says it causes no dependence or withdrawal effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says 4 to 12 weeks for immune support and community use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A dosing-guide site with supplier links and discount codes says community protocols include daily dosing for 10 to 30 days, and states these are not drawn from controlled trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No trial or label addresses storage. Online sources agree the powder is kept at 2 to 8 C, but give different limits for a mixed vial, from immediate use to about 30 days. They describe injecting under the skin of the abdomen, thigh or upper arm with rotation.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki says the powder is stored at 2 to 8 C, protected from light, not frozen. It says a reconstituted vial should be used immediately and any remainder discarded, because there is no preservative.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says to inject under the skin and rotate between the front of the abdomen, front of the thigh and upper arm, at least 1 inch from earlier injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says the powder is stored at 2 to 8 C, and a reconstituted vial is refrigerated, kept from light, never frozen and used within 28 to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says to rotate between the abdomen (2 inches from the navel), front of the thigh and back of the upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says a reconstituted vial is kept at 2 to 8 C, used within 30 days and not frozen, and to rotate sites on the abdomen, thigh or upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says abdomen, thigh or upper arm sites are rotated, and a mixed vial is kept at 2 to 8 C and used within about 30 days without freezing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A dosing guide site that links to a peptide seller says a mixed vial is refrigerated and used within 7 days, and that sites are rotated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Thought to modulate the immune system by boosting T-cell and dendritic cell activity. How it works in people is not settled.",
+      "items": [
+        {
+          "text": "A pharmacist review says thymosin alpha-1 is thought to modulate the immune system by augmenting T-cell function.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11381492"
+        },
+        {
+          "text": "A review says it activates infected dendritic cells through Toll-like receptor signaling and raises expression of tumor, viral and major histocompatibility complex antigens.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17600290"
+        },
+        {
+          "text": "In human dendritic cells in a dish, it boosted maturation and interferon responses to viral stimulation and lowered them with bacterial stimulation. This has not been confirmed in patients.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26096650"
+        },
+        {
+          "text": "Peptide Protocol Wiki describes an immune-mediated mechanism acting on T-cell and natural killer cell function.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Small hepatitis B trials show modest benefit (about 41% complete response after 26 weeks versus a lower rate untreated). The largest trial, a phase 3 in 1,106 adults with sepsis, found no survival benefit. Online claims go further than the trials.",
+      "items": [
+        {
+          "text": "Hepatitis B, 98 patients: complete virological response 40.6% 18 months after a 26-week course, higher than in untreated patients, with improved liver biopsy scores.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9581695"
+        },
+        {
+          "text": "Hepatitis B, 98 patients: adding thymosin alpha-1 to interferon gave HBeAg loss of 45.8% versus 28.0%, a difference that was not statistically significant (p=0.067).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16640105"
+        },
+        {
+          "text": "Sepsis, 1,106 adults in a phase 3 trial: 28-day mortality was 23.4% with thymosin alpha-1 and 24.1% with placebo. No clear benefit was found.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-39814420"
+        },
+        {
+          "text": "Sepsis, 361 ICU patients in an earlier trial: 28-day mortality was 26.0% versus 35.0%, a borderline result (relative risk 0.74, 95% CI 0.54 to 1.02). Patients were not placebo-blinded.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-23327199"
+        },
+        {
+          "text": "Severe COVID-19, 76 patients reviewed retrospectively: mortality 11.11% versus 30.00% without it. The groups were not randomized.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-32442287"
+        },
+        {
+          "text": "InnerBody, a health-information site, describes thymosin alpha-1 as helping autoimmune disease, cancers, hepatitis, COVID-19, ME/CFS and sepsis, and says Zadaxin is FDA-approved. FDA sources found for this review show no US approval, so the approval claim conflicts with them.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.innerbody.com/thymosin-alpha-1-peptide",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A physician's practice page says thymosin alpha-1 may strengthen and balance the immune system, rebalance autoimmune conditions such as Hashimoto's, and improve sepsis survival, and promotes booking a call for local patients. It notes it is not FDA-approved for general use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Trials in hepatitis B, hepatitis C and sepsis reported mostly mild effects, mainly local irritation at the injection site and liver enzyme changes.",
+      "items": [
+        {
+          "text": "In 316 Japanese patients with hepatitis B, adverse drug reactions were mild and mostly involved fluctuations in liver enzymes.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15850471"
+        },
+        {
+          "text": "In the 1,106-patient sepsis phase 3 trial, no secondary or safety outcome differed significantly from placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-39814420"
+        },
+        {
+          "text": "In 361 ICU patients with severe sepsis, no serious drug-related adverse event was recorded.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-23327199"
+        },
+        {
+          "text": "In 98 hepatitis B patients, no significant side effects were observed.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9581695"
+        },
+        {
+          "text": "A pharmacist review says most studies saw only local irritation at the injection site.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11381492"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "One online source says reactions are usually mild: injection site redness, soreness or swelling, brief tiredness and flu-like symptoms.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers says reactions to thymosin alpha-1 are usually mild, mainly redness, soreness or swelling at the injection site that resolves within hours, transient fatigue early on, and flu-like symptoms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA lists thymosin alpha-1 among bulk substances nominated for compounding and says safety information is inadequate.",
+      "items": [
+        {
+          "text": "FDA's page lists thymosin-alpha-1 as a nominated but withdrawn bulk substance and says compounded versions may carry a significant risk of immunogenicity (immune reaction) for certain routes, with impurity concerns. It does not say the substance is approved.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-cat2-bulks-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

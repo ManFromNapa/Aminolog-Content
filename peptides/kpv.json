@@ -138,5 +138,313 @@
       "finding": "KPV appears in the list of substances nominated but withdrawn (previously category 2). The page says FDA has not identified human exposure data for KPV by any route and lacks information on whether it would cause harm. This does not make KPV an approved drug."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved, and no human dosing study exists. The only studied dose is in cell cultures. Online sources describe about 200 mcg to 2 mg by mouth or injection, and topical creams at 0.1 to 1 percent, none of it tested in people.",
+      "items": [
+        {
+          "text": "Cell-culture study only, not human data: KPV at 50 micrograms per mL restored cell viability and reduced IL-1 beta release in human skin cells (keratinocytes) exposed to fine particulate matter.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40073467"
+        },
+        {
+          "text": "An educational website that states it is not affiliated with any vendor (thekpvpeptide.com) says oral KPV is commonly described at 500 mcg to 1 mg once or twice daily, injectable KPV at 250 to 500 mcg once or twice daily, and topical KPV at 0.1 to 1 percent once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A prescribing clinic (Beverly Hills Rejuvenation Center) says its oral KPV is a 250 mcg capsule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Path to Peptides site, which has affiliate links and sells products, describes 500 mcg to 2 mg by mouth or 200 to 500 mcg injected under the skin, each 1 to 2 times daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "My Peptide Story, a site that says it is not a vendor, says common oral doses are 200 to 500 mcg once or twice daily and that community reports cluster around 500 mcg injected, which it calls anecdotal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mypeptidestory.com/peptides/kpv",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day for KPV. Online sources mention first thing in the morning or splitting doses across the day because KPV is said to be short-lived.",
+      "items": [
+        {
+          "text": "thekpvpeptide.com says consistency matters more than specific timing, and that doses should be taken at roughly the same times each day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller that sells KPV, says there is no confirmed data on the best injection timing, though morning use is common in research frameworks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food and KPV in people. Online sources disagree: one says food makes little difference, others say to take capsules on an empty stomach or with food depending on the goal.",
+      "items": [
+        {
+          "text": "A prescribing clinic page on oral KPV (Beverly Hills Rejuvenation Center) says the capsule form is taken once daily on an empty stomach, either first thing in the morning or between meals, and that timing relative to meals is set to influence exposure along the gut.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "thekpvpeptide.com says taking KPV with or without food does not substantially change absorption, and that some users tolerate it better with meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Path to Peptides says oral capsules go on an empty stomach for whole-body effects or with food to target the gut, and gives no food rule for injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human data exist on how often KPV should be used. Online sources describe once or twice daily, with twice daily called most common.",
+      "items": [
+        {
+          "text": "thekpvpeptide.com says twice daily is the most common pattern because of KPV's short half-life, an untested claim.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A prescribing clinic (Beverly Hills Rejuvenation Center) describes its oral capsule as once daily during an active course.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Path to Peptides describes once or twice daily for both oral and injected KPV.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No study in people tested how long to use KPV, and FDA says it found no human exposure data. Online sources describe courses of 4 to 8 weeks, sometimes up to 12, then reassessment.",
+      "items": [
+        {
+          "text": "FDA's bulk-substances page says it has not identified human exposure data for KPV by any route and lacks information on whether it would cause harm.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-bulk-substances-page"
+        },
+        {
+          "text": "thekpvpeptide.com says standard protocols run 4 to 8 weeks followed by evaluation, with 2 to 4 week breaks common, and that cycling is not mechanically required. It also says no multi-year continuous-use studies have been published.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A prescribing clinic (Beverly Hills Rejuvenation Center) says an oral course typically runs 4 to 8 weeks and then is reassessed, and that extending it rarely helps if nothing changed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "My Peptide Story says oral use is referenced in 4 to 12 week cycles, with no established cycling requirement, and that continuous long-term use remains unstudied.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mypeptidestory.com/peptides/kpv",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No study or label covers storage. In animals, KPV was given in drinking water or in nanoparticle gels. Online sellers describe refrigerating injectable KPV after mixing and rotating injection sites.",
+      "items": [
+        {
+          "text": "In a mouse colitis study, KPV was given orally by adding it to drinking water, and the peptide was taken up into gut cells through the PepT1 transporter (animal study; no human administration data).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18061177"
+        },
+        {
+          "text": "In a mouse colitis study, KPV was delivered by mouth inside hyaluronic acid nanoparticles embedded in a chitosan/alginate hydrogel, designed to release in the colon (animal study).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-28143741"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says KPV powder is kept refrigerated at about 4 C away from light and moisture, and mixed solution is kept at 2 to 8 C for about 28 days. It says to rotate injection sites among the lower abdomen, thigh and flank.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Path to Peptides says mixed solution is refrigerated and used within 30 days, never frozen, and that injections go in the lower abdomen or thigh with sites rotated each time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "thekpvpeptide.com describes using a 5 mg vial mixed with 2 mL of bacteriostatic water, a 29- or 31-gauge insulin syringe, and rotating injection sites among the abdomen, outer thigh and back of the upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "In mouse and cell studies KPV enters gut cells through a peptide transporter (PepT1) and dampens inflammatory signaling (NF-kB and MAP kinase). How, or whether, it acts in people is unknown.",
+      "items": [
+        {
+          "text": "In human intestinal cells KPV entered through the PepT1 transporter and reduced NF-kB and MAP kinase signaling and cytokine release. Cell and mouse data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18061177"
+        },
+        {
+          "text": "In mouse colitis, KPV reduced inflammation, and effects appeared at least partly independent of the melanocortin-1 receptor.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18092346"
+        },
+        {
+          "text": "A telehealth company that sells clinician-built peptide protocols presents KPV as a gut and skin anti-inflammatory that works without suppressing the immune system, while admitting the evidence is preclinical.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "The best evidence is from mice with colitis, where oral KPV reduced inflammation and weight loss. No human trial was found, and FDA says it has no human exposure data.",
+      "items": [
+        {
+          "text": "Oral KPV in drinking water reduced colitis severity in two mouse models (DSS and TNBS), with effects at nanomolar concentrations in cells.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18061177"
+        },
+        {
+          "text": "Hyaluronic acid nanoparticles carrying KPV reduced colon damage and TNF-alpha in mice and worked better than a simpler KPV formulation.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-28143741"
+        },
+        {
+          "text": "In human skin cells and a 3D skin model, KPV reduced oxidative stress, inflammatory signaling and cell death after exposure to fine particulate matter.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40073467"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "No human side effect data exist. Online sources describe mild stomach upset with capsules and mild redness at injection sites, but these are not from trials.",
+      "items": [
+        {
+          "text": "In a mouse colitis study, KPV-loaded nanoparticles appeared nontoxic and biocompatible with intestinal cells in culture. This was a formulation test in animals and cells, and human side effects are not documented.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-28143741"
+        },
+        {
+          "text": "thekpvpeptide.com says oral use is associated with occasional mild nausea or loose stools in the first days, injected use with mild redness at the injection site and rare transient fatigue, and topical use with occasional mild irritation, and states no serious adverse events appear in published research.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thekpvpeptide.com/kpv-side-effects/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A prescribing clinic (Beverly Hills Rejuvenation Center) describes mild nausea or gastrointestinal upset as the most common issue with oral KPV and says it often settles with timing adjustments.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "My Peptide Story says user reports mention occasional mild stomach symptoms, passing skin reactions with topical use, and possibly increased appetite, and flags possible interference with appetite suppressants.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mypeptidestory.com/peptides/kpv",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says it has found no human exposure data for KPV by any route, and a primary care clinic warns about unknown purity and dosing in products sold online.",
+      "items": [
+        {
+          "text": "FDA lists KPV among bulk substances nominated for compounding but withdrawn, and says it has not identified human exposure data by any route and lacks information on whether it would cause harm.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-bulk-substances-page"
+        },
+        {
+          "text": "A primary care clinic article (InCareNow) says KPV has no human clinical trials and no FDA approval, and that products sold online carry risks such as uncertain purity, unclear dosing, unsterile injectables and unknown medication interactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.incarenow.com/can-kpv-peptide-really-improve-your-gut-health/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
