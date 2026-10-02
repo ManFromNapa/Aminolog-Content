@@ -3,7 +3,7 @@
   "title": "Blend",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id","name","aliases","components","other_components","regulatory_status","used_for","summary","administration_guidance","side_effects","internet_claims","research","last_reviewed"],
+  "required": ["id","name","aliases","components","other_components","regulatory_status","used_for","summary","administration_guidance","side_effects","internet_claims","research","how_to_take","what_it_does","side_effect_groups","last_reviewed"],
   "properties": {
     "id": {"type":"string","pattern":"^[a-z0-9-]+$"},
     "name": {"type":"string","minLength":1},

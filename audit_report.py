@@ -27,6 +27,27 @@ def link(r):
     return f"[{'Regulator' if k == 'regulator' else 'FDA'} source]({i})"
 
 
+def print_new_sections(d, by_id):
+    def item_line(item):
+        flag = ", conflicts with label" if item.get("conflicts_with_label") else ""
+        v = item["validity"].replace("_", " ")
+        if item["label"] == "research":
+            r = by_id.get(item["citation_id"])
+            cite = f"{EVIDENCE[r['evidence_type']]}, {link(r)}" if r else "MISSING CITATION"
+            return f"  - Research, {v}{flag} ({cite}): {item['text']}"
+        src = f"[source]({item['url']})" if item["url"] else "no link (vendor)"
+        return f"  - Internet, {v}{flag} ({item['source_type']}, {src}): {item['text']}"
+    sections = [("What it does", d.get("what_it_does", {})), ("How to take it", d.get("how_to_take", {}))]
+    groups = {g["title"]: g for g in d.get("side_effect_groups", [])}
+    if groups: sections.append(("Side effect summary", groups))
+    for title, lines in sections:
+        if not lines: continue
+        print(f"\n### {title}\n")
+        for key, line in lines.items():
+            print(f"- **{key.replace('_', ' ').capitalize()}:** {line['summary'] or 'No data found'}")
+            for item in line["items"]: print(item_line(item))
+
+
 def main():
     only = set(sys.argv[1:])
     files = sorted(glob.glob(os.path.join(ROOT, "peptides", "*.json")))
@@ -58,24 +79,7 @@ def main():
         for e in d["dosing"].get("internet_entries", []):
             src = f"[source]({e['url']})" if e["url"] else "no link (vendor)"
             print(f"- **Internet dose** ({e['source_type']}, {src}): {e['text']}  \n  *{e['population']}*")
-        def item_line(item):
-            flag = ", conflicts with label" if item.get("conflicts_with_label") else ""
-            v = item["validity"].replace("_", " ")
-            if item["label"] == "research":
-                r = by_id.get(item["citation_id"])
-                cite = f"{EVIDENCE[r['evidence_type']]}, {link(r)}" if r else "MISSING CITATION"
-                return f"  - Research, {v}{flag} ({cite}): {item['text']}"
-            src = f"[source]({item['url']})" if item["url"] else "no link (vendor)"
-            return f"  - Internet, {v}{flag} ({item['source_type']}, {src}): {item['text']}"
-        sections = [("What it does", d.get("what_it_does", {})), ("How to take it", d.get("how_to_take", {}))]
-        groups = {g["title"]: g for g in d.get("side_effect_groups", [])}
-        if groups: sections.append(("Side effect summary", groups))
-        for title, lines in sections:
-            if not lines: continue
-            print(f"\n### {title}\n")
-            for key, line in lines.items():
-                print(f"- **{key.replace('_', ' ').capitalize()}:** {line['summary'] or 'No data found'}")
-                for item in line["items"]: print(item_line(item))
+        print_new_sections(d, by_id)
         print("\n### Research\n")
         for r in d["research"]:
             print(f"- **{EVIDENCE[r['evidence_type']]}**, {link(r)}, {r['year']}  \n"
@@ -107,6 +111,7 @@ def main():
             print(f"\n## {b['name']}\n")
             print(f"**Status:** {b['regulatory_status']}  \n**Components:** {', '.join(b['components'] + b['other_components'])}  \n"
                   f"**Aliases:** {', '.join(b['aliases'])}\n\n{b['summary']}\n\n*Marketed for:* {b['used_for']}\n")
+            print_new_sections(b, by_id)
             for title, field in (("Administration guidance", "administration_guidance"), ("Side effects", "side_effects")):
                 print(f"### {title}\n")
                 if not b[field]:
