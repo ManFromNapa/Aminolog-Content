@@ -183,5 +183,409 @@
       "finding": "The page lists Melanotan II among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing Melanotan II may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. Published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.\" The page does not make it an approved drug."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Studied doses were about 0.01 to 0.03 mg per kg under the skin in three small trials of 3 to 10 men. Online sources describe fixed doses of 0.25 to 1 mg per injection, which have not been tested in that form.",
+      "items": [
+        {
+          "text": "0.01 mg/kg subcutaneous injections Monday to Friday for two weeks, escalated by 0.005 mg/kg to 0.025 or 0.03 mg/kg, in an alternating-day placebo design. The authors proposed 0.025 mg/kg/day for future phase I studies.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8637402"
+        },
+        {
+          "text": "A single subcutaneous injection of 0.025 mg/kg versus placebo, with erections monitored for six hours, was studied in ten men with psychogenic erectile dysfunction.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9679884"
+        },
+        {
+          "text": "0.025 mg/kg subcutaneously, given twice versus vehicle twice, in a crossover design, was studied in ten men with erectile dysfunction with organic risk factors.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11018622"
+        },
+        {
+          "text": "A pharmacy and peptide retail site says melanotan II is commonly used at 0.25 to 0.5 mg subcutaneously daily in an initial phase and 0.5 to 1 mg one to two times per week afterward, with a stated maximum of 2 mg per day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide guide site with affiliate links and discount codes says melanotan II is commonly used at 0.25 to 0.5 mg subcutaneously daily during an initial phase and 0.5 to 1 mg one to two times per week afterward.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site that does not appear to sell products, describes a loading phase of 0.25 mg and then 0.5 mg per injection, with maintenance at 0.5 mg. It does not cite studies for these doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate marketplace that links to suppliers and discount codes, says 250 to 500 mcg per day under the skin for 2 to 3 weeks, and single pre-event doses of 500 to 1000 mcg for sexual effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The trials gave doses at a set clinic time and watched effects for up to six hours. Online sources say bedtime injection lets users sleep through nausea and flushing, and add brief sun exposure every few days, which no study has tested.",
+      "items": [
+        {
+          "text": "Erections were monitored for six hours after a single injection in a placebo-controlled crossover study in ten men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9679884"
+        },
+        {
+          "text": "In the three-man pilot, spontaneous erections lasted 1 to 5 hours after dosing, depending on the dose.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8637402"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers, says Melanotan II is commonly injected at bedtime so that peak nausea falls during sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site that does not appear to sell products, says evening or bedtime injection lets a user sleep through early nausea or flushing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The same Peptide Initiative guide says brief UV exposure of 10 to 20 minutes every few days during the early phase is needed to activate the pigment the body is producing. Melanotan II is unapproved and the sun exposure advice is a community claim, not an established practice.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate marketplace that links to suppliers and discount codes, says sexual effects appear within hours of the first dose and visible tanning within 7 to 14 days of daily loading.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study looked at food and Melanotan II. One educational site says an empty stomach speeds absorption but may worsen nausea.",
+      "items": [
+        {
+          "text": "The Peptide Initiative, an educational site that does not appear to sell products, says an empty stomach speeds absorption but may worsen nausea, suggests a light snack 30 to 60 minutes beforehand, and says food timing matters less after the first week. It cites no study for this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The trials gave one or two doses per test, or five doses over two weeks. Online sources describe daily injections for 2 to 3 weeks and then one to three per week, which has not been studied.",
+      "items": [
+        {
+          "text": "In the pilot, injections were given Monday to Friday for two weeks on alternating days with saline, so each man received five Melanotan II doses.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8637402"
+        },
+        {
+          "text": "In the crossover study, Melanotan II 0.025 mg/kg and vehicle were each given twice.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11018622"
+        },
+        {
+          "text": "A pharmacy and peptide retail site says use is daily at first and 0.5 to 1 mg one to two times per week afterward.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site that does not appear to sell products, says daily injections are used at first (the first 2 to 3 weeks) and then 2 to 3 doses per week for maintenance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate marketplace that links to suppliers and discount codes, says 250 to 500 mcg twice weekly is used for maintenance after loading.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest human dosing found was two weeks in three men. No study looked at repeated cycles, tolerance or stopping. Online sources describe a 2 to 3 week loading phase and then open-ended maintenance.",
+      "items": [
+        {
+          "text": "In the three-man pilot, dosing lasted two weeks and two of three men had more skin pigmentation one week after dosing ended.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8637402"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site that does not appear to sell products, describes daily loading for the first 2 to 3 weeks and then maintenance with no stated end date.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate marketplace that links to suppliers and discount codes, describes 2 to 3 weeks of daily loading followed by twice-weekly maintenance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "There is no label or study. Online sources describe keeping mixed vials in the fridge for about 2 to 4 weeks and rotating injection sites. They disagree on freezing, and a UK regulator warned that self-injecting risks infection.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers, says a mixed vial is kept refrigerated away from light for roughly 2 to 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "The same site describes splitting a vial into single-use portions and freezing them to extend storage to a few months, while avoiding repeated freeze-thaw cycles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site that does not appear to sell products, says powder is kept at 2 to 8 degrees C for up to 12 months or frozen at -20 degrees C for up to 2 years, a mixed vial is refrigerated at once and used within 28 to 30 days, and a reconstituted vial is never frozen. This differs from the vendor advice above to freeze portions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The same guide says to add bacteriostatic water slowly down the side of the vial and swirl rather than shake.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The same guide says sites (abdomen, outer thigh, upper arm) are rotated to prevent fatty lumps.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/melanotan-2/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Nursing Times reported in 2008 that the UK medicines regulator (MHRA) warned self-injecting Melanotan carries risks of cross-contamination and infection, and that the bacteriostatic water needed to dilute it is a prescription-only medicine.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.nursingtimes.net/archive/regulator-issues-warning-over-melanotan-tanning-injections-18-11-2008/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Mimics alpha-melanocyte stimulating hormone (alpha-MSH) and switches on several melanocortin receptors. The tanning is thought to come from one receptor type and the sexual effects from another.",
+      "items": [
+        {
+          "text": "The molecule was described as having very strong melanotropic (pigment-stimulating) activity in the lab before the first human pilot.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8637402"
+        },
+        {
+          "text": "Wikipedia says Melanotan II is a non-selective agonist of the melanocortin receptors MC1, MC3, MC4 and MC5, with tanning coming from MC1 and sexual effects from MC4 (and possibly MC3).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Melanotan_II",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A University of New South Wales (UNSW) news article says Melanotan II mimics natural hormones and raises the activity of pigment cells, causing tanning within days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.unsw.edu.au/newsroom/news/2023/01/what-is-melanotan-ii---the-drug-that-the-tga-urges-consumers-to-",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Small trials show it can cause erections and some skin darkening. There are only three tiny trials from the 1990s and 2000s, and the tanning data come from three men.",
+      "items": [
+        {
+          "text": "In ten men with psychogenic erectile dysfunction, 8 of 10 developed clinically apparent erections, with mean tip rigidity above 80% lasting 38.0 minutes on Melanotan II versus 3.0 on placebo (p=0.0045).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9679884"
+        },
+        {
+          "text": "In ten men with organic erectile dysfunction, Melanotan II caused subjectively reported erections in 12 of 19 injections versus 1 of 21 placebo doses, and sexual desire was higher after Melanotan II.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11018622"
+        },
+        {
+          "text": "In three healthy men, two had increased pigmentation of the face, upper body and buttock after five low doses over two weeks.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8637402"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate marketplace that links to suppliers and discount codes, says it darkens skin, raises sexual arousal and may suppress appetite. The site advises a skin check.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "In the small trials, nausea, yawning and stretching, less appetite and spontaneous erections were common. Most were mild, but 4 of 19 injections in one trial caused severe nausea.",
+      "items": [
+        {
+          "text": "In small early trials in men, nausea was reported more often with Melanotan II than placebo, and 4 of 19 injections in one trial caused severe nausea.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11018622"
+        },
+        {
+          "text": "Stretching, yawning and reduced appetite were reported more often with Melanotan II than placebo in ten men with psychogenic erectile dysfunction; none required treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9679884"
+        },
+        {
+          "text": "In a three-man pilot, spontaneous penile erections lasting 1 to 5 hours, mild nausea and, at the highest dose in one man, Grade II somnolence and fatigue were reported; two of three had increased skin pigmentation.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8637402"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Websites list nausea, flushing, tiredness, less appetite, yawning, erections and darker or new moles. One seller says many effects ease in the first one to two weeks, which no trial tested.",
+      "items": [
+        {
+          "text": "RxList, a medical reference website, lists nausea, stomach cramps, decreased appetite, flushing, tiredness, yawning, darkened skin and spontaneous erections as reported effects of Melanotan II.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.rxlist.com/supplements/melanotan-ii.htm",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers, says nausea and flushing are the most common early effects, along with reduced appetite, fatigue, yawning, mole darkening and new moles, and that many effects ease over the first one to two weeks of use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "title": "Serious reports",
+      "summary": "The US Food and Drug Administration (FDA) cites published case reports of melanoma, brain swelling, sympathetic overstimulation and priapism (a painful, prolonged erection). Reviews say a link to melanoma is not proven.",
+      "items": [
+        {
+          "text": "FDA's page on compounding bulk substances says compounded Melanotan II may pose a risk of immune reactions from peptide clumping or impurities, and that published case reports describe serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-bulks-page"
+        },
+        {
+          "text": "Wikipedia says a 2013 review found no conclusive evidence that Melanotan II causes melanoma, a 2021 review said the increased risk can probably be explained by more UV exposure, and reported melanoma cases coincided with heavy sunbathing and sun bed use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Melanotan_II",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A UNSW news article quotes a researcher saying case reports describe melanomas emerging from existing moles during or shortly after Melanotan II use, but evidence for a causal link is lacking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.unsw.edu.au/newsroom/news/2023/01/what-is-melanotan-ii---the-drug-that-the-tga-urges-consumers-to-",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "Regulators in the US, UK and Australia treat Melanotan II as an unapproved drug and warn against using it for tanning.",
+      "items": [
+        {
+          "text": "An FDA page discusses an August 2007 warning letter in which FDA treated Melanotan II as an unapproved new drug that could not be shipped across state lines and said the company made unsubstantiated claims such as reducing skin cancer rates and curing rosacea.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-warning-letter-2007"
+        },
+        {
+          "text": "Nursing Times reported in 2008 that the UK medicines regulator (MHRA) called the product unlicensed, said it has not been tested for safety, quality or effectiveness, and told people not to use it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.nursingtimes.net/archive/regulator-issues-warning-over-melanotan-tanning-injections-18-11-2008/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A UNSW news article says Australia's Therapeutic Goods Administration (TGA) halted Melanotan II's development as a medicine for safety reasons and that advertising or supplying it to the public is illegal there.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.unsw.edu.au/newsroom/news/2023/01/what-is-melanotan-ii---the-drug-that-the-tga-urges-consumers-to-",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

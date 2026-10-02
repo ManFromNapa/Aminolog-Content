@@ -79,7 +79,306 @@
       "year": 2021,
       "summary": "Mouse study (Brain Sci) of dihexa in the APP/PS1 Alzheimer model.",
       "finding": "Dihexa improved water-maze performance and reduced glial activation and inflammatory cytokines through the PI3K/AKT pathway. Animal data only."
+    },
+    {
+      "id": "pmid-41393340",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41393340",
+      "year": 2025,
+      "summary": "Randomized, placebo-controlled phase 2/3 trial (LIFT-AD) of fosgonimeton, a related prodrug of dihexa, in mild-to-moderate Alzheimer's disease (287 in the primary analysis, 549 in the safety set), by Porsteinsson et al., J Alzheimers Dis Rep. Authors include Athira Pharma employees.",
+      "finding": "Daily subcutaneous fosgonimeton 40 mg for 26 weeks did not beat placebo on the primary or secondary endpoints. Serious adverse events were 4.2% vs 6.9% with placebo. Stopping because of adverse events was more common with fosgonimeton (14.2% vs 4.6%), mostly injection site reactions. This is a different compound, not dihexa."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Dihexa has never been tested in people, so no human dose exists. Mice were given 1.44 or 2.88 mg/kg daily. Online sources describe oral amounts from 5 to 100 mg and creams of 1 to 5%, with no study behind them.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: in a 2021 study in 6-month-old APP/PS1 Alzheimer model mice, dihexa at 1.44 mg/kg or 2.88 mg/kg was given once daily for three months.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34827486"
+        },
+        {
+          "text": "A related prodrug, fosgonimeton, was studied in people with Alzheimer's disease at 40 mg injected under the skin daily for 26 weeks. This is a different compound and route, so it does not give a dihexa dose.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-41393340"
+        },
+        {
+          "text": "Path To Peptides, a peptide information site, says people commonly report oral amounts of 10 to 100 mg per dose, with a stated starter range of 10 to 20 mg weekly, or a 1 to 5% cream. The site says no validated human dose exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a peptide information site, lists a low dose of 5 mg and a standard research dose of 10 to 20 mg, by oral or transdermal (through the skin) use, and carries a not-medical-advice disclaimer.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedosing.org/peptides/dihexa",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A seller (Real Peptides) summarizing community reports says dihexa is used orally or sublingually (under the tongue) most often and less often by injection under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing. Online sources say to take oral dihexa in the morning.",
+      "items": [
+        {
+          "text": "Path To Peptides says oral dihexa is taken in the morning.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says morning use lets people monitor cognitive alertness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedosing.org/peptides/dihexa",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food rules. One online source says to take oral dihexa on an empty stomach, with no study behind it.",
+      "items": [
+        {
+          "text": "Path To Peptides says oral dihexa should be taken on an empty stomach.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human data exist. Online sources disagree: some say once daily or every other day, while others warn against daily dosing because of a long duration of action. None of this has been studied.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: APP/PS1 mice received dihexa once daily for three months.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34827486"
+        },
+        {
+          "text": "Path To Peptides says oral dihexa is dosed 1 to 3 times per week, not daily, because of a long duration of action that causes accumulation, and that cream is used 1 to 3 times per week only. The same page also has a table row that says the cream is applied daily, so the page contradicts itself.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says dihexa is taken once per day or every other day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedosing.org/peptides/dihexa",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human trial of dihexa exists, so no safe or effective duration is known. Mice got dihexa for three months. Online sources describe cycles of 4 to 8 weeks and say effects build over weeks.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: APP/PS1 mice received dihexa daily for three months, with improved water-maze performance by the end.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34827486"
+        },
+        {
+          "text": "The related prodrug fosgonimeton was given daily for 26 weeks in people with Alzheimer's disease and did not beat placebo. It is a different compound.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-41393340"
+        },
+        {
+          "text": "Path To Peptides says a standard cycle is 4 to 8 weeks on and 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says a cycle is 4 to 8 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedosing.org/peptides/dihexa",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A seller (Real Peptides) summarizing community reports says effects are said to emerge over several weeks rather than days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label or study covers storage. Online sources say to keep reconstituted dihexa cold, and one says powder is kept at -20 C.",
+      "items": [
+        {
+          "text": "Path To Peptides says the powder can be kept at room temperature or refrigerated, away from light and moisture, and that a compounded cream should be refrigerated at 2 to 8 C and used within 60 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says lyophilized (freeze-dried) powder should be stored at -20 C and reconstituted solutions refrigerated at 2 to 8 C. It also says dihexa has limited solubility in water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/blog/dihexa-research-status-2026",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A seller (Real Peptides) summarizing community reports says reconstituted material is kept refrigerated at 2 to 8 C.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Unknown in people. Dihexa was designed from angiotensin IV to be taken by mouth and reach the brain. The popular HGF and c-Met explanation comes from a 2014 paper that was retracted in 2025.",
+      "items": [
+        {
+          "text": "A 2013 rat and cell study reported dihexa as an orally active analog that crosses the blood-brain barrier and increased synapse formation in the hippocampus. This paper also carries a 2021 journal expression of concern.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-23055539"
+        },
+        {
+          "text": "Peptide Protocol Wiki says the 2014 paper proposing that dihexa binds hepatocyte growth factor (HGF) and boosts its receptor c-Met was retracted in April 2025 for image falsification, so this mechanism is no longer supported. PubMed also lists the paper as retracted.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/blog/dihexa-research-status-2026",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "In 2021 mouse work, dihexa raised brain angiotensin IV and reduced inflammatory signals through the PI3K/AKT pathway. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34827486"
+        },
+        {
+          "text": "Wikipedia says dihexa is derived from angiotensin IV and binds hepatocyte growth factor and potentiates its receptor c-Met, and says no human clinical data are cited. The page does not mention the retraction.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Dihexa",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Only animal data exist. In rodents dihexa improved water-maze memory tests. No completed human trial of dihexa was found.",
+      "items": [
+        {
+          "text": "Dihexa reversed scopolamine-induced water-maze deficits in rats and increased hippocampal synaptogenesis. Animal and cell data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-23055539"
+        },
+        {
+          "text": "In APP/PS1 Alzheimer model mice, dihexa improved water-maze performance and reduced glial activation and inflammatory cytokines.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34827486"
+        },
+        {
+          "text": "The related prodrug fosgonimeton did not significantly improve cognition or daily function versus placebo in a 26-week trial in Alzheimer's disease (difference on the combined score -0.08, p=0.70). This is a different compound.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-41393340"
+        },
+        {
+          "text": "A seller (Real Peptides) says Reddit users report improved memory consolidation, verbal fluency and problem solving, with mixed results and variable product purity, and notes human long-term safety data do not exist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In animals",
+      "summary": "No human safety data exist. Peptide Protocol Wiki says no carcinogenicity studies exist, even though the pathway dihexa was thought to act on is linked to cancer.",
+      "items": [
+        {
+          "text": "Wikipedia says patent literature describes short safety studies of dihexa with no apparent toxicity, but the statement carries citation-needed tags and the article cites no human clinical data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Dihexa",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Protocol Wiki says the safety profile of dihexa is essentially unknown, that it has never entered human trials, and that no carcinogenicity studies have been conducted, noting that the HGF and c-Met pathway is linked to several cancers.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/blog/dihexa-research-status-2026",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Related drug in trials",
+      "summary": "A related prodrug, fosgonimeton, was generally tolerated in one large trial, but injection site reactions led more people to stop.",
+      "items": [
+        {
+          "text": "In the 26-week fosgonimeton trial, serious adverse events were 4.2% vs 6.9% with placebo. Stopping because of adverse events was 14.2% vs 4.6%, mostly injection site reactions. This is a different compound given by injection.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-41393340"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "A seller reports mixed community results and variable product purity.",
+      "items": [
+        {
+          "text": "A peptide seller (Real Peptides) says Reddit users report mixed results and variable product purity with dihexa, and notes human long-term safety data do not exist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

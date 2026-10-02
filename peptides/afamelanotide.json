@@ -89,7 +89,256 @@
       "year": 2015,
       "summary": "Two randomized placebo-controlled trials (US and EU) of afamelanotide implants in people with erythropoietic protoporphyria (Langendonk et al., N Engl J Med).",
       "finding": "Median pain-free time in sunlight was 69.4 vs 40.8 hours (US, 6 months) and 6.0 vs 0.8 hours (EU, 9 months); phototoxic reactions were fewer in the EU trial; quality of life improved. Adverse events were mostly mild. Funded by the manufacturer and others."
+    },
+    {
+      "id": "biolcati-2015-bjd",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25494545",
+      "year": 2015,
+      "summary": "Uncontrolled long-term observational study of 115 people with erythropoietic protoporphyria treated with 1023 afamelanotide 16 mg implants over up to 8 years at centres in Rome and Zurich (Biolcati et al., Br J Dermatol).",
+      "finding": "Quality of life scores rose from 31% to 74% of maximum after starting treatment and stayed there for the whole observation period. Only minor adverse events were attributed to the drug, mostly nausea. Three patients said it did not meet expectations and 23% stopped for other reasons such as pregnancy or cost."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label dose is one 16 mg implant placed under the skin every 2 months by a trained health care professional. The two label trials used the same 16 mg implant. Online sources describe the same dose and a lower abdomen or flank site.",
+      "items": [
+        {
+          "text": "Labeled dosing: a single 16 mg implant inserted subcutaneously above the anterior supra-iliac crest (the top of the hip bone) by a trained health care professional every 2 months, using the supplied cannula. The label says to maintain sun and light protection measures during treatment.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "In the label's trials in adults with erythropoietic protoporphyria (EPP), participants received 16 mg implants every 2 months: three implants over 180 days in one trial and five implants over 270 days in the other.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "Superpower, a health testing company that says it does not sell or prescribe the drug, says clinical trials used 16 mg implants every 60 days and that the implant is typically placed in the lower abdomen or flank.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/melanotan-1",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "The label calls for one implant every 2 months. The label does not describe a missed-dose rule.",
+      "items": [
+        {
+          "text": "The label states a single implant is inserted every 2 months, and that SCENESSE is given by a health care professional, not self-administered.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The Langendonk 2015 trials gave afamelanotide implants to people with EPP over 6 and 9 months and found more pain-free sunlight time than placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "langendonk-2015"
+        },
+        {
+          "text": "Superpower says the implant releases the peptide in a controlled way over approximately 60 days, matching the every 60 day schedule used in trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/melanotan-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says that after the implant is placed most of the drug is released within two days, 90% by the fifth day, and that no drug is detectable in blood plasma by the tenth day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Afamelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "People with EPP have been treated for up to 8 years in an uncontrolled study, with benefit holding and mostly minor side effects. The label gives no stop date and no data on what happens after stopping.",
+      "items": [
+        {
+          "text": "In an uncontrolled observational study of 115 people with EPP given 1023 implants over up to 8 years, quality of life scores rose from 31% to 74% of maximum and stayed there. Side effects were mostly minor, mainly nausea.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "biolcati-2015-bjd"
+        },
+        {
+          "text": "The label's trials ran 180 and 270 days with implants every 2 months. The label does not state a maximum treatment length.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The label says to store the implant in a refrigerator at 2 to 8 C, away from light, and to let it warm to room temperature before use. The implant goes in the skin above the hip bone, and the label describes a 30 minute check afterward and a dressing kept on for 24 hours.",
+      "items": [
+        {
+          "text": "The label states storage in a refrigerator at 2 to 8 C (36 to 46 F), protected from light. Before use the carton is taken out of the refrigerator so the product can gradually warm to room temperature.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The label states the patient is placed in a comfortable reclined supine position, the site 3 to 4 cm above the anterior supra-iliac crest is identified and disinfected, and an aseptic technique and the SFM Implantation Cannula are used. The label states the patient is monitored for 30 minutes after the implant is placed, and the dressing is left on for 24 hours.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The label states the implant is resorbable and may not be locatable from about 10 days after insertion, which makes removal difficult after that time. The patient should contact their provider if the implant is expelled.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The label states sun and light protection measures are to be maintained during treatment to prevent phototoxic reactions related to EPP.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "Superpower says the implant is a prescription-only product dispensed through licensed pharmacies, placed under the skin by trained clinicians, and is not an injectable powder or a do-it-yourself product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/melanotan-1",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It copies a natural skin hormone and switches on the melanocortin 1 receptor, which makes the dark pigment eumelanin in skin even without sun exposure.",
+      "items": [
+        {
+          "text": "The label describes afamelanotide as a synthetic 13 amino acid peptide that is an analog of alpha-melanocyte stimulating hormone (alpha-MSH). It binds mainly to the melanocortin 1 receptor (MC1-R) and increases production of eumelanin in the skin independently of exposure to sunlight or artificial UV light.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The label states a single implant reaches a peak blood level at a median of 36 hours with an apparent half-life of about 15 hours, and that for most of 12 healthy adults the last measurable level was at 96 hours.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "Wikipedia says afamelanotide is thought to cause skin darkening by binding to the MC1 receptor, which drives melanin production (melanogenesis).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Afamelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In adults with EPP, implants roughly doubled or more the pain-free time in direct sunlight compared with placebo implants, with improved quality of life.",
+      "items": [
+        {
+          "text": "In the label's 180 day trial (93 people), median pain-free hours in direct sunlight between 10 am and 6 pm were 64.1 with SCENESSE versus 40.5 with vehicle. In the 270 day trial (74 people), the median was 6.0 versus 0.75 hours.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "In the Langendonk 2015 trials, median pain-free time in sunlight was 69.4 vs 40.8 hours (US, 6 months) and 6.0 vs 0.8 hours (EU, 9 months), with improved quality of life.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "langendonk-2015"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Implant site reactions (21%), nausea (19%), sore throat, cough and fatigue were most common in label trials, mostly mild.",
+      "items": [
+        {
+          "text": "The most common adverse reactions in the label's trials were implant site reaction (21% versus 10% with vehicle), nausea (19% versus 14%), oropharyngeal pain (7% versus 5%), cough (6% versus 3%) and fatigue (6% versus 3%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The label states the most common implant site reaction was discoloration at the site (10%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "Superpower lists injection-site bruising, redness or hematoma, nausea, and darkening of moles as common effects, and says nausea mostly occurs in the days after the implant and usually resolves without treatment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/melanotan-1",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns of severe allergic reactions and darkening of moles and freckles, with skin checks twice a year. Online tanning products sold as melanotan are not the approved implant.",
+      "items": [
+        {
+          "text": "Skin hyperpigmentation occurred in 4% versus 0% with vehicle. The label warns of generalized increased pigmentation and darkening of existing nevi (moles), with full body skin examination twice yearly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "The label warns that serious hypersensitivity reactions, including anaphylaxis, have been reported, and the implant should be removed if needed and not given again.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-scenesse-label"
+        },
+        {
+          "text": "Superpower says afamelanotide is approved only for EPP, has no approved cosmetic tanning indication, and that online 'Melanotan I' products are not the pharmaceutical-grade implant.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/melanotan-1",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says products sold online and in gyms and salons as melanotan or melanotan-1 are not legally sold in many jurisdictions and are potentially dangerous.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Afamelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Long-term",
+      "summary": "An 8 year uncontrolled study found mostly minor side effects, mainly nausea.",
+      "items": [
+        {
+          "text": "In 115 people followed for up to 8 years, only minor adverse events were attributed to afamelanotide, predominantly nausea.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "biolcati-2015-bjd"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

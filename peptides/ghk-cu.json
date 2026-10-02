@@ -128,7 +128,440 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
       "finding": "On the fetched page GHK-Cu (copper peptide) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded injectable drugs containing GHK-Cu may pose a risk of immunogenicity due to the potential for aggregation. The page does not describe an approved product."
+    },
+    {
+      "id": "pmid-26236730",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "26236730",
+      "year": 2015,
+      "summary": "Narrative review (Biomed Res Int) by Pickart, Vasquez-Soltero and Margolina, whose listed affiliation is a skin-care research and development company, on GHK in skin regeneration.",
+      "finding": "Describes GHK as a plasma peptide that declines with age, proposed to act with copper to stimulate collagen and repair. Reports 12-week cosmetic cream studies in women with sun-damaged skin (for example 67 women, applied twice daily) with improved firmness and fewer fine lines, and calls cosmetic use very safe. Authors are not independent and the cream strength is not stated."
+    },
+    {
+      "id": "pmid-29986520",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "29986520",
+      "year": 2018,
+      "summary": "Narrative review (Int J Mol Sci) by Pickart and Margolina, with the same skin-care company affiliation, on regenerative and protective actions of GHK-Cu in light of gene-expression data.",
+      "finding": "Summarizes lab, animal and gene-expression data suggesting GHK stimulates blood vessel and nerve outgrowth, collagen and tissue repair, with anti-inflammatory actions. Mostly not human clinical evidence. Abstract read; full text not accessed."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "No dose has been established for any route, and there is no approved product. Cosmetic creams were studied for 12 weeks without a stated strength in the review found, and the only injection doses come from rat and mouse studies. Online sources describe injections of about 1 to 3 mg a day and creams of 1 to 4 percent, none of it tested in people. Oral GHK-Cu has no good human data.",
+      "items": [
+        {
+          "text": "Review of cosmetic use (Pickart and colleagues, authors affiliated with a skin-care company): facial and eye cream studies in women with sun-damaged skin lasted 12 weeks. One study of 67 women used the cream twice daily. The review does not state the cream strength.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26236730"
+        },
+        {
+          "text": "Animal study only, not human data: 0.3 or 3 mg/ml GHK-Cu was injected into the knee joint in a rat model of ACL reconstruction.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25731775"
+        },
+        {
+          "text": "Animal study only, not human data: GHK (without copper) was injected into the abdominal cavity at 2.6, 26 or 260 micrograms per day (as reported) after bleomycin lung injury in mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29311918"
+        },
+        {
+          "text": "A clinic website says injectable GHK-Cu is most commonly dosed at 1 to 2 mg per day subcutaneously.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A clinic website says topical GHK-Cu is most commonly used at 2 to 4 percent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer, an educational site that does not appear to sell products, says the standard dose is 1 to 2 mg injected under the skin, with 1 mg for skin rejuvenation, 2 mg for hair growth, 2 to 3 mg for wound healing and 0.5 to 1.5 mg for general wellness. It says topical products are used at 1 to 3 percent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-injection-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to vendors, lays out injection tiers of 1 mg, 2 mg and 3 mg, and says creams are typically 1 to 3 percent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "InCare, a Florida medical clinic that offers peptide therapy consultations, says a typical 5 mg oral GHK-Cu dose contains about 0.6 mg of copper and that oral GHK-Cu has less than 2 percent bioavailability. It says there are not good human studies on oral GHK-Cu.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tests time of day. Online sources disagree: one says bedtime injection, one says morning, others say it does not matter. Bedtime is justified by a theory that repair happens in sleep, which is untested for GHK-Cu.",
+      "items": [
+        {
+          "text": "A medical spa chain's marketing guide says many providers favor evening or bedtime injection on the rationale that tissue repair is concentrated during sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers gives no preferred time of day for the cream or the injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer says consistency matters more than the time of day, and that morning or evening gives the same results.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-injection-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to vendors, says morning injections are recommended to align with natural daytime repair processes, and that creams are applied at night.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Westlake Dermatology says to use copper peptide skin products once daily, alternate nights with retinoids rather than layering them, and split morning and evening use if also using strong acids or high-strength vitamin C.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.westlakedermatology.com/trends/ghk-cu-copper-peptides-for-skin-care/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Cosmetic creams were studied twice daily for 12 weeks, and the animal studies injected weekly or every other day. Online sources describe creams once or twice daily, and injections from 3 days a week to daily. No human injection schedule has been tested.",
+      "items": [
+        {
+          "text": "Review of cosmetic use (authors affiliated with a skin-care company): one 12-week facial cream study in 67 women applied the cream twice daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26236730"
+        },
+        {
+          "text": "Animal study only, not human data: knee-joint injections were given once a week for 4 weeks (from week 2 after surgery) in rats.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25731775"
+        },
+        {
+          "text": "Animal study only, not human data: GHK (without copper) was injected every other day from day 4 to day 21 after lung injury in mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29311918"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says GHK-Cu is used as a cream or serum applied once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A clinic website says topical GHK-Cu is most commonly used once or twice daily, and injections are most commonly given every day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says the standard injection schedule is 1 to 2 mg once daily, five days per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-injection-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to vendors, lists injections 5 days a week (Monday to Friday) for the starting and standard tiers, daily for the advanced tier, and a simpler 2 mg three times a week plan.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest human cosmetic studies ran 12 weeks, and the one rat injection study found its benefit faded by 12 weeks. Online sources suggest 8 to 12 weeks on and about 4 weeks off, but a vendor-comparison site notes no study in people defines a cycle.",
+      "items": [
+        {
+          "text": "Review of cosmetic use (authors affiliated with a skin-care company): the facial and eye cream studies in women lasted 12 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26236730"
+        },
+        {
+          "text": "Animal study only, not human data: in rats, knee stability was better at 6 weeks and graft stiffness higher at the lower dose, but differences were gone at 12 weeks, and the authors called the benefit transient.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25731775"
+        },
+        {
+          "text": "PeptidesExplorer says a typical course is 8 to 12 weeks on and 4 weeks off, hair restoration needs 16 to 24 weeks at minimum, and an acute injury course is 10 to 14 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-injection-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to vendors, says a course is 8 to 12 weeks (up to 16), followed by at least 4 weeks off, and that effects persist 2 to 4 months after a cycle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Grades, a vendor-ranking site that links to sellers, says cycling schedules promoted online are often justified as a way to manage copper exposure, but that no published pharmacokinetic study in people defines one.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "There is no label or study on storage. Online sources say to keep the mixed vial refrigerated at 2 to 8 C away from light and use it within about 28 to 30 days. Injection sites are rotated across the abdomen, thigh and upper arm.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers says the mixed vial is kept refrigerated and protected from light, used within the supplier's stated window, and discarded if cloudy or containing particles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says the injection is given under the skin and rotated across the abdomen, outer thigh and back of the upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A medical spa chain's marketing guide says a mixed vial is refrigerated and used within roughly 28 to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer says to refrigerate mixed GHK-Cu at 2 to 8 C away from light and use it within 30 days, and to mix it with bacteriostatic water, not normal saline, because salt can pull copper off the peptide. It lists the lower abdomen (at least two inches from the navel), outer thigh and upper arm fat pad as sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-injection-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to vendors, says unmixed powder is refrigerated or frozen, mixed vials are kept at 2 to 8 C and used within 28 to 30 days, and sites are rotated with 1 to 2 inches of spacing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "GHK is a small peptide found naturally in human blood that declines with age. It is proposed to work as a copper complex that boosts collagen and drives tissue repair, but this comes mostly from lab and animal work, and how it acts in people is not established.",
+      "items": [
+        {
+          "text": "Review (Pickart and colleagues, authors affiliated with a skin-care company): GHK is present in human plasma, saliva and urine and declines with age, is proposed to act as a complex with copper, stimulates collagen and other skin matrix molecules, and attracts immune and endothelial cells to injuries. Most of the evidence described is from cells and animals.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26236730"
+        },
+        {
+          "text": "Review (Pickart and Margolina): GHK is described as stimulating blood vessel and nerve outgrowth and collagen, elastin and glycosaminoglycan production, with anti-inflammatory and tissue-repair actions drawn largely from lab and animal studies and gene-expression data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29986520"
+        },
+        {
+          "text": "Cell-culture study of copper tripeptide on normal and keloid-producing human skin fibroblasts: it lowered secretion of the signaling protein TGF-beta1 in keloid-producing cells at 24 hours.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11176716"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No strong human evidence. The one small randomized trial found no objective benefit after laser resurfacing, and company-linked cosmetic studies report gentler skin changes over 12 weeks. A dermatologist warns that online claims are overstated.",
+      "items": [
+        {
+          "text": "Randomized trial of skin care products with or without GHK-Cu after CO2 laser resurfacing (13 patients completed): blinded objective measures showed no significant difference, though patients rated overall skin quality higher with GHK-Cu.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16847171"
+        },
+        {
+          "text": "Review (authors affiliated with a skin-care company) reports 12-week cream studies in groups of 41 to 71 women with sun-damaged skin showing better skin firmness and fewer fine lines. Sizes are as reported in the review, and the original trial designs were not checked.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26236730"
+        },
+        {
+          "text": "Westlake Dermatology says online marketing overstates copper peptides (for example that they outperform retinoids), and that research supports gradual benefits such as collagen support and wound healing, not dramatic results.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.westlakedermatology.com/trends/ghk-cu-copper-peptides-for-skin-care/",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A medical clinic's blog says GHK-Cu boosts collagen and elasticity, reduces wrinkles and may support hair growth and thickness, while conceding more studies are needed for the hair claims. The clinic itself offers GHK-Cu serums, a scalp solution and injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A medical spa chain's marketing guide says topical products are often the evidence-based starting point for facial anti-aging.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Topical",
+      "summary": "Redness, tingling, dryness or irritation, mostly at higher strengths. A review by company-linked authors calls cosmetic use very safe.",
+      "items": [
+        {
+          "text": "Review (authors affiliated with a skin-care company) says no issues have arisen in use as a skin cosmetic or in human wound-healing studies.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26236730"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says topical GHK-Cu can cause redness, tingling, dryness or transient irritation, especially at higher concentrations.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Westlake Dermatology says copper peptides can cause skin irritation or redness, especially at higher concentrations, and tingling in reactive skin, and to reduce frequency or stop if skin becomes irritated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.westlakedermatology.com/trends/ghk-cu-copper-peptides-for-skin-care/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Injected",
+      "summary": "Online sources describe local redness, swelling, warmth and bruising, and sometimes mild nausea. No human safety trial of injected GHK-Cu was found.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers says injected use can cause local redness, mild swelling, transient warmth or a bluish bruise attributed to the copper complex.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer says injection site redness and warmth resolve within an hour, with mild bruising, and that nausea is rare and typically dose-dependent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-injection-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Grades, a vendor-ranking site that links to sellers, says user accounts commonly describe stinging or burning at the injection site, redness or slight swelling, mild nausea and temporary flushing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to vendors, says injection-site redness, itching or swelling is most common, with rare transient nausea or headache, and lists abdominal pain, nausea and a metallic taste as signs of copper toxicity it calls unlikely.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA says compounded injectable GHK-Cu may carry a risk of immune reactions.",
+      "items": [
+        {
+          "text": "FDA page on bulk drug substances for compounding (dated 04/22/2026) lists GHK-Cu among substances nominated and later withdrawn, and says compounded injectable drugs containing GHK-Cu may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-compounding-page"
+        }
+      ]
+    },
+    {
+      "title": "Oral",
+      "summary": "Online sources say oral use is poorly absorbed and not well studied, and long-term effects are unknown.",
+      "items": [
+        {
+          "text": "InCare, a Florida medical clinic that offers peptide therapy consultations, says long-term effects of oral GHK-Cu remain unknown, there is very limited human data, and no oral GHK-Cu product has FDA approval.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

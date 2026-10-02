@@ -157,7 +157,543 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
       "finding": "On the fetched page DSIP (listed as emideltide) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing emideltide may pose a risk of immunogenicity for certain routes of administration. The page does not describe an approved product."
+    },
+    {
+      "id": "pmid-3792404",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3792404",
+      "year": 1986,
+      "summary": "Sleep-laboratory study (Schneider-Helmert, Eur Neurol) of 18 chronic insomniacs, middle-aged and older, given six intravenous doses of 30 nmol/kg over one week with a follow-up week. The abstract does not describe a placebo group.",
+      "finding": "Sleep reached normal values by the end of dosing in middle-aged patients and was kept through the follow-up week. Older patients, who were worse at the start, reached normal sleep only by the end of follow-up."
+    },
+    {
+      "id": "pmid-6391925",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "6391925",
+      "year": 1984,
+      "summary": "Summary article (Schneider-Helmert, Eur Neurol) of several of the author's own studies of DSIP injections in insomnia.",
+      "finding": "Single injections of 25 nmol/kg before sleep improved sleep. Repeated doses built up, with normal sleep structure after four doses. Repeated morning injections still helped night sleep and raised daytime activity, but two doses a day did not."
+    },
+    {
+      "id": "pmid-6391926",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "6391926",
+      "year": 1984,
+      "summary": "Open (no placebo) study (Kaeser, Eur Neurol) of 7 patients with severe insomnia given a series of 10 DSIP injections.",
+      "finding": "In all but 1 patient sleep was reported normal during follow-up of 3 to 7 months, and daytime mood and performance improved. With no control group, this cannot separate DSIP from other effects."
+    },
+    {
+      "id": "pmid-3628078",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "3628078",
+      "year": 1987,
+      "summary": "Lab study (Graf, Saegesser and Schoenenberger, Peptides) of DSIP and two analogs incubated in human and rat blood.",
+      "finding": "DSIP broke down in blood, with the rate depending on temperature, time and species. The authors concluded that injected DSIP disappears quickly because of this breakdown, while the analogs lasted longer."
+    },
+    {
+      "id": "pmid-8475226",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8475226",
+      "year": 1993,
+      "summary": "Small study (Giusti et al., Psychoneuroendocrinology) in 8 healthy women given intravenous DSIP (25 micrograms/kg), with or without arginine, and, in 3 women, an infusion from 21:30 to 22:30 with 24-hour hormone sampling.",
+      "finding": "DSIP did not change growth hormone or prolactin, including the daily rhythm and the response to arginine. The authors note the dose is one known to alter ECG patterns."
+    },
+    {
+      "id": "pmid-16539679",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "16539679",
+      "year": 2006,
+      "summary": "Mini-review (Kovalzon and Strekalova, J Neurochem) of what is known about DSIP.",
+      "finding": "The link between DSIP and sleep has never been well characterized, partly because no gene, protein or receptor has been isolated. The authors call the idea that DSIP is a sleep factor poorly documented and weak, and note that sleep-promoting activity was seen with some synthetic analogs but not DSIP itself in rabbits and rats."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Human trials gave 25 to 30 nmol/kg (about 1.5 to 2 mg for a 70 kg adult) into a vein, never under the skin. Online sources describe 50 to 500 micrograms (mcg) under the skin, and a source that lists them says none has human trial support.",
+      "items": [
+        {
+          "text": "In two double-blind insomnia trials, 25 nmol/kg of DSIP was given by intravenous (IV) injection, versus placebo. One gave it on each of three afternoons in 16 adults, the other over four nights.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-1299794"
+        },
+        {
+          "text": "A crossover study gave 25 nmol/kg intravenously or placebo over four nights in people with chronic insomnia.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-3583493"
+        },
+        {
+          "text": "In 24 women having surgery, single IV doses of 25, 50 or 100 nmol/kg (versus saline) were given awake and under anaesthesia. This was a heart rate and brain-wave study, not a sleep study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19142086"
+        },
+        {
+          "text": "An uncontrolled one-week study in 18 people with chronic insomnia gave six IV doses of 30 nmol/kg.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-3792404"
+        },
+        {
+          "text": "The Peptide Initiative, an information site, says subcutaneous amounts of 100, 200 (the most circulated) and 300 mcg once daily circulate online, that no human study used subcutaneous DSIP at any dose, and that the human-tested dose was about 1.5 mg given into a vein for a 70 kg adult.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer, an educational site, says the standard dose is 100 to 300 mcg injected under the skin before bed, starting at 100 mcg, with 200 mcg the most widely used. It does not present this as an approved dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says 50 to 100 mcg under the skin before bed, starting at 50 mcg, and that going above 100 mcg has not consistently given more benefit in available reports.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Hub, which links to a seller of research peptides, lists 100, 250 and 500 mcg once a day under the skin as standard, moderate and advanced protocols.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "In trials DSIP was given into a vein, either before sleep or in the afternoon or morning. No trial tested an injection under the skin at bedtime. Online sources say 30 to 60 minutes before bed, which is untested.",
+      "items": [
+        {
+          "text": "In a double-blind study of 16 people with chronic insomnia, DSIP was given into a vein in the afternoon before each of three nights of sleep recording. This was a laboratory setting, not a self-administration protocol.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-1299794"
+        },
+        {
+          "text": "The author of several early trials says single injections of 25 nmol/kg given before sleep improved sleep in two studies.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-6391925"
+        },
+        {
+          "text": "The same author says repeated morning injections still strongly improved night sleep and raised daytime activity, while two doses a day did not.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-6391925"
+        },
+        {
+          "text": "The Peptide Initiative says DSIP is commonly used in the evening, one to two hours before bed, at a consistent time each night. It adds that DSIP is typically used alone in the evening while growth hormone peptides may be used at other times.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says to inject 30 to 60 minutes before bed, and that injecting too early may start the effect before you are ready to sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends says to inject 30 to 60 minutes before you intend to fall asleep, and that daytime dosing for sleep is not typical.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Lewis, an integrative psychiatry clinic, says DSIP is usually injected under the skin in the evening 30 to 60 minutes before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://drlewis.com/dsip-delta-sleep-inducing-peptide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested DSIP with or without food. One online source says either is fine.",
+      "items": [
+        {
+          "text": "The Peptide Initiative says DSIP can be taken fasted or fed. It says some people prefer an empty stomach for possibly faster absorption, but that food does not block its effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Trials used DSIP on 3 to 7 successive days, and an author's summary reports that repeated doses built up over about four. Online sources describe once nightly, with two weeks or more before changing the dose.",
+      "items": [
+        {
+          "text": "In a double-blind trial in 14 people with chronic insomnia, DSIP or placebo was given for 7 successive nights. Sleep improved after the first dose and further with repeated doses.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-3622582"
+        },
+        {
+          "text": "The author of several early trials says repeated doses built up, with normal sleep structure after four administrations. Repeated morning injections helped, but two doses a day did not.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-6391925"
+        },
+        {
+          "text": "In an uncontrolled study, 18 people with chronic insomnia received six IV doses over one week.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-3792404"
+        },
+        {
+          "text": "The Peptide Initiative says once daily, one hour before bed, and suggests raising the dose after two or more weeks at one dose if improvement is minimal or has plateaued.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says once nightly, to try 100 mcg for at least 3 nights before judging it, and to stay at that dose if it helps.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends says to try 5 to 7 consecutive nights at 50 mcg before going to 100 mcg, and describes as-needed use on nights of expected poor sleep as the approach it finds most sensible.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials followed people for up to about two weeks, with sleep gains kept for a week or more after stopping in small studies. No tolerance study has been found. Online sources describe 2 to 12 weeks on, then a break.",
+      "items": [
+        {
+          "text": "After 7 nights of DSIP, the improved sleep was still present on the first placebo night after treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-3622582"
+        },
+        {
+          "text": "After one week of DSIP, sleep in middle-aged patients stayed normal through a follow-up week. Older patients reached normal sleep only by the end of follow-up. The study had no placebo group described.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-3792404"
+        },
+        {
+          "text": "In an open study of 7 people with severe insomnia given 10 injections, sleep was reported normal during 3 to 7 months of follow-up. With no control group, this cannot be taken as a lasting DSIP effect.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-6391926"
+        },
+        {
+          "text": "The Peptide Initiative says a 4 to 6 week cycle is typical, followed by a break to see how you sleep without it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/dsip/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says 2 to 4 weeks on and 2 weeks off, and says no tolerance study has been published, so cycling is based on theory.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends describes 1 to 3 week runs or as-needed use, says continuous nightly use has been described but long-term safety data does not exist, and says tolerance has not been formally documented.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Hub, which links to a seller of research peptides, lists a cycle length of 8 to 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No study covers how to store or handle DSIP. Online sources say to keep the powder cold and the mixed vial in the refrigerator for up to 28 days, and to inject under the skin and rotate sites.",
+      "items": [
+        {
+          "text": "The Peptide Initiative says unmixed powder is kept in the freezer in its sealed vial, away from light, for up to 24 months. It says a mixed vial goes straight into the refrigerator (2 to 8 degrees C), is never frozen, is used within 28 days, and is discarded if cloudy or has particles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says a mixed vial is refrigerated upright and away from light, never frozen, used within about 28 days, and discarded if cloudy, discolored or containing particles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends says unmixed powder is stable at room temperature for short periods and should be refrigerated for longer storage. It says the mixed vial stays refrigerated, with a pharmacy-set discard date, typically 28 to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says subcutaneous injection is the usual self-administration route, into the abdomen, outer thigh or upper arm with sites rotated. It says to add bacteriostatic water slowly down the vial wall and swirl without shaking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/dsip/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says to inject under the skin of the abdomen, outer thigh or upper arm, rotating sites each night, and notes nasal sprays are less predictable.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "How DSIP might affect sleep is unknown. No receptor or gene has been found, and small human tests found no change in stress hormones or growth hormone. Online sources describe delta-wave and hormone effects that these tests did not support.",
+      "items": [
+        {
+          "text": "A mini-review says the link between DSIP and sleep has never been well characterized and no receptor has been isolated, calling the sleep-factor idea poorly documented and weak.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16539679"
+        },
+        {
+          "text": "In healthy men, intravenous DSIP (3 to 4 mg total) did not change ACTH or cortisol responses versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-7777652"
+        },
+        {
+          "text": "In 8 healthy women, intravenous DSIP did not change growth hormone or prolactin, including over an evening and night infusion.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8475226"
+        },
+        {
+          "text": "In human and rat blood in the lab, DSIP broke down quickly, which the authors link to its fast disappearance after injection.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-3628078"
+        },
+        {
+          "text": "A lab-made DSIP fusion peptide built to cross the blood-brain barrier changed brain chemical levels and showed sleep-promoting effects in mice. It is a modified peptide, not DSIP as sold.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-39444618"
+        },
+        {
+          "text": "Wikipedia says DSIP has a half-life of only 15 minutes in the lab because of an enzyme, and that many roles come from studies of more stable analogs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Delta-sleep-inducing_peptide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says DSIP promotes delta-wave sleep, amplifies the growth hormone surge of deep sleep and normalizes cortisol patterns. The small human tests above found no growth hormone or cortisol change.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Lewis, an integrative psychiatry clinic, says DSIP may act on GABA-A receptors, cortisol and ACTH regulation and growth hormone release during sleep, and calls the mechanism plausible but speculative.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://drlewis.com/dsip-delta-sleep-inducing-peptide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "The best human evidence is a handful of small insomnia trials given by vein in the 1980s and early 1990s. Two independent double-blind trials found weak or not clinically meaningful gains, while one by a single author reported large gains. No newer controlled trials were found.",
+      "items": [
+        {
+          "text": "In 16 chronic insomniacs, DSIP raised sleep efficiency and shortened time to fall asleep, but the effects were weak, partly due to a change in the placebo group, and sleep quality as felt did not change. The authors saw no major benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-1299794"
+        },
+        {
+          "text": "In a crossover study, total sleep and light-sleep time rose on DSIP, but the same differences were present at baseline. The authors judged the gain of little clinical significance.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-3583493"
+        },
+        {
+          "text": "In 14 middle-aged chronic insomniacs, the author reported substantially better night sleep and daytime alertness over 7 nights. It was small, from one center, and results across trials were inconsistent.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-3622582"
+        },
+        {
+          "text": "Two small studies without placebo groups (18 and 7 patients) reported sleep returning to normal. They cannot separate DSIP from other effects.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-3792404"
+        },
+        {
+          "text": "In 7 patients in an open study, sleep was reported normal for 3 to 7 months after 10 injections.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-6391926"
+        },
+        {
+          "text": "Wikipedia says studies of DSIP and sleep have been contradictory, and stronger effects on sleep were noted for synthesized analogs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Delta-sleep-inducing_peptide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Lewis, an integrative psychiatry clinic that also promotes consultations, says research on DSIP showed modest early gains with limited human data, calls it experimental, and says the one controlled trial it describes showed modest effects at best.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://drlewis.com/dsip-delta-sleep-inducing-peptide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Small trials reported few problems, but one anaesthesia study found DSIP raised heart rate, and no long-term safety data exist.",
+      "items": [
+        {
+          "text": "In 24 women under anaesthesia, intravenous DSIP raised heart rate and lowered heart rate variability, which the authors link to lower parasympathetic tone. This was not a sleep study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19142086"
+        },
+        {
+          "text": "In 8 healthy women, the authors note that the intravenous DSIP dose used is one known to alter ECG patterns.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8475226"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources list mild headache, dizziness, flushing and injection-site reactions, and grogginess at higher doses. They warn of added drowsiness with sleeping pills. None of this comes from a controlled trial.",
+      "items": [
+        {
+          "text": "The Peptide Initiative lists mild headache, brief dizziness, flushing or warmth and injection-site reactions as commonly reported, and vivid dreams and mild nausea as less common. It says to stop and seek help for allergic signs, severe headaches or excessive daytime drowsiness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says combining DSIP with benzodiazepines or sleeping pills such as Ambien and Lunesta could cause too much drowsiness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/dsip",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says morning drowsiness becomes more common at 300 mcg, and that 500 mcg or more may cause grogginess and a dull headache.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/dsip-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends says mild dizziness or a transient headache are uncommon but documented, usually in the first few nights, and that injection-site reactions are rare.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Long-term safety",
+      "summary": "Sources agree long-term safety is unknown, and Dr. Lewis warns sold products may be impure.",
+      "items": [
+        {
+          "text": "Wikipedia says the safety and possible side effects of long-term DSIP use have not been established in clinical research.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Delta-sleep-inducing_peptide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Lewis says limited high-quality human safety data exist, and that products sold in the US are often labeled research use only from grey-market suppliers, so identity, purity, dose and sterility are not guaranteed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://drlewis.com/dsip-delta-sleep-inducing-peptide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says compounded DSIP (emideltide) may cause immune reactions and that it lacks safety information.",
+      "items": [
+        {
+          "text": "FDA lists emideltide (DSIP) among bulk substances for compounding that may present significant safety risks, noting a risk of immune reactions for certain routes and impurity concerns. FDA has not found safety information for the proposed route and cannot say whether it would harm people.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-compounding-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

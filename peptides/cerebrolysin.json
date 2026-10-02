@@ -116,7 +116,484 @@
       "year": 2021,
       "summary": "Prospective meta-analysis (Neurol Sci) of two randomized placebo-controlled trials of cerebrolysin in 185 patients with moderate to severe traumatic brain injury.",
       "finding": "Small to medium effect favoring cerebrolysin at day 30 and day 90, with comparable safety to placebo."
+    },
+    {
+      "id": "pmid-25832905",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "25832905",
+      "year": 2015,
+      "summary": "Meta-analysis (Gauthier et al., Dement Geriatr Cogn Disord) of six randomized double-blind placebo-controlled trials of Cerebrolysin 30 mL per day in mild-to-moderate Alzheimer's disease.",
+      "finding": "Cerebrolysin beat placebo on cognition at 4 weeks (not significant at 6 months) and on global clinical change at 4 weeks and 6 months, with safety comparable to placebo."
+    },
+    {
+      "id": "pmid-20155999",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "20155999",
+      "year": 2010,
+      "summary": "Drug profile (Plosker and Gauthier, CNS Drugs) summarizing clinical trials of Cerebrolysin in Alzheimer's disease and vascular dementia.",
+      "finding": "Describes Cerebrolysin as a pig-brain peptide preparation with properties similar to the body's own neurotrophic factors; trials of up to 28 weeks in Alzheimer's disease favored it over placebo, with dizziness the most frequent adverse event."
+    },
+    {
+      "id": "pmid-39055722",
+      "evidence_type": "case_report",
+      "source_kind": "pubmed",
+      "identifier": "39055722",
+      "year": 2024,
+      "summary": "Case report (Trimmel et al., Case Rep Neurol Med) of an 85-year-old man with subacute stroke given intravenous Cerebrolysin.",
+      "finding": "He developed a life-threatening anaphylactic reaction, confirmed by laboratory tests; the authors note that only rare cases have been published."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved in the US. Studies used 30 mL a day by vein (30 mL is about 6.5 grams of the mixture). The maker's handbook lists 10 to 50 mL a day depending on the condition. Online sources repeat these figures.",
+      "items": [
+        {
+          "text": "In a multicenter randomized trial in 192 people with Alzheimer disease, 30 mL of cerebrolysin was given intravenously five days per week for four weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12111446"
+        },
+        {
+          "text": "In a 2012 randomized trial in 1070 patients with acute ischemic stroke, 30 mL of cerebrolysin was given daily as an intravenous infusion for 10 days, alongside aspirin.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-22282884"
+        },
+        {
+          "text": "In two trials of moderate to severe traumatic brain injury (185 patients), 50 mL a day was given for 10 days, then two more 10-day cycles at 10 mL a day.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-33620612"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that the usual daily dose is 20 to 50 mL for stroke, 20 to 50 mL for traumatic brain injury, and 10 to 30 mL for Alzheimer disease and vascular dementia.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that 10 to 50 mL is given by vein diluted to at least 100 mL, up to 10 mL can be injected undiluted into a vein over 3 minutes, and up to 5 mL can be injected undiluted into a muscle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative, a peptide education site, says 10 to 50 mL is given intravenously once daily and 5 to 10 mL intramuscularly per injection, with no more than about 5 mL per injection site. Its references list trial examples of 20 to 50 mL daily for stroke and 10 to 30 mL for Alzheimer disease. The site says cerebrolysin is not FDA approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia's article says cerebrolysin is given by injection, is available by prescription where marketed, and was not an approved drug in the United States as of October 2020.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier links, describes a community-reported pattern of 20 mg rising to 32 mg a day over four weeks, which it says is not from trials and is about 100 to 300 times smaller than clinical doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No trial tested time of day. The maker's handbook prefers morning dosing because the infusion can be stimulating, and says infusions run 15 to 60 minutes.",
+      "items": [
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that the first dose should be given as soon as possible, even at night, and after that morning is preferable because the infusion is stimulating and may cause excitability.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that a 100 mL infusion is given over 15 to 60 minutes, with 30 to 45 minutes working best and no longer than one hour.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says morning is generally preferred to minimize agitation or sleep disruption.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food. One education site says it makes no difference because it is injected.",
+      "items": [
+        {
+          "text": "Peptide Initiative says administration is by injection, is independent of food intake, and needs no fasting.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Trials gave it once a day, either every day for 10 days or five days a week for four weeks. The maker lists one 30 mL dose or three 10 mL doses a day as equally workable.",
+      "items": [
+        {
+          "text": "The Alzheimer trial gave 30 mL by vein five days per week for four weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12111446"
+        },
+        {
+          "text": "The stroke trial gave 30 mL by vein once daily for 10 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-22282884"
+        },
+        {
+          "text": "The brain injury trials gave 50 mL daily for 10 days, then two cycles of 10 mL daily for 10 days each.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-33620612"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that Alzheimer disease and vascular dementia courses are 5 days a week for 4 weeks, and that 10 mL by vein three times a day and 30 mL once a day are both feasible with no known difference in effect.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that if seizures persist during treatment, Cerebrolysin is stopped for 2 to 3 days and then continued.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative lists once daily as the frequency.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says courses are planned as a set, so a missed session is a question for the supervising clinician and not a reason to double up.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Studies lasted 10 days to 28 weeks. The maker and online sources describe 10 to 30 day courses, repeated 2 to 4 times a year for dementia. No study found what happens after stopping.",
+      "items": [
+        {
+          "text": "A meta-analysis of six trials of 30 mL a day in Alzheimer disease found better global change at 4 weeks and 6 months. The cognition benefit was significant at 4 weeks but not at 6 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25832905"
+        },
+        {
+          "text": "A drug review says trials in Alzheimer disease lasted up to 28 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-20155999"
+        },
+        {
+          "text": "Six trials of Cerebrolysin in vascular dementia tested varying doses and durations, with follow-up from 15 days to three years. Cochrane rated the evidence very low quality.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-31710397"
+        },
+        {
+          "text": "The stroke trial gave treatment for 10 days with follow-up to 90 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-22282884"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that stroke courses last 10 to 21 days, traumatic brain injury courses 7 to 30 days, and dementia is treated with 2 to 4 cycles a year.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says a course is up to 10 to 20 days, and its page header lists a cycle length of 8 to 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative's reference list summarizes Russian registered product information as daily courses of 10 to 20 days, repeated every 3 to 6 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says stroke is usually a single early course of 10 to 21 days, and dementia courses of about 4 weeks are cycled every few months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The maker says to keep ampoules at room temperature up to 25 C, away from light, and never frozen. One education site says to refrigerate, which differs from the maker. It is given in clinics with sterile one-use sets.",
+      "items": [
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that it must be stored at room temperature not exceeding 25 C, must not be frozen, must be kept in the carton away from light, and has a shelf life of 5 years.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that it is single use and leftover content should not be kept or used, that only clear amber solution is used, and that disposable one-way infusion sets and cannulas must be used with the infusion started immediately after dilution.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that if it was stored in the refrigerator, the solution should be warmed to room temperature before opening.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the standard product is a ready-to-use liquid with no reconstitution step, and that cloudy, particle-filled or discolored ampoules should be discarded.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says to store it in the refrigerator at 2 to 8 C, protected from light and moisture, and not frozen. This differs from the maker's room-temperature instruction.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says that once reconstituted it should be kept refrigerated and used within about 14 to 28 days. It also describes subcutaneous injection into the abdomen, thigh or back of the upper arm. The maker's handbook and Peptide Dosing Protocols describe a ready-made liquid given by vein or into a muscle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It is a mixture of small peptides and amino acids from pig brain, said to act like the brain's own growth signals. How it works in people is not established.",
+      "items": [
+        {
+          "text": "A 2010 drug review describes Cerebrolysin as having pharmacodynamic properties similar to those of endogenous neurotrophic factors (the body's own nerve-support proteins). This is a description, not a mechanism shown in patients.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-20155999"
+        },
+        {
+          "text": "Wikipedia's article says cerebrolysin is an experimental pig-brain peptide mixture that may contain neurotrophic factors.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says about one quarter of the mixture is small peptides said to resemble BDNF, GDNF, NGF and CNTF (brain growth factors), and the rest is free amino acids. It adds that much of the mechanism evidence comes from lab and animal studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Small benefits in dementia and brain injury trials, many run with the maker's support. In stroke, trials found no effect on death or the main recovery score.",
+      "items": [
+        {
+          "text": "In 192 people with Alzheimer disease, 76% of the cerebrolysin group and 57% of the placebo group were responders on the global score (CIBIC+) at week 12.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12111446"
+        },
+        {
+          "text": "A meta-analysis of six trials of 30 mL a day in mild-to-moderate Alzheimer disease found benefit over placebo on global change at 4 weeks and 6 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25832905"
+        },
+        {
+          "text": "Cochrane found Cerebrolysin improved cognition and global function in vascular dementia, but the evidence was very low quality and not definitive.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-31710397"
+        },
+        {
+          "text": "In 185 people with moderate to severe traumatic brain injury, two trials combined showed a small to medium effect favoring cerebrolysin at days 30 and 90.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-33620612"
+        },
+        {
+          "text": "In 1070 stroke patients, the main outcome showed no significant difference from placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-22282884"
+        },
+        {
+          "text": "In the same stroke trial, a post hoc analysis of severely affected patients showed a trend favoring cerebrolysin. The authors said this needs confirmation.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-22282884"
+        },
+        {
+          "text": "A Cochrane review found little to no difference in death after acute ischaemic stroke (moderate-certainty evidence).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-37818733"
+        },
+        {
+          "text": "Wikipedia's article says a 2023 review found no benefit for preventing death in acute ischemic stroke, and that results in vascular dementia were preliminary.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Headache, dizziness, nausea and sweating are the usual complaints. Fast injection can cause a hot feeling and dizziness.",
+      "items": [
+        {
+          "text": "In a 192-patient randomized Alzheimer's trial of intravenous cerebrolysin, adverse events occurred in 73% of placebo patients and 64% of cerebrolysin patients, most commonly headache, dizziness, weight loss and anxiety.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12111446"
+        },
+        {
+          "text": "A drug review of dementia trials says dizziness or vertigo was the most frequently reported adverse event.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-20155999"
+        },
+        {
+          "text": "Wikipedia's article lists nausea, dizziness, headache and sweating as common side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that other minor side effects can include faster heart rate, higher blood pressure and arrhythmia, related to speed of administration, so it is injected very slowly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative lists injection site reactions, headache, dizziness, nausea, agitation and fever as frequently reported.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/cerebrolysin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In stroke trials",
+      "summary": "Cochrane found no difference in total serious events, but more non-fatal serious events with cerebrolysin.",
+      "items": [
+        {
+          "text": "A Cochrane review found Cerebrolysin probably results in little to no difference in the number of people with serious adverse events in acute ischaemic stroke (moderate-certainty evidence).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-37818733"
+        },
+        {
+          "text": "The same Cochrane review found more people with non-fatal serious adverse events on Cerebrolysin (risk ratio 2.39, 3 trials, 1335 participants, moderate-certainty evidence), and the increase was larger with 30 mL for 10 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-37818733"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Rare severe allergic reactions have been reported. The maker and Wikipedia list epilepsy, severe kidney disease and allergy as reasons not to use it.",
+      "items": [
+        {
+          "text": "A case report describes a life-threatening anaphylactic reaction, confirmed by laboratory tests, in an 85-year-old man after intravenous cerebrolysin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-39055722"
+        },
+        {
+          "text": "Wikipedia's article says it is not recommended for people with epilepsy, kidney disease or sensitivity to its components.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Cerebrolysin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "EVER Pharma, the maker, says in its 2023 treatment handbook that it is not recommended with hypersensitivity, status epilepticus or severe renal failure. It also warns of added effects with antidepressants or MAO inhibitors, and of raised blood pressure with high MAO inhibitor doses and 30 mL or more.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
