@@ -84,6 +84,12 @@ def main():
             for item in d.get(field, []):
                 if item.get("label") == "internet" and item.get("url"):
                     claims.append((name, item["url"]))
+        lines = [v for sec in ("how_to_take", "what_it_does") for v in d.get(sec, {}).values()]
+        lines += d.get("side_effect_groups", [])
+        for line in lines:
+            for item in line["items"]:
+                if item.get("label") == "internet" and item.get("url"):
+                    claims.append((name, item["url"]))
 
     # PubMed in batches
     ids = list(pmids)

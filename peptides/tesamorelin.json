@@ -158,7 +158,353 @@
       "year": 2010,
       "summary": "Pooled analysis of two phase 3 trials (806 patients) of tesamorelin 2 mg daily versus placebo for 26 weeks, with a 26-week extension (Falutz et al., J Clin Endocrinol Metab).",
       "finding": "Visceral fat decreased significantly versus placebo (treatment effect -15.4%) with lower triglycerides and no meaningful change in subcutaneous abdominal fat."
+    },
+    {
+      "id": "falutz-2005-aids",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "16052083",
+      "year": 2005,
+      "summary": "12-week randomized placebo-controlled dose-ranging trial of tesamorelin 1 mg or 2 mg daily in 61 HIV-infected patients with abdominal fat accumulation (Falutz et al., AIDS).",
+      "finding": "IGF-1 rose 48% on 1 mg and 65% on 2 mg versus placebo; trunk fat fell 9.2% on 2 mg, a significant drop versus placebo, while 1 mg did not reach significance."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "ho-1988-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3127426",
+      "year": 1988,
+      "summary": "Frequent-sampling study of 24-hour growth hormone secretion in 6 healthy men on a fed day and on days 1 and 5 of a 5-day fast (Ho et al., J Clin Invest).",
+      "finding": "Fasting increased growth hormone secretion and amplified its daily rhythms compared with the fed day."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
+    },
+    {
+      "id": "van-cauter-2000-ghigf",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "10984255",
+      "year": 2000,
+      "summary": "Review of the relationship between growth hormone secretion and sleep (Van Cauter et al., Growth Horm IGF Res).",
+      "finding": "In men a sleep-onset pulse is usually the main daily episode of GH secretion, and GH secretion tracks the amount of slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "1.4 mg daily (Egrifta SV) or 1.28 mg daily (Egrifta WR) per the FDA labels. Online sources describe 1 to 2 mg daily. No dose above 2 mg has been tested.",
+      "items": [
+        {
+          "text": "FDA label: 1.4 mg once daily for Egrifta SV, injected under the skin of the abdomen. Labeled for HIV-infected adults with lipodystrophy.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "FDA label: 1.28 mg once daily for Egrifta WR. The label says this gives similar exposure to the 2 mg daily dose of the original formulation used in the pivotal trials.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        },
+        {
+          "text": "A 12-week dose-ranging trial compared 1 mg and 2 mg daily. Only 2 mg cut trunk fat significantly versus placebo, and it raised IGF-1 more. No higher dose has been tested in a published trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "falutz-2005-aids"
+        },
+        {
+          "text": "Peptide Library says community users describe 2 mg daily, 1 mg daily as a cheaper option, and 1 mg at night combined with ipamorelin. These are off-label practices.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/resources/tesamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, a clinic that sells tesamorelin, describes 1 mg per injection in month 1 and 1.5 mg in months 2 and 3, mixed with ipamorelin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The labels name no time of day. Online sources favor bedtime, to match the natural overnight GH pulse; bedtime dosing has not been tested.",
+      "items": [
+        {
+          "text": "The labels name no time of day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not tesamorelin; no trial has compared bedtime with daytime dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "Peptidepedia says tesamorelin is taken either in the morning on an empty stomach or at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says once daily at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The labels set no food rule. Online sources say 2 hours without food first, based on studies where glucose blunted the GH response to natural GHRH.",
+      "items": [
+        {
+          "text": "The labels set no food restriction.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "In healthy adults, a glucose drink before an injection of natural GHRH lowered the GH response by about a third; the authors suggest somatostatin as the reason. Tesamorelin works like GHRH, but no study has tested meals with tesamorelin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "In healthy men, fasting increased the body's own GH secretion compared with a fed day.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ho-1988-jci"
+        },
+        {
+          "text": "Peptidepedia says morning doses go at least 2 hours after eating and 30 to 60 minutes before food.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends says no food for at least 2 hours before a bedtime dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily, every day, per the labels and trials. Online sources describe 5 days on, 2 off, which differs from the label.",
+      "items": [
+        {
+          "text": "Once daily, every day, in the labels and in every pivotal trial.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "Peptidepedia says some practitioners use 5 days on and 2 days off, and that trial data for cycling are limited because the pivotal trials used continuous daily dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/tesamorelin/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HealthRx says a small number of clinicians use 2 mg on a 5 days on, 2 days off schedule, and found no trial testing it.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://healthrx.com/tesamorelin-v2/microdosing-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B describes 5 days on and 2 days off as its standard schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran daily for 26 to 52 weeks with no break, and visceral fat returned after stopping. Online sources describe 8 to 12 weeks on, then a break.",
+      "items": [
+        {
+          "text": "The pivotal trials gave daily treatment for 26 weeks, then continued to 52 weeks. Patients switched to placebo regained visceral fat (up 22% and 16%), while those who stayed on tesamorelin kept the reduction. No break was studied.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        },
+        {
+          "text": "Peptidepedia says some practitioners use 8 to 12 weeks on, then 4 weeks off, and that clinical evidence for any cycling protocol is lacking.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/tesamorelin/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B describes 3 months on, then a 2-month break.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Powder is kept at room temperature. Egrifta SV is used right after mixing; an Egrifta WR vial lasts 7 days. Online sources say to refrigerate, which differs from the label.",
+      "items": [
+        {
+          "text": "Egrifta SV label: unreconstituted vials are stored at room temperature in the original box, protected from light.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "Egrifta SV label: the solution is administered immediately after reconstitution; it is not stored, frozen or refrigerated, and unused solution is discarded.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "Egrifta WR label: one reconstituted vial provides doses for 7 consecutive days, kept at room temperature (not frozen), and any remaining solution is discarded after 7 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        },
+        {
+          "text": "Egrifta WR label: the bacteriostatic water diluent is discarded 28 days after first use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        },
+        {
+          "text": "Labels state the injection goes subcutaneously into the abdomen with rotating sites, avoiding the navel, scar tissue and bruises.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        },
+        {
+          "text": "Egrifta SV label: the powder is reconstituted with the supplied diluent and mixed by rolling the vial gently in the hands for 30 seconds, without shaking.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "Egrifta SV label: sites are chosen at least 2 inches (5 cm) from the navel. The label's administration section names no required time of day and no food restriction.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        },
+        {
+          "text": "Peptidepedia says a vial mixed with bacteriostatic water is refrigerated, protected from light, not frozen, and used within 14 to 28 days. The label says room temperature, and immediate use for Egrifta SV.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says a mixed vial is refrigerated and used within 24 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Makes the pituitary release the body's own growth hormone (GH) in pulses, which raises IGF-1.",
+      "items": [
+        {
+          "text": "A lab-made version of growth hormone-releasing hormone (GHRH). It acts on the pituitary to make and release the body's own GH in pulses, which raises IGF-1. Some GH effects run through IGF-1 made in the liver and other tissues.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        },
+        {
+          "text": "In a 12-week trial IGF-1 rose 48% on 1 mg and 65% on 2 mg versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "falutz-2005-aids"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Visceral fat fell 14 to 18% at 26 weeks in HIV-infected adults with lipodystrophy, with no weight change.",
+      "items": [
+        {
+          "text": "Visceral (deep belly) fat reduction: down 18% and 14% at 26 weeks on 2 mg daily, versus up 2% and down 2% on placebo, in HIV-infected adults with lipodystrophy. Body weight did not change, and the label says it is not for weight loss.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-wr-label"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Injection site reactions (17%), joint pain, swelling and muscle pain.",
+      "items": [
+        {
+          "text": "Egrifta SV label: injection site reactions 17% vs 6% placebo, arthralgia 13% vs 11%, peripheral edema 6% vs 2%, and myalgia 6% vs 2%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Higher IGF-1, fluid retention, raised blood sugar, tumor risk and allergic reactions.",
+      "items": [
+        {
+          "text": "Label warnings: increased risk of neoplasms (preexisting malignancy should be inactive), elevated IGF-1, fluid retention (edema, arthralgia, carpal tunnel syndrome), glucose intolerance (elevated HbA1c in 5% vs 1% placebo), hypersensitivity reactions (4%), and increased mortality in critically ill patients.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-egrifta-sv-label"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

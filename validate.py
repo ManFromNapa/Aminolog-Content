@@ -29,6 +29,16 @@ for f in files:
     for n, e in enumerate(d.get("dosing", {}).get("internet_entries", [])):
         if (e["source_type"] == "vendor") != (e["url"] is None):
             errors.append(f"{f.name}: dosing.internet_entries[{n}] vendor/url mismatch")
+    lines = [(f"{sec}.{k}", v) for sec in ("how_to_take", "what_it_does") for k, v in d.get(sec, {}).items()]
+    lines += [(f"side_effect_groups[{n}]", g) for n, g in enumerate(d.get("side_effect_groups", []))]
+    for where, line in lines:
+        if bool(line["items"]) != bool(line["summary"].strip()):
+            errors.append(f"{f.name}: {where} summary must be empty exactly when it has no items")
+        for n, item in enumerate(line["items"]):
+            if item.get("label") == "research" and item["citation_id"] not in ids:
+                errors.append(f"{f.name}: {where}[{n}] cites unknown {item['citation_id']}")
+            if item.get("label") == "internet" and (item["source_type"] == "vendor") != (item["url"] is None):
+                errors.append(f"{f.name}: {where}[{n}] vendor/url mismatch")
     for field in ("administration_guidance", "side_effects"):
         for n, item in enumerate(d.get(field, [])):
             if item.get("label") == "research":

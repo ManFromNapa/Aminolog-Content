@@ -66,6 +66,35 @@
         "year":{"type":"integer"},
         "summary":{"type":"string"},
         "finding":{"type":"string"}}}},
+    "how_to_take": {
+      "type":"object","additionalProperties":false,
+      "required":["dose","timing","fasting","frequency","cycle_length","storage_and_handling"],
+      "properties":{"dose":{"$ref":"#/$defs/summary_line"},"timing":{"$ref":"#/$defs/summary_line"},"fasting":{"$ref":"#/$defs/summary_line"},"frequency":{"$ref":"#/$defs/summary_line"},"cycle_length":{"$ref":"#/$defs/summary_line"},"storage_and_handling":{"$ref":"#/$defs/summary_line"}}},
+    "what_it_does": {
+      "type":"object","additionalProperties":false,
+      "required":["mechanism","best_documented_effect"],
+      "properties":{"mechanism":{"$ref":"#/$defs/summary_line"},"best_documented_effect":{"$ref":"#/$defs/summary_line"}}},
+    "side_effect_groups": {"type":"array","items":{
+      "type":"object","additionalProperties":false,"required":["title","summary","items"],
+      "properties":{"title":{"type":"string","minLength":1},"summary":{"type":"string","minLength":1},
+        "items":{"type":"array","minItems":1,"items":{"$ref":"#/$defs/sourced_item"}}}}},
     "last_reviewed": {"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}
+  },
+  "$defs": {
+    "summary_line": {"type":"object","additionalProperties":false,"required":["summary","items"],
+      "properties":{"summary":{"type":"string"},"items":{"type":"array","items":{"$ref":"#/$defs/sourced_item"}}}},
+    "sourced_item": {"oneOf":[
+      {"type":"object","additionalProperties":false,"required":["text","label","validity","citation_id"],
+       "properties":{"text":{"type":"string","minLength":1},"label":{"const":"research"},
+        "validity":{"enum":["strong","moderate","low","very_low"]},
+        "conflicts_with_label":{"type":"boolean"},
+        "citation_id":{"type":"string"}}},
+      {"type":"object","additionalProperties":false,"required":["text","label","validity","source_type","url","retrieved"],
+       "properties":{"text":{"type":"string","minLength":1},"label":{"const":"internet"},
+        "validity":{"enum":["strong","moderate","low","very_low"]},
+        "conflicts_with_label":{"type":"boolean"},
+        "source_type":{"enum":["reddit","youtube","podcast","forum","influencer","website","vendor"]},
+        "url":{"type":["string","null"]},
+        "retrieved":{"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}}}]}
   }
 }
