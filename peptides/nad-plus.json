@@ -115,7 +115,403 @@
       "year": 2025,
       "summary": "Randomized double-blind placebo-controlled trial of oral NR in 58 people with long-COVID (NCT04809974), assessing NAD+, cognition and symptoms.",
       "finding": "Illustrates the oral precursor evidence base; the abstract retrieved did not state outcome results, and the trial did not test injected NAD+."
+    },
+    {
+      "id": "nr-overweight-2019",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "31278280",
+      "year": 2019,
+      "summary": "Randomized, double-blind, placebo-controlled 8-week trial of oral nicotinamide riboside (NR) at 100, 300 and 1000 mg in overweight healthy adults (Conze, Brenner and Kruger, Scientific Reports). Funded by ChromaDex, the NR supplier.",
+      "finding": "NR raised whole blood NAD+ by 22%, 51% and 142% within 2 weeks, with the rise maintained through week 8, and adverse events did not differ from placebo."
+    },
+    {
+      "id": "nmn-older-men-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "35927255",
+      "year": 2022,
+      "summary": "Randomized, double-blind, placebo-controlled trial of 250 mg per day of oral nicotinamide mononucleotide (NMN) for 6 or 12 weeks in healthy older men (Igarashi and colleagues, npj Aging). Some authors work for the NMN supplier.",
+      "finding": "NMN was well tolerated and raised blood NAD+. Gait speed and left grip performance improved only at a nominal level, and body composition did not change."
+    },
+    {
+      "id": "nmn-older-adults-2024",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38789831",
+      "year": 2024,
+      "summary": "Randomized, double-blind, placebo-controlled trial of 250 mg per day of oral NMN for 12 weeks in 60 older adults (Morifuji and colleagues, GeroScience). Authors work for the supplement maker.",
+      "finding": "Blood NAD+ rose and 4-meter walking time was shorter than placebo at 12 weeks, but the main stepping test showed no difference. No supplement-related adverse effects were observed."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No dose is approved for NAD+ itself. Studies gave 500 mg by IV (a 2026 chart review) or oral precursors such as 2000 mg per day of nicotinamide riboside (NR) in long-COVID. Online sources describe about 20 to 100 mg per injection under the skin and much larger IV doses, which are untested in trials.",
+      "items": [
+        {
+          "text": "In a 2026 retrospective review of commercial intravenous (IV) sessions, 500 mg of NAD+ or NR was given by IV. This was uncontrolled and not a trial.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nad-iv-2026"
+        },
+        {
+          "text": "In a 2025 randomized trial in long-COVID, oral nicotinamide riboside (NR, a precursor, not NAD+ itself) 2000 mg/day was given for up to 20 weeks to 58 adults.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nr-longcovid-2025"
+        },
+        {
+          "text": "In a randomized trial of overweight adults, oral NR at 100, 300 and 1000 mg raised blood NAD+ dose-dependently (22%, 51% and 142%). This tested the NR precursor, not NAD+ injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nr-overweight-2019"
+        },
+        {
+          "text": "In older men, 250 mg per day of oral nicotinamide mononucleotide (NMN, a precursor) raised blood NAD+. This is a precursor study, not NAD+ itself.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nmn-older-men-2022"
+        },
+        {
+          "text": "Testing.com says subcutaneous NAD+ protocols commonly start at about 20 mg per injection and go up to about 100 mg, and that some prescribers advise against exceeding about 300 mg per week subcutaneously.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Testing.com says IV NAD+ doses of 500 to 1,000 mg per day over four to ten days are used in intensive addiction detox protocols under medical supervision.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says common subcutaneous doses are 50 to 100 mg per injection, IV sessions are 250 to 500 mg (500 to 1,000 mg in higher-dose clinic protocols), and oral precursors are 300 to 1,000 mg of NR or 300 to 900 mg of NMN daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Testing.com says NAD+ is given by self-injected subcutaneous injection, by clinic IV infusion over several hours, or as oral precursors NMN or NR, and that the oral precursors have more human evidence than injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day for NAD+. A 2026 review of IV sessions found NAD+ infusions ran much longer than NR because symptoms forced a slower rate. Online sources favor slow infusions and morning doses, which are untested.",
+      "items": [
+        {
+          "text": "A 2026 retrospective review of commercial IV sessions reported that NAD+ infusions took longer on average (97 vs 37 minutes) than NR infusions because of symptoms that slowed the rate.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nad-iv-2026"
+        },
+        {
+          "text": "Testing.com says a slow IV drip usually avoids symptoms while a fast drip can cause immediate headache or shortness of breath, and describes a pilot study that infused 750 mg over 6 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says morning dosing is commonly preferred to avoid sleep disruption, and that IV sessions are delivered over 2 to 4 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No trial tested how often NAD+ should be injected. The 2026 IV review used four consecutive days, and oral precursor trials used once-daily doses. Online sources describe weekly to near-daily injections.",
+      "items": [
+        {
+          "text": "The 2026 retrospective IV review gave NAD+ or NR on four consecutive days.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nad-iv-2026"
+        },
+        {
+          "text": "In older men, oral NMN 250 mg was taken once per day in a randomized trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nmn-older-men-2022"
+        },
+        {
+          "text": "Testing.com says most prescribers schedule subcutaneous NAD+ one to three times weekly in the initial phase, with maintenance often 50 to 100 mg weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says subcutaneous doses are given 2 to 3 times per week and IV sessions weekly or every two weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Healthspan, a company that sells NAD+ injections, says subcutaneous maintenance is 50 to 100 mg three to seven times per week, with IV loading of three to five daily infusions followed by weekly or monthly infusions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Oral precursor trials ran 6 to 20 weeks. The one IV review followed people for 30 days after four days of infusions. Online sources say NAD+ does not need cycling, or describe 4 to 12 week plans, without studies.",
+      "items": [
+        {
+          "text": "The 2026 retrospective IV review followed people for 30 days after four days of infusions and found no significant changes in liver, kidney, thyroid or inflammatory markers.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nad-iv-2026"
+        },
+        {
+          "text": "The long-COVID trial gave oral NR for up to 20 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nr-longcovid-2025"
+        },
+        {
+          "text": "Oral NMN was taken for 6 or 12 weeks in older men and for 12 weeks in older adults, and blood NAD+ was higher at the end.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nmn-older-adults-2024"
+        },
+        {
+          "text": "In the NR dose trial, the rise in blood NAD+ seen at 2 weeks was maintained through week 8.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nr-overweight-2019"
+        },
+        {
+          "text": "Peptide Dosing Protocols says common planning uses 4, 8 or 12 week frameworks and that NAD+ does not have to be cycled on and off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Testing.com says intensive IV addiction detox protocols run four to ten days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Healthspan, a company that sells NAD+ injections, says some practitioners use a higher-frequency protocol for the first two to four weeks before tapering.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No trial reported storage rules. Online sources say compounded NAD+ comes as a freeze-dried powder mixed with bacteriostatic water and kept in the fridge once mixed, with 2 to 4 weeks given as the usable window.",
+      "items": [
+        {
+          "text": "Testing.com says compounded NAD+ comes as a lyophilized (freeze-dried) 500 mg powder reconstituted with bacteriostatic water, and that subcutaneous injections go in the abdomen or back of the arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the powder is kept at room temperature short term or refrigerated long term, and mixed solution is kept at 2 to 8 degrees C for a 14 to 30 day window depending on compounder guidance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says injection stinging is managed by injecting slowly over 5 to 10 seconds and rotating sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Regimen, a peptide tracking app that says it does not sell NAD+, says reconstituted NAD+ goes in the fridge and that estimates of useful life range from a couple of days to a couple of weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/nad-reconstitution",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Injected NAD+ has not been shown to raise NAD+ inside cells in people in the sources found. For the oral precursors NR and NMN, a 2026 trial suggests the gut converts them to nicotinic acid, which then raises blood NAD+.",
+      "items": [
+        {
+          "text": "In 65 healthy adults, 14 days of NR or NMN raised blood NAD+ similarly, while nicotinamide did not. Lab tests with human gut bacteria suggest conversion to nicotinic acid drives the rise, which is proposed and not confirmed in people.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nad-boosters-2026"
+        },
+        {
+          "text": "Testing.com says NAD+ shuttles electrons through energy-producing pathways and powers enzyme families called sirtuins and PARPs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Oral NR and NMN reliably raise blood NAD+. Effects on health outcomes are small or unproven, and no outcome trial of injected NAD+ was found.",
+      "items": [
+        {
+          "text": "In overweight adults, 1000 mg of NR raised whole blood NAD+ by 142% over 8 weeks. Funded by the supplier.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nr-overweight-2019"
+        },
+        {
+          "text": "In older men, 250 mg per day of NMN raised blood NAD+ for 6 to 12 weeks, but grip and gait improvements were only nominal and body composition did not change.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nmn-older-men-2022"
+        },
+        {
+          "text": "In 60 older adults, 12 weeks of NMN shortened 4-meter walking time and improved a sleep questionnaire, but the main stepping test showed no difference.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nmn-older-adults-2024"
+        },
+        {
+          "text": "Testing.com says claimed benefits include energy, healthy aging, cognitive clarity, addiction recovery and metabolic health, but most rest on preclinical research and no large randomized trials exist for most claims.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "IV infusions",
+      "summary": "In a 2026 uncontrolled review, IV NAD+ caused stomach symptoms, faster heart rate and chest pressure that stopped when the infusion ended. NR caused milder tingling and cramping.",
+      "items": [
+        {
+          "text": "People receiving NAD+ IV had moderate to severe gastrointestinal symptoms, increased heart rate and chest pressure during infusions, which resolved after the infusion ended. NR IV caused minor tingling and mild cramping.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nad-iv-2026"
+        },
+        {
+          "text": "Testing.com says rapid IV administration can cause flushing, blood pressure drops, faster heart rate and chest tightness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Healthspan, a company that sells NAD+ injections, says IV reactions include flushing, nausea, headache, dizziness and chest pressure or palpitations, and are dose and rate dependent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Common",
+      "summary": "Online sources list headache, nausea, dizziness, flushing and injection site irritation, with no trial data for injected NAD+.",
+      "items": [
+        {
+          "text": "Testing.com lists headache, nausea, dizziness, lightheadedness and flushing as common reactions that depend on dose and rate, plus minor injection site irritation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Healthspan, a company that sells NAD+ injections, says subcutaneous injections most often cause mild redness, swelling and brief discomfort at the site.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Oral precursors",
+      "summary": "Oral NR and NMN trials found no excess adverse events versus placebo.",
+      "items": [
+        {
+          "text": "In the 8-week NR trial, there were no reports of flushing and no significant differences in adverse events between NR and placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nr-overweight-2019"
+        },
+        {
+          "text": "In the 12-week NMN trial in older adults, no adverse effects related to the supplement were observed.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nmn-older-adults-2024"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Online sources list pregnancy, active cancer, severe liver or kidney disease and high-dose niacin as reasons to avoid it. Testing.com says human safety data for injected NAD+ is very limited.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols lists pregnancy, active malignancy, severe liver or kidney disease and concurrent high-dose niacin as contraindications.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Testing.com states NAD+ is not FDA-approved for any medical indication and that compounded preparations bypass FDA review.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/nad/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -111,5 +111,343 @@
       "finding": "Identified nine in vitro metabolites of SLU-PP-332; describes the compounds as investigational exercise mimetics with doping potential."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose exists. In mice, the studies used injections of 25 to 50 mg per kilogram of body weight (mg/kg) of this small molecule, which is not a peptide. Online sources describe human doses that differ widely, from under 1 milligram (mg) to hundreds of mg a day, and none are backed by a study.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: in a 2024 study, SLU-PP-332 was given by intraperitoneal (into the abdominal cavity) injection at 50 mg/kg twice daily for 28 days in diet-induced obese mice (and ob/ob mice for 12 days).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-jpet-2024"
+        },
+        {
+          "text": "Animal study only, not human data: in a 2023 study, SLU-PP-332 was given to mice by intraperitoneal injection at 50 mg/kg twice daily in efficacy experiments, after a 30 mg/kg injection was used for pharmacokinetics (how the body handles the drug).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-acs-chem-biol-2023"
+        },
+        {
+          "text": "Animal study only, not human data: in a 2024 heart failure study, SLU-PP-332 was given by intraperitoneal injection at 25 mg/kg twice daily to mice with pressure overload-induced heart failure.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-circulation-2024"
+        },
+        {
+          "text": "A University of Florida news release says the compound is given by injection in mouse studies and that researchers hope to develop a pill, but must first refine it and test it in more animal models before human trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A supplement-industry influencer's blog (with an affiliate discount code for a supplement containing it) lists oral SLU-PP-332 ranges of 100 to 200 mg/day as conservative, 400 mg/day as mid-range, and 600 to 800 mg/day or more as higher. This is an untested claim and is far above the other online ranges.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative, an educational database, suggests 0.5 to 1 mg once daily by subcutaneous injection, and mentions oral use as an alternative. It says no human trials exist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/slu-pp-332-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptibase, a peptide seller, says the commonly used oral dose is 250 micrograms (mcg) to 1 mg daily, with a range up to 1.5 mg, and that people start low and increase. It cites no human studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested time of day in animals or people. Two online sources suggest morning dosing, which is untested.",
+      "items": [
+        {
+          "text": "Peptide Initiative says morning dosing is recommended to match the body's metabolic rhythm, that it can be split between morning and early afternoon, and that people who exercise can take it 30 to 60 minutes beforehand. This is not backed by a study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/slu-pp-332-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptibase, a peptide seller, says to take it in the morning or split between morning and afternoon, and that metabolic effects begin about 2 hours after a dose. It cites no study for this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No food study exists for this compound. One online educational site says it can be taken with or without food, and one says no food rule applies.",
+      "items": [
+        {
+          "text": "Peptide Initiative says it can be taken with or without food, and that some users take it with a light meal to ease possible stomach upset. This is untested.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/slu-pp-332-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging, a site with affiliate links to peptide sellers, says no specific food requirement applies. This is untested.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "In mice, the studies gave the compound twice daily. Online sources suggest once or twice daily in people, which has not been studied.",
+      "items": [
+        {
+          "text": "In the 2024 obesity study, SLU-PP-332 was injected twice daily in obese mice. The 2023 and 2024 heart failure studies also used twice-daily injections in mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-jpet-2024"
+        },
+        {
+          "text": "Peptibase, a peptide seller, says to take it 1 to 2 times daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says to take it once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/slu-pp-332-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging, a site with affiliate links to peptide sellers, says to split subcutaneous doses between morning and afternoon to copy the twice-daily mouse dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Mouse studies ran from 12 days to about a month. Nothing is known about longer use or about stopping in any species. Online sources suggest cycles of 4 to 12 weeks, which are untested.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: SLU-PP-332 was given twice daily for 28 days to diet-induced obese mice and for 12 days to ob/ob mice. The study did not report what happened after stopping.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-jpet-2024"
+        },
+        {
+          "text": "The University of Florida news release says the obese mice received the drug twice a day for a month.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The influencer's blog says the author personally used 400 to 800 mg for three weeks. This is one person's report.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptibase, a peptide seller, says typical community protocols last 4 to 8 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative lists 8 to 12 weeks for research use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/slu-pp-332-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging, a site with affiliate links to peptide sellers, says 4 to 12 weeks on and at least 4 weeks off. It cites no human study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No manufacturer or regulator storage rules exist because there is no human product. Online sources give conflicting storage advice, which is untested.",
+      "items": [
+        {
+          "text": "Peptide Initiative says to keep powder or tablets at room temperature (15 to 25 degrees C) away from sunlight, and to refrigerate reconstituted product at 2 to 8 degrees C and never freeze it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/slu-pp-332-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging, a site with affiliate links to peptide sellers, says to store it at 2 to 8 degrees C, that it does not dissolve in water so an oil or DMSO (dimethyl sulfoxide) vehicle is needed, and to rotate injection sites. This is untested.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It activates the estrogen-related receptors (ERRs), proteins that regulate how cells make energy, with the strongest effect on ERR alpha. This is known from cell and mouse work only.",
+      "items": [
+        {
+          "text": "SLU-PP-332 targets all three ERRs but is most potent at ERR alpha. In mouse muscle cells it increased mitochondrial function (the cell's energy-making machinery), and the endurance effect in mice depended on ERR alpha. This is animal and cell evidence.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-acs-chem-biol-2023"
+        },
+        {
+          "text": "In a mouse heart failure model, ERR gamma was the main mediator of the heart-protecting effect, with increased fatty acid use and mitochondrial genes. Animal evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-circulation-2024"
+        },
+        {
+          "text": "In a test-tube study with human liver preparations, nine metabolites (breakdown products) of SLU-PP-332 were identified. How the body handles it in people is not known.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-metabolism-2026"
+        },
+        {
+          "text": "Wikipedia describes it as a potent but non-selective ERR agonist, strongest at ERR alpha with a potency (EC50) of 98 nanomolar.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/SLU-PP-332",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company that does not sell it, says it has poor oral bioavailability (little reaches the blood when swallowed) and that its behavior in humans is unknown.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/slu-pp-332",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In mice only, it raised exercise endurance, energy use and fat burning, and limited fat gain. No human trial exists.",
+      "items": [
+        {
+          "text": "In obese and ob/ob mice, SLU-PP-332 increased energy expenditure and fatty acid oxidation, decreased fat mass gain and improved insulin sensitivity.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-jpet-2024"
+        },
+        {
+          "text": "In mice, it increased oxidative muscle fibers and exercise endurance.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-acs-chem-biol-2023"
+        },
+        {
+          "text": "In mice with pressure overload heart failure, it improved ejection fraction, reduced fibrosis and increased survival.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "slu-circulation-2024"
+        },
+        {
+          "text": "The University of Florida news release says obese mice given the compound lost about 12% of body weight over one month without eating less, and normal mice ran about 70% longer and 45% farther. These numbers are from a news release, not checked against the paper.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia lists only mouse data and gives no human clinical data or safety information.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/SLU-PP-332",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In mice",
+      "summary": "A news release says no severe side effects have shown up in mouse studies so far, with more testing needed.",
+      "items": [
+        {
+          "text": "The University of Florida release says that so far the drug has not produced severe side effects in the mouse studies, with more testing needed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://news.ufl.edu/2023/09/exercise-mimicking-drug/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Human safety unknown",
+      "summary": "No human safety data exists, and online sources say so.",
+      "items": [
+        {
+          "text": "Superpower, a health testing company that does not sell it, says no human safety data exists and that effects in people cannot be assumed from mouse results.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/slu-pp-332",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia gives no human clinical data or safety information.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/SLU-PP-332",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "One affiliate site lists untested warning signs and suggests liver and heart monitoring at high doses.",
+      "items": [
+        {
+          "text": "Biomogging, a site with affiliate links to peptide sellers, says users may feel transient fatigue in the first week, and suggests monthly liver tests and a heart ultrasound for high doses taken for 8 or more weeks. This is not based on human studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

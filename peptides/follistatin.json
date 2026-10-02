@@ -109,6 +109,15 @@
       "finding": "Four of six walked farther on a 6-minute walk test and muscle biopsies showed less fibrosis and more normal fibers, with no adverse effects reported. With six unblinded patients it is proof-of-principle only."
     },
     {
+      "id": "r-sibm-gt-2017",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28279643",
+      "year": 2017,
+      "summary": "Open-label trial (Mendell et al., Mol Ther) of AAV1 follistatin FS344 gene therapy, 6 x 10^11 vector genomes per kg, injected into both thigh muscles of six people with sporadic inclusion body myositis, compared with eight matched untreated people.",
+      "finding": "Six-minute walk distance changed by +56.0 m per year in treated people versus -25.8 m per year in untreated people. Four of six improved by 58 to 153 m. No adverse events related to the gene therapy were reported. Very small and not blinded, and this is gene therapy, not the injected protein."
+    },
+    {
       "id": "r-nct-bmd-sibm",
       "evidence_type": "human_trial",
       "source_kind": "clinicaltrials",
@@ -154,5 +163,336 @@
       "finding": "Blocking both ligands produced more muscle hypertrophy and improved dystrophic pathology compared with myostatin blockade alone in mice."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No dose of injected follistatin has been studied in people. Trials used a one-time muscle-injected gene therapy, and online sources describe 50 to 300 micrograms a day of the protein, which is untested.",
+      "items": [
+        {
+          "text": "In a trial of six adults with Becker muscular dystrophy, an AAV1 gene therapy encoding follistatin (FS344) was injected into both thigh muscles at 3 x 10^11 vector genomes per kg per leg in the first group and 6 x 10^11 in the second. This is gene therapy, not the follistatin peptide sold online.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In a trial of six adults with sporadic inclusion body myositis, the same type of gene therapy was injected into both thigh muscles at 6 x 10^11 vector genomes per kg per leg. This is also gene therapy, not the peptide.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sibm-gt-2017"
+        },
+        {
+          "text": "In a case series of 11 bodybuilders with an eye condition, all had injected complete 1 mg vials of follistatin-344 under the skin of the abdomen, which the authors call high dose.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-cscr-2020"
+        },
+        {
+          "text": "A community knowledge base (PeptideWiki), which carries affiliate links to suppliers, says follistatin 344 is commonly described at 100 to 200 micrograms a day by subcutaneous injection, with some people trying 200 to 300. It says there are no human dose-response studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptaHub, an informational site with no sales links stated, lists community ranges of 50 to 200 micrograms for muscle growth by subcutaneous injection and 50 to 100 micrograms for intramuscular injection before training. It says no injectable human trials exist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer, an educational site, says the standard dose is 100 to 200 micrograms a day under the skin. It describes a conservative 100 micrograms and an advanced 200 to 300 micrograms, and says doses come from animal research and practitioner reports.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/follistatin-344-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No human study tested time of day for follistatin. Online sources disagree, with one saying 30 minutes before training and others saying after training.",
+      "items": [
+        {
+          "text": "PeptaHub says community protocols inject about 30 minutes before training, into the target muscle for intramuscular use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer says a post-workout injection is preferred.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/follistatin-344-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that links to a peptide seller (N1 Aminos), says post-workout is preferred in exercise-mimetic research.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Both gene therapy trials gave one round of injections. Online sources describe daily injection for 10 to 30 days, or 2 to 3 times a week, none of it tested.",
+      "items": [
+        {
+          "text": "In both gene therapy trials (Becker muscular dystrophy and inclusion body myositis) the vector was delivered once, with no repeat dose.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In the eye-condition case series, eight bodybuilders had one prior follistatin-344 injection and three had several. The eye problem came back in the three with repeated injections.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-cscr-2020"
+        },
+        {
+          "text": "PeptaHub says subcutaneous use is daily for 10 to 30 days, with common protocols ranging from 50 to 100 micrograms a day for 10 days to 100 to 200 micrograms 2 to 3 times a week, and pre-workout dosing on training days only.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer says dosing is once daily and links this to the protein's short half-life, which it puts at about 90 minutes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/follistatin-344-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, which links to a seller, says it is typically given in short, high-frequency pulses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The trials followed people for 6 months to 2 years after a single gene therapy delivery. Online sources describe cycles of 10 to 30 days followed by 3 to 4 weeks off, which no study has tested.",
+      "items": [
+        {
+          "text": "In the Becker muscular dystrophy trial the first group was followed for 1 year after gene delivery and the second for 6 months.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In the inclusion body myositis trial, follow-up ranged from 2 to 24 months, with a median of 14 months.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sibm-gt-2017"
+        },
+        {
+          "text": "PeptaHub says subcutaneous use is daily for 10 to 30 days and then cycled off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer describes 10 to 20 days on at 100 micrograms, 20 to 30 days at 100 to 200 micrograms, or 10 to 20 days at 200 to 300 micrograms, each followed by 3 to 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/follistatin-344-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, which links to a seller, says 10 to 20 days per cycle followed by a 4-week washout.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. The trials injected gene therapy into thigh muscles, and bodybuilders injected vials into abdominal fat. Online storage advice (2 to 8 C for 7 to 14 days) is untested.",
+      "items": [
+        {
+          "text": "The Becker muscular dystrophy trial delivered the gene therapy by direct injections into both quadriceps muscles. It was not an injected follistatin protein.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In a case series, eleven bodybuilders had injected follistatin-344 subcutaneously into the abdomen from 1 mg vials before developing eye problems.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-cscr-2020"
+        },
+        {
+          "text": "PeptaHub says community protocols use subcutaneous injection, or intramuscular injection into target muscles, and that no validated human protocol exists. It gives no storage or mixing guidance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer says to add 0.5 mL of bacteriostatic water per 1 mg of powder, run it down the vial wall and swirl without shaking. It says reconstituted vials keep at 2 to 8 C for 7 to 14 days, or frozen at -20 C for up to 30 days, and that the injection goes under the skin of the abdomen or thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/follistatin-344-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Follistatin is a natural protein that binds myostatin and activin, which limit muscle growth. How injected follistatin acts in people has not been studied.",
+      "items": [
+        {
+          "text": "The Becker muscular dystrophy trial used follistatin as a myostatin blocker, delivered as a gene. Gene delivery in animals raised muscle strength, but the human trial did not measure blocking directly.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In the mdx mouse model of Duchenne muscular dystrophy, an engineered follistatin that blocks both myostatin and activin gave more muscle growth than blocking myostatin alone.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-mdx-2018"
+        },
+        {
+          "text": "PeptaHub says follistatin-344 binds myostatin and activin A outside cells, preventing them from switching on signaling (SMAD2/3) that restricts muscle growth.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "MediSearch, a medical information search engine, says follistatin antagonizes myostatin, a signal that drives muscle shrinkage.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://medisearch.io/blog/understanding-follistatin-supplements-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Only gene therapy has been tested in people. In six adults with Becker muscular dystrophy, four walked farther, and in inclusion body myositis treated people gained distance while untreated people declined. No trial has tested the injected peptide.",
+      "items": [
+        {
+          "text": "In six adults with Becker muscular dystrophy, 6-minute walk distance rose 58 m, 125 m, 108 m and 29 m in four people, with no change in two. Biopsies showed less scarring and larger fibers. Six unblinded patients is proof-of-principle only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In six adults with sporadic inclusion body myositis, walk distance changed by +56.0 m per year versus -25.8 m per year in eight matched untreated people. Four of six improved by 58 to 153 m. The study was small and open-label.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sibm-gt-2017"
+        },
+        {
+          "text": "In aged mice, follistatin gene delivery improved muscle weight and torque, though loss of motor units was unchanged.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-aged-mice-2021"
+        },
+        {
+          "text": "PeptaHub describes the evidence for follistatin-344 as mainly preclinical, with human data from gene therapy rather than injectable protein, and grades the muscle benefit as preliminary.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Eye problems",
+      "summary": "A case series of 11 bodybuilders found fluid under the retina after follistatin-344 injections. It cleared in about 2 months after one injection and came back in three people with repeated injections.",
+      "items": [
+        {
+          "text": "A retrospective case series of 11 male bodybuilders reported central serous chorioretinopathy (fluid under the retina) after follistatin-344 injections. Fluid cleared in about 2.3 months in the eight with one prior injection, and it recurred in three with repeated injections.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-cscr-2020"
+        }
+      ]
+    },
+    {
+      "title": "In gene therapy trials",
+      "summary": "Neither small gene therapy trial reported treatment-related adverse events, but these were not trials of the injected protein.",
+      "items": [
+        {
+          "text": "In the Becker muscular dystrophy gene therapy trial of six patients, no adverse effects were reported. Liver, kidney and blood-marrow checks and pituitary-gonadal hormone levels stayed normal, and anti-follistatin antibodies did not rise.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-bmd-gt-2015"
+        },
+        {
+          "text": "In the inclusion body myositis trial of six patients, no adverse events related to the gene therapy were reported, and pituitary-gonadal hormone levels did not change.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-sibm-gt-2017"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Two online sources say follistatin may suppress follicle-stimulating hormone (FSH) and that long-term effects are unknown. These claims are untested for the injected protein.",
+      "items": [
+        {
+          "text": "PeptaHub lists retinal damage in bodybuilders, suppression of follicle-stimulating hormone (FSH), fertility concerns, connective tissue injuries when muscle outgrows tendon, and unknown long-term effects as reported risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptahub.com/peptides/follistatin-344",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "MediSearch, a medical information search engine that does not sell follistatin, says follistatin may disrupt pituitary hormones including FSH and that side effects are poorly understood.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://medisearch.io/blog/understanding-follistatin-supplements-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Product quality",
+      "summary": "MediSearch says only nine of 17 tested products sold as follistatin actually contained it.",
+      "items": [
+        {
+          "text": "MediSearch says that of 17 supplements marketed as containing follistatin 315 or 344, only nine actually contained follistatin, and several others contained human growth-promoting peptides.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://medisearch.io/blog/understanding-follistatin-supplements-benefits-and-risks",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

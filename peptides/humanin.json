@@ -59,6 +59,15 @@
   ],
   "research": [
     {
+      "id": "pmid-19623253",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "19623253",
+      "year": 2009,
+      "summary": "Rodent clamp study (Muzumdar et al., PLoS One) of humanin and potent analogs infused into the brain or a vein, plus measurement of humanin levels with age in rodents and humans.",
+      "finding": "Brain infusion of humanin and intravenous analogs improved insulin sensitivity in rats, and a single dose of a potent analog lowered blood glucose in diabetic rats. Circulating humanin fell with age in humans and mice."
+    },
+    {
       "id": "pmid-16960089",
       "evidence_type": "animal_study",
       "source_kind": "pubmed",
@@ -86,5 +95,299 @@
       "finding": "Humanin overexpression increased lifespan in C. elegans, HNG treatment improved metabolic healthspan measures in middle-aged mice, and circulating humanin was higher in children of centenarians and lower in Alzheimer's disease and MELAS. Mostly animal and observational data."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose has been tested. The one animal dose recorded here was 0.1 to 1 microgram in mice. Online sources describe about 0.5 to 5 mg per injection in people, which comes from extrapolation, not trials.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: in a 2006 mouse stroke study, the analog HNG was given at 0.1 microgram into the brain ventricles 30 minutes before ischemia, or at 1 microgram into the abdominal cavity 1 hour before ischemia.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16960089"
+        },
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links to sellers, says injection under the skin is standard and describes unvalidated community doses of 0.5 to 3 mg of HNG, or 5 to 10 mg of native humanin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptides Institute says 1 to 4 mg per injection under the skin is described for investigational human use, that animal studies used 4 mg per kg into the abdominal cavity twice weekly, and that no standardized human protocol exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Reference, a site with affiliate links to a seller, lists 1 to 5 mg of an HNG analog under the skin daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has looked at time of day. Online sources lean toward morning with consistent timing.",
+      "items": [
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links to sellers, says morning use is preferred, with consistent timing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptides Insider, a site with an advertiser link to a seller, says morning dosing is generally preferred, particularly for metabolic goals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No food rule has been studied in people. One rodent study found a single dose of a potent analog lowered blood glucose, and online sources mention possible blood sugar changes.",
+      "items": [
+        {
+          "text": "In diabetic rats, a single dose of a potent humanin analog lowered blood glucose, and brain or intravenous infusion improved insulin sensitivity in rats. No human study has tested humanin with meals or fasting.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-19623253"
+        },
+        {
+          "text": "Peptides Insider says there is no strict food-timing requirement.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human dosing schedule exists. Mice in a healthspan study got the analog HNG twice weekly. Online sources describe daily or 1 to 3 times weekly dosing.",
+      "items": [
+        {
+          "text": "Middle-aged mice were treated twice weekly with the potent analog HNG, which improved measures of metabolic health and lowered inflammatory markers. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-32575074"
+        },
+        {
+          "text": "Peptides Institute describes 1 to 3 injections per week for investigational human use, and says no standardized human protocol exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Insider says daily injection under the skin is standard in community protocols.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links to sellers, describes community protocols as daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human study has run for any set length. Online sources describe cycles of about 4 to 12 weeks, followed by a break.",
+      "items": [
+        {
+          "text": "Peptides Institute describes an on period of 4 to 12 weeks with variable off periods, and says no standardized human protocol exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Insider, a site with an advertiser link to a seller, says community protocols commonly run 8 to 12 weeks with a 4 to 8 week break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Reference, a site with affiliate links to a seller, says it is often cycled 4 to 8 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Online sources say to mix the powder with bacteriostatic water, keep it refrigerated and use it within about 30 days. These come from sellers and guide sites, not from a label.",
+      "items": [
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links to sellers, says reconstituted product is kept refrigerated and used within 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptides Institute says to mix the freeze-dried powder with bacteriostatic water, then keep it refrigerated at 2 to 8 degrees Celsius and use it within 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Insider says unopened vials are kept frozen at -20 degrees Celsius for long-term storage or refrigerated for shorter periods, and mixed product is refrigerated and used within about three to four weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A small peptide made by mitochondria. Its action in people is not established. In rodents it appears to act partly through the brain, and it binds IGF binding protein 3.",
+      "items": [
+        {
+          "text": "In rodents, humanin given into the brain improved insulin sensitivity through STAT-3 signaling in the hypothalamus, and the liver effect of the intravenous analog depended on that brain pathway. Human mechanism not shown.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-19623253"
+        },
+        {
+          "text": "In mice, humanin analogs injected into the abdominal cavity lowered IGF-1 and IGF binding protein 3 levels over time, and analogs differed in half-life. The authors suggest humanin travels in blood bound to IGF binding protein 3.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-23836030"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Mouse stroke damage was reduced by the analog HNG. In people, only observational data exist: humanin levels are higher in children of centenarians and lower in Alzheimer's disease.",
+      "items": [
+        {
+          "text": "In mice with induced stroke, HNG reduced infarct (dead tissue) volume, improved neurological function and reduced nerve cell death. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16960089"
+        },
+        {
+          "text": "Circulating humanin was higher in children of centenarians and lower in Alzheimer's disease and MELAS, and HNG treatment improved metabolic health measures in middle-aged mice. Observational in people, so it does not show that taking humanin helps.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-32575074"
+        },
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links to sellers, describes humanin as claimed to support cell protection, insulin sensitivity, neuroprotection, anti-inflammatory effects and energy, while acknowledging most evidence comes from animals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "No human safety data. Online sources describe injection-site reactions, mild fatigue or headache, and possible nausea.",
+      "items": [
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links, says side effects are minimal, with occasional injection-site reactions, transient fatigue or mild headache, while acknowledging that human clinical data are limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptides Institute lists injection site reactions (redness, swelling, mild discomfort) and transient nausea, more common with higher doses or intravenous use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Insider says injection-site redness is common and mild headache and fatigue are occasional.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Online sources list theoretical risks: blood sugar changes and interference with cell death control. Cancer, pregnancy and autoimmune conditions are listed as contraindications.",
+      "items": [
+        {
+          "text": "The Peptide Index, a guide site that carries affiliate links, lists active cancer, pregnancy and autoimmune conditions as contraindications.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptides Institute lists a hypoglycemia (low blood sugar) risk and potential interference with apoptosis (programmed cell death) as theoretical risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Reference says limited human safety data exist, that humanin may protect cancer cells from programmed cell death, and may affect IGF-1 signaling.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In animals",
+      "summary": "In rodents, potent analogs lowered blood glucose and IGF-1 levels. These effects have not been checked in people.",
+      "items": [
+        {
+          "text": "A single dose of a potent humanin analog lowered blood glucose in diabetic rats.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-19623253"
+        },
+        {
+          "text": "In mice, HNG injection lowered IGF-1 and IGF binding protein 3 levels over time.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-23836030"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

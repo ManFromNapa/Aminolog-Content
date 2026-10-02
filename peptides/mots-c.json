@@ -144,6 +144,15 @@
       "finding": "No results exist yet (primary completion estimated 2027). It is the only registered MOTS-c injection trial found in ClinicalTrials.gov, and it is not a US pipeline trial."
     },
     {
+      "id": "nct-03998514",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT03998514",
+      "year": 2021,
+      "summary": "Registered Phase 1a/1b randomized, double-blind, placebo-controlled trial of CB4211, a drug related to MOTS-c (an analog, not MOTS-c itself), in 88 healthy non-obese adults and adults with nonalcoholic fatty liver disease. It tested single doses, 7 days of daily injections under the skin, and 28 days of daily injections in the liver disease group. Completed April 2021 per the registry.",
+      "finding": "The registry lists safety and injection-site reactions as the outcomes and posts no results. Any numbers reported elsewhere come from secondary sources, and the compound tested was an analog."
+    },
+    {
       "id": "fda-compounding-page",
       "evidence_type": "regulatory_document",
       "source_kind": "fda",
@@ -153,5 +162,475 @@
       "finding": "On the fetched page MOTS-c appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing MOTS-c may pose a significant risk of immunogenicity for certain routes of administration. The page does not describe an approved product."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose of MOTS-c has been established. The only mouse dose in the research is 15 mg/kg in one exercise test, and a registered 12-week trial does not state its dose. Online sources describe 5 to 10 mg per injection or per week.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: a single 15 mg/kg dose of MOTS-c improved running time and distance in an acute exercise test in untrained mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-35808870"
+        },
+        {
+          "text": "A registered Phase 2a trial in adults with prediabetes and overweight or obesity lists a fixed once-daily injection under the skin for 12 weeks versus placebo. The record does not state the dose amount and no results are posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-07505745"
+        },
+        {
+          "text": "A peptide protocol site (Path To Peptides, which discloses commission-earning links) says MOTS-c use is described as 5 to 10 mg per week, either as one weekly injection or split across two to three doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide directory site (PeptideProbe, which discloses affiliate links to telehealth services) says a typical dose is 5 to 10 mg under the skin, two to three times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptideFox says 5 to 10 mg under the skin 1 to 3 times per week, with 5 mg as the common starting point.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic says 5 mg per injection, given 3 to 5 times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says the standard dose is 5 to 10 mg per week, given once or twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested time of day. Online sources favor the morning or 30 to 90 minutes before exercise, on the idea that exercise raises the body's own MOTS-c.",
+      "items": [
+        {
+          "text": "In people, exercise raised the body's own MOTS-c in muscle and blood. Nobody was given MOTS-c, and no study has tested whether injecting it before exercise adds anything.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33473109"
+        },
+        {
+          "text": "PeptideFox says MOTS-c is typically injected in the morning, about 60 to 90 minutes before exercise.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic says morning or 30 to 60 minutes before exercise is preferred, and morning on non-training days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says morning dosing is preferred, and 30 to 60 minutes before exercise on training days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, an educational site with referral links to clinics, says morning use applies even for afternoon workouts, and that evening use is discouraged for missing the fasted window and possibly affecting sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study has tested MOTS-c with or without food. Mouse work shows it improves insulin sensitivity, so online sources describe fasted morning use and warn of low blood sugar.",
+      "items": [
+        {
+          "text": "In mice, MOTS-c prevented insulin resistance and diet-induced obesity, acting mainly on muscle. This is animal evidence only and does not test meal timing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25738459"
+        },
+        {
+          "text": "PeptideFox says the morning dose is fasted or 60 to 90 minutes before exercise.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says some users inject fasted, and warns that this can occasionally cause mild low blood sugar symptoms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ says MOTS-c is taken fasted in the morning, 15 to 30 minutes before eating, and that black coffee and plain tea are described as not breaking the fast.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Perfect B, a clinic that prescribes MOTS-c, says to inject in the morning before the first meal so the dose does not compete with the insulin rise after eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The only registered injection trial uses once-daily dosing. Online sources describe anything from once every 5 days to 5 times per week; none is backed by a human study.",
+      "items": [
+        {
+          "text": "A registered Phase 2a trial lists a once-daily injection for 12 weeks. No results are posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-07505745"
+        },
+        {
+          "text": "A related drug, CB4211, was given as single doses, then daily for 7 days, then daily for 28 days in a registered Phase 1 trial. It is an analog, not MOTS-c, and no results are posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-03998514"
+        },
+        {
+          "text": "In mice, MOTS-c given intermittently in late life increased physical capacity and healthspan.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33473109"
+        },
+        {
+          "text": "Path To Peptides says use is described as one weekly injection or split into two to three doses per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptideProbe says two to three times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptideFox says 1 to 3 times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic says 3 to 5 times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says once or twice weekly, with 5 mg once weekly for beginners.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B describes 5 mg once every 5 days, for 4 injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Human exposure is limited to a 12-week registered trial design and a 28-day analog trial. Online sources describe cycles from 20 days to 12 weeks, followed by breaks of 2 weeks to 4 months.",
+      "items": [
+        {
+          "text": "The registered Phase 2a trial plans 12 weeks of daily injections followed by a 4-week safety follow-up. No results are posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-07505745"
+        },
+        {
+          "text": "The analog CB4211 was injected daily for 28 days in people with fatty liver disease in a registered Phase 1 trial. Results are not posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-03998514"
+        },
+        {
+          "text": "PeptideFox says 4 to 6 weeks on and 2 to 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic says 8 to 12 weeks on, then a 4 to 8 week break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says cycles of 8 to 12 weeks, then 4 to 8 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B describes a 20-day cycle of 4 injections, then at least a 4-month rest, for 2 to 3 cycles per year.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label or study covers storage. Online sources say to keep the mixed vial in the refrigerator at 2 to 8 C and use it within 1 to 4 weeks, and to rotate injection sites.",
+      "items": [
+        {
+          "text": "PeptideFox says a mixed vial is kept refrigerated at 2 to 8 C and used within 1 to 2 weeks, and that bacteriostatic water with sodium chloride is used instead of plain bacteriostatic water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideFox says the injection goes under the skin or into muscle, and sites are rotated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic says MOTS-c is given by small insulin-type needle under the skin and is stored refrigerated after mixing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says the dry powder is stored at minus 20 C and a mixed vial is refrigerated at 2 to 8 C and used within 14 to 30 days, with abdomen, outer thigh or upper arm as injection sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B says a mixed vial is refrigerated at 2 to 8 C, used within 30 days, protected from light and never frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A small protein made by mitochondria, the cell's energy units. In mice it acts mainly on muscle through the energy sensor AMP-activated protein kinase (AMPK). How it works in people is not established.",
+      "items": [
+        {
+          "text": "In cells and mice, MOTS-c acted mainly on skeletal muscle through AMPK and prevented age-related and high-fat-diet insulin resistance. Mouse and cell data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25738459"
+        },
+        {
+          "text": "PeptideFox says MOTS-c activates AMPK, increases glucose uptake, promotes fat burning and builds new mitochondria.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic says MOTS-c activates AMPK and promotes mitochondria growth, cell cleanup, fat burning and glucose uptake.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Mouse studies show better insulin sensitivity, less diet-induced weight gain and better exercise capacity. In people, only natural MOTS-c levels have been measured, and no injection trial has reported results.",
+      "items": [
+        {
+          "text": "In mice, MOTS-c prevented diet-induced obesity and insulin resistance.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25738459"
+        },
+        {
+          "text": "In mice of all ages MOTS-c improved physical performance, and exercise raised the body's own MOTS-c in people who were not given the peptide.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33473109"
+        },
+        {
+          "text": "In breast cancer survivors in an exercise trial (49 people), natural blood MOTS-c rose after exercise in non-Hispanic White survivors but not in Hispanic survivors. No MOTS-c was given.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34413391"
+        },
+        {
+          "text": "A McGill University article says MOTS-c extended lifespan and improved metabolism in mice. It says a small trial of daily injections for 30 days in 20 overweight people showed no weight loss but lower blood sugar and liver enzymes, and argues the hype outruns the human evidence.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/injections-mots-c-can-make-you-live-longer-if-you-are-mouse",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says the only human trial is of CB4211, a MOTS-c analog, in 20 obese patients, with liver enzyme ALT down 25%, AST down 17% and fasting glucose down 6%. It could not be traced to posted results.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Revolution Health and Wellness, a clinic, says MOTS-c reduces abdominal fat, improves insulin sensitivity and boosts endurance, and notes it is not FDA-approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://revolutionhealth.org/blogs/news/peptide-therapy-mots-c",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "Online sources describe injection-site burning, redness and lumps, with mild tiredness and brief stomach upset. No controlled trial of MOTS-c has reported side effects.",
+      "items": [
+        {
+          "text": "PeptideFox says injection-site burning, redness, welts and lumps are the most frequent reports, with mild fatigue at first doses and transient stomach discomfort.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidefox.com/content/mots-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Lamkin Clinic describes mild injection-site reactions as reported with MOTS-c.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "MOTS-c improves insulin sensitivity in mice, and online sources warn of brief low blood sugar, mainly in people taking glucose-lowering medicine.",
+      "items": [
+        {
+          "text": "In mice, MOTS-c prevented insulin resistance. This is why a glucose-lowering effect is plausible, but it has not been measured with injected MOTS-c in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25738459"
+        },
+        {
+          "text": "The Lamkin Clinic describes transient low blood sugar, mainly in people with insulin sensitivity or taking glucose-lowering medication.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://lamkinclinic.com/what-is-mots-c-peptide-used-for/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer warns that injecting fasted can occasionally cause mild low blood sugar symptoms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/mots-c-peptide-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "The registered trials have no posted results. A McGill article says it knows of no adverse effects reported in people.",
+      "items": [
+        {
+          "text": "The registered Phase 1 trial of the related drug CB4211 lists adverse events and injection-site reactions as outcomes. No results are posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-03998514"
+        },
+        {
+          "text": "A McGill University article says it found no reported adverse effects in humans, and says MOTS-c did not block cell death, which lowers a cancer-promotion concern raised for a related peptide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/injections-mots-c-can-make-you-live-longer-if-you-are-mouse",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA lists MOTS-c among compounding substances that may carry significant safety risks and says it found no human exposure data.",
+      "items": [
+        {
+          "text": "FDA says compounded drugs containing MOTS-c may pose a significant risk of immune reactions (immunogenicity) for certain routes, and may have impurity and ingredient-characterization problems. It says it found no human exposure data and does not know whether MOTS-c would cause harm in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-compounding-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
