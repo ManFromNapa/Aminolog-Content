@@ -119,7 +119,384 @@
       "year": 2024,
       "summary": "FDA warning letter dated 10 December 2024 to Xcel Research LLC.",
       "finding": "The letter lists survodutide, among other peptides, as an unapproved new drug sold with research-use-only labels despite evidence of intended human use."
+    },
+    {
+      "id": "pmid-42820639",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42820639",
+      "year": 2026,
+      "summary": "SYNCHRONIZE-2: phase 3, 76-week trial of survodutide 3.6 or 6.0 mg once weekly versus placebo in 752 adults with obesity and type 2 diabetes (Wharton et al., N Engl J Med; NCT06066528).",
+      "finding": "Weight change was -8.2% (3.6 mg) and -9.8% (6.0 mg) versus -3.9% with placebo, and the glycated hemoglobin (HbA1c) level fell 0.9 and 0.8 percentage points versus 0.2. Gastrointestinal events occurred in 72.8% and 77.7% versus 38.6% with placebo."
+    },
+    {
+      "id": "pmid-38095657",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38095657",
+      "year": 2024,
+      "summary": "Phase 2, 16-week trial of survodutide (up to 0.3 to 2.7 mg once weekly, or 1.2 or 1.8 mg twice weekly) versus placebo and open-label semaglutide in 413 adults with type 2 diabetes on metformin (Blüher et al., Diabetologia; NCT04153929).",
+      "finding": "HbA1c fell by about 1.5 to 1.7 percentage points across survodutide arms, similar to semaglutide 1.0 mg weekly at the low dose, and doses of 1.8 mg or more weekly gave more weight loss than semaglutide. Adverse events, mainly gastrointestinal, occurred in 77.8% on survodutide, and the authors say slower dose escalation could reduce them."
+    },
+    {
+      "id": "pmid-41638399",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "41638399",
+      "year": 2026,
+      "summary": "Mouse and human tissue study of where survodutide acts in the brain (Zimmermann et al., Mol Metab; Boehringer Ingelheim).",
+      "finding": "In mice, fluorescent survodutide reached brain areas outside the blood-brain barrier and activated appetite-related neurons. A long-acting glucagon-only drug did not reduce food intake, which supports the idea that the appetite effect depends on the GLP-1 receptor."
+    },
+    {
+      "id": "pmid-42822760",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "42822760",
+      "year": 2026,
+      "summary": "Narrative review of survodutide for obesity: mechanism, clinical evidence and remaining uncertainties (Sergi, Contemp Clin Trials).",
+      "finding": "Describes a proposed mechanism of less food intake through GLP-1 receptor activation plus glucagon receptor effects on energy expenditure and liver metabolism. It states that durability, long-term safety, treatment persistence and effects after discontinuation remain to be established."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "In trials, survodutide was injected under the skin once weekly with a slow dose increase over 20 to 24 weeks, reaching 0.6 to 4.8 mg in phase 2 obesity, 2.4 to 6.0 mg in a liver trial and up to 3.6 or 6.0 mg in phase 3. Online guides repeat these trial doses, and none can be prescribed because survodutide is not approved.",
+      "items": [
+        {
+          "text": "Phase 2 obesity trial: once-weekly subcutaneous survodutide 0.6, 2.4, 3.6 or 4.8 mg for 46 weeks, with 20 weeks of dose escalation, in adults without diabetes with BMI 27 or higher.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38330987"
+        },
+        {
+          "text": "Phase 2 MASH trial: once-weekly subcutaneous survodutide 2.4, 4.8 or 6.0 mg for 48 weeks, with 24 weeks of dose escalation, in adults with biopsy-confirmed MASH and fibrosis stage F1 to F3.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38847460"
+        },
+        {
+          "text": "Phase 2 type 2 diabetes trial: survodutide up to 0.3, 0.9, 1.8 or 2.7 mg once weekly, or 1.2 or 1.8 mg twice weekly, for 16 weeks. The authors say slower dose escalation could reduce the gastrointestinal side effects.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38095657"
+        },
+        {
+          "text": "SYNCHRONIZE-1 (phase 3): once-weekly subcutaneous survodutide adjusted up to 3.6 mg or 6.0 mg for 76 weeks with lifestyle counseling, in adults with obesity (or overweight with a complication) without diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42253238"
+        },
+        {
+          "text": "SYNCHRONIZE-2 (phase 3): once-weekly survodutide 3.6 mg or 6.0 mg for 76 weeks in adults with obesity and type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42820639"
+        },
+        {
+          "text": "Doctronic, an online health service, lists steps of 0.3, 0.6, 1.2, 2.4 and 4.8 mg weekly, each held for about four weeks if tolerated. It names 4.8 mg as the highest dose studied in obesity, while the phase 3 trials went to 6.0 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/survodutide-dosage-chart/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a peptide-tracking app that says it does not sell peptides, summarizes the phase 2 doses (0.6 to 4.8 mg) and phase 3 targets (up to 3.6 or 6.0 mg) as once-weekly injections after dose escalation. It says these are trial designs, not a consumer protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptiq.io/blog/survodutide-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a guide site that links to a peptide supplier, says all of its dosing information comes from published trials, shows the phase 2 and phase 3 weekly doses, and states there is no consumer dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "Trials found no food or meal rules. Phase 3 trials in people with type 2 diabetes show it lowers blood sugar over time. Online sources suggest smaller, lower-fat meals for nausea and raise a theoretical rise in blood sugar from the glucagon part.",
+      "items": [
+        {
+          "text": "SYNCHRONIZE-2: in adults with type 2 diabetes, the HbA1c level fell 0.9 percentage points with 3.6 mg and 0.8 with 6.0 mg weekly, versus 0.2 with placebo, over 76 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42820639"
+        },
+        {
+          "text": "Phase 2 trial in type 2 diabetes: HbA1c fell about 1.5 to 1.7 percentage points after 16 weeks across survodutide dose groups, similar to semaglutide 1.0 mg weekly at the lowest dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38095657"
+        },
+        {
+          "text": "Doctronic says eating smaller, lower-fat meals reduces nausea for most people, that lying down right after eating can worsen reflux, and that staying hydrated matters during vomiting or diarrhea.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/survodutide-side-effects/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic says glucagon normally raises blood sugar, so there is a theoretical chance of higher blood glucose in people without diabetes, and that its clinical importance at treatment doses is still under investigation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/survodutide-side-effects/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Trials gave survodutide once weekly. A small phase 2 diabetes trial also tested twice-weekly dosing for 16 weeks. Online sources describe a missed-dose window of four days, which is not from a label.",
+      "items": [
+        {
+          "text": "In the phase 2 trials, survodutide was given as once-weekly subcutaneous injections, with a dose-escalation period before a maintenance dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38330987"
+        },
+        {
+          "text": "In the phase 2 diabetes trial, twice-weekly arms (1.2 and 1.8 mg) lowered HbA1c by 1.63 and 1.68 percentage points over 16 weeks, in the same range as once-weekly arms.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38095657"
+        },
+        {
+          "text": "Doctronic says trial guidance generally allows a missed dose if it is within four days of the scheduled day, and otherwise skips it and resumes the regular weekly schedule. It says nausea and vomiting are the most common reasons for a dose reduction or stopping.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/survodutide-dosage-chart/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 16 to 76 weeks, with the longest at 76 weeks. A 2026 review says effects after stopping are not yet established. Online guides give vial counts for 4, 8 and 12 week plans.",
+      "items": [
+        {
+          "text": "SYNCHRONIZE-1 and SYNCHRONIZE-2 gave survodutide for 76 weeks and measured weight at week 76.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42253238"
+        },
+        {
+          "text": "The phase 2 obesity trial lasted 46 weeks and the phase 2 MASH trial 48 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38330987"
+        },
+        {
+          "text": "A 2026 review says the durability of the effect, long-term safety, treatment persistence and effects after discontinuation remain to be established.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42822760"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a guide site that links to a peptide supplier, gives vial and syringe counts for 4, 8 and 12 week weekly plans.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Survodutide has no label, so storage rules come only from sellers. One supplier-linked guide says to keep powder frozen and mixed vials refrigerated, and to discard cloudy solution.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a guide site that links to a peptide supplier, says research-use powder comes in 6 mg or 10 mg vials, mixed with 1.0 to 2.0 mL of bacteriostatic water by swirling gently, not shaking, with a fresh syringe for each weekly draw.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a guide site that links to a peptide supplier, says powder is kept at -20 C or colder for long storage, or at 2 to 8 C for short holds, and mixed solution is refrigerated at 2 to 8 C, with repeated freezing and thawing avoided.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a guide site that links to a peptide supplier, says a cloudy or particle-filled solution after mixing should not be used, and a mixed vial left at room temperature for more than a few hours should be treated as compromised.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A once-weekly drug that activates two receptors: GLP-1 (a gut hormone that lowers appetite) and glucagon (which may raise energy use and act on the liver). The appetite effect is shown in mice to depend on the GLP-1 receptor. The energy-burning effect is described as proposed.",
+      "items": [
+        {
+          "text": "In mice, survodutide reached brain areas that sit outside the blood-brain barrier and activated appetite-related neurons. A long-acting glucagon-only drug did not reduce food intake, which suggests the appetite effect depends on the GLP-1 receptor.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-41638399"
+        },
+        {
+          "text": "A 2026 review describes the proposed mechanism as lower food intake through GLP-1 receptor activation plus glucagon receptor effects on energy expenditure and liver metabolism.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42822760"
+        },
+        {
+          "text": "BodySpec, a body-scan company that says it does not sell the drug, says survodutide is designed to activate the GLP-1 receptor for appetite and blood sugar and the glucagon receptor, which may increase energy burn and target liver fat.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.bodyspec.com/blog/post/survodutide_guide_to_the_weight_loss_mash_drug_trial",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In a 76-week phase 3 trial, adults with obesity lost 12% to 13% of body weight on survodutide versus 5% on placebo. In diabetes and fatty liver trials it also lowered blood sugar and liver fat.",
+      "items": [
+        {
+          "text": "SYNCHRONIZE-1: weight change at week 76 was -12.2% (3.6 mg) and -13.0% (6.0 mg) versus -5.4% with placebo in 725 adults with obesity without diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42253238"
+        },
+        {
+          "text": "SYNCHRONIZE-2: weight change at week 76 was -8.2% (3.6 mg) and -9.8% (6.0 mg) versus -3.9% with placebo in 752 adults with obesity and type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42820639"
+        },
+        {
+          "text": "SYNCHRONIZE-MASLD: 84.2% had a liver fat reduction of 30% or more versus 24.3% on placebo at 48 weeks in 216 adults with obesity and fatty liver disease.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42252333"
+        },
+        {
+          "text": "Phase 2 MASH trial: MASH improved without worsening fibrosis in 47%, 62% and 43% across doses versus 14% with placebo, but fibrosis improvement (34 to 36% versus 22%) was not clearly different.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38847460"
+        },
+        {
+          "text": "The large cardiovascular outcomes trial (SYNCHRONIZE-CVOT) is registered as completed, but no results were posted when reviewed, so heart benefit is not verified.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-06077864"
+        },
+        {
+          "text": "BodySpec, a body-scan company that says it does not sell the drug, summarizes phase 2 results as about 15% weight loss at the highest dose over 46 weeks and a liver benefit in MASH.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.bodyspec.com/blog/post/survodutide_guide_to_the_weight_loss_mash_drug_trial",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea, vomiting and diarrhea affected most people, mainly while the dose was being raised.",
+      "items": [
+        {
+          "text": "In the phase 2 obesity trial, adverse events occurred in 91% of survodutide recipients vs 75% with placebo, primarily gastrointestinal (75% vs 42%).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38330987"
+        },
+        {
+          "text": "In the phase 2 MASH trial, nausea occurred in 66% vs 23% with placebo, diarrhea 49% vs 23%, and vomiting 41% vs 4%. Serious adverse events occurred in 8% with survodutide and 7% with placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-38847460"
+        },
+        {
+          "text": "In the phase 3 SYNCHRONIZE-1 trial, gastrointestinal symptoms, typically mild to moderate, occurred in 80.9% to 89.7% of survodutide recipients (depending on the group) and 47.9% with placebo. No deaths were reported.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42253238"
+        },
+        {
+          "text": "In SYNCHRONIZE-2 (type 2 diabetes), gastrointestinal events occurred in 72.8% (3.6 mg) and 77.7% (6.0 mg) vs 38.6% with placebo, generally mild to moderate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42820639"
+        }
+      ]
+    },
+    {
+      "title": "Stopping early",
+      "summary": "A news report on the phase 3 results says about 1 in 5 people on survodutide stopped because of stomach side effects.",
+      "items": [
+        {
+          "text": "AJMC, a managed-care news site, reports that in SYNCHRONIZE-1 gastrointestinal events led to stopping treatment in 17.8% (3.6 mg) and 20.2% (6.0 mg) of participants vs 2.9% with placebo.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.ajmc.com/view/survodutide-phase-3-data-signal-metabolic-gains-beyond-weight-loss",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Doctronic says the glucagon part may modestly raise resting heart rate and lists warning signs that need urgent care.",
+      "items": [
+        {
+          "text": "Doctronic says glucagon receptor activity can raise resting heart rate modestly. It advises prompt care for vomiting lasting more than 48 hours, sudden upper abdominal pain spreading to the back, signs of an allergic reaction, or a sustained high resting heart rate.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/survodutide-side-effects/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulatory status",
+      "summary": "Not FDA-approved. FDA has warned a seller of research-use-only survodutide, and online sources say approval may come in 2027 or 2028.",
+      "items": [
+        {
+          "text": "FDA warning letter dated 10 December 2024 lists survodutide, among other peptides, as an unapproved new drug sold with research-use-only labels despite evidence of intended human use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-warning-xcel-2024"
+        },
+        {
+          "text": "BodySpec, a body-scan company that says it does not sell the drug, says survodutide is still investigational and has FDA Breakthrough Therapy and Fast Track designations.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.bodyspec.com/blog/post/survodutide_guide_to_the_weight_loss_mash_drug_trial",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Trimi Health, a telehealth seller of compounded semaglutide and tirzepatide, says survodutide is not FDA-approved, projects possible approval in 2027 or 2028, and steers readers to start currently available drugs instead of waiting.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

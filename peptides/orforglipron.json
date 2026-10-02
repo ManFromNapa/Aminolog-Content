@@ -126,7 +126,368 @@
       "year": 2023,
       "summary": "Registry record for ATTAIN-1, the phase 3 study of orforglipron in adults with obesity or overweight with weight-related comorbidities, with United States sites.",
       "finding": "Confirms the trial is registered on ClinicalTrials.gov (status active, not recruiting)."
+    },
+    {
+      "id": "wharton-2023-nejm-phase2",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "37351564",
+      "year": 2023,
+      "summary": "Phase 2 randomized, double-blind trial of once-daily orforglipron (12, 24, 36 or 45 mg) vs placebo for 36 weeks in 272 adults with obesity, or overweight plus a weight-related condition, without diabetes (Wharton et al., N Engl J Med).",
+      "finding": "Mean weight change at week 36 ranged from -9.4% to -14.7% with orforglipron vs -2.3% with placebo; stomach and bowel side effects led to stopping in 10 to 17% of participants across dose groups."
+    },
+    {
+      "id": "attain-maintain-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42120723",
+      "year": 2026,
+      "summary": "Phase 3b randomized, double-blind, placebo-controlled trial (ATTAIN-MAINTAIN) for 52 weeks in 376 adults who had lost weight on injectable tirzepatide (205) or semaglutide (171) and were switched to once-daily orforglipron or placebo (Aronne et al., Nat Med).",
+      "finding": "Among those whose weight had plateaued, orforglipron kept an estimated 74.7% (after tirzepatide) and 79.3% (after semaglutide) of prior weight loss vs 49.2% and 37.6% with placebo; the trial had no group staying on injections and lasted one year."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label starts at 0.8 mg once daily and steps up at least every 30 days (2.5 mg, 5.5 mg, then 9, 14.5 or 17.2 mg), with a maximum of 17.2 mg and 9 mg if taken with a strong CYP3A4 inhibitor, a type of drug that slows its breakdown. Trials used other doses (6 to 45 mg). Ro, a telehealth seller, repeats the label schedule.",
+      "items": [
+        {
+          "text": "Label: Foundayo (orforglipron) tablets, starting dosage is 0.8 mg orally once daily; after at least 30 days increase to 2.5 mg once daily, then after at least 30 days to 5.5 mg once daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "Label: Foundayo may be increased to the next level (9 mg, 14.5 mg or 17.2 mg once daily) after at least 30 days on the current dosage based on response and tolerability; the maximum is 17.2 mg once daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "Label: Foundayo maximum dosage is 9 mg once daily when used with a strong CYP3A4 inhibitor.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "In the phase 3 ATTAIN-1 trial, adults with obesity took orforglipron 6 mg, 12 mg or 36 mg once daily for 72 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "attain-1-2025"
+        },
+        {
+          "text": "In a phase 2 trial in 272 adults with obesity, orforglipron 12, 24, 36 or 45 mg once daily was given for 36 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "wharton-2023-nejm-phase2"
+        },
+        {
+          "text": "Ro, a telehealth company that sells weight-loss treatment, says Foundayo starts at 0.8 mg once daily for the first 30 days and increases every 30 days through 2.5 mg, 5.5 mg, 9 mg and 14.5 mg to a 17.2 mg maximum.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says once daily and does not name a time of day; blood levels peak 4 to 8 hours after a dose. Ro and an HCPLive podcast say any time of day works, as long as it is consistent.",
+      "items": [
+        {
+          "text": "The Foundayo label states the tablet is taken orally once daily and does not specify a time of day. It reports that the highest blood level is reached 4 to 8 hours after a dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "An HCPLive podcast summary describes Foundayo as a GLP-1 pill for weight loss that can be taken at any time of day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "podcast",
+          "url": "https://www.hcplive.com/view/diabetes-dialogue-orforglipron-receives-fda-approval-for-chronic-weight-management",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Ro, a telehealth company that sells weight-loss treatment, says to take Foundayo once daily at any time of day, and that the key is taking it at the same time each day, about every 24 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label says take it with or without food, and found no clinically relevant food effect on how much drug is absorbed. Several online sources repeat that there are no food or water rules, unlike oral semaglutide.",
+      "items": [
+        {
+          "text": "The Foundayo label states the tablet is taken orally once daily with or without food.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The label reports no clinically relevant food effect on orforglipron exposure. With an investigational 37.5 mg tablet, daily drug exposure was 19% lower and peak level 26% lower with food than fasted.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The label states orforglipron delays stomach emptying, most after the first dose and less over time. It may change how well other pills taken by mouth are absorbed, and women using oral hormonal birth control are advised to switch to a non-oral method or add a barrier method for 30 days after starting and after each dose increase.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "An HCPLive podcast summary describes Foundayo as a GLP-1 pill that can be taken without food or water restrictions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "podcast",
+          "url": "https://www.hcplive.com/view/diabetes-dialogue-orforglipron-receives-fda-approval-for-chronic-weight-management",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide-affiliate blog that links to sellers says orforglipron has no food or water restrictions unlike oral semaglutide. The page predates approval.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Ro, a telehealth company that sells weight-loss treatment, says to take Foundayo with water, with or without food, and that it does not require fasting.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily, no more than one tablet a day. A missed dose is taken as soon as possible without doubling, and 7 or more missed days in a row means restarting at a lower dose. Doctronic gives a 12-hour cutoff and skip rule that the label does not state.",
+      "items": [
+        {
+          "text": "The Foundayo label states not to take more than one tablet per day, and that each dose increase comes after at least 30 days on the current dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The Foundayo label states a missed dose is taken as soon as possible without doubling the next dose, and that after 7 or more consecutive missed doses the dose escalation is restarted at a lower dosage.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "Doctronic, an online health service, says to take a missed dose right away if less than 12 hours have passed, to avoid taking it within 8 hours of the next dose, and to skip a missed dose completely after longer gaps. It also says to contact a healthcare provider after three or more missed days.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/missed-dose-orforglipron/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Ro, a telehealth company that sells weight-loss treatment, says to take a missed Foundayo dose as soon as you remember without doubling up, and to contact a provider after seven or more missed doses in a row.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 36 to 72 weeks, and a one-year trial in people switching from injections kept most of their weight loss. No trial of people stopping orforglipron after weight loss was found. Online sources describe it as ongoing treatment, with weight regain after long breaks.",
+      "items": [
+        {
+          "text": "ATTAIN-1 gave orforglipron once daily for 72 weeks in 3,127 adults with obesity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "attain-1-2025"
+        },
+        {
+          "text": "A phase 2 trial gave orforglipron for 36 weeks in 272 adults with obesity.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "wharton-2023-nejm-phase2"
+        },
+        {
+          "text": "In ATTAIN-MAINTAIN, adults who had lost weight on tirzepatide or semaglutide injections and then took orforglipron for 52 weeks kept an estimated 74.7% and 79.3% of that weight loss, vs 49.2% and 37.6% with placebo. The trial had no group continuing injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "attain-maintain-2026"
+        },
+        {
+          "text": "The British Heart Foundation says more research is needed to find out whether orforglipron helps people maintain weight loss for longer than 52 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/behind-the-headlines/weight-loss-pills-orforglipron",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic, an online health service, says extended breaks from orforglipron can bring back appetite, food cravings and gradual weight gain.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/missed-dose-orforglipron/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Store at room temperature (20 to 25 C), no fridge needed, and swallow tablets whole. Doctronic adds advice to keep them in the original bottle away from light and humidity, which the label text does not state.",
+      "items": [
+        {
+          "text": "The Foundayo label states tablets are stored at room temperature (20 to 25 C), with excursions permitted between 15 and 30 C.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The Foundayo label states tablets are swallowed whole without breaking, crushing, or chewing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "Doctronic, an online health service, says Foundayo does not need refrigeration and should be stored at 68 to 77 F (20 to 25 C).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/does-orforglipron-expire/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic, an online health service, says to keep tablets in the original dark container with its moisture-absorbing packets, away from sunlight, bathrooms and kitchens, and not to move them long term into pill organizers.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/does-orforglipron-expire/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It binds to and switches on the receptor for glucagon-like peptide-1 (GLP-1), a gut hormone that helps control appetite. It is a small-molecule pill rather than a peptide. It lowers food intake, likely by reducing appetite, and slows stomach emptying.",
+      "items": [
+        {
+          "text": "The Foundayo label describes orforglipron as a GLP-1 receptor agonist that binds to and activates the human GLP-1 receptor. GLP-1 receptors are in brain regions that regulate appetite, and in animal studies orforglipron reached and activated neurons in those regions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The label states Foundayo reduces body weight with greater fat mass loss than lean mass loss, decreases food intake (likely through lower appetite), and delays gastric emptying, with the delay largest after the first dose and shrinking over time.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In the 72-week phase 3 ATTAIN-1 trial, weight fell 7.5 to 11.2% on orforglipron vs 2.1% on placebo. In early type 2 diabetes, blood sugar (HbA1c) fell about 0.8 to 1.1 points more than placebo.",
+      "items": [
+        {
+          "text": "ATTAIN-1 (3,127 adults with obesity, no diabetes): mean weight change at 72 weeks was -7.5%, -8.4% and -11.2% across the three orforglipron doses vs -2.1% with placebo; 54.6% of the highest-dose group lost at least 10%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "attain-1-2025"
+        },
+        {
+          "text": "ACHIEVE-1 (559 adults with early type 2 diabetes, 40 weeks): all three orforglipron doses lowered HbA1c more than placebo, by a mean difference of about 0.8 to 1.1 percentage points.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "achieve-1-2025"
+        },
+        {
+          "text": "HCPLive hosts describe about 12.4% mean weight loss at 72 weeks with the highest dose among those who stayed on treatment, vs 0.9% with placebo.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "podcast",
+          "url": "https://www.hcplive.com/view/diabetes-dialogue-orforglipron-receives-fda-approval-for-chronic-weight-management",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Mostly stomach and bowel effects: nausea (26 to 35% vs 10% on placebo), constipation, diarrhea, vomiting, indigestion and belly pain. Heart rate rose by 4 to 5 beats per minute on average, and hair loss was reported.",
+      "items": [
+        {
+          "text": "The Foundayo label lists the most common adverse reactions as nausea (26 to 35% vs 10% with placebo), constipation (20 to 27% vs 9%), diarrhea (21 to 25% vs 11%), vomiting (13 to 24% vs 4%), dyspepsia (12 to 16% vs 4%), and abdominal pain (13 to 14% vs 7%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The label reports a mean heart rate increase of 4 to 5 beats per minute with Foundayo vs 0.5 with placebo, and tachycardia (fast heartbeat) in 3% vs 0.9%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The label lists hair loss in 4 to 5% of Foundayo groups vs 2% with placebo, more often in women (7%) than in men (0.9%), and associated with weight loss.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Boxed warning for thyroid C-cell tumors seen with other drugs of this class in rodents, plus warnings for pancreatitis, kidney injury, gallbladder disease and others.",
+      "items": [
+        {
+          "text": "The Foundayo label carries a boxed warning on thyroid C-cell tumors seen in rodents with GLP-1 receptor agonists (none were seen with orforglipron in rodents, and human relevance is undetermined) and is contraindicated with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        },
+        {
+          "text": "The label lists warnings for acute pancreatitis, severe gastrointestinal reactions, acute kidney injury from volume depletion, hypoglycemia with insulin or sulfonylureas, hypersensitivity, diabetic retinopathy complications, gallbladder disease, and delayed gastric emptying relevant to anesthesia.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "Uncommon on its own (2% vs 0.2% on placebo in type 2 diabetes) but more common with a sulfonylurea (7%).",
+      "items": [
+        {
+          "text": "In a trial of adults with type 2 diabetes (Trial 2), the label reports hypoglycemia (blood sugar below 54 mg/dL) in 2% on orforglipron vs 0.2% on placebo, and in 7% of those also taking a sulfonylurea vs 0.5% of those not taking one. Insulin or sulfonylurea doses may need to be reduced.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-foundayo-label"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "Stopping because of stomach and bowel effects was uncommon in the phase 3 trial and more common in a phase 2 trial.",
+      "items": [
+        {
+          "text": "In the ATTAIN-1 trial, treatment discontinuation due to gastrointestinal adverse events ranged from 5.3 to 10.3% across orforglipron groups vs 2.7% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "attain-1-2025"
+        },
+        {
+          "text": "In a phase 2 trial, stomach and bowel side effects, mostly during dose increases, led to stopping orforglipron in 10 to 17% of participants across dose groups.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "wharton-2023-nejm-phase2"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

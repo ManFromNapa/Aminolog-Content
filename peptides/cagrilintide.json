@@ -141,7 +141,459 @@
       "year": 2024,
       "summary": "FDA warning letter dated 10 December 2024 to Xcel Research LLC.",
       "finding": "The letter lists cagrilintide, a cagrilintide-semaglutide product, survodutide and mazdutide, among others, as unapproved new drugs sold with research-use-only labels despite evidence of human drug use."
+    },
+    {
+      "id": "pmid-33894838",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "33894838",
+      "year": 2021,
+      "summary": "Phase 1b multiple-ascending-dose trial in 96 otherwise healthy adults with overweight or obesity (BMI 27 to 39.9) given once-weekly cagrilintide (0.16 to 4.5 mg) or placebo with semaglutide 2.4 mg, co-escalated in 4-week steps over 16 weeks (Enebo et al., Lancet; NCT03600480).",
+      "finding": "Cagrilintide had a half-life of 159 to 195 hours, with peak levels 24 to 72 hours after dosing. Most adverse events were mild to moderate and similar across groups; 37% of events were gastrointestinal. Small, single-center, funded by Novo Nordisk."
+    },
+    {
+      "id": "pmid-34288673",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "34288673",
+      "year": 2021,
+      "summary": "Medicinal-chemistry paper from Novo Nordisk (Kruse et al., J Med Chem) describing the design of cagrilintide as a stable, lipidated, long-acting amylin analogue.",
+      "finding": "Pramlintide, the marketed amylin analogue, needs three daily injections because of its short half-life; cagrilintide was designed to last longer and was selected for obesity development. The paper describes the drug design, not how it works in people."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved, so there is no label dose. Trials gave once-weekly injections under the skin, 0.3 to 4.5 mg alone in a phase 2 trial and 2.4 mg in phase 3 trials, mostly with semaglutide. Online sources describe step-up schedules that differ from each other and are not tested as written.",
+      "items": [
+        {
+          "text": "Once-weekly subcutaneous cagrilintide at 0.3, 0.6, 1.2, 2.4 or 4.5 mg was studied for 26 weeks, with up to 6 weeks of dose escalation, in adults without diabetes with overweight or obesity (phase 2 trial).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "Once-weekly subcutaneous cagrilintide 2.4 mg plus semaglutide 2.4 mg (CagriSema) was studied for 68 weeks alongside lifestyle intervention in adults with overweight or obesity, without diabetes (REDEFINE 1, phase 3). That trial also had a group given cagrilintide 2.4 mg alone.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "Once-weekly cagrilintide 2.4 mg plus semaglutide 2.4 mg was studied for 68 weeks alongside lifestyle intervention in adults with overweight or obesity and type 2 diabetes (REDEFINE 2, phase 3).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544432"
+        },
+        {
+          "text": "In a phase 1b trial, cagrilintide and semaglutide were raised together in 4-week steps over 16 weeks to the target dose in healthy adults with overweight or obesity.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-33894838"
+        },
+        {
+          "text": "Doctronic, an online AI health consultation service, says cagrilintide begins at 0.25 mg once weekly for 4 weeks and steps up every 4 weeks (0.25, 0.5, 1.0, 1.7, then 2.4 mg) over about 16 to 20 weeks, and calls this a framework rather than a rigid rule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/cagrilintide-dosage-chart/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site that does not sell peptides, says the standard dose is 2.4 mg once weekly, the dose used in every phase 3 trial, within a studied range of 0.3 to 4.5 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Path to Peptides, an educational site, says to step up in 2-week steps (0.3, 0.6, 1.2, 2.4 then 4.5 mg once weekly) and calls 2.4 to 4.5 mg the target range. This schedule is not the same as Doctronic's and was not tested as written.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/cagrilintide-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "NTN Performance, a site with affiliate links to a peptide seller, describes 0.6 mg for weeks 1 to 2, 1.2 mg for weeks 3 to 4, 2.4 mg for weeks 5 to 6 and 4.5 mg after that. The 4.5 mg dose was studied only for 26 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day for cagrilintide. Trials simply gave one injection per week. Online sources say any time of day on the same weekday, with one seller suggesting evening.",
+      "items": [
+        {
+          "text": "The Peptide Initiative says to inject on the same day each week at any time of day that suits your schedule, and states that no trial specified a time of day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging, a site with affiliate links to peptide sellers, says injecting in the evening lets users sleep through the nausea peak.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No trial tested food rules for cagrilintide. Online sources say it can be taken with or without food, though one seller site advises smaller, lower-fat meals on injection day because the drug slows stomach emptying.",
+      "items": [
+        {
+          "text": "The Peptide Initiative says cagrilintide can be taken with or without food, whichever is most convenient.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging says to keep meals smaller and lower in fat on injection day because the drug slows stomach emptying, and to keep protein intake up even when appetite is low.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "NTN Performance says to pair cagrilintide with a balanced, protein-forward diet suited to your energy needs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Trials used one injection per week, which fits the 159 to 195 hour half-life seen in a small phase 1b trial. Online sources agree on weekly dosing and say to inject on the same weekday. No trial data on missed doses was found.",
+      "items": [
+        {
+          "text": "In the phase 2 dose-finding trial, cagrilintide was given as once-weekly subcutaneous self-injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "Cagrilintide stayed in the body with a half-life of 159 to 195 hours and peaked 24 to 72 hours after dosing, in 95 healthy adults with overweight or obesity (phase 1b).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-33894838"
+        },
+        {
+          "text": "The Peptide Initiative says to inject once weekly on the same day each week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Path to Peptides says to administer once weekly on the same day each week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/cagrilintide-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic says clinical protocols generally advise against doubling up after a missed dose, and that specific guidance depends on how long ago the dose was missed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/cagrilintide-dosage-chart/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 26 weeks (phase 2), 32 weeks and 68 weeks (phase 3), with no planned breaks. No data on weight or effects after stopping cagrilintide was found for this entry. Online sources range from long-term use to 12 to 32 week cycles.",
+      "items": [
+        {
+          "text": "Treatment lasted 26 weeks followed by a 6-week follow-up period without treatment in the phase 2 trial in adults with overweight or obesity.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "In a 32-week phase 2 trial in adults with type 2 diabetes, participants took cagrilintide alone or with semaglutide, both raised to 2.4 mg weekly.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-37364590"
+        },
+        {
+          "text": "Cagrilintide 2.4 mg with semaglutide 2.4 mg was given for 68 weeks in the REDEFINE 1 and REDEFINE 2 phase 3 trials.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "The Peptide Initiative says trials ran 26 to 68 weeks depending on the protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine, a supplement retailer, says cagrilintide is designed for long-term ongoing use rather than short-term cycles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/cagrilintide-benefits-dosage-and-weight-loss-potential-explained",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "NTN Performance, a site with affiliate links to a peptide seller, says weekly injections are typically given for 12 to 16 weeks or longer.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging says cycles run 12 to 32 weeks depending on goals and that results plateau after 32 weeks. It cites no study for this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. Trial participants self-injected under the skin. Online sources agree on refrigerating mixed vials but differ on shelf life (28 or 30 days) and on whether unmixed powder should be refrigerated or frozen.",
+      "items": [
+        {
+          "text": "In the phase 2 dose-finding trial, cagrilintide was given as subcutaneous self-injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "The Peptide Initiative says unmixed powder is refrigerated at 2 to 8 degrees C, protected from light and never frozen, and that a mixed vial is refrigerated and used within 28 days of first puncture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says to add bacteriostatic water slowly down the inside wall of the vial, swirl gently and never shake, and to rotate injection sites among the abdomen, outer thigh, upper arm and buttock.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/cagrilintide/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Path to Peptides says unmixed powder can be kept at room temperature or refrigerated away from light, and mixed solution is refrigerated at 2 to 8 degrees C, used within 30 days and not frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.pathtopeptides.com/cagrilintide-protocol.html",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "NTN Performance says unmixed powder is stored at minus 20 degrees C, dry and dark, and mixed solution at 2 to 8 degrees C for up to 30 days, avoiding freeze-thaw cycles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic says cagrilintide is given once weekly with a pre-filled pen injector.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/cagrilintide-dosage-chart/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Cagrilintide is a long-acting copy of amylin, a hormone made in the pancreas that signals fullness. How it works in people is not detailed in the trials found. Online sources say it acts on amylin and calcitonin receptors in the brain and slows stomach emptying.",
+      "items": [
+        {
+          "text": "The phase 2 trial described natural amylin as a pancreatic hormone that induces satiety and cagrilintide as a long-acting amylin analogue.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "Cagrilintide was designed as a stable, lipidated amylin analogue with a longer half-life than pramlintide. This is drug-design work, not human mechanism data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-34288673"
+        },
+        {
+          "text": "Hubmeded, an education company for aesthetic clinicians, says cagrilintide acts mainly on amylin and calcitonin receptors in the brain to increase fullness and that it delays gastric emptying.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine says cagrilintide slows gastric emptying and activates amylin and calcitonin receptors in the hypothalamus.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/cagrilintide-benefits-dosage-and-weight-loss-potential-explained",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In a 26-week phase 2 trial, cagrilintide alone cut weight by 6.0 to 10.8% versus 3.0% with placebo. In 68-week phase 3 trials, cagrilintide plus semaglutide cut weight by 20.4% (no diabetes) and 13.7% (type 2 diabetes) versus about 3% with placebo. Online sources give smaller figures for cagrilintide alone.",
+      "items": [
+        {
+          "text": "In 706 adults with overweight or obesity, all cagrilintide doses lowered weight more than placebo (6.0 to 10.8% vs 3.0%) over 26 weeks, and 4.5 mg beat liraglutide 3.0 mg (10.8% vs 9.0%).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "In REDEFINE 1 (3,417 adults without diabetes), cagrilintide plus semaglutide reduced weight by 20.4% vs 3.0% with placebo at 68 weeks. This is the combination, not cagrilintide alone.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "In REDEFINE 2 (1,206 adults with type 2 diabetes), the combination reduced weight by 13.7% vs 3.4% with placebo, and 73.5% reached HbA1c of 6.5% or less vs 15.9%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544432"
+        },
+        {
+          "text": "In 92 adults with type 2 diabetes over 32 weeks, cagrilintide alone lowered HbA1c by 0.9 points and weight by 8.1%, compared with 2.2 points and 15.6% for CagriSema.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-37364590"
+        },
+        {
+          "text": "Hubmeded says cagrilintide gives about 5 to 10% weight loss alone and up to about 15% with semaglutide, and states it is not FDA-approved and still investigational.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Stomach and bowel problems were the most common effects in trials, mostly mild to moderate and temporary. Online sources describe the same pattern plus injection-site irritation.",
+      "items": [
+        {
+          "text": "In the phase 2 trial of cagrilintide alone, gastrointestinal adverse events occurred in 41 to 63% of participants vs 32% with placebo, mainly nausea (20 to 47% vs 18%), along with constipation, diarrhea, and administration-site reactions.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34798060"
+        },
+        {
+          "text": "In REDEFINE 1 with semaglutide (CagriSema), gastrointestinal adverse events affected 79.6% of the combination group vs 39.9% with placebo, including nausea, vomiting, diarrhea, constipation, and abdominal pain, mainly transient and mild to moderate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "In REDEFINE 2 in type 2 diabetes, gastrointestinal adverse events were reported by 72.5% of the CagriSema group vs 34.4% with placebo, mostly transient and mild or moderate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544432"
+        },
+        {
+          "text": "Hubmeded says mild to moderate nausea is common during early dose steps, with reduced appetite, bloating, early fullness and occasional vomiting with fast dose increases.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine lists nausea and vomiting (especially early in treatment), constipation, abdominal discomfort and excessive fullness as common, and headache, dizziness and mild injection-site reactions as less common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/cagrilintide-benefits-dosage-and-weight-loss-potential-explained",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Biomogging says nausea is worst 24 to 48 hours after injection and that pancreatitis and gallstones are rare serious effects. It does not give a source for these claims.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "No serious low blood sugar was reported in one small trial with CagriSema in type 2 diabetes. One online source warns of risk when combined with insulin.",
+      "items": [
+        {
+          "text": "In the phase 2 trial in type 2 diabetes, no level 2 or 3 hypoglycemia and no fatal adverse events were reported with CagriSema.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-37364590"
+        },
+        {
+          "text": "Swolverine says hypoglycemia (low blood sugar) is a serious risk when cagrilintide is combined with insulin or related drugs, and that long-term safety is unknown.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/cagrilintide-benefits-dosage-and-weight-loss-potential-explained",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Hubmeded lists conditions in which cagrilintide should be avoided. This is online guidance, not a label.",
+      "items": [
+        {
+          "text": "Hubmeded lists medullary thyroid carcinoma or a family history of it, MEN2 syndrome, severe gastrointestinal conditions such as gastroparesis, pregnancy or breastfeeding, and severe kidney impairment (eGFR below 30) as contraindications.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA has sent warning letters to companies selling cagrilintide as unapproved drugs under research-only labels.",
+      "items": [
+        {
+          "text": "FDA warning letter of 31 March 2026 to Prime Sciences lists cagrilintide and mazdutide, among other products, as unapproved new drugs offered for human use despite laboratory-research-only labeling.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-warning-prime-sciences-2026"
+        },
+        {
+          "text": "FDA warning letter of 10 December 2024 to Xcel Research lists cagrilintide and a cagrilintide-semaglutide product, among others, as unapproved new drugs sold with research-use-only labels despite evidence of human drug use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-warning-xcel-2024"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

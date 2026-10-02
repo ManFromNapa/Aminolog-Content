@@ -147,7 +147,444 @@
       "year": 2024,
       "summary": "FDA warning letter dated 10 December 2024 to Xcel Research LLC.",
       "finding": "The letter lists mazdutide, among other peptides, as an unapproved new drug sold with research-use-only labels."
+    },
+    {
+      "id": "pmid-40832785",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40832785",
+      "year": 2025,
+      "summary": "Randomized, double-blind, placebo-controlled phase 1 trial of once-weekly mazdutide escalated to 16 mg for 20 weeks in 32 adults with overweight or obesity without diabetes, 24 on mazdutide and 8 on placebo (Bhattachar et al., Diabetes Obes Metab; NCT05623839).",
+      "finding": "Weight fell 20.0% and 21.0% in the two escalation cohorts versus 0.1% with placebo at week 20. No serious adverse events were reported and the most common events were mild or moderate gastrointestinal disorders. Small, short trial."
+    },
+    {
+      "id": "pmid-36247927",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36247927",
+      "year": 2022,
+      "summary": "Randomized, placebo-controlled phase 1b multiple-ascending-dose trial of once-weekly mazdutide in 24 Chinese adults with overweight or obesity, escalating every 4 weeks to 9 mg over 12 weeks or to 10 mg over 16 weeks (Ji et al., EClinicalMedicine; NCT04440345).",
+      "finding": "Weight fell 11.7% (9 mg, 12 weeks) versus 1.8% with placebo and 9.5% (10 mg, 16 weeks) versus 3.3%. No serious adverse events; all events were mild or moderate, most often upper respiratory infection, diarrhea, decreased appetite and nausea."
+    },
+    {
+      "id": "pmid-42535526",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "42535526",
+      "year": 2026,
+      "summary": "Narrative review of the cardiovascular effects of glucagon receptor signaling alone and with GLP-1 receptor signaling in dual agonists such as mazdutide and survodutide (Kushner, Michos et al., J Am Heart Assoc).",
+      "finding": "Glucagon is described as regulating energy balance, lipid metabolism and glucose. Dual agonists including mazdutide increased heart rate to a similar extent as GLP-1 only drugs and also lowered blood pressure and blood sugar. One other dual agonist was stopped partly over large heart rate rises and QT prolongation."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "In phase 3 trials in Chinese adults, mazdutide was given as 4 mg or 6 mg once weekly for 48 weeks, or 9 mg once weekly for 60 weeks. Smaller trials escalated in steps of about 4 weeks up to 9, 10 or 16 mg. Online sites describe 1 to 9 mg schedules that vary from the trials, and none are from an FDA label because mazdutide has none.",
+      "items": [
+        {
+          "text": "Once-weekly subcutaneous mazdutide 4 mg or 6 mg for 48 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40421736"
+        },
+        {
+          "text": "Once-weekly subcutaneous mazdutide 9 mg for 60 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251595"
+        },
+        {
+          "text": "Once-weekly subcutaneous mazdutide with escalation to 3/6 mg, 10 mg or 16 mg for 48 weeks (starting at 1.5 mg) in US adults with obesity or overweight (Lilly phase 2, as registered).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nct-06124807"
+        },
+        {
+          "text": "A small phase 1 trial in 32 adults without diabetes escalated once-weekly mazdutide to a 16 mg target over 20 weeks, and a phase 1b trial in 24 Chinese adults stepped up every 4 weeks to 9 mg (3, 6, 9 mg) or 10 mg (2.5, 5, 7.5, 10 mg).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-40832785"
+        },
+        {
+          "text": "Peptide Initiative, an educational peptide site, suggests 1.5 mg to 6 mg once weekly, starting at 1.5 mg to limit stomach effects, then moving to 4 mg or 6 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic, a health information site, says trials began at 1 mg once weekly and rose about every 4 weeks through 2, 3 and 4 mg, with some arms reaching 6 mg, so reaching 4 to 6 mg could take roughly 12 to 20 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/mazdutide-dosage-chart/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule, an educational site, lists 3 mg weekly for weeks 1 to 4, 6 mg for weeks 5 to 16 and 9 mg from week 17. This schedule is not one of the published trial schedules.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study reviewed reports a best time of day for mazdutide. Online sites advise injecting on the same day and at a similar time each week.",
+      "items": [
+        {
+          "text": "Peptide Initiative says to give mazdutide at the same time each week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule says to inject once weekly on the same day each week at a consistent time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "In the GLORY-2 trial mazdutide was given with a reduced-calorie diet and more activity. In type 2 diabetes trials it lowered blood sugar. Online sites say meal timing does not matter, and one says an empty stomach or a light meal may ease stomach upset, which has not been tested.",
+      "items": [
+        {
+          "text": "In the GLORY-2 trial, mazdutide was given once weekly alongside a reduced-calorie diet and increased physical activity. Mazdutide is investigational and has no label guidance on meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251595"
+        },
+        {
+          "text": "In a 24-week phase 3 trial in Chinese adults with type 2 diabetes, mazdutide lowered HbA1c, a measure of average blood sugar, by 1.57 points (4 mg) and 2.15 points (6 mg) versus 0.14 with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-41407859"
+        },
+        {
+          "text": "Peptide Initiative says mazdutide injections can be given regardless of meal timing and that an empty stomach or a light meal may reduce discomfort if stomach effects occur.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule says there is no strict meal timing requirement for mazdutide injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Every mazdutide trial reviewed used one injection per week. No missed-dose rule or rule for changing the injection day was found, because there is no US label. Online sites repeat the once-weekly schedule.",
+      "items": [
+        {
+          "text": "In the GLORY-2 trial, mazdutide was given once weekly by subcutaneous injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251595"
+        },
+        {
+          "text": "In GLORY-1, mazdutide 4 mg or 6 mg was given once weekly for 48 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40421736"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, describes mazdutide as a once-weekly subcutaneous injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule says mazdutide is given weekly on the same day each week and that it is not cycled.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Published phase 3 trials ran 48 and 60 weeks, and no data were found on weight after stopping mazdutide. Online sites call it long-term treatment and warn that longer safety data are lacking.",
+      "items": [
+        {
+          "text": "GLORY-1 lasted 48 weeks and GLORY-2 lasted 60 weeks, giving mazdutide once weekly to Chinese adults. Neither abstract reports what happened after stopping.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251595"
+        },
+        {
+          "text": "A phase 1 trial gave mazdutide for 20 weeks in 32 adults and a phase 1b trial for 12 or 16 weeks in 24 adults, which is far shorter than the phase 3 trials.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-40832785"
+        },
+        {
+          "text": "Peptide Initiative describes the cycle length as ongoing with no fixed end.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule says mazdutide is used as continuous long-term therapy with no cycling protocol studied, and that weight regain is expected after stopping. It gives no study for the regain claim.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company, says the longest published phase 3 trial ran 60 weeks and that longer-term safety has not been studied in published trials. It reports no data on weight regain after stopping.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Mazdutide has no US label, so no storage rules are published by a regulator. Two online sites say to keep unmixed product at 2 to 8 C away from light and to use a mixed vial within a few weeks.",
+      "items": [
+        {
+          "text": "Peptide Initiative says unreconstituted product is kept at 2 to 8 C, protected from light and moisture, and not frozen. It says a reconstituted vial is kept refrigerated and typically used within 14 to 28 days per its labeling, and to discard it if cloudy, discolored, frozen or expired.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says to inject into fatty tissue such as the abdomen (at least 2 inches from the belly button), front of the thighs or back of the upper arms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule says to store lyophilized (freeze-dried) powder at 2 to 8 C, refrigerate after reconstitution and use within 4 weeks, and discard if cloudy or containing particles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Schedule says to rotate between the abdomen, thigh and upper arm and not inject the same spot twice in a row.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideschedule.com/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Mazdutide is a once-weekly drug that activates two receptors, GLP-1 (glucagon-like peptide-1) and glucagon. The GLP-1 part lowers appetite, and the glucagon part is thought to raise energy burned, though this is described as emerging evidence in people.",
+      "items": [
+        {
+          "text": "A review says glucagon receptor signaling regulates energy balance, lipid metabolism and glucose, and that drugs activating both the glucagon and GLP-1 receptors, such as mazdutide, may add efficacy to GLP-1 only drugs. It notes evidence that the glucagon receptor is expressed in the human heart is lacking.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42535526"
+        },
+        {
+          "text": "Superpower says mazdutide combines appetite suppression through the GLP-1 receptor with higher energy expenditure through the glucagon receptor, driving heat production and fat burning in brown fat and liver.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In GLORY-2, 9 mg weekly cut body weight by 16.7% over 60 weeks versus 1.5% with placebo in Chinese adults with obesity. In GLORY-1, 6 mg cut it by 14.0% at 48 weeks versus a 0.3% gain on placebo.",
+      "items": [
+        {
+          "text": "GLORY-2: mean body weight change at week 60 was -16.65% with mazdutide 9 mg versus -1.50% with placebo in 461 Chinese adults with obesity, and 84.3% lost 5% or more versus 33.1%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251595"
+        },
+        {
+          "text": "GLORY-1: at week 48 mean weight change was -11.00% (4 mg) and -14.01% (6 mg) versus +0.30% with placebo in 610 Chinese adults with overweight or obesity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40421736"
+        },
+        {
+          "text": "In adults with type 2 diabetes, 24 weeks of mazdutide lowered HbA1c by 1.57 (4 mg) to 2.15 (6 mg) points versus 0.14 with placebo, with 5.6 to 7.8% weight loss.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-41407859"
+        },
+        {
+          "text": "Superpower says placebo-subtracted weight loss at week 32 was about 10.5% at 4 mg and 13.0% at 6 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Stomach and gut effects were the most common in phase 3 trials: vomiting (53%), nausea (47%) and diarrhea (39%) at 9 mg. Most were mild or moderate and few people stopped treatment.",
+      "items": [
+        {
+          "text": "In GLORY-2 (Chinese adults with obesity), the most common adverse events were vomiting (53.1% vs 1.3% with placebo), nausea (46.9% vs 3.2%), and diarrhea (39.4% vs 6.5%), mostly mild to moderate. Discontinuation due to adverse events was 2.9% with mazdutide vs 0% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251595"
+        },
+        {
+          "text": "In GLORY-1, the most frequent adverse events were gastrointestinal and mostly mild to moderate, and adverse events led to discontinuation in 0.5% to 1.5% of mazdutide recipients and 1.0% of those on placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40421736"
+        },
+        {
+          "text": "Peptide Initiative says the most frequent effects are nausea, diarrhea and decreased appetite, with vomiting and injection site reactions less common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/mazdutide-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says nausea, diarrhea and vomiting were most common and concentrated in the titration (dose-raising) phase.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "At higher doses",
+      "summary": "Small early trials up to 16 mg reported no serious adverse events. Two online sites say about 20 percent stopped at the 16 mg dose in US studies, which was not confirmed here.",
+      "items": [
+        {
+          "text": "In a phase 1 trial of mazdutide up to 16 mg for 20 weeks in 32 adults, no serious adverse events were reported and the most common events were mild or moderate gastrointestinal disorders.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-40832785"
+        },
+        {
+          "text": "In a phase 1b trial of 9 mg and 10 mg doses in 24 Chinese adults, no serious adverse events were reported, and the most common events were upper respiratory infection, diarrhea, decreased appetite and nausea.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-36247927"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says discontinuation was 0.5 to 1.5% at approved doses but reached 20 percent at the highest 16 mg dose in US studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower says nausea, vomiting and diarrhea are dose dependent and that one trial reported 20% stopping the 16 mg dose because of adverse events.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Heart rate",
+      "summary": "A review found mazdutide raised heart rate about as much as GLP-1 only drugs while lowering blood pressure. Another dual agonist was stopped partly over large heart rate rises.",
+      "items": [
+        {
+          "text": "A review says dual glucagon and GLP-1 receptor agonists including mazdutide increased heart rate to a similar extent as GLP-1 only drugs, and also reduced blood pressure and blood sugar. At least one other dual agonist was stopped partly because of large heart rate increases and QT prolongation.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42535526"
+        }
+      ]
+    },
+    {
+      "title": "Long-term safety",
+      "summary": "Published safety data stop at 60 weeks and come from Chinese adults, so effects of longer use are unknown.",
+      "items": [
+        {
+          "text": "Superpower says all phase 3 safety data come from Chinese populations in published trials lasting up to 60 weeks, and that longer-term safety has not been studied in published trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "Mazdutide is approved in China but not by the FDA. The FDA has warned sellers that mazdutide sold online is an unapproved new drug.",
+      "items": [
+        {
+          "text": "A 31 March 2026 FDA warning letter to Prime Sciences lists mazdutide, among other products, as an unapproved new drug offered for sale for human use despite laboratory-research-only labeling.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-warning-prime-sciences-2026"
+        },
+        {
+          "text": "A 10 December 2024 FDA warning letter to Xcel Research LLC lists mazdutide, among other peptides, as an unapproved new drug sold with research-use-only labels.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-warning-xcel-2024"
+        },
+        {
+          "text": "Superpower says mazdutide is not legally available for human use in the United States and that there is no legal pathway to obtain pharmaceutical-grade mazdutide for human use in the US as of September 2026.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/mazdutide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says mazdutide is not FDA-approved or legally available in US pharmacies, that buyers cannot verify online vendors' product is the molecule used in trials, and that approved options such as Wegovy and Zepbound are the legitimate paths.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Local, an information site, says mazdutide is approved in China but not by the FDA and that a March 2026 FDA warning letter named one seller's mazdutide listing as an unapproved new drug.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelocal.com/pipeline/mazdutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -110,7 +110,411 @@
       "year": 2006,
       "summary": "Registry record for the phase 2 trial of tesofensine on weight reduction in obese patients (completed).",
       "finding": "Confirms the trial is registered on ClinicalTrials.gov."
+    },
+    {
+      "id": "tesofensine-meta-2008",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18356831",
+      "year": 2008,
+      "summary": "Meta-analysis of four randomized, double-blind trials (740 on tesofensine, 228 on placebo) in Parkinson's or Alzheimer's disease, oral once daily for 14 weeks without a weight-loss program. Astrup et al., Obesity.",
+      "finding": "Weight change after 14 weeks was +0.5% on placebo and -0.5, -0.9, -1.8 and -2.8% at 0.125, 0.25, 0.5 and 1.0 mg; heart rate rose 2.1 to 6.8 beats per minute versus placebo from 0.25 mg up, with no blood pressure effect."
+    },
+    {
+      "id": "tesofensine-pk-2007",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17324246",
+      "year": 2007,
+      "summary": "Population pharmacokinetic model from a 14-week study with multiple oral dosing in 320 patients with Alzheimer's disease. Lehr et al., Br J Clin Pharmacol.",
+      "finding": "Modelled half-lives were 234 hours for tesofensine and 374 hours for its main metabolite M1; sex and kidney function changed steady-state exposure (women with reduced kidney function had 62% higher exposure)."
+    },
+    {
+      "id": "tesofensine-pet-2014",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "24239329",
+      "year": 2014,
+      "summary": "PET imaging study of dopamine transporter occupancy after oral multiple doses of 0.125 to 1 mg tesofensine for 8 to 12 days. Appel et al., Eur Neuropsychopharmacol.",
+      "finding": "Striatal dopamine transporter occupancy rose with dose from 18% to 77%, with a maximum near 80%; the authors suggest weight loss was partly mediated by dopamine pathway changes."
+    },
+    {
+      "id": "tesofensine-lh-2024",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "38656972",
+      "year": 2024,
+      "summary": "Mouse and rat experiments using behavior, electrophysiology, optogenetics and chemogenetics. Perez et al., PLoS One.",
+      "finding": "Tesofensine inhibited a subset of GABAergic neurons in the lateral hypothalamus that promote feeding, and prolonged 5-HTP-induced weight loss and blocked the weight rebound that often follows weight loss in rats."
+    },
+    {
+      "id": "tesofensine-abuse-2010",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "20520602",
+      "year": 2010,
+      "summary": "Single-dose randomized, double-blind crossover study in 52 recreational stimulant users comparing tesofensine with placebo, d-amphetamine, bupropion and atomoxetine. Schoedel et al., Clin Pharmacol Ther.",
+      "finding": "Tesofensine effects were not significantly different from placebo and the authors concluded abuse potential is no greater than bupropion or atomoxetine; single dose only."
+    },
+    {
+      "id": "tesofensine-eoc-2013",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "23561987",
+      "year": 2013,
+      "summary": "Lancet notice titled 'Expression of concern' for the 2008 phase 2 tesofensine obesity trial. A reply by the trial authors titled 'Under-reporting of adverse effects of tesofensine' (PMID 23849924) followed in July 2013.",
+      "finding": "The journal flagged the 2008 trial publication with an expression of concern. The notice text itself was not available to review here, so the reasons are not stated."
+    },
+    {
+      "id": "tesofensine-nct-ho",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT03845075",
+      "year": 2019,
+      "summary": "Registry record for a 21-person phase 2 trial of tesofensine 0.5 mg with metoprolol 50 mg in hypothalamic injury-induced obesity: 24 weeks double-blind, then an optional 24-week open-label extension (48 weeks total).",
+      "finding": "Shows the longest planned human exposure found (48 weeks), with the second half uncontrolled."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Trials gave tesofensine 0.25 to 1.0 mg by mouth once daily in adults with obesity. Online sources describe 0.5 mg a day as the usual level, which matches the doses studied.",
+      "items": [
+        {
+          "text": "Phase 2 trial: 0.25, 0.5 or 1.0 mg once daily for 24 weeks with a restricted diet in 203 adults with obesity. Weight loss beyond diet and placebo was 4.5%, 9.2% and 10.6%.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-lancet-2008"
+        },
+        {
+          "text": "Meta-analysis of four 14-week trials in Parkinson's or Alzheimer's disease tested 0.125, 0.25, 0.5 and 1.0 mg once daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-meta-2008"
+        },
+        {
+          "text": "Tesomet (tesofensine 0.5 mg with metoprolol 50 mg) was given for 24 weeks with diet and lifestyle counselling in 21 adults with hypothalamic obesity.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesomet-ho-2022"
+        },
+        {
+          "text": "In a 2010 randomized study, tesofensine 2.0 mg daily was given for 7 days, then 1.0 mg daily for 7 days, in 32 overweight or obese men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-appetite-2010"
+        },
+        {
+          "text": "A peptide site with affiliate links and vendor discount codes says community protocols cluster at 0.5 mg per day, with 0.25 mg per day for the first one to two weeks to check tolerance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says 0.25 mg and 0.5 mg once daily were the main doses in phase 2 and phase 3, and that 1.0 mg showed higher blood pressure and dropout rates.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide List, a site that links to prescribing providers, says 0.5 mg shows the best balance of effect and side effects, with trials using 0.25 to 1.0 mg daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Trials gave one oral dose a day, and the abstracts reviewed do not state the time of day. Online sources suggest mornings to avoid trouble sleeping, which has not been tested.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says trial protocols generally used morning dosing, because tesofensine raises noradrenaline and dopamine, which can disrupt sleep if taken later.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide List, a site that links to prescribing providers, says it is taken once daily, typically in the morning, to limit sleep disruption.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Trials used one dose once a day. Tesofensine stays in the body very long (modelled half-life about 10 days), so levels build slowly and a missed dose matters little, according to an online source.",
+      "items": [
+        {
+          "text": "Once-daily oral dosing was used for 24 weeks in the phase 2 obesity trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-lancet-2008"
+        },
+        {
+          "text": "In 320 patients with Alzheimer's disease, modelled half-lives were 234 hours for tesofensine and 374 hours for its main metabolite, so steady levels take weeks to build.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-pk-2007"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says a single missed dose has almost no effect on blood levels at steady state, and that trial guidance was to take the next scheduled dose without doubling up. It also says levels build up over the first 4 to 6 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest controlled trials ran 24 weeks. A 48-week study with an uncontrolled second half was registered. No data were found on what happens after stopping.",
+      "items": [
+        {
+          "text": "The phase 2 obesity trial ran 24 weeks; 79% of participants completed it.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-lancet-2008"
+        },
+        {
+          "text": "Four trials in Parkinson's or Alzheimer's disease lasted 14 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-meta-2008"
+        },
+        {
+          "text": "A registered 21-person trial of tesofensine with metoprolol planned 24 weeks double-blind plus a 24-week open-label extension, 48 weeks in total.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "tesofensine-nct-ho"
+        },
+        {
+          "text": "In rats, tesofensine blocked the weight rebound that often follows weight loss. This is animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "tesofensine-lh-2024"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says phase 2 and the Mexican phase 3 study used 24-week treatment periods and that data beyond 24 weeks are limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No study or regulator document was found on storage. Online sources describe room-temperature storage of tablets or capsules, away from light and moisture.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says tablets are typically stable at room temperature (15 to 25 C) in a closed container away from light, moisture and heat, with no reconstitution needed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide List, a site that links to prescribing providers, says to store it in a cool, dry place away from light and moisture, in its original container.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Blocks the reuptake of three brain chemicals (serotonin, noradrenaline and dopamine), which lowers appetite. In people, brain scans show it occupies the dopamine transporter in a dose-dependent way.",
+      "items": [
+        {
+          "text": "PET scans after 8 to 12 days of oral dosing showed dopamine transporter occupancy of 18% to 77% across 0.125 to 1 mg, with a ceiling near 80%.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-pet-2014"
+        },
+        {
+          "text": "In 32 overweight men, 2 weeks of tesofensine raised fullness ratings, lowered expected food intake and raised overnight energy expenditure by 4.6%, with no significant change in total 24-hour energy expenditure.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-appetite-2010"
+        },
+        {
+          "text": "In mice and rats, tesofensine inhibited feeding-promoting GABAergic neurons in the lateral hypothalamus. This is animal evidence.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "tesofensine-lh-2024"
+        },
+        {
+          "text": "Wikipedia says tesofensine is a serotonin, noradrenaline and dopamine reuptake inhibitor that mainly acts as an appetite suppressant. It says it originated at NeuroSearch and was redirected to obesity after weight loss was reported in Alzheimer's and Parkinson's trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Tesofensine",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Greater weight loss than diet and placebo in a phase 2 trial of 203 adults. The main trial paper carries a journal expression of concern, and no phase 3 results were found.",
+      "items": [
+        {
+          "text": "In 203 adults with obesity over 24 weeks, 0.5 mg gave 9.2% weight loss and 1.0 mg gave 10.6%, versus 2.0% with diet and placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-lancet-2008"
+        },
+        {
+          "text": "Across four 14-week trials without any diet program, tesofensine 0.5 mg changed weight by -1.8% versus +0.5% on placebo, a difference of about 2.3 points.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-meta-2008"
+        },
+        {
+          "text": "Tesomet gave about 6.3% additional weight loss versus placebo over 24 weeks in 21 adults with hypothalamic obesity. The trial was very small.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesomet-ho-2022"
+        },
+        {
+          "text": "The journal that published the 2008 obesity trial issued an expression of concern about it in 2013. The reasons were not available to review here.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-eoc-2013"
+        },
+        {
+          "text": "Wikipedia reports phase 2b weight losses roughly double those of approved drugs available in 2008.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Tesofensine",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Dry mouth, nausea, bowel changes and trouble sleeping were the most common events in trials. Online sources add headache, dizziness and mood effects.",
+      "items": [
+        {
+          "text": "In a 24-week phase 2 trial in 203 obese adults, the most common adverse events with tesofensine were dry mouth, nausea, constipation, hard stools, diarrhea and insomnia.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-lancet-2008"
+        },
+        {
+          "text": "In a small randomized trial of Tesomet in hypothalamic obesity, related events were mostly mild: sleep disturbances (50% vs 13% placebo), dry mouth (43% vs 0%) and headache (36% vs 0%), with one serious event of worsened anxiety.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesomet-ho-2022"
+        },
+        {
+          "text": "A Wikipedia summary lists dry mouth, headache, nausea, insomnia, diarrhea and constipation as common adverse events with tesofensine, and notes small blood pressure and heart rate increases.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Tesofensine",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Wikipedia says the withdrawal rate due to adverse events was 13% with tesofensine versus 6% with placebo.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Tesofensine",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says common effects include dizziness, abdominal pain and anxiety, irritability or mood changes, and that about 71% of the 0.5 mg group completed 24 weeks with roughly 20% leaving over adverse events. These figures were not checked against the trial.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Heart rate and blood pressure",
+      "summary": "Heart rate rose by several beats per minute in trials. Blood pressure changes were small at 0.5 mg or lower.",
+      "items": [
+        {
+          "text": "After 24 weeks, 0.25 mg and 0.5 mg showed no significant blood pressure increase versus placebo, while heart rate rose by 7.4 beats per minute at 0.5 mg.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-lancet-2008"
+        },
+        {
+          "text": "In four 14-week trials, heart rate rose 2.1, 4.2, 6.0 and 6.8 beats per minute at 0.125 to 1.0 mg versus placebo, with no blood pressure effect.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-meta-2008"
+        },
+        {
+          "text": "Wikipedia says blood pressure increased modestly (1 to 3 mmHg) and heart rate by up to about 8 beats per minute.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Tesofensine",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Trial reporting concerns",
+      "summary": "The journal that published the main obesity trial later issued an expression of concern, and the authors replied in a comment on under-reporting of adverse effects.",
+      "items": [
+        {
+          "text": "The Lancet published an expression of concern in 2013 for the 2008 phase 2 trial. The authors then published a comment titled 'Under-reporting of adverse effects of tesofensine'. The details were not available to review here.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-eoc-2013"
+        }
+      ]
+    },
+    {
+      "title": "Abuse potential",
+      "summary": "A single-dose study in recreational stimulant users found abuse potential no greater than bupropion or atomoxetine.",
+      "items": [
+        {
+          "text": "In 52 recreational stimulant users, single-dose tesofensine did not differ significantly from placebo on abuse-related measures.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "tesofensine-abuse-2010"
+        }
+      ]
+    },
+    {
+      "title": "Regulatory status",
+      "summary": "Not approved for sale anywhere, according to Wikipedia.",
+      "items": [
+        {
+          "text": "Wikipedia says tesofensine has not been approved for sale anywhere and, as of 2019, was an Investigational New Drug in the US.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Tesofensine",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

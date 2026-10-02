@@ -124,5 +124,389 @@
       "finding": "The page lists AOD-9604 among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing AOD-9604 may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization.\" The page does not make it an approved drug."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "No approved dose exists. The only dose with a citation here is from rats (500 micrograms per kilogram of body weight by mouth). Secondary sources describe human trials that gave 1 to 54 milligrams (mg) by mouth daily, and online sources describe 250 to 500 micrograms (mcg) injected daily, which no human trial tested.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: 500 micrograms per kg body weight daily by mouth for 19 days reduced weight gain by over 50 percent compared with controls in obese Zucker rats.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11146367"
+        },
+        {
+          "text": "Peptide Library, an educational site that does not sell products, says the trial doses were 0.25, 0.5 or 1 mg by mouth daily in one trial and 9 to 54 mg in an earlier one, and notes the two reports do not match.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says research protocols use 250 to 500 mcg injected under the skin once daily and that oral phase 2 trials used 1 to 54 mg daily. It says the two routes are not interchangeable.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says 250 to 500 mcg once daily by injection under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier, an educational website, says the reviewed evidence does not establish a standard injected dose. It says the former online advice of 250 mcg rising to 300 to 500 mcg, or 2 to 3 mcg per pound of body weight, lacks human injection trial support.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/aod-9604-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested time of day for AOD-9604. Online sources favor the morning before breakfast, and Peptide Dossier says this advice is not backed by human studies.",
+      "items": [
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says the injection goes first thing in the morning after an 8 to 10 hour overnight fast.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to take it first thing in the morning or 30 to 60 minutes before exercise, and that bedtime dosing is less commonly supported.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says no matched human comparison shows a morning injection beats an evening one.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/aod-9604-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study has tested food rules for AOD-9604. Online sources say to inject fasted and wait 30 to 60 minutes before eating, reasoning that insulin blunts fat breakdown. Peptide Dossier says this is not substantiated.",
+      "items": [
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says to wait 30 to 60 minutes before eating after the injection, and that eating raises insulin, which it says works against the peptide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says the fasting advice comes from insulin blunting fat-breakdown signals, not from AOD-9604 human trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says the reviewed human studies do not support injecting 30 to 60 minutes before breakfast for maximum fat loss, and calls the nutrient competition claims unsubstantiated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/aod-9604-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The human trials described by secondary sources gave a pill once daily. Online sources describe one injection daily, and Peptide Dossier says no study compared once with twice daily.",
+      "items": [
+        {
+          "text": "Peptide Library says the trials it describes used daily dosing, and gives no schedule advice.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says once daily dosing is standard.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says a comparison of once versus twice daily injections was not established by the reviewed research.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/aod-9604-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The only trial length found is 12 to 24 weeks, reported by secondary sources, with disagreement on details. No study tested a break between cycles. Online sources describe 12 to 24 weeks on and breaks of 4 to 8 weeks.",
+      "items": [
+        {
+          "text": "Animal studies only: rats received AOD9604 by mouth for 19 days, and a mouse study ran 14 days. Neither says how long people should use it.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11146367"
+        },
+        {
+          "text": "Superpower, a biomarker-testing company that does not sell the peptide, says the main human study ran 24 weeks in 536 people and failed to produce significant weight loss versus placebo.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/aod-9604",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Library says the main trial lasted 24 weeks and an earlier trial 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says a typical course is 12 to 24 weeks, with a 4 to 8 week first assessment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Deck, a site that promotes a seller with an affiliate code, says the standard cycle is 12 weeks with 4 to 8 weeks off, to avoid receptor downregulation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says the reviewed studies do not validate 12 weeks on and 4 off, or any receptor-reset interval, and that trial length is not a recommended treatment cycle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/aod-9604-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official storage instructions exist for AOD-9604. Online sources say to keep the mixed vial refrigerated for about 28 to 60 days and to inject into belly fat. Peptide Library warns that gel clumps in a mixed vial may mean the product has degraded.",
+      "items": [
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says a mixed vial is refrigerated at 2 to 8 degrees C, kept from light, not frozen, and typically stable for 30 to 45 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to mix with bacteriostatic water, refrigerate at 2 to 8 degrees C and use within 28 to 30 days. It says unmixed vials go in a freezer or refrigerator away from light.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Deck, a site that promotes a seller with an affiliate code, says mixed vials are refrigerated and stable for 30 to 60 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says the injection goes into abdominal fat at least 2 inches from the navel, with sites rotated and spaced at least 1 inch apart.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says the powder is mixed with bacteriostatic water by gentle swirling, never shaking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Library says a mixed solution that turns into gel clumps may be a sign of product degradation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "The mechanism in people is unknown. Mouse studies suggest it acts through fat-cell beta-3 adrenergic receptors, not the growth hormone receptor.",
+      "items": [
+        {
+          "text": "In mice lacking the beta-3 adrenergic receptor, the fat and weight loss from AOD9604 and growth hormone was lost, so the effect depends on that receptor pathway. Animal evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11713213"
+        },
+        {
+          "text": "In obese mice AOD9604 raised fat burning and reduced weight gain without binding the growth hormone receptor. Mouse and cell evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11673763"
+        },
+        {
+          "text": "Peptide Library says no molecular target has been identified after decades of work, and that it does not bind the growth hormone receptor or raise IGF-1.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says AOD9604 appears to enhance fat breakdown in mice by upregulating beta-3 adrenergic receptors.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/AOD-9604",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No peer-reviewed human trial of weight loss was found. Secondary sources say a 12-week trial showed a small gain over placebo and the main 24-week trial found no significant weight loss. In rats, weight gain fell by over half.",
+      "items": [
+        {
+          "text": "In obese Zucker rats, 19 days of oral AOD9604 cut weight gain by over 50 percent versus controls. This is animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11146367"
+        },
+        {
+          "text": "Wikipedia says a 12-week randomized trial found people on AOD9604 lost 1.8 kg more than placebo, and a 24-week trial showed poor efficacy and development was halted.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/AOD-9604",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower says a 24-week trial in 536 people failed to produce significant weight loss versus placebo.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/aod-9604",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Library says the main phase 2b trial found no statistically significant weight loss at any dose, and an earlier phase 2a trial found about 1.8 kg more loss than placebo over 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A 2004 news release reprinted by News-Medical says a 300-person, 12-week trial found the 1 mg daily oral group lost 2.8 kg versus 0.8 kg on placebo. This reports the developer's own early result, which later trials did not confirm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.news-medical.net/news/2004/12/16/6878.aspx",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says compounded drugs containing AOD-9604 may pose significant risk of immune reactions for some routes and may have peptide impurity problems.",
+      "items": [
+        {
+          "text": "FDA lists AOD-9604 among bulk drug substances for compounding that may present significant safety risks, stating it may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-bulks-page"
+        }
+      ]
+    },
+    {
+      "title": "Animal data",
+      "summary": "In obese mice AOD9604 did not cause high blood sugar or lower insulin release, unlike growth hormone. No human adverse-event data were found in the cited research.",
+      "items": [
+        {
+          "text": "In obese mice, AOD9604 did not induce hyperglycaemia or reduce insulin secretion, unlike human growth hormone (animal study; human adverse-event data were not found in the cited sources).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11673763"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "Secondary sources report no serious treatment-related problems in the human trials, but the original reports were not found.",
+      "items": [
+        {
+          "text": "Peptide Library says there were zero treatment-related serious adverse events across 893 trial subjects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelibrary.io/aod-9604/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A 2004 news release reprinted by News-Medical says the 300-person trial showed no evidence of the side effects common with existing obesity drugs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.news-medical.net/news/2004/12/16/6878.aspx",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources describe mostly mild effects such as headache, injection site reactions and stomach upset. These come from sellers and websites, not from controlled studies.",
+      "items": [
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says mild to moderate headaches are most common, with minor injection site reactions and stomach and bowel effects at higher doses, and no insulin resistance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says reported mild effects include injection site reactions, headache, indigestion or nausea with the oral form, and rare flu-like symptoms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/peptides/aod-9604/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
