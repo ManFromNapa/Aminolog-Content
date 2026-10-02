@@ -105,7 +105,6 @@
       "finding": "Thymalin and the two dipeptides lowered production of the inflammatory signals IL-1 beta, IL-6 and TNF-alpha by 1.4 to 6.0 times in human blood cells exposed to a bacterial toxin. The docking results are computer predictions."
     }
   ],
-  "last_reviewed": "2026-10-02",
   "how_to_take": {
     "dose": {
       "summary": "No trial dose was found. Online sources describe 5 to 10 mg per day by injection into muscle or under the skin for a short course. These doses are not backed by a study or label.",
@@ -367,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "last_reviewed": "2026-10-02"
 }
