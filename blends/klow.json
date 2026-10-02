@@ -48,5 +48,265 @@
       "finding": "FDA lists KPV among withdrawn substances and states it has not identified any human exposure data on drug products containing KPV administered via any route. It lists BPC-157, thymosin beta-4 fragment and GHK-Cu among withdrawn substances with immunogenicity and impurity concerns."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Sellers describe an 80 mg vial of 50 mg GHK-Cu and 10 mg each of KPV, BPC-157 and TB-500, with typical injections of 2 to 4 mg of total blend. No study has tested any dose of this combination, and formulations vary by seller.",
+      "items": [
+        {
+          "text": "Research-peptide sellers describe KLOW as a fixed four-peptide vial combining GHK-Cu, BPC-157, TB-500 and KPV, sold as a research product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes an 80 mg vial of 50 mg GHK-Cu and 10 mg each of KPV, BPC-157 and TB-500. After adding 3 mL of bacteriostatic water it describes a community titration from about 2 mg of total blend a day, to 4 mg, to 6 mg, then back to 4 mg over 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, describes 3.2 mg per injection (about 2 mg GHK-Cu and 400 mcg each of KPV, BPC-157 and TB-500) from an 80 mg vial mixed with 3 mL of bacteriostatic water, and says ratios vary by supplier.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer, an education site that says it does not sell peptides, says KLOW is the three-peptide GHK-Cu, BPC-157 and TB-500 blend at a 5 to 1 to 1 ratio with KPV added, typically sold in 80 mg vials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a site that earns referral fees from partner clinics, lists per-dose ranges of 1 to 2 mg GHK-Cu, 300 to 500 mcg BPC-157, 2 to 2.5 mg TB-500 and 200 to 500 mcg KPV, says supplier ratios vary, and says to work out dose from the label milligrams divided by the water added.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Online sources describe one injection a day or Monday to Friday, and one describes 2 to 3 times a week for maintenance. None of this has been studied.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says the blend is a once-daily injection under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, describes injections 5 days a week, Monday through Friday, in the abdomen or thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a site that earns referral fees from partner clinics, describes 4 to 5 times a week or daily for acute recovery and 2 to 3 times a week for maintenance, and stresses this is community practice rather than a trial-backed schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Online sources describe cycles of about 4 to 12 weeks followed by a break. No combination study exists, so these lengths are community convention.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes 4 to 6 weeks on and 2 to 4 weeks off as standard, longer cycles of 8 to 12 weeks as reported anecdotally, and says the off period is meant to manage copper build-up from the GHK-Cu part.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, says protocols typically run 8 to 12 weeks followed by a break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a site that earns referral fees from partner clinics, describes 8 to 12 weeks of loading then time off as common forum practice, not a trial-backed protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Sellers describe mixing the freeze-dried vial with bacteriostatic water, swirling gently, then keeping it in the refrigerator for about 2 to 6 weeks. No stability study of the mixed blend was found, and the sources differ.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says to swirl rather than shake, to keep the mixed vial at 2 to 8 degrees Celsius and use it within 14 to 28 days, and to avoid repeated freezing and thawing. It lists freezer storage at minus 20 degrees Celsius for the dry powder.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, says to refrigerate after mixing and use within about a month, avoiding repeated freezing and thawing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a site that earns referral fees from partner clinics, says the mixed vial can be refrigerated for 4 to 6 weeks and that unmixed vials are stable at room temperature.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Sellers describe KLOW as four peptides acting on blood vessel growth, cell movement, inflammation and collagen. This is the sellers' description, not a tested mechanism of the combination, and formulations vary by seller.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes GHK-Cu as changing gene activity, KPV as blocking a pro-inflammation switch (NF-kB) in lab models, and BPC-157 and TB-500 as supporting soft-tissue healing and blood vessel growth.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, says the blend works on healing in different ways at once: blood vessel growth, cell migration, calmer inflammation and more collagen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No human trial, animal study or registered trial of KLOW was found. Several sources say so themselves, so no effect of the combination is documented.",
+      "items": [
+        {
+          "text": "A Florida wellness clinic's guide groups GLOW and KLOW as peptide blends and cautions that they are not standardized products.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says no published clinical trial has evaluated the four-peptide KLOW combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, says the blend has not itself been studied in published clinical trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a site that earns referral fees from partner clinics, says there is no randomized trial of KLOW as a labeled product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says it has found no human exposure data on drug products containing KPV, one of the four parts. This is about a component, not the combination.",
+      "items": [
+        {
+          "text": "FDA's compounding safety page states it has not identified any human exposure data on drug products containing KPV by any route. This statement concerns a component, not the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-fda-cat2"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Sellers and guides list injection-site redness and swelling, early fatigue and mild stomach upset. These are not from combination studies.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, lists mild injection-site redness and swelling, a faint blue-green tint, first-week fatigue and short-term digestive changes as common, and headache, lightheadedness, vivid dreams and appetite changes as less common. It says none were measured in controlled blend studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to sellers, says injection-site redness, swelling or tenderness occurs in an estimated 15 to 20 percent of users and mild stomach symptoms in under 10 percent, without citing a study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a site that earns referral fees from partner clinics, says pitting edema (fluid swelling) is the most commonly reported effect, mainly attributed to the TB-500 part at higher doses, and usually clears in 2 to 4 weeks or with a lower dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "One site lists groups told to avoid the blend. This is seller-side advice, not a study result.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, lists active or recent cancer, copper-metabolism disorders such as Wilson's disease, pregnancy or breastfeeding, and blood thinner use as cautions, and says BPC-157 and TB-500 are banned in tested sport. These reasons concern individual components.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

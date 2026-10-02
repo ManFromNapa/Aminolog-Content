@@ -30,5 +30,132 @@
     }
   ],
   "research": [],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No combination study was found, so there is no studied combined dose. One telehealth seller describes doses for the sermorelin and NAD+ pair, and the Miami clinic gives no doses for the three-part stack.",
+      "items": [
+        {
+          "text": "TrimRx, a telehealth seller, says for a sermorelin plus NAD+ pair: 200 to 500 mcg sermorelin under the skin before bed, 5 to 7 nights a week, with 250 to 500 mg NAD+ by vein once or twice a week or 300 to 600 mg sublingual NAD+ daily. The page does not cover MOTS-c.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing for the combination. Sellers describe the parts as given separately, with sermorelin at bedtime and NAD+ or MOTS-c in the morning.",
+      "items": [
+        {
+          "text": "TrimRx, a telehealth seller, says that in a sermorelin plus NAD+ pair the sermorelin is given before bed and the NAD+ in the morning, to avoid possible sleep disruption.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, an education site with referral links to telehealth clinics, describes a MOTS-c plus oral NAD+ precursor (NMN or NR) routine with both taken in the morning, MOTS-c fasted or with a light meal. The page does not cover sermorelin and describes oral precursors, not NAD+ itself.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No study tested how often to give the three together. One clinic describes a different schedule for each part.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says in its stack sermorelin is a nightly injection under the skin, MOTS-c is injected 3 to 5 times per week, and NAD+ is given by IV infusion as 2 to 4 infusions over 1 to 2 weeks and then monthly maintenance sessions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No combined cycle length was studied. One referral-linked guide describes cycling for a MOTS-c plus NAD+ precursor pair.",
+      "items": [
+        {
+          "text": "PeptIQ, an education site with referral links to telehealth clinics, says for MOTS-c plus an oral NAD+ precursor: 8 to 12 weeks on and 4 weeks off for the MOTS-c, with the precursor continued through the break or taken 5 days on and 2 off. It describes this as based on mechanism, not human trials, and does not cover sermorelin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "No study of the combination explains how it works. A clinic describes the rationale as covering growth hormone release, mitochondrial function and cellular repair.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, describes sermorelin plus MOTS-c plus NAD+ as its most comprehensive anti-aging protocol, aimed at aging at the cellular level through three routes: growth hormone optimization, mitochondrial function and cellular repair.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator status",
+      "summary": "No approved product contains this combination. A clinic says most of its peptides are not FDA-approved for these uses.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says most of its peptides are investigational or compounded and not FDA-approved for these uses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "No combination data",
+      "summary": "No combination safety or effectiveness study was found. Sellers argue from each part's mechanism, and one guide says no human trial compares the pair it covers.",
+      "items": [
+        {
+          "text": "PeptIQ, an education site with referral links to telehealth clinics, says no human trial directly compares MOTS-c with NAD+ and that the combination rests on mechanistic reasoning. The page does not cover sermorelin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, gives mechanisms for its three-part stack but cites limited clinical trial data specifically for the combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

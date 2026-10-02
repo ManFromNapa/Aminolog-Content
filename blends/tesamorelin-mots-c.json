@@ -29,5 +29,174 @@
     }
   ],
   "research": [],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No study has tested a combined dose of tesamorelin and MOTS-c. Sellers describe doses only: a pre-mixed three-peptide product with equal small amounts of each, or a protocol that gives each peptide at its own dose.",
+      "items": [
+        {
+          "text": "RxPepsDirect, a compounded-peptide seller, sells a Lean Stack vial that also contains SS-31, a third peptide, and describes a starting dose of 20 units (0.2 mL) giving 0.4 mg each of SS-31, MOTS-c and tesamorelin per injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a peptide guide site with referral links to telehealth partners, describes a stack with tesamorelin at 1 mg daily rising to 2 mg daily after 2 weeks, plus MOTS-c at either 500 mcg to 1 mg daily or 5 mg two to three times a week. The guide also includes retatrutide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study covers timing of the combination. One online guide says the two peptides are injected separately, MOTS-c in the morning and tesamorelin in the evening, and that MOTS-c is added after tesamorelin has been started.",
+      "items": [
+        {
+          "text": "PeptIQ, a peptide guide site with referral links to telehealth partners, says tesamorelin is injected in the evening before bed and MOTS-c in the morning, as separate injections, and recommends adding MOTS-c 2 to 3 weeks after settling on tesamorelin rather than starting both together.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No study covers how often to give the combination. Online sources describe daily tesamorelin with MOTS-c on 3 to 5 days a week, or a pre-mixed product used 5 days on and 2 days off.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says tesamorelin is given as a daily injection under the skin and MOTS-c often 3 to 5 times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "RxPepsDirect, a compounded-peptide seller, says its three-peptide Lean Stack is injected daily for 5 days with 2 days off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No study covers how long to run the combination. Online sources describe 12 to 26 week protocols with lab monitoring, sometimes with breaks, and none is backed by a combination trial.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, describes tesamorelin plus MOTS-c as a protocol lasting several months under lab monitoring.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says protocols generally run 12 to 26 weeks, with metabolic labs at the start, at 8 weeks and periodically after.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptIQ, a peptide guide site with referral links to telehealth partners, says 12 weeks is a reasonable cycle, followed by a 4-week break from tesamorelin, and that MOTS-c is run in 8 to 12 week cycles with 4-week breaks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No study covers storage of a mixed product. One compounding seller says its pre-mixed three-peptide vial is refrigerated with a 90-day beyond-use date.",
+      "items": [
+        {
+          "text": "RxPepsDirect, a compounded-peptide seller, says its Lean Stack (tesamorelin, MOTS-c and SS-31 in one vial) is pre-reconstituted by the pharmacy, needs no bacteriostatic water, is refrigerated and carries a 90 day beyond-use date from compounding.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "No source describes how the combination works in people. Clinics argue that the two peptides act on different pathways, but this is reasoning from each peptide, not a combination finding.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says tesamorelin stimulates growth hormone release to promote fat breakdown while MOTS-c supports mitochondrial function and metabolic efficiency through AMPK activation, and markets the pair as a body recomposition stack aimed at visceral fat reduction and metabolic optimization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No study of tesamorelin with MOTS-c in people was found, and no registry record for the combination turned up. Sources that sell or promote the stack say so themselves.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says most of its peptides are investigational or compounded and not FDA-approved for these uses, and that the synergy rationale is grounded more in mechanism and limited research than in large human trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says no published research has tested any two- or three-peptide combination from a stack that includes tesamorelin and MOTS-c with AOD-9604.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "No combination safety data",
+      "summary": "No study reports side effects of tesamorelin and MOTS-c together. One site notes there is no toxicology data for combinations in a related stack.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says there is no toxicology data for any two- or three-peptide combination from a stack of AOD-9604, tesamorelin and MOTS-c.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Seller guidance",
+      "summary": "A compounding seller of a three-peptide product tells users to report swelling, joint pain or hand numbness, and lists who should avoid it. This is seller advice, not trial data.",
+      "items": [
+        {
+          "text": "RxPepsDirect, a compounded-peptide seller, says users of its Lean Stack (tesamorelin, MOTS-c and SS-31) should report new swelling, joint pain or hand numbness to a clinician, and that it is not for people with active cancer, pituitary tumors or pregnancy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

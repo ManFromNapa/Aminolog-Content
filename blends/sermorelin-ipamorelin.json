@@ -50,7 +50,288 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (fetched 2026-10-01).",
       "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. Sermorelin is not mentioned on the page."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "bowers-1996-jpem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8887169",
+      "year": 1996,
+      "summary": "Controlled clinical studies in normal younger and older men and women given growth hormone releasing peptide-2 (GHRP-2, a different peptide from ipamorelin), growth hormone releasing hormone (GHRH), or both for 7 to 30 days (Bowers and Granda-Ayala, J Pediatr Endocrinol Metab).",
+      "finding": "GHRP-2 plus GHRH gave an additive or synergistic growth hormone response, and chronic dosing of either could turn an additive response into a synergistic one. Whether the response became desensitized depended partly on dose and frequency. No CJC-1295 or ipamorelin was used."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No label or combination study sets a dose. Online sources describe about 200 to 300 micrograms (mcg) of each peptide at bedtime.",
+      "items": [
+        {
+          "text": "PeptideDeck, a site with seller affiliate links, says standard dosing is sermorelin 200 to 300 mcg plus ipamorelin 200 to 300 mcg at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says the dose is 0.2 ml under the skin (300 mcg) at bedtime. The page does not give the ratio of the two peptides.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested when to take the combination. Online sources favor bedtime to match the natural overnight growth hormone (GH) pulse.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not the blend; no trial has compared bedtime with daytime dosing of the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says the two peptides are often injected together at bedtime to match the nightly GH rise.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says to inject at night to mimic natural GH release.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideDeck, a site with seller affiliate links, says both are given in the same pre-sleep injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study has tested the combination with meals. Physiology work on GH releasing hormone suggests sugar blunts the response, and one clinic says to wait an hour after dinner.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink before an injection of natural GH releasing hormone lowered the GH response by about a third. Sermorelin is a fragment of that hormone, but no study has tested meals with the blend.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says to inject at least one hour after eating dinner, so food does not interfere with the release of GH and insulin-like growth factor 1 (IGF-1).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No study has tested how often to give the combination. Online sources describe five nights a week, with an optional morning dose of ipamorelin alone.",
+      "items": [
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says the schedule is five nights a week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says some clinicians use a split schedule, with ipamorelin alone in the morning and the combined dose at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No trial has tested the combination over a course. One study of a related pair (GHRP-2 plus GHRH) found desensitization depends on dose and frequency. One clinic says full benefit can take 3 to 6 months.",
+      "items": [
+        {
+          "text": "In controlled studies of a related pair (GHRP-2 plus GHRH) given for 7 to 30 days, whether the GH response became desensitized depended partly on dose and frequency. Neither sermorelin nor ipamorelin was used.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "bowers-1996-jpem"
+        },
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says it can take up to three to six months to get the full benefits, and that IGF-1 is re-tested at 3 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists for the blend, and no source was found on mixing the two peptides or on the shelf life of a mixed vial. One clinic says to refrigerate.",
+      "items": [
+        {
+          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. This concerns the ipamorelin component; FDA does not mention sermorelin or the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-fda-cat2"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says the two peptides are typically injected under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says to keep the medication refrigerated at home.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says adding compounds increases the safety and quality-control surface area, and that direct stack-specific clinical trial evidence is limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Sources describe the pair as acting on two different receptors, one for GH releasing hormone and one for ghrelin, to raise GH. A study of a related pair found additive or synergistic effects, but no study tested this blend.",
+      "items": [
+        {
+          "text": "In controlled studies in men and women, a related pair (GHRP-2 plus GHRH) gave an additive or synergistic GH response. This was not sermorelin plus ipamorelin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "bowers-1996-jpem"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says the pairing is synergistic, with sermorelin acting on GH releasing hormone receptors and ipamorelin on ghrelin receptors, and that combined stimulation gives GH responses greater than the sum of the individual responses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideDeck, a site with seller affiliate links, says the stack replicates the dual-pathway model used in clinical research.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No study of the sermorelin and ipamorelin combination was found. Sources that discuss the evidence say human outcome data on the pair are limited.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says human outcome data on the specific combination are limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says direct stack-specific clinical trial evidence is limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideDeck, a site with seller affiliate links, says the pair is the most studied sermorelin combination and gives a GH pulse significantly larger than either alone. The page cites no trial of the pair.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "FDA warns about compounded ipamorelin and does not mention sermorelin. The statement does not cover the combination.",
+      "items": [
+        {
+          "text": "FDA lists ipamorelin acetate among bulk drug substances for compounding that may present significant safety risks, citing immunogenicity from aggregation or impurities. This concerns the ipamorelin component, not the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-fda-cat2"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says sermorelin was formerly FDA-approved for diagnostic use while ipamorelin is not approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "No study reports side effects of the combination. Clinics list mild local reactions, headache and flushing.",
+      "items": [
+        {
+          "text": "The same Rewind Anti-Aging clinic blog lists injection site irritation, mild headache in the first week, transient flushing and slight appetite changes as effects it associates with the pairing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Houston Men's Health Clinic, which treats patients with the blend, says common effects are injection site pain, redness and rare swelling, and rare effects are dizziness, flushing, headaches, sleepiness and hyperactivity. The page does not separate effects of the combination from each peptide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

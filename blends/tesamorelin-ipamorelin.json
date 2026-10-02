@@ -39,7 +39,278 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
       "finding": "FDA lists ipamorelin acetate in category 2 for 503B outsourcing facilities and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No study of tesamorelin and ipamorelin given together was found. Sellers describe combined doses of about 1 to 2 mg tesamorelin with 100 to 300 micrograms (mcg) of ipamorelin per injection. These doses are not from a trial, and formulations vary by seller.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says tesamorelin 1 to 2 mg plus ipamorelin 100 to 300 mcg per injection, and that no peer-reviewed dosing protocol exists for the combined stack.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Pantheon Peptides, a peptide seller, describes its 5 mg tesamorelin and 2 mg ipamorelin stack as 1 mg tesamorelin with 100 to 200 mcg ipamorelin daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, an aesthetic clinic, describes a single vial holding 10 mg tesamorelin and 5 mg ipamorelin, a fixed 2 to 1 ratio in every unit drawn, and says no randomized trial has validated its escalation, weekly rhythm or pause.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa that sells peptides, says blend vials come in ratios like 1:1 (5 mg/5 mg) or higher in tesamorelin (10 mg/3 mg).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Online sources favor bedtime to match the body's own overnight growth hormone (GH) pulse. Bedtime dosing of this combination has not been tested.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not the effect of this combination; no trial has compared bedtime with daytime dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says the stack is typically taken before sleep when natural GH pulses are highest.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, an aesthetic clinic, says one injection delivers both peptides, given at night.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa that sells peptides, says the blend is taken before bed, and that some people also dose in the morning.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested meal timing for this combination. Sellers say to inject on an empty stomach, at least 90 minutes to 2 hours after eating.",
+      "items": [
+        {
+          "text": "Perfect B, an aesthetic clinic, says to inject at least 2 hours after the last meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Pantheon Peptides, a peptide seller, says to dose on an empty stomach, at least 90 minutes after the last meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa that sells peptides, says to take the blend before bed on an empty stomach.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No study tested how often to give this combination. Sellers describe once daily dosing, often 5 days on and 2 days off.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says dosing more than once daily has not been validated in any published human study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, an aesthetic clinic, describes 5 days on and 2 days off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa that sells peptides, describes 5 days on and 2 days off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No study tested a combined cycle length. Sellers describe cycles of about 8 to 12 weeks, or 3 months, followed by a break.",
+      "items": [
+        {
+          "text": "Perfect B, an aesthetic clinic, describes 3 months of dosing followed by a 2 month pause, and says no randomized trial has validated this pause.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa that sells peptides, describes cycles of 8 to 12 weeks on with a break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Online sources disagree on whether the two peptides can be mixed. One says to combine them in a syringe only just before injecting and not to store the mixture, while another sells them pre-combined in one vial. No study of stability of a mixed product was found.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to reconstitute each peptide separately, draw ipamorelin then tesamorelin into the same syringe, inject immediately and not store the mixture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Pantheon Peptides, a peptide seller, says both peptides can be taken together at night in the same syringe, and that reconstituted vials should be refrigerated and used within 30 to 45 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, an aesthetic clinic, says its product arrives pre-combined in a single vial, so nothing is combined at home.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A seller describes the pair as acting at two points on the same pathway. No study shows how the combination behaves in people.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says growth hormone releasing hormone (GHRH) turns on the accelerator while a ghrelin agonist releases the brake.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No study of tesamorelin and ipamorelin given together was found. Sellers say no human randomized trial has tested the combination.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says no published human randomized trial has tested the combination directly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telemedicine company's article calls tesamorelin plus ipamorelin the visceral fat stack. It notes that tesamorelin on its own is FDA-approved only for HIV-associated lipodystrophy and says its label states it is not indicated for weight loss management. This describes the tesamorelin component.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "FDA lists ipamorelin, one component, in a compounding risk category. This is not about the combination itself.",
+      "items": [
+        {
+          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-fda-cat2"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "The combination's side effects have not been studied. Sellers list effects they attribute to the peptide types.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, lists fluid retention, glucose elevation, joint or muscle pain, carpal tunnel syndrome and injection site reactions as class effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, an aesthetic clinic, lists glucose, fluid retention and immunogenicity, and says peripheral edema, joint pain and carpal tunnel symptoms are documented class effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Pantheon Peptides, a peptide seller, lists mild injection site irritation and temporary water retention, bloating or flushing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

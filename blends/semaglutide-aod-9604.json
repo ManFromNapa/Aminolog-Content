@@ -27,5 +27,116 @@
     }
   ],
   "research": [],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "",
+      "items": []
+    },
+    "timing": {
+      "summary": "No study or label covers when to take the two together. One seller-linked article advises starting semaglutide alone and adding AOD-9604 later, which is untested.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-medication seller, says to start with one compound (typically semaglutide), raise it to the target dose and stabilize before adding AOD-9604. It gives no doses or schedule for the combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "",
+      "items": []
+    },
+    "cycle_length": {
+      "summary": "",
+      "items": []
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "No study of the combination explains how it works. Sellers say the two act through separate pathways, which is a rationale and not tested for the pair.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-medication seller, says the two compounds work through independent mechanisms, with AOD-9604 aimed at stubborn fat and body composition and semaglutide at weight loss and metabolic improvement. It cites no combination study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Meto, a telehealth company that offers compounded medications, says GLP-1 and GIP therapy reduces intake and improves metabolic measures, while AOD-9604 is proposed to support fat mobilization or reduce fat storage signaling.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No human study of semaglutide plus AOD-9604 was found. Telehealth sources say there is no solid evidence that adding AOD-9604 gives extra fat loss.",
+      "items": [
+        {
+          "text": "Meto, a telehealth company that offers compounded medications, says there is no robust, high-quality human outcomes literature showing that adding AOD-9604 to semaglutide or tirzepatide gives clinically meaningful extra fat loss beyond what GLP-1/GIP therapy already achieves.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-medication seller, says the only AOD-9604 effects it cites came from animal studies, that they were not reproduced in human obesity trials, and that it cites no trial combining the two.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telehealth company's blog (Meto, which offers compounded medications) lists semaglutide plus AOD-9604 among popular peptide stacks and grades the evidence for such stacks mostly as biomarker-level or mechanistic rather than human outcomes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online commentary",
+      "summary": "No combination study or combination-specific side effects were found. Telehealth sources say no direct interaction is known and that stacks warrant caution.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-medication seller, says no direct pharmacological interactions are known between AOD-9604 and semaglutide and recommends physician oversight to monitor for unexpected effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telehealth company's blog (Meto, which offers consultations and compounded medications) says most peptide stacks have far more marketing momentum than clinical evidence, especially for combinations, and that more experimental stacks call for a more conservative risk posture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

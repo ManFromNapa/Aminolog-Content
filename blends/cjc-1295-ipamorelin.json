@@ -315,7 +315,7 @@
         {
           "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. It also lists CJC-1295 among withdrawn substances with a similar warning. This concerns the components, not the combination.",
           "label": "research",
-          "validity": "strong",
+          "validity": "low",
           "citation_id": "r-fda-cat2"
         },
         {
@@ -459,7 +459,7 @@
         {
           "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
           "label": "research",
-          "validity": "strong",
+          "validity": "low",
           "citation_id": "r-fda-cat2"
         },
         {

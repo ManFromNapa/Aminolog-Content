@@ -30,5 +30,166 @@
     }
   ],
   "research": [],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No study or label gives a dose for this combination. FormBlends, a compounded-peptide seller, describes its stack with sermorelin 200 to 300 micrograms (mcg) before bed and BPC-157 250 to 500 mcg daily, alongside testosterone at the patient's own prescribed dose. Rewind says doses depend on body weight, baseline hormones and other factors and gives no numbers.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, lists sermorelin at 200 to 300 mcg before bed and BPC-157 at 250 to 500 mcg daily as the doses for a TRT stack, with 250 mcg twice daily in its beginner example.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says testosterone therapy continues per the patient's established protocol and that the peptide dose depends on body weight, baseline hormone levels, metabolic status and individual receptor sensitivity. It gives no peptide doses for this stack.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study covers timing for this combination. Sellers describe sermorelin as a nightly injection and BPC-157 as a daily injection.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says sermorelin is added as a nightly subcutaneous injection in this stack.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says sermorelin is taken before bed to match the natural rise in growth hormone during deep sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No study covers how often to use this combination. Rewind describes nightly sermorelin and daily BPC-157 with ongoing testosterone, and FormBlends describes adding peptides one at a time.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says BPC-157 is given under the skin daily, either body-wide or near a specific injury, while sermorelin is given nightly and testosterone continues as before.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, recommends starting with a single peptide for 4 to 6 weeks before adding others, and says sermorelin is often added after BPC-157 is tolerated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says blood work is done every 8 to 12 weeks during treatment, checking IGF-1 (a growth hormone marker), inflammation markers and liver tests.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says blood tests track testosterone, free testosterone, estradiol, IGF-1, blood counts, a metabolic panel and liver function at regular intervals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No study covers how long to use this combination. FormBlends says practitioners typically cycle peptides every 3 to 6 months.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says practitioners typically recommend cycling peptides every 3 to 6 months to maintain effectiveness. No trial is given for this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "",
+      "items": []
+    },
+    "best_documented_effect": {
+      "summary": "No human study of this combination was found. Sellers claim the stack boosts testosterone therapy results, and one admits the rationale rests on mechanism and limited research rather than large human trials.",
+      "items": [
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, describes sermorelin plus BPC-157 plus testosterone as a 'TRT enhancement' stack that amplifies testosterone therapy results, with baseline and ongoing lab monitoring.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The same clinic says the synergy rationale is grounded more in mechanism and limited research than in large human trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says stacking peptides with TRT can increase muscle protein synthesis by 15 to 25 percent over TRT alone. The page gives no trial for this figure, and none was found for the combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "No combination safety study was found. FormBlends reports mild effects when starting peptides, and sellers stress lab monitoring.",
+      "items": [
+        {
+          "text": "FormBlends, a compounded-peptide seller, says injection site reactions or temporary water retention can occur when starting peptide therapy and typically resolve within 2 to 3 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Rewind Anti-Aging, a Miami clinic that sells peptide therapy, says the stack needs baseline and ongoing lab monitoring.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

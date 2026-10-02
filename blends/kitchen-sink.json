@@ -205,7 +205,7 @@
           "text": "FDA's compounding safety-risk page lists ipamorelin acetate among substances that may present significant safety risks, citing immunogenicity concerns; it also names CJC-1295, BPC-157 and TB-500 in its withdrawn section with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
           "label": "research",
           "citation_id": "r-fda-cat2",
-          "validity": "strong"
+          "validity": "low"
         }
       ]
     },
