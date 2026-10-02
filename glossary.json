@@ -219,6 +219,18 @@
    "category": "hormones_receptors"
   },
   {
+   "term": "adrenocorticotropic hormone",
+   "abbreviation_aliases": [
+    "ACTH"
+   ],
+   "definition": "A hormone made in the pituitary gland that tells the adrenal glands to release cortisol.",
+   "category": "hormones_receptors",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/adrenocorticotropic-hormone"
+   }
+  },
+  {
    "term": "adverse event",
    "aliases": [
     "adverse events",
@@ -495,6 +507,11 @@
    "category": "body_conditions"
   },
   {
+   "term": "angiotensin",
+   "definition": "A hormone that narrows blood vessels and raises blood pressure.",
+   "category": "hormones_receptors"
+  },
+  {
    "term": "animal model",
    "definition": "An animal used in research to study a disease or treatment before human testing.",
    "category": "study_evidence",
@@ -584,6 +601,15 @@
    "source": {
     "name": "MedlinePlus",
     "url": "https://medlineplus.gov/bloodpressuremedicines.html"
+   }
+  },
+  {
+   "term": "antimicrobial",
+   "definition": "A substance that kills microorganisms such as bacteria or mold, or stops them from growing.",
+   "category": "drugs_compounds",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/antimicrobial"
    }
   },
   {
@@ -1264,6 +1290,11 @@
    "term": "category 2",
    "definition": "An FDA list of bulk substances flagged as posing significant safety risks, which may not be used in compounding.",
    "category": "drugs_compounds"
+  },
+  {
+   "term": "cathelicidin",
+   "definition": "A family of natural proteins made by the immune system that kill bacteria.",
+   "category": "hormones_receptors"
   },
   {
    "term": "cavernosal",
@@ -2056,6 +2087,11 @@
    "category": "routes_handling"
   },
   {
+   "term": "dinucleotide",
+   "definition": "A molecule made of two linked nucleotides, such as nicotinamide adenine dinucleotide (NAD+).",
+   "category": "hormones_receptors"
+  },
+  {
    "term": "dipeptide",
    "definition": "A molecule made of two amino acids joined together.",
    "category": "drugs_compounds"
@@ -2194,6 +2230,14 @@
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/dropouts"
    }
+  },
+  {
+   "term": "drug affinity complex",
+   "abbreviation_aliases": [
+    "DAC"
+   ],
+   "definition": "A chemical addition that lets a peptide attach to proteins in the blood so that it lasts much longer in the body.",
+   "category": "drugs_compounds"
   },
   {
    "term": "dry eye",
@@ -2535,7 +2579,10 @@
    "term": "ERRs",
    "abbreviation": true,
    "definition": "Estrogen-related receptors, proteins that help regulate how cells make energy.",
-   "category": "hormones_receptors"
+   "category": "hormones_receptors",
+   "abbreviation_aliases": [
+    "ERR"
+   ]
   },
   {
    "term": "erythema",
@@ -2825,6 +2872,12 @@
    "category": "hormones_receptors"
   },
   {
+   "term": "FOXO4",
+   "abbreviation": true,
+   "definition": "A protein that switches genes on and off and helps keep aged cells from dying.",
+   "category": "hormones_receptors"
+  },
+  {
    "term": "FPRL1",
    "abbreviation": true,
    "definition": "Formyl peptide receptor-like 1, an immune cell receptor involved in inflammation signaling.",
@@ -3021,7 +3074,10 @@
    "term": "GHRH",
    "abbreviation": true,
    "definition": "Growth hormone-releasing hormone, a brain hormone that signals the pituitary gland to release growth hormone.",
-   "category": "hormones_receptors"
+   "category": "hormones_receptors",
+   "abbreviation_aliases": [
+    "GRF"
+   ]
   },
   {
    "term": "GIP",
@@ -3062,6 +3118,17 @@
     "glucagon-like"
    ],
    "definition": "A gut hormone released after eating that boosts insulin release, slows stomach emptying and reduces appetite.",
+   "category": "hormones_receptors",
+   "abbreviation_aliases": [
+    "GLP-1"
+   ]
+  },
+  {
+   "term": "glucagon-like peptide-2",
+   "abbreviation_aliases": [
+    "GLP-2"
+   ],
+   "definition": "A gut hormone that helps the intestine grow and absorb nutrients.",
    "category": "hormones_receptors"
   },
   {
@@ -3197,7 +3264,8 @@
   {
    "term": "growth hormone",
    "abbreviation_aliases": [
-    "HGH"
+    "HGH",
+    "GH"
    ],
    "definition": "A hormone made by the pituitary gland that drives growth in children and affects muscle, fat and sugar metabolism in adults.",
    "category": "hormones_receptors",
@@ -4137,7 +4205,11 @@
    "source": {
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/insulin-like-growth-factor"
-   }
+   },
+   "abbreviation_aliases": [
+    "IGF-1",
+    "IGF-I"
+   ]
   },
   {
    "term": "integrated GH",
@@ -4299,7 +4371,10 @@
    "source": {
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intravenous"
-   }
+   },
+   "abbreviation_aliases": [
+    "IV"
+   ]
   },
   {
    "term": "investigational",
@@ -4655,6 +4730,14 @@
    "category": "routes_handling"
   },
   {
+   "term": "long-acting release",
+   "abbreviation_aliases": [
+    "LAR"
+   ],
+   "definition": "A form of a drug made to release slowly over weeks, so it is injected less often.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "low blood sugar",
    "aliases": [
     "hypoglycemia"
@@ -4888,12 +4971,6 @@
    "category": "study_evidence"
   },
   {
-   "term": "mdx",
-   "abbreviation": true,
-   "definition": "A strain of mice with a genetic mutation that causes muscular dystrophy, used to test muscle treatments.",
-   "category": "body_conditions"
-  },
-  {
    "term": "mealtime insulin",
    "aliases": [
     "mealtime",
@@ -5025,6 +5102,11 @@
    }
   },
   {
+   "term": "mesylate",
+   "definition": "A salt form used to make a drug dissolve and keep well.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "meta-analysis",
    "aliases": [
     "meta-analyses"
@@ -5110,6 +5192,11 @@
    "category": "hormones_receptors"
   },
   {
+   "term": "metoprolol",
+   "definition": "A beta blocker, a drug that slows the heart and lowers blood pressure.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "mg",
    "abbreviation": true,
    "definition": "Milligram, one thousandth of a gram. 1 mg equals 1,000 mcg.",
@@ -5125,6 +5212,12 @@
    "term": "MHRA",
    "abbreviation": true,
    "definition": "The Medicines and Healthcare products Regulatory Agency, the United Kingdom's drug regulator.",
+   "category": "drugs_compounds"
+  },
+  {
+   "term": "MIC",
+   "abbreviation": true,
+   "definition": "Methionine, inositol and choline, the three ingredients in a common lipotropic injection mix.",
    "category": "drugs_compounds"
   },
   {
@@ -5788,6 +5881,28 @@
    }
   },
   {
+   "term": "nicotinamide mononucleotide",
+   "aliases": [
+    "mononucleotide"
+   ],
+   "abbreviation_aliases": [
+    "NMN"
+   ],
+   "definition": "A building block the body turns into NAD+, sold as a supplement.",
+   "category": "drugs_compounds"
+  },
+  {
+   "term": "nicotinamide riboside",
+   "aliases": [
+    "riboside"
+   ],
+   "abbreviation_aliases": [
+    "NR"
+   ],
+   "definition": "A form of vitamin B3 that the body turns into NAD+.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "nicotinic acid",
    "aliases": [
     "niacin"
@@ -6371,6 +6486,14 @@
    }
   },
   {
+   "term": "parathyroid hormone-related protein",
+   "abbreviation_aliases": [
+    "PTHrP"
+   ],
+   "definition": "A protein made in many tissues that acts on the same receptor as parathyroid hormone and helps control bone and calcium.",
+   "category": "hormones_receptors"
+  },
+  {
    "term": "parenteral",
    "definition": "Given by a route other than the digestive tract, such as by injection or infusion.",
    "category": "routes_handling"
@@ -6622,6 +6745,11 @@
    "term": "phase IIb",
    "definition": "A mid-stage clinical trial that tests different doses of a treatment in patients to see how well it works and which dose is best.",
    "category": "study_evidence"
+  },
+  {
+   "term": "phentolamine",
+   "definition": "A drug that widens blood vessels, used in some erectile dysfunction injections.",
+   "category": "drugs_compounds"
   },
   {
    "term": "phospholipase",
@@ -8542,9 +8670,20 @@
    }
   },
   {
+   "term": "testosterone cypionate",
+   "aliases": [
+    "cypionate"
+   ],
+   "definition": "A long-acting oil-based form of testosterone given by injection.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "testosterone enanthate",
    "definition": "A long-acting injectable form of testosterone.",
-   "category": "drugs_compounds"
+   "category": "drugs_compounds",
+   "aliases": [
+    "enanthate"
+   ]
   },
   {
    "term": "testosterone replacement therapy",
@@ -8556,6 +8695,14 @@
     "TRT"
    ],
    "definition": "Treatment that gives testosterone to raise low levels in the body.",
+   "category": "drugs_compounds"
+  },
+  {
+   "term": "testosterone undecanoate",
+   "aliases": [
+    "undecanoate"
+   ],
+   "definition": "A long-acting form of testosterone taken as a capsule or given by injection.",
    "category": "drugs_compounds"
   },
   {
@@ -8813,6 +8960,11 @@
    "category": "body_conditions"
   },
   {
+   "term": "tuftsin",
+   "definition": "A small natural peptide, part of an antibody, that helps immune cells attack germs.",
+   "category": "hormones_receptors"
+  },
+  {
    "term": "type 1 diabetes",
    "definition": "A condition in which the body makes little or no insulin because the immune system destroys insulin-making cells.",
    "category": "body_conditions",
@@ -8943,6 +9095,15 @@
    "category": "body_conditions"
   },
   {
+   "term": "vasoactive",
+   "definition": "Causing blood vessels to narrow or widen.",
+   "category": "body_conditions",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/vasoactive"
+   }
+  },
+  {
    "term": "vasoactive intestinal peptide",
    "definition": "A hormone found in the gut, pancreas and nervous system that helps control water, salt and enzyme secretion during digestion.",
    "category": "hormones_receptors",
@@ -9057,6 +9218,21 @@
    "category": "body_conditions"
   },
   {
+   "term": "vitamin B12",
+   "aliases": [
+    "cobalamin"
+   ],
+   "abbreviation_aliases": [
+    "B12"
+   ],
+   "definition": "A vitamin the body needs for nerves and blood cells. It is found in animal foods and supplements.",
+   "category": "body_conditions",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/vitamin-b12"
+   }
+  },
+  {
    "term": "vitiligo",
    "definition": "A condition in which pigment-making skin cells are lost, leaving white patches on the skin.",
    "category": "body_conditions",
@@ -9138,6 +9314,11 @@
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/withdrawal"
    }
+  },
+  {
+   "term": "zonulin",
+   "definition": "A protein that loosens the seals between cells of the gut lining.",
+   "category": "hormones_receptors"
   }
  ]
 }
