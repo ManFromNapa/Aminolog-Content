@@ -88,8 +88,11 @@ if gp.exists() and not only:
     gv = Draft202012Validator(json.loads((root / "schema/glossary.schema.json").read_text()))
     for e in gv.iter_errors(g): errors.append(f"glossary.json: {e.message}")
     seen = {}
+    terms = set()
     for entry in g.get("entries", []):
         t = entry["term"]
+        if t in terms: errors.append(f"glossary.json: duplicate term {t}")
+        terms.add(t)
         if "\u2014" in entry["definition"] or "\u2013" in entry["definition"]: errors.append(f"glossary.json: {t}: dash in definition")
         cat = entry["category"]
         if cat == "units" and "source" in entry: errors.append(f"glossary.json: {t}: units take no source")
@@ -108,5 +111,7 @@ if mp.exists() and not only:
     m = json.loads(mp.read_text())
     if sorted(m["peptides"]) != sorted(f.stem for f in all_files): errors.append("manifest does not match peptides/")
     if sorted(m.get("blends", [])) != sorted(f.stem for f in blend_files): errors.append("manifest does not match blends/")
+    if m.get("glossary", "glossary.json") != "glossary.json": errors.append("manifest glossary must be glossary.json")
+    if ("glossary" in m) != (root / "glossary.json").exists(): errors.append("manifest and glossary.json disagree: both or neither")
 print("\n".join(errors) or f"OK: {len(files)} files")
 sys.exit(1 if errors else 0)

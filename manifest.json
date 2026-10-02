@@ -87,5 +87,6 @@
     "sermorelin-mots-c-nad",
     "tesamorelin-ipamorelin",
     "tesamorelin-mots-c"
-  ]
+  ],
+  "glossary": "glossary.json"
 }

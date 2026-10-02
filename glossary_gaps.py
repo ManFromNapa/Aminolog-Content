@@ -61,7 +61,6 @@ def main():
         d = json.load(open(f))
         corpus[os.path.relpath(f, ROOT)] = "\n".join(texts(d))
         for s in [d["id"], d["name"]] + d.get("aliases", []):
-            own_names.update(re.split(r"[\s/()+,]+", s))
             own_names.add(s)
     gp = os.path.join(ROOT, "glossary.json")
     entries = json.load(open(gp))["entries"] if os.path.exists(gp) else []
