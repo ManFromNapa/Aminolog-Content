@@ -106,6 +106,24 @@
       "finding": "Labeled as an adjunct to diet and exercise for glycemic control in adults with type 2 diabetes; not recommended with other exenatide products."
     },
     {
+      "id": "fda-bydureon-bcise-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/209210s025lbl.pdf",
+      "year": 2025,
+      "summary": "FDA prescribing information (Drugs@FDA label PDF) for Bydureon BCise (exenatide extended-release injectable suspension), AstraZeneca, revised May 2025.",
+      "finding": "Labeled as an adjunct to diet and exercise for glycemic control in adults and children aged 10 and older with type 2 diabetes, at 2 mg once weekly; carries a boxed warning for thyroid C-cell tumors in rats."
+    },
+    {
+      "id": "fda-bydureon-bcise-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/209210s025lbl.pdf",
+      "year": 2025,
+      "summary": "FDA prescribing information (Drugs@FDA label PDF) for Bydureon BCise (exenatide extended-release injectable suspension), AstraZeneca, revised May 2025.",
+      "finding": "Labeled as an adjunct to diet and exercise for glycemic control in adults and children aged 10 and older with type 2 diabetes, at 2 mg once weekly; carries a boxed warning for thyroid C-cell tumors in rats."
+    },
+    {
       "id": "fda-bydureon-daf",
       "evidence_type": "regulatory_document",
       "source_kind": "fda",
@@ -122,7 +140,493 @@
       "year": 2005,
       "summary": "Triple-blind placebo-controlled 30-week trial of exenatide in 336 metformin-treated patients with type 2 diabetes.",
       "finding": "HbA1c fell 0.78% (higher-dose arm) and 0.40% versus a 0.08% rise on placebo, with dose-dependent weight loss and low hypoglycemia."
+    },
+    {
+      "id": "drucker-2008",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18782641",
+      "year": 2008,
+      "summary": "30-week randomized open-label non-inferiority trial of exenatide 2 mg once weekly versus 10 mcg twice daily in 295 adults with type 2 diabetes (Drucker et al., Lancet).",
+      "finding": "HbA1c fell 1.9% with once-weekly versus 1.5% with twice-daily exenatide, with no increased risk of hypoglycemia and similar weight loss."
+    },
+    {
+      "id": "henry-2016-duration1",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "27525540",
+      "year": 2016,
+      "summary": "Uncontrolled open-label extension of the DURATION-1 trial: 295 adults with type 2 diabetes started exenatide once weekly or twice daily, then all received 2 mg once weekly for up to 6 years; 136 (46%) completed (Henry et al., Diabetes Technol Ther).",
+      "finding": "Six-year completers kept an HbA1c reduction of 1.6% and lost 4.2 kg, with no unexpected adverse events."
+    },
+    {
+      "id": "exscel-2017",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28910237",
+      "year": 2017,
+      "summary": "EXSCEL: randomized double-blind trial of exenatide 2 mg once weekly versus placebo in 14,752 adults with type 2 diabetes, median follow-up 3.2 years (Holman et al., N Engl J Med).",
+      "finding": "Major cardiovascular events occurred in 11.4% versus 12.2% (hazard ratio 0.91): safe compared with placebo but not shown to be superior; pancreatitis, pancreatic cancer and thyroid cancer rates did not differ."
+    },
+    {
+      "id": "vijiaratnam-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "39919773",
+      "year": 2025,
+      "summary": "Phase 3 randomized double-blind trial of exenatide 2 mg once weekly versus placebo for 96 weeks in 194 people with Parkinson's disease in the UK (Vijiaratnam et al., Lancet).",
+      "finding": "No benefit on the main Parkinson's score at 96 weeks: scores worsened by 5.7 points on exenatide versus 4.5 on placebo (p=0.47)."
+    },
+    {
+      "id": "drucker-2008",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18782641",
+      "year": 2008,
+      "summary": "30-week randomized open-label non-inferiority trial of exenatide 2 mg once weekly versus 10 mcg twice daily in 295 adults with type 2 diabetes (Drucker et al., Lancet).",
+      "finding": "HbA1c fell 1.9% with once-weekly versus 1.5% with twice-daily exenatide, with no increased risk of hypoglycemia and similar weight loss."
+    },
+    {
+      "id": "henry-2016-duration1",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "27525540",
+      "year": 2016,
+      "summary": "Uncontrolled open-label extension of the DURATION-1 trial: 295 adults with type 2 diabetes started exenatide once weekly or twice daily, then all received 2 mg once weekly for up to 6 years; 136 (46%) completed (Henry et al., Diabetes Technol Ther).",
+      "finding": "Six-year completers kept an HbA1c reduction of 1.6% and lost 4.2 kg, with no unexpected adverse events."
+    },
+    {
+      "id": "exscel-2017",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28910237",
+      "year": 2017,
+      "summary": "EXSCEL: randomized double-blind trial of exenatide 2 mg once weekly versus placebo in 14,752 adults with type 2 diabetes, median follow-up 3.2 years (Holman et al., N Engl J Med).",
+      "finding": "Major cardiovascular events occurred in 11.4% versus 12.2% (hazard ratio 0.91): safe compared with placebo but not shown to be superior; pancreatitis, pancreatic cancer and thyroid cancer rates did not differ."
+    },
+    {
+      "id": "vijiaratnam-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "39919773",
+      "year": 2025,
+      "summary": "Phase 3 randomized double-blind trial of exenatide 2 mg once weekly versus placebo for 96 weeks in 194 people with Parkinson's disease in the UK (Vijiaratnam et al., Lancet).",
+      "finding": "No benefit on the main Parkinson's score at 96 weeks: scores worsened by 5.7 points on exenatide versus 4.5 on placebo (p=0.47)."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Byetta is labeled at 5 micrograms (mcg) twice daily, raised to 10 mcg twice daily after 1 month. Bydureon BCise is labeled at 2 milligrams (mg) once weekly, and a 30-week trial found weekly dosing at least as good as twice daily. No online source adds a different dose.",
+      "items": [
+        {
+          "text": "Label: Byetta (exenatide) is started at 5 mcg subcutaneously twice daily within 60 minutes before the morning and evening meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "Label: Byetta may be increased to 10 mcg twice daily after 1 month of therapy, based on clinical response. The label says this is recommended to reduce the risk of stomach and gut side effects.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label states the dose is 2 mg injected under the skin once every 7 days. Switching from immediate-release exenatide to Bydureon BCise may cause a temporary rise in blood sugar for about 2 to 4 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "The Byetta label states coadministration with other exenatide-containing products is not recommended.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "A 30-week randomized trial in 295 adults with type 2 diabetes compared exenatide 2 mg once weekly with 10 mcg twice daily. Once-weekly lowered HbA1c (a 3-month blood sugar average) by 1.9% versus 1.5%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "drucker-2008"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The Byetta label says to inject within 60 minutes before the two main meals, and not after eating. Bydureon BCise is given on the same day each week at any time. Online sources agree with the label.",
+      "items": [
+        {
+          "text": "The Byetta label states it is injected subcutaneously at any time within the 60 minutes before the morning and evening meals (or before the two main meals of the day, about 6 hours or more apart), and is not given after a meal.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label states the weekly dose can be given at any time of day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "A WebMD reviewer of Byetta says they inject about 30 minutes before breakfast and dinner, in the belly or upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD says exenatide (Bydureon BCise) is used once each week on the same day, at any time of day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/bydureon-bcise-exenatide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A member of the Diabetes.co.uk forum says Byetta only works well when taken within one hour of eating, and that taking it two hours before a meal prevents part of the insulin response. This is a forum opinion in a 2008 thread.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.diabetes.co.uk/forum/threads/returning-to-byetta.2817/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "Byetta is taken before meals and slows stomach emptying, while the weekly Bydureon BCise can be given with or without food. The label also advises taking certain pills at least 1 hour before the injection. A forum suggestion to skip meals to avoid nausea is untested.",
+      "items": [
+        {
+          "text": "The Byetta label states the dose is not given after a meal, and the Bydureon BCise label states the weekly dose can be given with or without meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Byetta label says exenatide slows gastric emptying, which reduces how fast sugar from a meal enters the blood, and that it lowers blood sugar after meals in people with type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Byetta label says exenatide can slow the absorption of pills taken by mouth. For medicines that need a minimum level to work, such as contraceptives and antibiotics, patients should take them at least 1 hour before the Byetta injection, or with a meal or snack when Byetta is not given.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "A member of the Diabetes.co.uk forum passes on advice from a US diabetes doctor that nausea could be reduced because with \"no meal\" there is \"no nausea\". This is a 2008 forum post and is not tested in a trial.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.diabetes.co.uk/forum/threads/returning-to-byetta.2817/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Byetta is given twice daily and Bydureon BCise once every 7 days. Both labels give missed-dose rules, and WebMD repeats the 3-day rule for the weekly product.",
+      "items": [
+        {
+          "text": "The Byetta label states it is injected twice daily before the two main meals about 6 hours or more apart. A missed dose is not made up: treatment resumes with the next scheduled dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label states the injection day can be changed if the last dose was at least 3 days before the new day. A missed dose is given as soon as noticed if the next dose is at least 3 days away, and is skipped if the next dose is due in 1 or 2 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "WebMD says that if a dose of Bydureon BCise is missed, it should be used as soon as possible as long as there are at least 3 days (72 hours) before the next dose, and not with less than 72 hours between doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/bydureon-bcise-exenatide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Exenatide is labeled for ongoing use, and trials ran up to 6 years. A small share of people form antibodies that can weaken the effect. About 10 weeks after the last Bydureon BCise dose the drug has mostly left the blood. No data on weight regain after stopping was found, and no online source gives a cycle schedule.",
+      "items": [
+        {
+          "text": "The Byetta label states that in 30-week, 24-week and 16-week trials, antibodies to exenatide reduced the blood sugar effect in 1% to 4% of people. The label notes uncontrolled 52-week extension studies reported no new types of adverse reactions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label states that about 10 weeks after stopping, exenatide levels in the blood generally fall below the lowest measurable level.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "EXSCEL followed 14,752 adults with type 2 diabetes on weekly exenatide or placebo for a median of 3.2 years. Heart events did not differ significantly and safety was similar.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "exscel-2017"
+        },
+        {
+          "text": "In an uncontrolled extension of a trial, 136 of 295 adults (46%) stayed on weekly exenatide for 6 years and kept an HbA1c drop of 1.6% and weight loss of 4.2 kg.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "henry-2016-duration1"
+        },
+        {
+          "text": "In a 96-week trial in people with Parkinson's disease, weekly exenatide did not slow disease progression compared with placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "vijiaratnam-2025"
+        },
+        {
+          "text": "WebMD reviewers of Byetta report using it from less than 1 month to 10 years or more. One says it lost effectiveness after 14 months and they stopped, and another stopped for a time because of allergic reactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Labels say to refrigerate unused Byetta pens and keep pens in use below 25 C for up to 30 days, and to store Bydureon BCise flat in the fridge with up to 4 weeks at room temperature. Online sources match the labels.",
+      "items": [
+        {
+          "text": "The Byetta label states an unused pen is refrigerated at 2 to 8 C in the carton, after first use it can be kept below 25 C, it must not be frozen or used if it has been frozen, it is protected from light, and the pen is discarded 30 days after first use. Needles go in a puncture-resistant container.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Byetta patient instructions say not to store the pen with the needle attached, because medicine can leak and air bubbles can form.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Byetta label states pens must never be shared between patients, even if the needle is changed.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Byetta label states it is injected in the thigh, abdomen or upper arm, with the site rotated for each dose, and that the solution should be clear and colorless with no particles. With insulin, the two are injected separately and not next to each other.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label states the autoinjector is stored flat in the original package, refrigerated at 2 to 8 C, and protected from light. It can be kept at room temperature up to 30 C for no more than 4 weeks in total. It is taken out 15 minutes before mixing and shaken hard for at least 15 seconds.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "WebMD says Bydureon BCise is stored lying flat in its original packaging in the fridge, can be kept at room temperature up to 86 F (30 C) for up to 28 days, and that the injection site should be rotated each time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/bydureon-bcise-exenatide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A Diabetes.co.uk forum member says a pharmacy told them not to refrigerate a Byetta pen after first use because the label allows storage up to 25 C, while another member says they keep theirs in the fridge anyway. This is from a 2008 forum thread.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.diabetes.co.uk/forum/threads/returning-to-byetta.2817/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A copy of a Gila monster hormone that acts like the gut hormone GLP-1. It raises insulin when blood sugar is high, lowers glucagon and slows stomach emptying.",
+      "items": [
+        {
+          "text": "The Byetta label describes exenatide as a GLP-1 receptor agonist that enhances glucose-dependent insulin secretion by the pancreas, suppresses elevated glucagon and slows gastric emptying. Its sequence partially overlaps human GLP-1, and it was first identified in the lizard Heloderma suspectum.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label gives the same mechanism for the once-weekly form.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "Wikipedia says exenatide is a synthetic version of exendin-4 from Gila monster venom and binds the human GLP-1 receptor much as GLP-1 does, increasing insulin and suppressing glucagon.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Exenatide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Lowers HbA1c by roughly 0.4 to 1.9 points in type 2 diabetes, with modest weight loss. It did not clearly reduce heart events, and it did not help Parkinson's disease.",
+      "items": [
+        {
+          "text": "In a 30-week placebo-controlled trial of 336 adults on metformin, HbA1c fell 0.78% (higher dose) and 0.40% versus a 0.08% rise on placebo, and the higher dose lost about 2.8 kg more than placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "defronzo-2005"
+        },
+        {
+          "text": "In a 30-week trial, once-weekly exenatide lowered HbA1c by 1.9% versus 1.5% for twice-daily dosing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "drucker-2008"
+        },
+        {
+          "text": "EXSCEL found 11.4% versus 12.2% major cardiovascular events (hazard ratio 0.91), non-inferior to placebo but not shown superior.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "exscel-2017"
+        },
+        {
+          "text": "In the 96-week Parkinson's disease trial of 194 people, exenatide did not slow progression compared with placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "vijiaratnam-2025"
+        },
+        {
+          "text": "WebMD patient reviews average 3.9 out of 5 across 421 reviews, with about 81% reporting a positive effect, including reports of large weight loss in some users and none in others.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea is most common (44% vs 18% on placebo in the label trials) and usually fades with time. Vomiting, diarrhea, jitteriness, dizziness and headache follow. The weekly form commonly causes injection site lumps. WebMD reviewers describe nausea lasting weeks.",
+      "items": [
+        {
+          "text": "The Byetta label lists nausea, hypoglycemia, vomiting, diarrhea, feeling jittery, dizziness, headache, dyspepsia, constipation and asthenia as the most common reactions, and notes nausea usually decreases over time.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "In three 30-week add-on trials the Byetta label reports nausea 44% vs 18% on placebo, vomiting 13% vs 4%, diarrhea 13% vs 6%, jitteriness 9% vs 4%, dizziness 9% vs 6% and headache 9% vs 6%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "In a 30-week placebo-controlled trial with metformin, the most frequent adverse events were gastrointestinal and mostly mild to moderate, hypoglycemia was low and similar across groups, and the higher-dose arm lost about 2.8 kg versus placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "defronzo-2005"
+        },
+        {
+          "text": "In Bydureon BCise trials, injection site nodule (10.5%) and nausea (8.2%) were the most common reactions, and nausea and vomiting was 2% in week 1 versus 1% in week 4.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "WebMD reviewers of Byetta report nausea as the most common problem (one describes extreme nausea for the first 6 weeks that then subsided), constipation, and weight loss that varies widely from none to large.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Labels warn of pancreatitis, kidney injury, severe stomach problems, antibodies, allergic reactions, low platelets and gallbladder disease. Bydureon BCise has a boxed warning for thyroid tumors seen in rats.",
+      "items": [
+        {
+          "text": "The Byetta label warns of pancreatitis, hypoglycemia when used with insulin secretagogues or insulin, acute kidney injury, severe gastroparesis, and antibody formation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Byetta label also lists serious allergic reactions, immune-mediated low platelets with possibly fatal bleeding, gallbladder disease (1.9% vs 1.4% on placebo) and rare lung aspiration during anesthesia or deep sedation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "The Bydureon BCise label carries a boxed warning: extended-release exenatide caused thyroid C-cell tumors in rats, the human risk is unknown, and it is contraindicated with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        },
+        {
+          "text": "The Bydureon BCise label notes postmarketing reports of serious injection-site reactions such as abscess, cellulitis and tissue death, with or without lumps.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "Rare alone but much more common with a sulfonylurea, up to 36% with Byetta 10 mcg and 25% with Bydureon BCise.",
+      "items": [
+        {
+          "text": "In Byetta placebo-controlled trials, hypoglycemia was 3.3% on placebo vs 14.4% (5 mcg) and 35.7% (10 mcg) with a sulfonylurea, and 5.3% vs 5.3% with metformin alone for placebo vs 10 mcg.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-byetta-label"
+        },
+        {
+          "text": "In Bydureon BCise trials, blood sugar below 54 mg/dL occurred in 25% with a sulfonylurea versus 2.1% without, and 0% in the metformin add-on trial.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bydureon-bcise-label"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "EXSCEL found no significant difference in pancreatitis, pancreatic cancer or thyroid cancer between exenatide and placebo over about 3 years.",
+      "items": [
+        {
+          "text": "In EXSCEL (14,752 adults, median 3.2 years), acute pancreatitis, pancreatic cancer, medullary thyroid carcinoma and serious adverse events did not differ significantly between weekly exenatide and placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "exscel-2017"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "WebMD reviewers describe itching and swollen injection sites, allergic symptoms and severe sickness. A forum member describes repeated nausea on restarting.",
+      "items": [
+        {
+          "text": "WebMD reviewers of Byetta report injection sites that became swollen and itchy, whole-body itching, constipation despite fiber supplements, and one says it made them violently ill.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-exenatide-byetta?conditionid=&sortval=1&page=3",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A Diabetes.co.uk forum member reports being violently sick with every injection on a first 3-month trial, and severe nausea without vomiting on a second try. This is from a 2008 forum thread.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.diabetes.co.uk/forum/threads/returning-to-byetta.2817/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

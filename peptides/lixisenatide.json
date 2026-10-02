@@ -109,5 +109,267 @@
       "finding": "Motor scores worsened about 3 points less than placebo (difference 3.08, 95% CI 0.86 to 5.30), a small effect in a phase 2 trial."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "The only current US product is Soliqua 100/33, an insulin glargine and lixisenatide combination. It starts at 15 or 30 units once daily (5 or 10 mcg lixisenatide) and tops out at 60 units daily (20 mcg lixisenatide). In a Parkinson's trial the target was 20 mcg daily, and about a third of people had to stay at 10 mcg.",
+      "items": [
+        {
+          "text": "Label: Soliqua 100/33 (insulin glargine and lixisenatide) is started at 15 units (15 units insulin glargine and 5 mcg lixisenatide) subcutaneously once daily within the hour before the first meal, in patients naive to basal insulin or GLP-1 receptor agonists or on less than 30 units of basal insulin.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "Label: Soliqua 100/33 is started at 30 units (30 units insulin glargine and 10 mcg lixisenatide) once daily in patients already on 30 to 60 units of basal insulin; the maximum is 60 units daily (60 units insulin glargine and 20 mcg lixisenatide).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "The label states the dose is adjusted by 2 to 4 units weekly based on glucose monitoring results.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "In the phase 2 LixiPark trial in 156 people with early Parkinson's disease, participants took daily lixisenatide by subcutaneous injection or placebo for 12 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "lixipark-2024"
+        },
+        {
+          "text": "Alzforum says the LixiPark trial used a target dose of 20 mcg daily, and that one third of participants had to limit their dose to 10 mcg because of side effects, mainly nausea, plus vomiting and acid reflux.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.alzforum.org/therapeutics/lixisenatide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Soliqua is injected once daily within the hour before the first meal of the day. Online reviewers describe stomach symptoms starting a couple of hours after the injection.",
+      "items": [
+        {
+          "text": "The Soliqua label states it is injected subcutaneously once daily within 1 hour before the first meal of the day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "A WebMD reviewer of Soliqua describes stomach symptoms starting about 2 hours after the injection and lasting 6 to 7 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label ties the daily dose to the first meal of the day, not to fasting. The drug slows stomach emptying and raises insulin only when blood sugar is high.",
+      "items": [
+        {
+          "text": "The Soliqua label states the dose is given within the hour before the first meal of the day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "The Soliqua label states lixisenatide increases glucose-dependent insulin release, decreases glucagon secretion and slows gastric emptying.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily. If a dose is missed, the label says to resume with the next scheduled dose, not to double up. Online reviewers report stopping after intolerance or switching back to another insulin.",
+      "items": [
+        {
+          "text": "The Soliqua label states a patient who misses a dose resumes the once-daily regimen with the next scheduled dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "The Soliqua label states the dose is injected once daily and adjusted by 2 to 4 units weekly based on glucose results.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "WebMD reviewers of Soliqua report using it from 3 days to more than 5 years. One stopped after 3 days at 30 units and restarted at 15 units, and another went back to a Tresiba insulin pen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Meant as long-term daily treatment. The heart trial ran a median of 25 months and the Parkinson's trial 12 months plus a 2-month washout. No trial data on cycling were found.",
+      "items": [
+        {
+          "text": "The ELIXA trial gave lixisenatide or placebo for a median of 25 months in 6,068 people with type 2 diabetes and a recent acute coronary event.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "elixa-2015"
+        },
+        {
+          "text": "The LixiPark phase 2 trial gave lixisenatide or placebo daily for 12 months followed by a 2-month washout in 156 people with early Parkinson's disease.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "lixipark-2024"
+        },
+        {
+          "text": "WebMD reviewers of Soliqua describe using it for about 3 months before seeing improved blood sugar, and others stayed on it for more than 5 years.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Unused pens go in the refrigerator and are never frozen. After first use they stay at up to 25 C for 28 days. Inject into the abdomen, thigh or upper arm, and do not mix with other insulin.",
+      "items": [
+        {
+          "text": "The Soliqua label states unused pens are refrigerated at 2 to 8 C, not frozen, and protected from light, and after first use are kept at up to 25 C and discarded 28 days after first use, with the needle removed after each injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "The Soliqua label states to inject subcutaneously into the abdominal area, thigh or upper arm, rotating injection sites within the same region, and not to dilute or mix it with any other insulin or solution.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "A WebMD reviewer of Soliqua says that injecting at some spots in the abdomen led to a low blood sugar episode within minutes, and others say their pens broke in the middle of use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A GLP-1 receptor agonist: it raises insulin when blood sugar is high, lowers glucagon and slows stomach emptying. Wikipedia reports protective effects in Parkinson's mouse models, which has not been shown to be the mechanism in people.",
+      "items": [
+        {
+          "text": "The Soliqua label states lixisenatide is a GLP-1 receptor agonist that increases glucose-dependent insulin release, decreases glucagon secretion and slows gastric emptying.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "Wikipedia says lixisenatide showed protective effects in animal models of Parkinson's disease, which led to interest in it as a candidate treatment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Lixisenatide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "For diabetes, the label supports better blood sugar control. In the large ELIXA trial it did not raise or lower heart events, and in a phase 2 Parkinson's trial motor scores worsened about 3 points less than on placebo.",
+      "items": [
+        {
+          "text": "The Soliqua label lists it as an adjunct to diet and exercise for glycemic control in adults with type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "ELIXA: major cardiovascular events occurred in 13.4% versus 13.2% with placebo (hazard ratio 1.02) in 6,068 patients, showing noninferiority but not superiority.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "elixa-2015"
+        },
+        {
+          "text": "LixiPark: motor scores worsened about 3 points less than placebo at 12 months (difference 3.08, 95% CI 0.86 to 5.30) in 156 people with early Parkinson's disease.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "lixipark-2024"
+        },
+        {
+          "text": "WebMD reviews of Soliqua average 3.8 out of 5 across 6 reviews, with 83% reporting a positive effect but mixed tolerability.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Hypoglycemia, nausea, nasopharyngitis, diarrhea, upper respiratory infection and headache affect 5% or more of patients. Online reviewers describe gas, belching, heartburn and reflux.",
+      "items": [
+        {
+          "text": "The Soliqua label lists hypoglycemia, nausea, nasopharyngitis, diarrhea, upper respiratory tract infection and headache as reactions in 5% or more of patients, and warns severe hypoglycemia can cause seizures and can be life-threatening.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        },
+        {
+          "text": "WebMD reviewers of Soliqua describe gas, belching, heartburn and reflux lasting hours after injection, hypoglycemia at some injection sites, and good glucose control for some users after months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-172986-soliqua-100-33-subcutaneous",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "No increase in heart events in ELIXA. In the Parkinson's trial, a third of people needed a lower dose because of nausea, vomiting and reflux.",
+      "items": [
+        {
+          "text": "In the ELIXA cardiovascular outcomes trial of 6,068 patients with a recent acute coronary event, lixisenatide was noninferior but not superior to placebo for major cardiovascular events (hazard ratio 1.02), with no higher rate of serious adverse events reported.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "elixa-2015"
+        },
+        {
+          "text": "The LixiPark authors conclude lixisenatide was associated with gastrointestinal side effects in people with early Parkinson's disease.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "lixipark-2024"
+        },
+        {
+          "text": "Alzforum says one third of LixiPark participants had to limit their dose to 10 mcg because of side effects, mainly nausea, plus vomiting and acid reflux.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.alzforum.org/therapeutics/lixisenatide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns severe low blood sugar can cause seizures and be life-threatening, and that acute pancreatitis has been seen with GLP-1 drugs.",
+      "items": [
+        {
+          "text": "The Soliqua label warns severe hypoglycemia can cause seizures and can be life-threatening, and warns that acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-soliqua-label"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

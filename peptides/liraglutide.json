@@ -134,7 +134,292 @@
       "year": 2019,
       "summary": "Ellipse: double-blind trial of liraglutide up to 1.8 mg daily versus placebo in 134 children and adolescents (mean age 14.6) with type 2 diabetes, 52 weeks (Tamborlane et al., N Engl J Med).",
       "finding": "At 26 weeks HbA1c fell 0.64 points with liraglutide and rose 0.42 with placebo (difference -1.06). Gastrointestinal adverse events were more frequent with liraglutide. Small trial funded by Novo Nordisk."
+    },
+    {
+      "id": "scale-3-year-2017",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28237263",
+      "year": 2017,
+      "summary": "3-year assessment of SCALE Obesity and Prediabetes: double-blind trial of liraglutide 3.0 mg daily versus placebo in 2,254 adults with prediabetes and obesity or overweight, with diet and activity advice (le Roux et al., Lancet). About half of participants completed 160 weeks.",
+      "finding": "Diabetes was diagnosed on treatment in 2% with liraglutide versus 6% with placebo (hazard ratio 0.21). Weight change at week 160 was -6.1% versus -1.9%. Participants who withdrew were not followed up after stopping. Funded by Novo Nordisk."
+    },
+    {
+      "id": "oneil-2017-neuropsych",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "28386912",
+      "year": 2017,
+      "summary": "Pooled post hoc safety analysis of one phase 2 and four phase 3a randomized placebo-controlled trials of liraglutide 3.0 mg in 5,325 people (3,384 liraglutide, 1,941 placebo), including a 12-week off-treatment follow-up in the SCALE trials (O'Neil et al., Diabetes Obes Metab).",
+      "finding": "No neuropsychiatric safety signals were seen at the end of the 12-week off-treatment period to suggest withdrawal or rebound effects (not measured in the SCALE Sleep Apnoea trial)."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Victoza starts at 0.6 mg once daily and goes up to 1.2 mg, with a labeled maximum of 1.8 mg. Saxenda steps up weekly from 0.6 mg to 3 mg daily. Nothing was found online that differs from these doses.",
+      "items": [
+        {
+          "text": "Victoza (adults): labeled starting dose 0.6 mg subcutaneously once daily for one week (a titration dose not effective for glycemic control), then 1.2 mg daily, with a labeled maximum of 1.8 mg daily after at least one week at 1.2 mg if more glycemic control is needed.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "Victoza (children): labeled starting dose 0.6 mg subcutaneously once daily, with increases in 0.6 mg steps after at least one week, up to a labeled maximum of 1.8 mg daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "Saxenda: labeled once-daily subcutaneous schedule of 0.6 mg in week 1, 1.2 mg in week 2, 1.8 mg in week 3, 2.4 mg in week 4, then 3 mg daily from week 5; the label states that for adults 3 mg daily is the recommended dose and lower doses are for titration only. The label says to discontinue if an adult has not lost at least 4% of baseline body weight 16 weeks after starting.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        },
+        {
+          "text": "The Saxenda label states that children who do not tolerate the 3 mg daily maintenance dose may have it reduced to 2.4 mg daily, and that dose escalation may be extended to up to 8 weeks if tolerance is a problem.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Once daily at any time of day. Changing the injection time needs no dose adjustment. One WebMD reviewer moved the injection from evening to morning to ease trouble sleeping.",
+      "items": [
+        {
+          "text": "The Victoza label states the pen is injected once daily at any time of day, and that no dose adjustment is needed when the injection timing is changed. The Saxenda label states once-daily injection at any time of day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "A WebMD reviewer of Saxenda says they changed their injection from the evening to the morning to reduce insomnia.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-saxenda-liraglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The labels say it can be injected without regard to meals. Online sources do not add food rules beyond that.",
+      "items": [
+        {
+          "text": "The Victoza label states the pen is injected independently of meals, and the Saxenda label states once-daily injection without regard to meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily. After a missed dose the next scheduled dose is taken without an extra dose, and after more than 3 days off treatment restarts at the starting dose. Cleveland Clinic's patient page says to take a missed dose as soon as you can, which differs from the label.",
+      "items": [
+        {
+          "text": "The Victoza and Saxenda labels state that after a missed dose the once-daily regimen is resumed with the next scheduled dose, without an extra dose or a larger dose to make up for it.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "The labels state that if more than 3 days have elapsed since the last dose, treatment is restarted at the initial dosage to reduce gastrointestinal reactions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "Cleveland Clinic's Saxenda patient page says that if you miss a dose, take it as soon as you can, and if it is almost time for the next dose, take only that dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/drugs/18595-liraglutide-injection-weight-management",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Used as long-term treatment. Trials ran 56 weeks to 3 years, and the Saxenda label says to stop if an adult has lost less than 4% of body weight after 16 weeks. No withdrawal effects were seen in the 12 weeks after stopping, but the 3-year trial did not follow people who left. An online pharmacy says weight regain is common after stopping and that tapering is optional.",
+      "items": [
+        {
+          "text": "The Saxenda label states adults should be evaluated 16 weeks after starting, and treatment stopped if they have not lost at least 4% of baseline body weight.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        },
+        {
+          "text": "The SCALE trial gave liraglutide 3.0 mg daily for 56 weeks, and its 3-year assessment in people with prediabetes kept treatment for up to 160 weeks, with about half of participants completing. People who withdrew were not followed after stopping.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "scale-3-year-2017"
+        },
+        {
+          "text": "In a pooled analysis of the SCALE trials, a 12-week off-treatment follow-up found no signs of withdrawal or rebound effects on mood or suicidal thoughts after stopping liraglutide 3.0 mg.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "oneil-2017-neuropsych"
+        },
+        {
+          "text": "Bolt Pharmacy, a UK online pharmacy, says Saxenda causes no physical dependence or withdrawal on abrupt stopping, that many patients notice more hunger within days, and that weight regain after stopping is common. It says tapering over 2 to 4 weeks is not medically required but some clinicians and patients prefer it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Unused pens go in the refrigerator and are never frozen. After first use a pen lasts 30 days at room temperature or in the refrigerator. Rotate injection sites, use a new needle each time, and never mix with insulin. Cleveland Clinic's patient page agrees with the label.",
+      "items": [
+        {
+          "text": "The Victoza label states a pen is refrigerated (2 to 8 C) before first use and not frozen. After first use it can be kept for 30 days at 15 to 30 C or in the refrigerator, with the cap on, protected from heat and sunlight, with the needle removed and a new needle used each time. The Saxenda label gives the same 30-day in-use rule.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "The Victoza label states the pen is injected subcutaneously in the abdomen, thigh, or upper arm, and that no adjustment is needed when changing the injection site.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "The Victoza label states injection sites within a region should be rotated to reduce the risk of cutaneous amyloidosis, and that when used with insulin the products are given as separate injections and never mixed.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "Cleveland Clinic's Saxenda patient page says to store an unopened pen in the refrigerator at 2 to 8 C, that after first use it can be kept at room temperature (15 to 30 C) or in the refrigerator, and to throw the pen away after 30 days. It says to inject under the skin of the upper leg, stomach area, or upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/drugs/18595-liraglutide-injection-weight-management",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A long-acting version of the gut hormone GLP-1 (glucagon-like peptide-1). It raises insulin when blood sugar is high, lowers glucagon, slows stomach emptying, and reduces appetite through the brain.",
+      "items": [
+        {
+          "text": "The Victoza label describes liraglutide as an acylated GLP-1 receptor agonist with 97% sequence similarity to human GLP-1. It raises insulin release when glucose is high, lowers glucagon in a glucose-dependent way, and delays gastric emptying. Its plasma half-life is about 13 hours.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "The Saxenda label states liraglutide reduces body weight by lowering calorie intake through appetite regulation in the brain, and that it is stable against breakdown by enzymes, with a half-life of 13 hours after injection, allowing once-daily dosing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In Saxenda's main trial, about 8 kg average weight loss over 56 weeks versus 3 kg on placebo. In type 2 diabetes, fewer heart attacks, strokes and cardiovascular deaths over several years.",
+      "items": [
+        {
+          "text": "SCALE Obesity and Prediabetes: mean weight loss was 8.4 kg with liraglutide 3.0 mg versus 2.8 kg with placebo at 56 weeks in 3,731 adults, with 63.2% versus 27.1% losing at least 5% of body weight.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "scale-obesity-2015"
+        },
+        {
+          "text": "LEADER: major cardiovascular events occurred in 13.0% with liraglutide versus 14.9% with placebo (hazard ratio 0.87) in 9,340 adults with type 2 diabetes at high cardiovascular risk.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "leader-2016"
+        },
+        {
+          "text": "LEAD-6: HbA1c, a 3-month blood sugar measure, fell 1.12% with liraglutide 1.8 mg versus 0.79% with exenatide in 464 adults with type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "lead-6-2009"
+        },
+        {
+          "text": "Ellipse: in 134 children and adolescents with type 2 diabetes, HbA1c fell 0.64 points with liraglutide and rose 0.42 with placebo at 26 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ellipse-2019"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea, diarrhea, constipation and vomiting are the most common, and are more frequent at the Saxenda dose.",
+      "items": [
+        {
+          "text": "In the Saxenda label's weight-management trials, nausea occurred in 39.3% vs 13.8% with placebo, diarrhea 20.9% vs 9.9%, constipation 19.4% vs 8.5%, vomiting 15.7% vs 3.9%, injection site reactions 13.9% vs 10.5%, and dyspepsia 9.6% vs 2.7%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        },
+        {
+          "text": "In the Victoza label's type 2 diabetes trials, nausea occurred in 18 to 20% vs 5% with placebo, diarrhea 10 to 12% vs 4%, vomiting 6 to 9% vs 2%, and decreased appetite about 10% vs 1%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Boxed warning for thyroid C-cell tumors in rodents, plus pancreatitis and gallbladder disease.",
+      "items": [
+        {
+          "text": "The Victoza and Saxenda labels carry a boxed warning of thyroid C-cell tumors in rodents (human relevance undetermined) and contraindicate use with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "The labels list warnings for acute pancreatitis and acute gallbladder disease, and the Saxenda label reports increased lipase in 5.3% vs 2.2% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "More likely when combined with a sulfonylurea or insulin; uncommon in children without diabetes.",
+      "items": [
+        {
+          "text": "In the Victoza label's combination trials, low blood sugar needing self-treatment occurred in 7.5% with Victoza plus glimepiride (a sulfonylurea) versus 2.6% with placebo plus glimepiride.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-victoza-label"
+        },
+        {
+          "text": "In the Saxenda label's pediatric trial in patients without type 2 diabetes, clinically significant low blood sugar (below 54 mg/dL) occurred in 1.6% with Saxenda versus 0.8% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-saxenda-label"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "WebMD reviewers of Saxenda describe losses from a few pounds to dozens of pounds alongside frequent nausea and fatigue. These are unverified personal reviews.",
+      "items": [
+        {
+          "text": "WebMD patient reviews of Saxenda describe weight losses from a few pounds to dozens of pounds and reduced food cravings for many users, alongside frequent nausea, digestive problems and fatigue; some find side effects hard to tolerate and a few report little effect.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-saxenda-liraglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

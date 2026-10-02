@@ -118,5 +118,279 @@
       "finding": "BMI changed -16.5% with setmelanotide versus +3.3% with placebo; hunger scores improved more. Serious adverse events occurred in 28% versus 8%; skin hyperpigmentation, nausea, vomiting and headache were common. Funded by Rhythm Pharmaceuticals."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label starts with a 2 week low dose that depends on the condition and age, then increases to a maintenance dose, usually 3 mg once daily. No online source gave different doses.",
+      "items": [
+        {
+          "text": "Acquired hypothalamic obesity: labeled starting dosage 0.5 mg (0.05 mL) subcutaneously once daily for 2 weeks, then increased per the label titration tables.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "Bardet-Biedl syndrome or POMC, PCSK1 or LEPR deficiency: labeled starting dosage 2 mg subcutaneously once daily for 2 weeks (1 mg if not tolerated), with a labeled maintenance dosage of 3 mg once daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "Bardet-Biedl syndrome or POMC, PCSK1 or LEPR deficiency: labeled starting dosage 1 mg subcutaneously once daily for 2 weeks, with a labeled maintenance dosage of 3 mg once daily; children aged 2 to under 6 start at 0.5 mg with weight-based titration.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says to inject once daily at the beginning of the day. WebMD says to use regularly scheduled times.",
+      "items": [
+        {
+          "text": "Label: given once daily at the beginning of the day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "WebMD says the injection is given at regularly scheduled times.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label says it can be given without regard to meals. WebMD says no food or drink interactions are known.",
+      "items": [
+        {
+          "text": "Label: given without regard to meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "WebMD says there are no known interactions between Imcivree and foods or drinks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily. If a dose is missed, the label says to resume with the next scheduled dose. WebMD adds not to double up.",
+      "items": [
+        {
+          "text": "Label: if a dose is missed, the once daily regimen resumes with the next scheduled dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "WebMD says that if a dose is missed, the next dose is used at the regular time the next day, with no double or extra doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "It is meant as ongoing treatment. Trials ran about 1 year, and the label describes a short placebo withdrawal followed by restarting treatment. The Obesity Action Coalition says weight increased when treatment was stopped.",
+      "items": [
+        {
+          "text": "The Bardet-Biedl syndrome trial ran 52 weeks, and 32.3% of participants aged 12 and older reached at least 10% weight reduction.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "bbs-2022"
+        },
+        {
+          "text": "The POMC and LEPR deficiency trials followed participants for about 1 year, and 80% (POMC) and 45% (LEPR) lost at least 10% of body weight. These were very small, uncontrolled trials.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pomc-lepr-2020"
+        },
+        {
+          "text": "In the TRANSCEND trial of acquired hypothalamic obesity, treatment and placebo were compared over 52 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "transcend-2026"
+        },
+        {
+          "text": "Label: in the POMC and LEPR deficiency trials, patients who had lost weight entered an 8-week double-blind withdrawal (4 weeks on treatment, 4 weeks on placebo), then restarted treatment for up to 32 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "The Obesity Action Coalition says weight increased when treatment was stopped in trials and weight loss continued when treatment was restarted.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.obesityaction.org/resources/imcivree-setmelanotide-the-first-fda-approved-therapy-for-specific-rare-genetic-diseases-of-obesity/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Unopened vials are kept in the refrigerator. They can be kept up to 30 days at room temperature, and opened vials are discarded after 30 days. Inject into the abdomen, thigh or arm and rotate sites.",
+      "items": [
+        {
+          "text": "Label: unopened vials are stored refrigerated (2 to 8 C) in the original carton. They may be kept at 2 to 25 C for up to 30 days, with brief excursions up to 30 C. Opened vials are discarded after 30 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "Label: the vial is removed from the refrigerator about 15 minutes before injection, or warmed by rolling it gently between the palms for 60 seconds.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "Label: injected subcutaneously in the abdomen, thigh or arm, rotating to a different site each day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "WebMD says unopened vials are kept in the refrigerator and may be kept at room temperature for up to 30 days, and that Imcivree is thrown away 30 days after it is punctured, opened or first removed from the refrigerator.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "WebMD says the injection goes under the skin of the belly, upper arm or thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It activates the melanocortin 4 receptor (MC4R), a brain pathway that controls hunger and energy use, to reduce food intake and weight.",
+      "items": [
+        {
+          "text": "Label: setmelanotide is an MC4 receptor agonist. It re-establishes activity of the MC4 receptor pathway to reduce food intake and promote weight loss in people with certain genetic or hypothalamic causes of obesity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In the largest trial, people with acquired hypothalamic obesity had BMI change of -16.5% versus +3.3% on placebo at 52 weeks. In rare genetic obesity, small trials showed at least 10% weight loss in many participants. It is not expected to work for common obesity.",
+      "items": [
+        {
+          "text": "BMI changed -16.5% with setmelanotide versus +3.3% with placebo in 120 people with acquired hypothalamic obesity at 52 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "transcend-2026"
+        },
+        {
+          "text": "In the POMC and LEPR deficiency trials, 80% (POMC) and 45% (LEPR) lost at least 10% of body weight at about 1 year, in very small uncontrolled trials.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pomc-lepr-2020"
+        },
+        {
+          "text": "In the Bardet-Biedl syndrome trial, 32.3% of those aged 12 and older reached at least 10% weight reduction at 52 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "bbs-2022"
+        },
+        {
+          "text": "The Obesity Action Coalition describes Imcivree as a daily injection for obesity from POMC, PCSK1 or LEPR deficiency, cites trial results of 8 in 10 participants losing at least 10% of body weight, and says it is not for common obesity or unconfirmed genetic causes. The page predates label expansions to other conditions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.obesityaction.org/resources/imcivree-setmelanotide-the-first-fda-approved-therapy-for-specific-rare-genetic-diseases-of-obesity/",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Skin darkening, injection site reactions, nausea, vomiting and headache are the most common effects in trials.",
+      "items": [
+        {
+          "text": "Skin hyperpigmentation was the most common adverse reaction in the Bardet-Biedl syndrome trial (61% of participants, 23 of 38), with injection site erythema in 48%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "bbs-2022"
+        },
+        {
+          "text": "In the POMC and LEPR deficiency trials, injection site reactions occurred in every participant; nausea occurred in 5 of 10 (POMC) and 4 of 11 (LEPR) participants and vomiting in 3 of 10 (POMC). No serious treatment-related adverse events occurred.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pomc-lepr-2020"
+        },
+        {
+          "text": "In the TRANSCEND trial, skin hyperpigmentation, nausea, vomiting and headache were common.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "transcend-2026"
+        },
+        {
+          "text": "WebMD lists common side effects as skin changes and pain, itching, swelling or redness near the injection site.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns about sexual side effects, depression and suicidal thoughts, allergic reactions, skin and mole changes, and in acquired hypothalamic obesity, adrenal and sodium problems.",
+      "items": [
+        {
+          "text": "Label warnings and precautions: disturbance in sexual arousal, depression and suicidal ideation, hypersensitivity reactions, skin hyperpigmentation and nevi development, and (in acquired hypothalamic obesity) acute adrenal insufficiency and sodium imbalance.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "Label: in acquired hypothalamic obesity, 5% of treated people had serious adrenal problems versus 0% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-imcivree-label"
+        },
+        {
+          "text": "WebMD lists skin darkening, depression with suicidal thoughts, and erections lasting over four hours as serious concerns.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.webmd.com/drugs/imcivree-setmelanotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "In TRANSCEND, serious adverse events occurred in 28% of treated people versus 8% on placebo. The trial was funded by the manufacturer.",
+      "items": [
+        {
+          "text": "Serious adverse events occurred in 28% with setmelanotide versus 8% with placebo in the TRANSCEND trial.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "transcend-2026"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

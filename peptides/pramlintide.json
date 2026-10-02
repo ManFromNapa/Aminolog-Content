@@ -113,7 +113,345 @@
       "year": 2003,
       "summary": "Pooled post hoc analysis of two placebo-controlled trials in insulin-using adults with type 2 diabetes whose starting HbA1c was 7.0 to 8.5% (166 people; Hollander et al., Diabetes Obes Metab).",
       "finding": "At week 26 pramlintide 120 mcg twice daily lowered HbA1c by 0.43% and weight by 2.0 kg more than placebo, without a higher overall rate of severe hypoglycemia. Because this was a post hoc subgroup analysis, it is weaker evidence than the original trials."
+    },
+    {
+      "id": "pmid-17504894",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17504894",
+      "year": 2007,
+      "summary": "16-week randomized, double-blind, placebo-controlled phase 2 trial in 204 obese adults without insulin treatment, with or without type 2 diabetes, using pramlintide up to 240 mcg three times a day before meals (Aronne et al., Journal of Clinical Endocrinology and Metabolism).",
+      "finding": "Completers lost 3.7% (3.6 kg) more body weight than placebo, and 88% reached the top dose. Nausea was the most common side effect, and weight loss was similar in people with and without nausea."
+    },
+    {
+      "id": "pmid-17505051",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17505051",
+      "year": 2007,
+      "summary": "6-week randomized, blinded, placebo-controlled trial in 88 obese adults using pramlintide 180 mcg by injection 15 minutes before meals (Smith et al., American Journal of Physiology Endocrinology and Metabolism).",
+      "finding": "Body weight fell 2.1% with pramlintide versus a 0.1% rise with placebo on day 44, and 24-hour calorie intake and portion sizes were lower."
+    },
+    {
+      "id": "pmid-18753666",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18753666",
+      "year": 2008,
+      "summary": "4-month dose-ranging trial in 411 obese adults with a lifestyle program, followed by an 8-month extension for those who chose to continue (Smith et al., Diabetes Care). Six pramlintide regimens (120, 240 or 360 mcg, twice or three times daily) were compared with placebo.",
+      "finding": "Placebo-corrected loss at month 12 was 5.6% (120 mcg three times daily) and 6.8% (360 mcg twice daily). Initial weight loss was regained in the placebo group but mostly kept with pramlintide. Nausea was the most common side effect and was less frequent during the extension."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The Symlin label gives 60 mcg before major meals for type 2 diabetes (up to 120 mcg) and 15 mcg for type 1 diabetes (up to 60 mcg), with mealtime insulin cut by 50% at the start. Weight-loss trials in people without diabetes used 120 to 360 mcg two or three times a day, which is not a labeled use.",
+      "items": [
+        {
+          "text": "Label: mealtime insulin is reduced by 50% when starting, then Symlin 60 mcg subcutaneously immediately before major meals, increased to 120 mcg before meals if there has been no clinically significant nausea for at least 3 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "Label: mealtime insulin is reduced by 50% when starting, then Symlin 15 mcg subcutaneously immediately before major meals, increased in 15 mcg steps (to 30, 45 or 60 mcg) if no clinically significant nausea for at least 3 days; reduced if nausea persists.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In a 16-week trial in 204 obese adults not using insulin, pramlintide was escalated up to 240 mcg three times a day before meals. 88% reached the top dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17504894"
+        },
+        {
+          "text": "In a 4-month dose-ranging trial in 411 obese adults, six regimens were compared: 120, 240 or 360 mcg, each twice or three times a day.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18753666"
+        },
+        {
+          "text": "Peptide Insight, a peptide information site, says research in obesity used 120 to 360 mcg given two or three times daily before meals, usually with stepwise dose increases.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/pramlintide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic, an online health information site, lists type 2 diabetes dosing as 60 mcg before meals rising to 120 mcg, and type 1 diabetes dosing as 15 mcg rising to 30 to 60 mcg, matching the label.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/drugs/symlin-generic-pramlintide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says to inject right before each major meal, into the abdomen or thigh and not the arm. One obesity trial injected 15 minutes before meals. No time-of-day rule applies beyond meals.",
+      "items": [
+        {
+          "text": "The Symlin label states it is injected subcutaneously immediately before each major meal, into the abdomen or thigh. Arm injection is not recommended because of variable absorption.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In a 6-week trial in 88 obese adults, pramlintide 180 mcg was injected 15 minutes before meals.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17505051"
+        },
+        {
+          "text": "Klarity, a telehealth seller, says the injection goes into the abdomen or thigh right before each main meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label limits use to major meals of at least 250 calories or 30 g of carbohydrate. It says to cut mealtime insulin by 50% at the start because of low blood sugar risk.",
+      "items": [
+        {
+          "text": "The Symlin label states each injection is given only before a major meal of at least 250 kcal or 30 g of carbohydrate. It is not given before smaller meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "The Symlin label states that when starting, mealtime insulin doses are reduced by 50% to lower the risk of low blood sugar.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "Klarity, a telehealth seller, says to inject right before each main meal of at least 250 calories or 30 grams of carbohydrate, which matches the label.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic says pramlintide slows digestion and can raise the risk of dangerously low blood sugar, especially with insulin, and advises fast-acting carbohydrate if it happens.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/drugs/symlin-generic-pramlintide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label says to inject before each major meal and to skip a missed dose, with no make-up dose. Obesity trials used two or three injections a day. One online site says a missed dose can be taken if the next meal is not close, which differs from the label.",
+      "items": [
+        {
+          "text": "The Symlin label states that if a dose is missed, the next scheduled dose is given at the usual amount, with no make-up dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In the 4-month obesity trial, three-times-daily and twice-daily regimens both led to weight loss. The 120 mcg three-times-daily and 360 mcg twice-daily regimens kept more weight off at 12 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18753666"
+        },
+        {
+          "text": "Peptide Insight says pramlintide has been considered underused because it needs three daily injections separate from insulin and complex insulin adjustment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/pramlintide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic says a missed dose can be taken if remembered a reasonable time before the next meal, skipped if the next injection is close, and never doubled. The label says to skip it and wait for the next scheduled dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/drugs/symlin-generic-pramlintide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 16 weeks to 12 months. In the 12-month obesity trial, weight lost early was mostly kept while on pramlintide, and placebo users regained it. Stopping pramlintide was not studied, and no on and off cycling regimen was found.",
+      "items": [
+        {
+          "text": "In a 29-week placebo-controlled trial in 296 adults with type 1 diabetes, pramlintide reduced weight (-1.3 kg versus +1.2 kg with placebo) and nausea was more common (63% versus 36%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-17003291"
+        },
+        {
+          "text": "In pooled trials in insulin-using adults with type 2 diabetes, at week 26 pramlintide 120 mcg twice daily lowered weight by 2.0 kg more than placebo. This was a post hoc subgroup analysis.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-14617226"
+        },
+        {
+          "text": "A 16-week trial in obese adults without insulin found 3.7% placebo-corrected weight loss, and a 6-week trial found 2.1% weight loss on pramlintide.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17504894"
+        },
+        {
+          "text": "In the 12-month obesity trial (8-month extension, 146 evaluable people), early weight loss was regained in the placebo group but maintained with pramlintide in all but the 120 mcg twice daily group.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18753666"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The label says to refrigerate unopened pens, keep them from light and freezing, and discard opened pens after 30 days. Let the pen reach room temperature before injecting, rotate sites, and never mix it with insulin.",
+      "items": [
+        {
+          "text": "The Symlin label states unused pen-injectors are refrigerated (2 to 8 C), protected from light, and not frozen. After first use, a pen may be refrigerated or kept at up to 30 C and is used within 30 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "The Symlin label states the product should be at room temperature before injecting to reduce injection site reactions, sites should be rotated and kept distinct from insulin injection sites, and Symlin is always given as a separate injection and never mixed with insulin.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "Klarity, a telehealth seller, says pramlintide is kept in the refrigerator and brought to room temperature before injecting to avoid injection site reactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "An artificial version of amylin, a hormone made with insulin. It slows stomach emptying, lowers glucagon (a hormone that raises blood sugar) and reduces appetite through the brain.",
+      "items": [
+        {
+          "text": "The Symlin label describes pramlintide as an amylin analog that slows gastric emptying without changing overall nutrient absorption, suppresses glucagon secretion to reduce liver glucose production, and regulates food intake through centrally mediated appetite effects.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In an 88-person trial in obese adults, pramlintide lowered 24-hour calorie intake, portion sizes and binge eating scores.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17505051"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In obese adults without diabetes, pramlintide gave about 3.7% placebo-corrected weight loss over 16 weeks and 5.6 to 6.8% at 12 months with lifestyle support. Weight loss is not a labeled use, and online sites say newer drugs work better.",
+      "items": [
+        {
+          "text": "In a 16-week trial in 204 obese adults, pramlintide produced 3.7% (3.6 kg) more weight loss than placebo, and 31% lost at least 5% versus 2% on placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17504894"
+        },
+        {
+          "text": "In the 12-month obesity trial with lifestyle support, placebo-corrected weight loss was 5.6% (120 mcg three times daily) and 6.8% (360 mcg twice daily) at month 12.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18753666"
+        },
+        {
+          "text": "In a 29-week trial in 296 adults with type 1 diabetes, pramlintide reduced after-meal glucose spikes and weight, while average A1C fell 0.5% in both groups.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-17003291"
+        },
+        {
+          "text": "Peptide Insight says pramlintide produced modest weight loss in trials including people without diabetes, and that newer drugs achieve substantially greater results.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/pramlintide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Klarity, a telehealth seller, says people on pramlintide lost 2.1% of body weight in a 6-week trial and advertises appointments within about 24 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea is the most common side effect (48% in type 1 and 28% in type 2 diabetes trials, versus 17% and 12% on placebo), plus loss of appetite, vomiting and headache. It is more frequent at the start.",
+      "items": [
+        {
+          "text": "In the Symlin label's pooled trials in type 1 diabetes on insulin, nausea occurred in 48% vs 17% with placebo, anorexia 17% vs 2%, and vomiting 11% vs 7%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In the pooled trials in type 2 diabetes on insulin, nausea occurred in 28% vs 12% with placebo, headache 13% vs 7%, anorexia 9% vs 2%, and vomiting 8% vs 4%. The label states nausea is more frequent at the start of treatment.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In the 16-week obesity trial, the most common side effect was mild, transient nausea, and people without nausea lost a similar amount of weight.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17504894"
+        },
+        {
+          "text": "Peptide Insight says nausea occurs in about 30 to 50% of patients during initiation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/pramlintide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label has a boxed warning for severe low blood sugar when used with insulin, which shows up within 3 hours after an injection.",
+      "items": [
+        {
+          "text": "The Symlin label carries a boxed warning of severe hypoglycemia: use with insulin increases the risk, particularly in type 1 diabetes, and when it occurs it is seen within 3 hours after an injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-symlin-label"
+        },
+        {
+          "text": "In the 29-week type 1 diabetes trial, severe hypoglycemia was more frequent with pramlintide than with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-17003291"
+        },
+        {
+          "text": "Peptide Insight notes the boxed warning for insulin-induced severe hypoglycemia, particularly in type 1 diabetes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/pramlintide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

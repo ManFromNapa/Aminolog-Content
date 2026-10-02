@@ -107,5 +107,289 @@
       "finding": "HbA1c rose 0.6 points with placebo and fell 0.6 (0.75 mg) and 0.9 (1.5 mg) with dulaglutide; there was no BMI effect, and gastrointestinal events were more common with dulaglutide. Funded by Eli Lilly."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Labeled for adults at 0.75 mg once a week, raised in steps to a maximum of 4.5 mg. Children 10 and older start at 0.75 mg and can go up to 1.5 mg. No dose change is advised for kidney disease.",
+      "items": [
+        {
+          "text": "Adults: labeled starting dosage 0.75 mg subcutaneously once weekly; after 4 weeks it may be increased to 1.5 mg weekly, then in 1.5 mg steps after at least 4 weeks on the current dose, up to a labeled maximum of 4.5 mg once weekly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "Children: labeled starting dosage 0.75 mg subcutaneously once weekly, which may be increased after at least 4 weeks to the labeled maximum of 1.5 mg once weekly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states no dose adjustment is recommended in patients with renal impairment, including end-stage renal disease.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says it can be given at any time of day. Online sources repeat this and suggest picking one weekday.",
+      "items": [
+        {
+          "text": "The Trulicity label states the drug is administered once weekly at any time of day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "WeightWatchers, a weight-loss program that also sells prescriptions, says the manufacturer allows a dose at any time of the day, and recommends putting injection days on a calendar as a reminder.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label says it can be taken with or without food. It slows stomach emptying, and the effect is smaller after dose steps. Some patient reviewers say avoiding fried and fatty foods eased side effects.",
+      "items": [
+        {
+          "text": "The Trulicity label states the drug is administered with or without food.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states dulaglutide delays gastric emptying. The delay is dose-dependent but attenuated with adequate dose escalation to higher doses.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "WebMD patient reviews of Trulicity say several users learned to avoid fried and fatty foods to limit side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-trulicity-dulaglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once a week. A missed dose is taken if at least 3 days remain before the next one and skipped if not. The injection day can be changed if the last dose was at least 3 days earlier.",
+      "items": [
+        {
+          "text": "The Trulicity label states the drug is administered once weekly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states a missed dose is given as soon as possible if at least 3 days (72 hours) remain until the next scheduled dose, and is skipped if less than 3 days remain, after which the regular weekly schedule resumes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states the day of weekly administration can be changed if necessary, as long as the last dose was given 3 or more days before the new day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "WeightWatchers, a weight-loss program that also sells prescriptions, says Trulicity is injected once a week on the same day. It says its article does not cover missed doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "It is used long term, with no planned cycles. Trials ran 26 weeks and, in the heart trial, a median of 5.4 years. No study of what happens after stopping was found. Some long-term patient reviewers report better results after the first adjustment period.",
+      "items": [
+        {
+          "text": "REWIND followed 9,901 adults with type 2 diabetes on dulaglutide 1.5 mg weekly or placebo for a median of 5.4 years.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "rewind-2019"
+        },
+        {
+          "text": "AWARD-6 ran 26 weeks in 599 adults and AWARD-PEDS ran 26 weeks in 154 youths.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "award-6-2014"
+        },
+        {
+          "text": "The Trulicity label reports that during 24 to 104 weeks of treatment, 64 of 3,907 treated patients (1.6%) developed anti-dulaglutide antibodies.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "WebMD patient reviews of Trulicity say long-term users of 1 to 2 or more years generally report better outcomes, which may reflect an adjustment period, and that early stopping was common among those with severe early side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-trulicity-dulaglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Keep pens in the refrigerator, with up to 14 days at room temperature. Never freeze, and keep away from light. Rotate injection sites, and inject insulin separately.",
+      "items": [
+        {
+          "text": "The Trulicity label states the pen is stored in a refrigerator (2 to 8 C), may be kept at room temperature not above 30 C for a total of 14 days, is not frozen or used if frozen, and is protected from light, preferably in the original carton.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states the drug is injected subcutaneously in the abdomen, thigh, or upper arm, and that injection sites are rotated with each dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states that when used with insulin, the products are injected separately and never mixed, and may be given in the same body region but not adjacent to each other.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "WeightWatchers, a weight-loss program that also sells prescriptions, says many people let the pen come to room temperature before injecting because it may feel more comfortable. It also says to inject at least two inches from the belly button or in the upper arm or thigh, and to pick a different spot each time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A WebMD patient reviewer says they tried the injector cold from the refrigerator and after letting it warm up, and still had trouble with delivery.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-trulicity-dulaglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A long-acting version of the gut hormone GLP-1. It raises insulin when blood sugar is high and slows stomach emptying.",
+      "items": [
+        {
+          "text": "The Trulicity label states dulaglutide activates the GLP-1 receptor, a cell-surface receptor coupled to adenylyl cyclase in pancreatic beta cells.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        },
+        {
+          "text": "The Trulicity label states dulaglutide delays gastric emptying in a dose-dependent way.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In REWIND, 12.0% of people on dulaglutide had a heart attack, stroke or cardiovascular death versus 13.4% on placebo over 5.4 years. In AWARD-6 it lowered HbA1c (a blood sugar measure) by 1.42 points. Patient reviewers mention blood sugar gains and some weight loss, which is not a labeled use.",
+      "items": [
+        {
+          "text": "REWIND: the composite of cardiovascular death, heart attack or stroke occurred in 12.0% with dulaglutide versus 13.4% with placebo (hazard ratio 0.88) in 9,901 adults with type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "rewind-2019"
+        },
+        {
+          "text": "AWARD-6: HbA1c fell 1.42% with weekly dulaglutide and 1.36% with daily liraglutide over 26 weeks in 599 adults, showing non-inferiority.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "award-6-2014"
+        },
+        {
+          "text": "AWARD-PEDS: HbA1c fell 0.6 (0.75 mg) and 0.9 (1.5 mg) points with dulaglutide while rising 0.6 with placebo in 154 youths, with no BMI effect.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "award-peds-2022"
+        },
+        {
+          "text": "WebMD patient reviews of Trulicity average 3.3 of 5 from 271 reviews. Reviewers often cite better blood sugar and A1C, and some report weight loss.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-trulicity-dulaglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea (12% to 21%), vomiting, diarrhea, stomach pain and lower appetite. Gastrointestinal effects occurred in 32% to 41% versus 21% on placebo.",
+      "items": [
+        {
+          "text": "In the Trulicity label's placebo-controlled trials, nausea occurred in 12.4% (lower dose) and 21.1% (higher dose) vs 5.3% with placebo, vomiting 6.0 and 12.7% vs 2.3%, diarrhea 8.9 and 12.6% vs 6.7%, abdominal pain 6.5 and 9.4% vs 4.9%, and decreased appetite 4.9 and 8.6% vs 1.6%.",
+          "label": "research",
+          "citation_id": "fda-trulicity-label",
+          "validity": "strong"
+        },
+        {
+          "text": "The Trulicity label reports gastrointestinal adverse reactions in 32% and 41% of participants on the two doses vs 21% with placebo, with higher rates of discontinuation due to these reactions.",
+          "label": "research",
+          "citation_id": "fda-trulicity-label",
+          "validity": "strong"
+        },
+        {
+          "text": "REWIND reported gastrointestinal adverse events in 47.4% on dulaglutide versus 34.1% on placebo over 5.4 years.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "rewind-2019"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Boxed warning for thyroid C-cell tumors seen in rats, with unknown human relevance. The label also warns of pancreatitis and gallbladder disease.",
+      "items": [
+        {
+          "text": "The Trulicity label carries a boxed warning of thyroid C-cell tumors in rats, with unknown human relevance, and lists warnings for acute pancreatitis and acute gallbladder disease.",
+          "label": "research",
+          "citation_id": "fda-trulicity-label",
+          "validity": "strong"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "Low blood sugar is mainly a risk when combined with a sulfonylurea (20% to 21%) or mealtime insulin (69% to 77%).",
+      "items": [
+        {
+          "text": "The Trulicity label states hypoglycemia (glucose below 54 mg/dL) occurred in 20% and 21% of patients on 0.75 mg and 1.5 mg when co-administered with a sulfonylurea, and in 77% and 69% when co-administered with prandial insulin in a 52-week trial.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-trulicity-label"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "WebMD reviewers report nausea and vomiting (38%), often starting around the second day after the shot, and injection-site pain (11%).",
+      "items": [
+        {
+          "text": "WebMD patient reviews of Trulicity say 38% reported nausea or vomiting, often on the second day after injection and sometimes lasting weeks, and 11% reported injection-site pain.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://reviews.webmd.com/drugs/drugreview-trulicity-dulaglutide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
