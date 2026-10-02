@@ -100,7 +100,7 @@ def main():
             if u not in cs and u.lower() not in ci and u not in ignore:
                 add("unit", u, name)
         for w in WORD.findall(text):
-            if w in ci or w in ignore_l or w in own_names or w.capitalize() in own_names:
+            if w in ci or w in cs or w in ignore_l or w in own_names or w.capitalize() in own_names:
                 continue
             parts = [p for p in w.split("-") if len(p) >= 3]
             if MEDICAL_END.search(w):

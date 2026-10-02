@@ -9,6 +9,9 @@ For research and educational purposes only. Not medical advice.
 - `validate.py`: schema and cross-reference check. Run before every commit (`pip install jsonschema`)
 - `check_sources.py`: verifies every PMID, trial number, label date and link against the live sources. Run before publishing and in the monthly review
 - `audit_report.py`: prints a readable Markdown report of everything (status, doses, every citation as a link, every claim) for auditing
+- `glossary.json`: terms, abbreviations and units used in the content, each with a short definition, a category, aliases for matching and, for medical terms, a MedlinePlus or NCI source. Validated by `schema/glossary.schema.json`
+- `glossary_gaps.py`: lists terms in the content that are not in the glossary. Run it after content changes and add what it finds, or add names that are not terms (trial names, sites, companies) to `glossary_ignore.json`
+- `check_glossary_sources.py`: verifies every glossary source link (NCI links through the NCI glossary API, because NCI pages answer 200 for any address)
 
 ## Update workflow
 1. Edit or add JSON. Every claim needs a citation whose identifier (PMID, NCT number, or FDA label URL) was checked against the primary source.
