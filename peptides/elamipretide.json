@@ -130,5 +130,371 @@
       "finding": "The letter lists SS-31 (Elamipretide), among other peptides, as unapproved new drugs sold with research-use-only labels despite evidence of intended human use."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "The FDA label (Forzinity, approved for Barth syndrome) gives 40 mg under the skin once daily, and 20 mg for adults with severe kidney impairment not on dialysis. Online sources describe much lower doses, from 0.5 to 20 mg a day, for uses that have not been studied in healthy adults.",
+      "items": [
+        {
+          "text": "Label: 40 mg subcutaneously once daily, at the same time each day, in patients weighing at least 30 kg.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "Label: 20 mg subcutaneously once daily for adults with eGFR below 30 mL/min who are not on dialysis; the label says there is insufficient information to recommend a dose for adults on dialysis.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The 24-week phase 3 trial in 218 adults with primary mitochondrial myopathy used 40 mg daily and missed both main endpoints.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-37268435"
+        },
+        {
+          "text": "A 4-week crossover trial in 30 adults with primary mitochondrial myopathy used 40 mg daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32096613"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says community reports range from 0.1 to 20 mg daily, with 1 to 5 mg the most common cluster, and that no published human randomized trial supports anti-aging or athletic use in healthy adults.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, a site that sells SS-31 through affiliate links, describes 500 mcg daily under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site with a supplier directory, lists 40 mg subcutaneously once daily as the phase 3 dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says to give the dose at the same time each day and names no preferred time of day. One online seller site says morning, sometimes before a workout, which has not been studied.",
+      "items": [
+        {
+          "text": "The label states the dose should be given at the same time each day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The Peptide Catalog, a site that sells SS-31 through affiliate links, says morning is the usual time in most community sources and that some people dose 30 to 60 minutes before a workout.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site with a supplier directory, says to use a consistent time each day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label's dosing section names no food or meal rule. Peptide Protocol Wiki also says no specific meal timing is required.",
+      "items": [
+        {
+          "text": "The label's dosage and administration section names no food or meal restriction for Forzinity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site with a supplier directory, says no specific meal timing is required.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label says once daily at the same time, skip a missed dose and never double up. One seller site describes 5 days on and 2 days off, which differs from the once-daily label.",
+      "items": [
+        {
+          "text": "Label: one injection once daily, at the same time each day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "If a dose is missed, the label says to skip it and take the next dose at the scheduled time, and not to take a double dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "In the label's trial, 40 mg was injected once daily for 12 weeks in 12 patients.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The Peptide Catalog, a site that sells SS-31 through affiliate links, describes 5 days on and 2 days off to prevent desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says Forzinity is once daily per the label.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The label describes continuous daily use and names no breaks. The randomized trial lasted 12 weeks, and a small uncontrolled extension followed 8 patients to week 168. Online cycles of 4 to 8 weeks on then weeks off are untested and differ from the label. No withdrawal data were found.",
+      "items": [
+        {
+          "text": "The label's randomized crossover trial gave 40 mg daily for 12 weeks in 12 patients, followed by an open-label extension; 8 of 10 patients continued through week 168. The label gives no stop or cycle schedule.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The Barth syndrome extension followed 8 patients to week 168 on 40 mg daily with no controls.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-38602181"
+        },
+        {
+          "text": "MMPOWER-3 treated adults with primary mitochondrial myopathy for 24 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-37268435"
+        },
+        {
+          "text": "Peptidepedia says cycling necessity is not scientifically established, and that some users follow 8 weeks on and 4 weeks off as a precaution not supported by clinical evidence.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/ss-31/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site with a supplier directory, says trials ran 4 to 12 weeks and some research protocols use 4 weeks on and 2 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, a site that sells SS-31 through affiliate links, describes 8 weeks on and 8 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The label says to keep unopened vials in the fridge, discard 8 days after first opening, and inject into the belly or outer thigh with daily site rotation. Online sources describe powder from research sellers, frozen storage and use for 28 days, which differs from the label.",
+      "items": [
+        {
+          "text": "Unopened vials are stored refrigerated at 2 to 8 C (36 to 46 F) and not frozen. After first opening, vials may be kept refrigerated or at room temperature (20 to 25 C) and are discarded 8 days after first opening.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The Forzinity label states a refrigerated vial should sit at room temperature for at least 10 minutes before use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The Forzinity label directs subcutaneous injection into the abdomen (at least 2 inches from the navel) or outer thigh, with the injection site rotated daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The label says not to inject where skin is tender, bruised, red or hard, to avoid scars and stretch marks, and not to use a cloudy vial or one with particles.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "Peptidepedia says lyophilized powder is stored at -20 C long term, mixed with bacteriostatic water by swirling gently, and that the mixed solution is kept at 2 to 8 C and used within 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/ss-31/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site with a supplier directory, lists the abdomen, thigh and upper arm as injection sites and says powder is stored at -20 C and reconstituted solution at 2 to 8 C.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, a site that sells SS-31 through affiliate links, says to keep the mixed vial at 2 to 8 C for up to 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "The label says elamipretide binds cardiolipin, a fat found in the inner membrane of mitochondria (the cell's energy units), and improves their shape and function. How this leads to better muscle strength in people is not established.",
+      "items": [
+        {
+          "text": "Label section 12.1: Forzinity is a mitochondrial cardiolipin binder that localizes to the inner mitochondrial membrane and improves mitochondrial morphology and function.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "Forge Biology, an educational site, says SS-31 improves ATP production and reduces oxidative stress, and may support endurance, heart health and longevity. It mentions human trials without citations, and most of the evidence it discusses appears to be animal work.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.forgebiology.com/2025/11/22/ss-31-the-mitochondrial-peptide-that-could-change-longevity-and-performanc/",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "The 12-patient Barth syndrome trial was not better than placebo on its main endpoints (6-minute walk and fatigue). Knee strength rose only in the uncontrolled extension. The large mitochondrial myopathy trial also missed its main endpoints.",
+      "items": [
+        {
+          "text": "Label: in a randomized trial of 12 patients with Barth syndrome, elamipretide was not superior to placebo on 6-minute walk or fatigue. Median knee strength change was 4 newtons versus -5 on placebo at week 12 (baseline 124 N), and 63 newtons at week 168 in the 8 extension patients.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "In 218 adults with primary mitochondrial myopathy, 24 weeks of 40 mg daily did not meet either main endpoint (6-minute walk difference -3.2 m, p=0.69).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-37268435"
+        },
+        {
+          "text": "Six-minute walk and fatigue scores improved versus extension baseline in 8 Barth syndrome patients at week 168, with no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-38602181"
+        },
+        {
+          "text": "In a 30-adult crossover trial, the 6-minute walk improved 19.8 m but not significantly (p=0.083), and fatigue scores favored elamipretide.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32096613"
+        },
+        {
+          "text": "Empire Medical Training, a CME course provider, describes SS-31 as the first mitochondrial-targeted peptide with FDA approval, but only for Barth syndrome, calls longevity uses off-label and investigational, and says the human trial record is mixed, with a heart failure study negative on its primary endpoint.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.empiremedicaltraining.com/antiaging-regenerative-workshops/resources/peptide-therapy/ss-31/",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Injection site reactions were the main side effect in the label's trials, and also in the extension and the mitochondrial myopathy trials.",
+      "items": [
+        {
+          "text": "Injection site reactions were the main adverse reactions in the label's trial data (12 patients, versus placebo): erythema 100% (placebo 25%), pain 75% (42%), induration 67% (17%), pruritus 67% (17%), bruising 25% (0%) and urticaria 25% (0%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "In the 4-week crossover trial in 30 adults with mitochondrial myopathy, injection site reactions occurred in 80%.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32096613"
+        },
+        {
+          "text": "In the Barth syndrome extension, injection site reactions were the main adverse event.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-38602181"
+        },
+        {
+          "text": "In the 218-adult phase 3 trial the drug was generally well tolerated.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-37268435"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label warns of allergic reactions and of a preservative, benzyl alcohol, that is dangerous to newborns.",
+      "items": [
+        {
+          "text": "The label warns of hypersensitivity reactions (rash, dermatitis, respiratory symptoms) and says to discontinue if severe reactions occur.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        },
+        {
+          "text": "The label warns of benzyl alcohol toxicity in neonates (metabolic acidosis, gasping syndrome); the product is not approved for neonates.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-forzinity-label"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA has warned a seller that research-labeled SS-31 is an unapproved drug when marketed for human use.",
+      "items": [
+        {
+          "text": "An FDA warning letter dated 24 August 2026 to Royal Peptides LLC lists SS-31 (Elamipretide), among other peptides, as unapproved new drugs sold with research-use-only labels despite evidence of intended human use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-warning-royal-peptides-2026"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

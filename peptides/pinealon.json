@@ -100,5 +100,252 @@
       "finding": "The authors report anabolic effects and slowed biological-age indicators, but also pro-oxidant activity and a fall in CD34-positive stem cell counts. Small uncontrolled study from the originating research network."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose has been established. The only human report found gave no usable dose. Online sources describe 100 mcg to a few milligrams by injection, or 10 to 20 mg as a capsule.",
+      "items": [
+        {
+          "text": "The one small human report (32 older adults in Russia) gives no dose in its abstract, so no studied human dose could be confirmed.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26390612"
+        },
+        {
+          "text": "PeptidesExplorer says reported amounts range from 100 mcg to a few milligrams per administration in animal and exploratory work.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/pinealon-peptide-benefits",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide reference site that lists suppliers says commonly reported amounts are 200 to 500 mcg subcutaneously, or 10 to 20 mg as an oral capsule, and notes these are not established for humans.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Catalog, a site that earns affiliate commissions and sells peptide supplies, says community practice is 5 to 10 mg subcutaneously per day, and offers no clinical evidence for it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested time of day. Online sellers say morning or evening.",
+      "items": [
+        {
+          "text": "The Peptide Catalog, an affiliate seller, lists morning dosing in its quick reference table and says no trials back it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A seller of a pinealon-containing blend (PeRx) describes evening use in its blend.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No study has tested how often to dose. Online sources describe once daily, some with weekends off.",
+      "items": [
+        {
+          "text": "PeptidesExplorer says once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/pinealon-peptide-benefits",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide reference site that lists suppliers says injections are given 5 days per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Catalog says once daily, with 1 to 3 courses per year as community convention.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human trial has tested course length or what happens after stopping. Online sources describe courses of 10 to 30 days separated by long breaks.",
+      "items": [
+        {
+          "text": "PeptidesExplorer says courses run 10 to 20 consecutive days, spaced months apart, which mirrors the cycling idea used for other Khavinson bioregulators.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/pinealon-peptide-benefits",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide reference site that lists suppliers says 30-day courses are commonly reported, and that these are not established for humans.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Catalog says 10 to 20 day courses, with 1 to 3 courses per year.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official storage rules exist. Sellers say to keep the mixed solution in the fridge and use it within a few weeks.",
+      "items": [
+        {
+          "text": "PeptidesExplorer says pinealon ships as a freeze-dried powder that is mixed with bacteriostatic water before injection under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/pinealon-peptide-benefits",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A seller of a pinealon-containing blend (PeRx) says its reconstituted blend is kept refrigerated at 2 to 8 C, not frozen, and stays stable for several weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Catalog says to refrigerate at 2 to 8 C and use within 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The same seller (PeRx) says pinealon has been given as oral capsules in historical Russian studies, as a subcutaneous injection in its own blend and as a nasal spray by some vendors, and that no published human study compares these routes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Not known in people. Cell studies suggest it reduces oxidative stress, and its developers propose it acts on DNA, which has not been independently confirmed.",
+      "items": [
+        {
+          "text": "In cultured rat brain cells, pinealon limited build-up of reactive oxygen species and cell death in a dose-dependent way and changed cell-cycle activity. The authors conclude it may also interact with the cell's genome. Cell data from the originating research network.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-21978084"
+        },
+        {
+          "text": "PeptidesExplorer says the peptide enters neurons and the cell nucleus and interacts with DNA near gene switches, and notes this lacks independent confirmation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/pinealon-peptide-benefits",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No good human evidence of benefit exists. Rat studies show better learning and less oxidative stress.",
+      "items": [
+        {
+          "text": "In rats, offspring of pregnant mothers with diet-induced high homocysteine and given pinealon had better spatial learning and less oxidative stress in brain neurons. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-22567179"
+        },
+        {
+          "text": "A small Russian-language report in 32 older adults with chronic illness described anabolic effects and slower biological-age markers, with no placebo group described. This is not independent evidence of benefit.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26390612"
+        },
+        {
+          "text": "A peptide seller (PeRx) promotes pinealon for sleep, memory, neuroprotection and anti-aging, while its own article states that no indexed study has measured sleep or melatonin in people given pinealon and that the evidence is mainly cell and rodent work from a single institute.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In people",
+      "summary": "The only human report found signs of pro-oxidant activity and fewer blood stem cells, although the authors called it safe at the DNA level.",
+      "items": [
+        {
+          "text": "A small Russian-language human study of pinealon and a related tripeptide in 32 older adults with chronic illness reported signs of pro-oxidant activity in a chemiluminescence test and a fall in CD34-positive blood stem cell counts, although the authors judged the peptides safe at the level of chromatin condensation.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26390612"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Sellers and guides describe mild injection site redness and say formal safety data are absent.",
+      "items": [
+        {
+          "text": "A seller (PeRx) lists redness at the injection site, vivid dreams early on and an occasional mild headache as reported effects, and says formal safety data are absent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says side effects in the published work are rare and mild, with no serious adverse event clearly attributed to the peptide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/pinealon-peptide-benefits",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate seller, says injection site reactions such as mild redness or irritation are the most commonly mentioned issue, and that no human safety data exist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

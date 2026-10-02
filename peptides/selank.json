@@ -8,7 +8,7 @@
   ],
   "regulatory_status": "unapproved",
   "category": "cognitive_mood",
-  "used_for": "A synthetic heptapeptide derived from tuftsin, developed in Russia and studied there as an anti-anxiety peptide. A 2021 pharmacology review (PubMed abstract) calls it a poorly studied Russian drug sold to US consumers as a dietary supplement. No official Russian register was consulted, so Russian approval is not confirmed here. It is promoted online for anxiety and focus. The human evidence found is a few small Russian comparisons with benzodiazepines, mostly not placebo-controlled as described; most other work is in rodents.",
+  "used_for": "A synthetic heptapeptide derived from tuftsin, developed in Russia and studied there as an anti-anxiety peptide. A 2021 pharmacology review (PubMed abstract) calls it a poorly studied Russian drug sold to US consumers as a dietary supplement. Selank is approved in Russia only: a Russian Ministry of Health instruction (registration LRS-003338/09) for nonprescription nasal drops is published by the maker and copied on a Russian drug database. The official Russian register itself was not checked. It is promoted online for anxiety and focus. The human evidence found is a few small Russian comparisons with benzodiazepines, mostly not placebo-controlled as described; most other work is in rodents.",
   "dosing": {
     "basis": "studied",
     "entries": [
@@ -157,7 +157,630 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
       "finding": "The page lists Selank acetate (TP-7) among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing selank acetate may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The page does not make it an approved drug."
+    },
+    {
+      "id": "ru-selank-instruction",
+      "evidence_type": "regulatory_document",
+      "source_kind": "regulator",
+      "identifier": "https://selank.ru/o-selanke/instruktsiya/",
+      "year": 2009,
+      "summary": "Russian Ministry of Health instruction for medical use of Selank nasal drops (registration number LRS-003338/09), as published by the maker, Peptogen, on selank.ru. Read in Russian on 2026-10-02 and translated here.",
+      "finding": "Nasal drops of 1.5 mg per mL. Dose is 2 drops in each nostril 3 times a day for a 14-day course, repeatable after 1 to 3 weeks after talking to a doctor. Absolute nasal bioavailability is stated as 92.8%. Sold without prescription. Storage is protected from light, not above 10 degrees Celsius, not frozen; an opened bottle is kept not above 25 degrees Celsius for no more than 15 days. Not for use in pregnancy, breastfeeding or under age 18 because no studies were done. Listed side effects are an unpleasant taste if the drug reaches the throat and allergic reactions. It states no overdose cases and no drug dependence or habituation, and cites no study for these."
+    },
+    {
+      "id": "ru-selank-rlsnet",
+      "evidence_type": "regulatory_document",
+      "source_kind": "regulator",
+      "identifier": "https://www.rlsnet.ru/drugs/selank-36612",
+      "year": 2009,
+      "summary": "Copy of the same Russian instruction for Selank nasal drops on the RLS drug reference site (rlsnet.ru). Read in Russian on 2026-10-02.",
+      "finding": "Gives the same dose and 14-day course. Storage is protected from light at 2 to 8 degrees Celsius, not frozen, with an opened bottle kept not above 25 degrees Celsius for no more than 15 days. The maker's own page says not above 10 degrees Celsius instead, so the two copies differ on unopened storage."
+    },
+    {
+      "id": "pmid-11550013",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "11550013",
+      "year": 2001,
+      "summary": "Study (Zozulya et al., Bull Exp Biol Med) measuring enkephalin half-life in blood from patients with anxiety and phobic disorders, and testing Selank on enkephalin breakdown in plasma in the lab.",
+      "finding": "Patients with generalized anxiety had a shortened enkephalin half-life and lower enkephalinase activity. In plasma, Selank dose-dependently slowed enkephalin breakdown (IC50 15 micromolar), more strongly than bacitracin and puromycin. The authors propose this explains its anti-anxiety effect; it is a lab result."
+    },
+    {
+      "id": "pmid-26924987",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "26924987",
+      "year": 2016,
+      "summary": "Rat study (Volkova et al., Front Pharmacol) of 84 neurotransmission genes in the frontal cortex 1 and 3 hours after Selank or GABA at 300 micrograms per kg.",
+      "finding": "Selank changed 45 genes at 1 hour and 22 genes at 3 hours, and the changes correlated with those from GABA. The authors suggest allosteric modulation of the GABA system as one possible mechanism. Rat gene data only."
+    },
+    {
+      "id": "pmid-18841804",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "18841804",
+      "year": 2008,
+      "summary": "Rat study (Inozemtseva et al., Dokl Biol Sci) of intranasal Selank and BDNF (brain-derived neurotrophic factor) expression in the hippocampus.",
+      "finding": "Per the title, intranasal Selank regulated BDNF expression in the rat hippocampus. PubMed lists no abstract, so details were not checked. Animal work only."
+    },
+    {
+      "id": "pmid-18695718",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "18695718",
+      "year": 2008,
+      "summary": "Rat study (Ashmarin et al., Bioorg Khim) of tissue distribution of tritium-labeled Selank and Pro-Gly-Pro after intraperitoneal, intranasal, intragastric and intravenous dosing.",
+      "finding": "The authors conclude intranasal dosing was optimal for delivery to the central nervous system. Both peptides also built up in stomach tissue by every route. Rat result only."
+    },
+    {
+      "id": "pmid-29787664",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "29787664",
+      "year": 2016,
+      "summary": "Mouse study (Vasil'eva et al., Eksp Klin Farmakol) comparing intranasal and intraperitoneal Selank, 300 micrograms per kg a day for 5 days, in two mouse strains.",
+      "finding": "Anxiety-reducing and memory-helping effects appeared only in the more anxious BALB/c strain by both routes. Injected Selank raised GABA receptor binding sites by 38% and nasal Selank raised NMDA receptor sites by 23%, so the routes acted differently. Mouse result only."
+    },
+    {
+      "id": "pmid-34396551",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "34396551",
+      "year": 2021,
+      "summary": "Pharmacology review (Doyno et al., J Clin Pharmacol) of sedative-hypnotic agents acting on GABA receptors, including flunitrazepam, GHB, phenibut and Selank.",
+      "finding": "Calls phenibut and Selank poorly studied Russian drugs with GABA-related mechanisms that are sold to US consumers as dietary supplements, and says abuse potential should be evaluated before public access."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Russia's approved instruction gives nasal drops, 2 drops in each nostril 3 times a day, and does not cover injection. Online sources describe about 250 to 900 micrograms (mcg) a day nasally, and some also give injection doses. The 2008 trial abstract gives no dose, and sources disagree on what it used.",
+      "items": [
+        {
+          "text": "The Russian instruction for the approved nasal drops (1.5 mg per mL) says 2 drops in each nostril, 3 times a day. It describes nasal use only.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The Russian instruction gives absolute nasal bioavailability (the share of a nasal dose reaching the blood) as 92.8% and says the drug appears in plasma within 30 seconds. It cites no study for this.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "A 2008 trial in 62 patients compared Selank with medazepam. The abstract gives no Selank dose or route.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18454096"
+        },
+        {
+          "text": "In 52 healthy volunteers, one injection of Selank, Semax or placebo was given before brain scans. The abstract gives no dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32342318"
+        },
+        {
+          "text": "In rats, intranasal dosing gave the best delivery of labeled Selank to the central nervous system compared with injection into the abdomen, into a vein or by stomach tube.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18695718"
+        },
+        {
+          "text": "In mice given 300 micrograms per kg a day for 5 days, nasal and abdominal injection acted on different brain receptors, so the routes are not interchangeable in animals.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29787664"
+        },
+        {
+          "text": "Animal study only, not human data: a single intraperitoneal injection of 0.3 mg/kg (described as an anxiolytic dose) was given before testing for morphine withdrawal signs in rats.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-36322304"
+        },
+        {
+          "text": "Peptitools, a dosing-calculator site, says self-directed users commonly take 250 to 500 mcg once or twice daily, and that a single 250 to 500 mcg dose is used before a stressor. It also lists 900 mcg a day split into three doses, which it ties to the Russian anxiety trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptitools.com/peptides/selank",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "DosingCalc says nasal protocols run about 300 mcg two to three times daily and gives an injection schedule of 300 mcg twice daily. It advises keeping the total under 900 mcg a day and notes the Russian trials used nasal dosing, not injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/selank-dosing-nootropic-research-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says one drop of the Russian product delivers 75 mcg, so the labeled 4 drops is 300 mcg per use and 900 mcg a day. It says the 2008 trial used 2,700 mcg a day, which differs from the Peptitools figure and is not in the trial abstract.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier discount links, says injection use is commonly 250 to 500 mcg once a day and nasal use is 600 to 2,700 mcg a day split into 2 or 3 doses. It calls the injection doses community practice, not validated clinical doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Klearmind Clinics, a clinic that sells a Selank and Semax blend, describes nasal use as the preferred route because it avoids digestion and, it says, reaches the brain more directly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The Russian instruction names no time of day, only 3 doses a day, and no study tested timing. Online sources suggest morning and afternoon doses, or one dose 30 to 60 minutes before a stressful event, and disagree on evening use.",
+      "items": [
+        {
+          "text": "The Russian instruction gives 3 doses a day and names no clock times or link to meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "In 52 healthy volunteers, brain connectivity was scanned 5 and 20 minutes after a single injection of Selank, Semax or placebo, and differences were found. This is a brain-scan measure, not a timing recommendation.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32342318"
+        },
+        {
+          "text": "Klearmind Clinics, a clinic that sells a Selank and Semax blend, says to use Selank in the morning for focus and calm and in the afternoon for stress, and to avoid late-night use if you are sensitive.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says morning dosing works for most people, some split doses between morning and early afternoon, and late evening doses should be avoided if alertness rises. Its sample schedule for the Russian label spreads the three doses evenly through the day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says evening doses are fine, that three-times-daily doses are spaced 6 to 8 hours apart, and that a single dose is taken 30 to 60 minutes before expected stress.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says nasal Selank takes effect in 2 to 5 minutes and injected Selank in 15 to 30 minutes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/cognitive/selank/how-to-use",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food with Selank, and the Russian instruction names no food rule. One online site says food timing does not matter.",
+      "items": [
+        {
+          "text": "The Russian instruction states no food or meal rule.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The Peptide Initiative says food timing is irrelevant for nasal Selank because the route bypasses digestion, and says it does not significantly affect absorption of injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The Russian instruction gives 3 doses a day and no missed-dose rule, and no study compared schedules. Online sources describe 1 to 3 nasal doses a day and injections once or twice a day. One described Russian study used 4 doses a day.",
+      "items": [
+        {
+          "text": "The Russian instruction gives 3 doses a day, with 2 drops in each nostril each time. It gives no missed-dose rule.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "Peptitools says self-directed users take 250 to 500 mcg once or twice a day, plus single doses as needed, while the Russian trials it cites split 900 mcg a day across three doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptitools.com/peptides/selank",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "DosingCalc says nasal use is 2 to 3 times a day and injection is 300 mcg twice a day, morning and afternoon, with an optional smaller evening dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/selank-dosing-nootropic-research-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier discount links, says injection is once a day in community schedules, and that community protocols skip a missed dose instead of doubling up.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative describes a 2024 Russian study of 64 patients after COVID-19 that gave 2 to 3 drops 4 times a day for 30 days, one more dose a day than the registered label.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The Russian instruction sets a 14-day course, repeatable after 1 to 3 weeks, and says Selank causes no dependence. One 60-patient trial reported the effect lasting about a week after the last dose. Online cycles run from 10 days to 8 weeks, and the longer ones go past the instruction.",
+      "items": [
+        {
+          "text": "The Russian instruction sets a course of 14 days, which may be repeated after 1 to 3 weeks after talking to a doctor.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The maker's instruction states Selank causes no drug dependence or habituation. It cites no study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "In a 60-patient comparison with phenazepam, the anxiety-reducing effect of Selank lasted for about a week after the last dose. The abstract gives no course length or withdrawal data.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25176261"
+        },
+        {
+          "text": "DosingCalc says Selank is run 10 to 14 days on followed by 7 to 10 days off, and calls the no-tolerance claim community-reported and unverified.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/selank-dosing-nootropic-research-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Klearmind Clinics, a clinic that sells a Selank and Semax blend, says daily use is 10 to 20 days followed by a break, with short cycles of 10 to 14 days and extended cycles of up to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says Russian courses are 14 days, while Western practice runs 4 to 8 weeks of daily use followed by 2 to 4 weeks off. It adds that there are no formal long-term Western trial data.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier discount links, says injection cycles are 4 weeks on and 4 weeks off, as a community precaution against possible GABA-related desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The Russian instruction says to keep the nasal drops away from light and unfrozen, and to use an opened bottle within 15 days at no more than 25 degrees Celsius (C). Two Russian copies differ on the unopened temperature (not above 10 C versus 2 to 8 C). Online sources describe mixing powder with bacteriostatic water and refrigerating it for 2 to 4 weeks.",
+      "items": [
+        {
+          "text": "The maker's copy of the Russian instruction says to keep it protected from light at no more than 10 C, not frozen, with an opened bottle kept at no more than 25 C for no more than 15 days. Shelf life is 2 years.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The RLS drug database copy of the same instruction gives 2 to 8 C for unopened storage, protected from light and not frozen, with the same 15-day limit for an opened bottle.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-rlsnet"
+        },
+        {
+          "text": "The instruction says to apply the drops sitting with the head slightly back or tilted to the side, onto clean nasal lining, then briefly pinch each nostril shut. It says nasal discharge can reduce absorption, so the nose should be cleared first.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The Peptide Initiative says a mixed vial is kept in the refrigerator, never frozen, and used within about 14 to 21 days, with powder kept in the refrigerator short term or the freezer long term. For injection it names the belly, about 2 inches from the navel, and the front or outer thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says reconstituted Selank is refrigerated and used within 28 days, and that pre-made nasal spray is kept at 2 to 8 C and used within typically 30 days of opening.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://peptidepedia.org/cognitive/selank/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier discount links, says a reconstituted vial keeps about 3 to 4 weeks at 2 to 8 C and should not be frozen, and that injection sites are rotated between the abdomen, thighs and upper arms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "The Russian instruction calls it a synthetic copy of tuftsin, an immune peptide, and names no receptor. Lab and animal work point to slowed breakdown of enkephalins (the body's own calming and pain peptides) and changes in GABA (the brain's main calming signal) gene activity. None of this is confirmed in people.",
+      "items": [
+        {
+          "text": "The Russian instruction calls Selank a synthetic analog of tuftsin with an original mechanism of action on the central nervous system, and names no receptor or enzyme.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "In lab tests on plasma, Selank slowed enkephalin breakdown, and patients with generalized anxiety had faster enkephalin breakdown than normal. The authors propose this explains its effect.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11550013"
+        },
+        {
+          "text": "In the 62-patient 2008 trial, enkephalin half-life in blood rose during Selank treatment, mostly in patients with generalized anxiety. This is a blood marker, not proof of how it works.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18454096"
+        },
+        {
+          "text": "In rats, Selank changed the activity of 45 neurotransmission genes in the frontal cortex within 1 hour, in a pattern similar to GABA.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26924987"
+        },
+        {
+          "text": "In rats, nasal Selank changed BDNF (brain-derived neurotrophic factor) expression in the hippocampus. No trial has measured BDNF in people taking Selank.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18841804"
+        },
+        {
+          "text": "PeakedLabs, an affiliate and referral site for compounding pharmacies and telehealth providers, says Selank works through BDNF, monoamine and enkephalin pathways and is not a GABA-A agonist.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine, a supplement retailer's blog, describes Selank as GABA-modulating and also affecting serotonin-related genes, citing rodent and gene-expression work.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Psychreg says the proposed mechanisms rest mostly on animal, cell or exploratory research and do not show clinical effectiveness in people.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.psychreg.org/can-peptide-ease-anxiety-what-research-selank-shows/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Small Russian trials report anxiety relief similar to the benzodiazepines medazepam (62 patients) and phenazepam (60 patients), plus faster effect when added to phenazepam. The abstracts describe no placebo group and give few numbers, and no independent Western trial was found.",
+      "items": [
+        {
+          "text": "In 62 patients with generalized anxiety disorder or neurasthenia, anxiety relief from Selank was similar to medazepam, with added effects on fatigue. The abstract does not describe blinding or a placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18454096"
+        },
+        {
+          "text": "In 60 patients with phobic-anxiety and somatoform disorders, Selank had a pronounced anxiety-reducing effect and a mild memory and attention effect compared with phenazepam, lasting about a week after the last dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25176261"
+        },
+        {
+          "text": "In 70 patients with anxiety disorders, adding Selank to phenazepam (40 patients) brought on the effect sooner than phenazepam alone (30 patients). There was no placebo, so it does not show Selank works by itself.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26356395"
+        },
+        {
+          "text": "In 52 healthy volunteers, one injection of Selank changed connectivity between the right amygdala and right temporal regions on brain scans. This is not a clinical benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32342318"
+        },
+        {
+          "text": "In rats, Selank reduced signs of morphine withdrawal by about 40%, slightly less than diazepam (about 49%).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-36322304"
+        },
+        {
+          "text": "In rats under chronic mild stress, Selank alone was most effective against anxiety raised by the test substances, and Selank with diazepam worked best under chronic stress.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-28280289"
+        },
+        {
+          "text": "PeakedLabs, an affiliate and referral site for compounding pharmacies and telehealth providers, says Selank has strong human trial data, with multiple trials and more than 800 patients enrolled, showing anxiety relief comparable to benzodiazepines without sedation or tolerance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Psychreg says the most cited trial is a small Russian comparison of about 62 patients that cannot establish equivalence to standard treatment, and cautions against replacing proven anxiety care with Selank.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.psychreg.org/can-peptide-ease-anxiety-what-research-selank-shows/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Russian instruction",
+      "summary": "Russia's instruction lists an unpleasant taste if the drops reach the throat and possible allergic reactions. It advises against use in pregnancy, breastfeeding and under age 18 because no studies were done.",
+      "items": [
+        {
+          "text": "The Russian instruction lists an unpleasant taste when the drug reaches the throat from the nose, mainly in people sensitive to smell and taste, and possible allergic reactions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The instruction lists individual intolerance, pregnancy, breastfeeding and age under 18 as contraindications, because efficacy and safety studies were not done.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The instruction says no overdose cases have been recorded. It cites no study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ru-selank-instruction"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "The small Russian trials describe good tolerability, but the abstracts give no adverse-event numbers and none had a placebo group.",
+      "items": [
+        {
+          "text": "A 60-patient comparison of Selank with phenazepam assessed tolerability and quality of life. The abstract reports no adverse-event numbers.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-25176261"
+        },
+        {
+          "text": "Selank added to phenazepam in 40 patients was linked to fewer phenazepam side effects (attention and memory problems, fatigue, sedation, dizziness on standing) than phenazepam alone in 30 patients, during treatment and after phenazepam was stopped.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26356395"
+        }
+      ]
+    },
+    {
+      "title": "Interactions",
+      "summary": "The instruction says Selank can be combined with any psychoactive medicine, while online sites advise caution. No interaction study was found.",
+      "items": [
+        {
+          "text": "The maker's instruction says Selank does not change the effects of sedating or stimulating drugs, can be combined with any psychoactive or neuroactive therapy, and is safe with alcohol-containing products. It cites no study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ru-selank-instruction"
+        },
+        {
+          "text": "The Peptide Initiative says its pages flag possible added sedation or unpredictable effects with benzodiazepines, and caution with SSRIs, SNRIs and sleep medications.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources list mild nasal irritation, headache and fatigue as common and vivid dreams or dizziness as less common. None cite trial data for how often these happen.",
+      "items": [
+        {
+          "text": "Klearmind Clinics, a clinic that sells a Selank and Semax blend, lists mild nasal irritation, headache and temporary discomfort as common, with overstimulation described as rare.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative lists nasal irritation, mild fatigue and mild headaches as common, and vivid dreams and dizziness as less frequent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/selank-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says the most common effects are mild nasal irritation, stinging or dryness at the spray site.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/cognitive/selank/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier discount links, lists mild redness at injection sites, nasal stinging or dryness, and mild headache in the first few days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Expert review",
+      "summary": "A 2021 pharmacology review calls Selank poorly studied and says abuse potential should be evaluated.",
+      "items": [
+        {
+          "text": "A 2021 pharmacology review calls Selank a poorly studied Russian drug with GABA-related action that is sold to US consumers as a dietary supplement, and urges evaluation of abuse potential before public access.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-34396551"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says compounded Selank acetate may cause immune reactions from clumping or impurities.",
+      "items": [
+        {
+          "text": "FDA lists Selank acetate (TP-7) among bulk substances nominated for compounding and since withdrawn, stating compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bulks-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

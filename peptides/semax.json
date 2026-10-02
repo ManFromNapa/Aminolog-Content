@@ -139,7 +139,546 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
       "finding": "The page lists Semax among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing semax (heptapeptide) may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The page does not make it an approved drug."
+    },
+    {
+      "id": "pmid-11517472",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "11517472",
+      "year": 1997,
+      "summary": "Russian clinical and electrophysiological study (Gusev et al., Zh Nevrol Psikhiatr Im S S Korsakova) of 30 patients in the acute phase of ischemic stroke given Semax, compared with 80 patients with similar strokes who had conventional treatment only. Not randomized as described, and the abstract does not state the route.",
+      "finding": "Adding Semax was linked to faster regress of general brain and especially motor deficits. The authors report the most effective daily doses were 12 mg for moderate strokes and 18 mg for severe strokes, over treatment courses of 5 and 10 days."
+    },
+    {
+      "id": "pmid-15792140",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15792140",
+      "year": 2005,
+      "summary": "Russian study (Gusev et al., Zh Nevrol Psikhiatr Im S S Korsakova) of 187 patients with different stages of cerebrovascular insufficiency (reduced blood flow to the brain) treated with Semax. The abstract does not describe a control group, dose or route.",
+      "finding": "The authors report clinical improvement, stabilization of disease progress, fewer strokes and transient ischemic attacks, and a minor percentage of side effects with good tolerability, including in older patients."
+    },
+    {
+      "id": "pmid-10358912",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "10358912",
+      "year": 1999,
+      "summary": "Russian retrospective comparative analysis (Miasoedova et al., Zh Nevrol Psikhiatr Im S S Korsakova) of immune and biochemical markers in patients with acute ischemic stroke given Semax.",
+      "finding": "The authors report a shift toward anti-inflammatory markers (interleukin-10, tumor necrosis factor-alpha) over markers that maintain inflammation (interleukin-8, C-reactive protein). It is a retrospective analysis, so it cannot prove cause."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Studied doses in Russian stroke trials were 6 mg a day (two 10-day courses) and 12 to 18 mg a day for 5 to 10 days; the route is not stated in the abstracts. Online sources describe 100 to 1,200 mcg a day as a nasal spray and about 250 mcg to 1 mg per injection under the skin, none of it tested.",
+      "items": [
+        {
+          "text": "Two courses of 6,000 mcg per day for 10 days each, with a 20-day gap, were given to 110 adults after ischemic stroke. The study had comparison groups but was not randomized or placebo-controlled, and the abstract does not state the route.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-29798983"
+        },
+        {
+          "text": "In a Russian study of 30 patients in the acute phase of ischemic stroke, the authors report the most effective daily doses were 12 mg for moderate strokes and 18 mg for severe strokes. The abstract does not state the route.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11517472"
+        },
+        {
+          "text": "In a study of 52 healthy volunteers, Semax was given as an injection (type and dose not stated in the abstract) and brain scans were done 5 and 20 minutes later. This shows a single injection was given to healthy people, but gives no usable dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32342318"
+        },
+        {
+          "text": "Regimen, a peptide-tracking app's blog, describes nasal Semax in tiers: 100 mcg per nostril once daily at the low end, 200 to 300 mcg per nostril per session once or twice daily as standard, and 600 to 1,000 mcg per day split over two to three sessions at the high end. It also says injection under the skin runs 500 mcg to 1 mg once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "DosingCalc, an educational dosing-guide site, says a commonly described start is 300 mcg per nostril once daily, with 450 mcg per nostril as a later level, a split option of 300 mcg twice daily, and up to 1,200 mcg per day in short intensive use. It says only community protocols, not published trials, give these numbers.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/semax-peptide-nootropic-research-dosing-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative, an educational peptide site, describes 250 to 500 mcg per day in weeks 1 and 2, then 500 to 900 mcg per day in weeks 3 and 4, with nasal spray as the preferred route and injection under the skin as an alternative.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine, a supplement retailer's blog, says a 0.1% solution is used as 1 to 2 drops per nostril twice daily, and that a stronger 1% form exists for stroke use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says a standard dose is 200 to 600 mcg once or twice daily, and that the nasal route is preferred with injection under the skin as an alternative.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/guides/selank-vs-semax",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, says typical nasal use is 200 to 600 mcg per day, and that injection under the skin is described at 250 to 600 mcg per dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says typical intranasal doses are 250 to 600 mcg per day, starting at 250 mcg, and that its article covers the nasal spray only.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says nasal use is about 0.6 to 1.5 mg per day in two doses and that injection under the skin has sparse human data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Trials do not report time of day. Online sources say morning and early afternoon, and to avoid late-day doses that may disturb sleep; this is untested.",
+      "items": [
+        {
+          "text": "In a study of 52 healthy volunteers, brain scans 5 and 20 minutes after an injection of Semax showed changes in connectivity between the right amygdala and temporal brain regions. This measures brain activity soon after dosing, not a benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-32342318"
+        },
+        {
+          "text": "Regimen says to take Semax in the morning and early afternoon only, not after 3 to 4 PM because it may disturb sleep, ideally 15 to 30 minutes before a hard focus block. It says effects appear in 5 to 15 minutes after nasal use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "DosingCalc says only community protocols specify morning dosing and that published trials do not document time of day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/semax-peptide-nootropic-research-dosing-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says the best time is morning (7 to 10 AM), with any second dose before 2 PM.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says to take Semax in the morning or early afternoon and that late-day use interferes with sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/guides/selank-vs-semax",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, says Semax is usually dosed in the morning and early afternoon, with late-day use avoided to prevent sleep interference.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to take the first dose within an hour of waking, a second dose between mid-morning and early afternoon, and nothing after 2 to 3 PM.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No trial or label rule on food was found. One educational site says it can be used regardless of food; other sources say nothing.",
+      "items": [
+        {
+          "text": "The Peptide Initiative says Semax can be taken regardless of food because it is used nasally and absorbs directly into the brain tissue. This claim is untested.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The Russian stroke trials gave it daily in short courses. Online sources describe once to three times daily, and some describe weekdays on and weekends off; none of this is tested.",
+      "items": [
+        {
+          "text": "In the 110-patient stroke trial, the same daily dose was given for 10 days in each course. The 30-patient acute stroke study gave daily doses for 5 or 10 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-29798983"
+        },
+        {
+          "text": "Regimen describes sessions once or twice daily as standard and up to two to three sessions at the high end, and says a popular schedule is 5 days on and 2 days off (weekdays on, weekends off) to keep receptors sensitive. This reasoning is untested.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says it is dosed once to twice daily because effects on brain growth factors are said to last 12 to 24 hours, and that different nasal peptides are spaced 15 to 30 minutes apart.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, says doses are commonly split between morning and midday, and that injections under the skin are described once daily or a few times a week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to space doses 4 to 6 hours apart.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The studied courses were 10 days, repeated once after a 20-day gap, and 5 to 10 days in acute stroke. Online sources describe 10 to 14 day courses up to 4 to 8 weeks with breaks; no study tested these cycles.",
+      "items": [
+        {
+          "text": "In the 110-patient stroke trial, two 10-day courses were separated by a 20-day gap, with outcomes followed for about 5 months. BDNF in blood stayed higher in the Semax groups through the follow-up. It was not placebo-controlled.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-29798983"
+        },
+        {
+          "text": "In the 30-patient acute stroke study, treatment courses were 5 days for moderate strokes and 10 days for severe strokes.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11517472"
+        },
+        {
+          "text": "Regimen describes 3 weeks on and 1 week off as a popular cycle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "DosingCalc says community practice is 10 to 14 days on and 7 to 10 days off, with no published source, and that no long-term safety study in healthy users was found.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/semax-peptide-nootropic-research-dosing-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says courses run 10 to 30 days with breaks of 2 to 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/guides/selank-vs-semax",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine says a 0.1% solution is used for 10 to 16 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, says a course is 2 to 4 weeks, followed by a break, with no endless daily use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says Russian protocols use 10 to 14 day courses and Western practice is 4 to 8 weeks on, then 2 to 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes a 10 to 14 day short course, a 4 to 6 week extended course, and 4 to 6 weeks on with 2 to 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label or stability study was found. Online sources say to refrigerate sprays and mixed vials for weeks; one notes no stability study exists. For injection, sources describe the abdomen or outer thigh.",
+      "items": [
+        {
+          "text": "Regimen says an opened pre-made spray is best refrigerated, with room temperature acceptable short term, for 1 to 3 months. A solution mixed at home is refrigerated at 2 to 8 C for up to 28 days. Bottles are kept upright, away from sun and heat.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "DosingCalc says refrigeration at 2 to 8 C is general practice for mixed peptides, but found no published stability study for Semax mixed in bacteriostatic water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/semax-peptide-nootropic-research-dosing-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says powder is kept refrigerated or frozen, and a mixed solution is kept in the refrigerator at 36 to 46 F, never frozen, for 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative describes injection under the skin of the abdomen (2 inches from the navel, rotating sides) or the middle third of the outer thigh.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, says adding 2 mL of bacteriostatic water to a 10 mg vial gives 5 mg per mL, and that a mixed vial is kept refrigerated and used within a few weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says compounded Semax nasal solution goes in the fridge, to follow the label's use-by date, and that brief room temperature use is fine.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says powder vials go in the freezer long term or the fridge short term, and a mixed solution is refrigerated and used within several weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "How it works in people is not known. Animal and lab work point to brain growth factors, immune genes and opioid or melanocortin receptors.",
+      "items": [
+        {
+          "text": "A rat study found Semax reduced anxiety-like behavior and normalized brain monoamine levels (chemical messengers such as serotonin) after early-life antidepressant exposure. Animal evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33418449"
+        },
+        {
+          "text": "In mice with spinal cord injury, Semax improved recovery, and the authors link this to the mu-opioid receptor. Animal and cell evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40692165"
+        },
+        {
+          "text": "In patients with acute ischemic stroke, a retrospective analysis reported a shift toward anti-inflammatory markers after Semax. It cannot prove cause.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-10358912"
+        },
+        {
+          "text": "In the 110-patient stroke study, blood levels of brain-derived neurotrophic factor (BDNF) were higher in patients given Semax. The study was not placebo-controlled.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-29798983"
+        },
+        {
+          "text": "Wikipedia says the mechanism of action of Semax is unknown, though it may involve melanocortin receptors or enzymes that break down enkephalins.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Semax",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company's guide, says Semax binds melanocortin receptors and raises BDNF and nerve growth factor (NGF) in the hippocampus and cortex, citing a rat result of up to 1.4-fold more BDNF.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/semax",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine, a supplement retailer's blog, says Semax raises BDNF and its receptor TrkB and tunes dopamine and serotonin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Small Russian stroke studies report faster recovery, but they were not placebo-controlled, so the benefit is unproven. Online sources promote focus and memory.",
+      "items": [
+        {
+          "text": "In 110 adults after ischemic stroke, those given Semax had higher blood BDNF and faster gains on the Barthel index (a daily-living score) and motor scale. Groups were not placebo-controlled or randomized.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-29798983"
+        },
+        {
+          "text": "In 30 patients in the acute phase of stroke compared with 80 patients on usual care, adding Semax was linked to faster recovery of motor deficits.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11517472"
+        },
+        {
+          "text": "In 187 patients with cerebrovascular insufficiency, the authors report clinical improvement and fewer strokes. The abstract does not describe a control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-15792140"
+        },
+        {
+          "text": "Superpower, a health testing company's guide, says Semax may help stroke recovery and cognition, but notes the largest human study (110 stroke patients) was non-randomized and not placebo-controlled.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/semax",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Swolverine, a supplement retailer's blog, says Russian clinical data show it sharpened attention and short-term memory, most under fatigue. No source study is named in the page.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://swolverine.com/blogs/blog/semax-vs-selank-nootropic-peptides-compared",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Trials report few side effects. Online sources list nasal irritation, headache, restlessness and trouble sleeping.",
+      "items": [
+        {
+          "text": "In 187 patients with cerebrovascular insufficiency, the authors report a minor percentage of side effects and good tolerability, including in older patients. Details were not in the abstract.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-15792140"
+        },
+        {
+          "text": "Regimen lists occasional nasal irritation and dryness, rare headache, occasional restlessness and insomnia from late dosing, and calls it one of the mildest peptides.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://helloregimen.com/blog/semax-nasal-spray-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says the Russian prescribing label lists mild irritation of the nasal lining with prolonged use as the main adverse effect. It could not be checked against the label here.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/semax/injection-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, lists nasal irritation, dryness or sting, mild headache, lightheadedness and fatigue, plus overstimulation or sleep trouble when used late or too high, and rare allergic reactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Long-term safety",
+      "summary": "No long-term safety study in healthy people was found.",
+      "items": [
+        {
+          "text": "DosingCalc says no negative effects were reported in a developers' review but found no long-term safety study in healthy users.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://dosingcalc.com/guides/semax-peptide-nootropic-research-dosing-protocols",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a clinic that offers peptide programs, notes long-term effects are unknown given limited human data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says compounded Semax may cause immune reactions from clumping or impurities. Semax is approved only in Russia.",
+      "items": [
+        {
+          "text": "FDA lists Semax among substances nominated for compounding and then withdrawn, stating compounded Semax may pose immunogenicity risk for certain routes of administration due to potential aggregation and peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bulks-page"
+        },
+        {
+          "text": "Nuusflits says Semax remains registered in Russia, that the FDA has never reviewed it, and that FDA moved it to Category 1 for compounding in February 2026. The FDA page checked lists it as nominated but withdrawn, so the Category 1 claim could not be confirmed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://nuusflits.com/peptides-russia-fda-regulation-2026/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

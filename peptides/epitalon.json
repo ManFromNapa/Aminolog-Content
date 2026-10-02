@@ -166,7 +166,527 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
       "finding": "On the fetched page Epitalon (epithalon) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing epitalon may pose a risk of immunogenicity for certain routes of administration due to aggregation. The page does not describe an approved product."
+    },
+    {
+      "id": "pmid-17426848",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17426848",
+      "year": 2006,
+      "summary": "12-year randomized clinical study (Korkushko, Khavinson et al., Bull Exp Biol Med) of epithalamine, the pineal gland extract that came before synthetic epitalon, in elderly people with coronary disease and signs of accelerated aging. Khavinson, who developed epitalon, is a co-author. The abstract gives no group sizes, blinding, dose or course length.",
+      "finding": "After 12 years, deaths were 28% lower in the treated group than in controls, cardiovascular deaths were 2-fold lower, and functional age and exercise tolerance improved. This tested the extract, not synthetic epitalon, and has not been independently replicated."
+    },
+    {
+      "id": "pmid-14523363",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "14523363",
+      "year": 2003,
+      "summary": "Report (Khavinson and Morozov, Neuro Endocrinol Lett) on thymic (Thymalin) and pineal (Epithalamin) extracts in 266 elderly people followed for 6 to 8 years, with treatment given in the first 2 to 3 years. Written by the developers of these products; the abstract does not describe randomization or blinding.",
+      "finding": "The authors report 1.6 to 1.8 times lower mortality with epithalamin than in controls, and fewer respiratory infections. Extract, not synthetic epitalon, from the originating group, so it is weak evidence."
+    },
+    {
+      "id": "pmid-15452611",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15452611",
+      "year": 2004,
+      "summary": "Small study (Korkushko, Khavinson et al., Bull Exp Biol Med) of night-time blood melatonin in healthy elderly people before and after a course of epithalamin. The abstract gives no group size and no control group.",
+      "finding": "Night melatonin rose in people whose pineal gland was initially less active and tended to fall in people with normal pineal function. Extract, not synthetic epitalon."
+    },
+    {
+      "id": "pmid-18214303",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18214303",
+      "year": 2007,
+      "summary": "Study (Labunets et al., Bull Exp Biol Med) of immune and hormone rhythms in elderly patients with chronic coronary disease followed for 30 months, who received 6 courses of epithalamin by an 'optimal protocol'. The abstract gives no dose, course length or group size.",
+      "finding": "Rhythms of thymic serum factor and hydrocortisone were retained after the 6 courses, and the authors link this to a milder disease course. Extract, not synthetic epitalon."
+    },
+    {
+      "id": "pmid-11524632",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "11524632",
+      "year": 2001,
+      "summary": "Study (Khavinson, Goncharova, Lapin, Neuro Endocrinol Lett) of epitalon in female rhesus monkeys of different ages, from the originating group.",
+      "finding": "Epitalon raised evening melatonin in old monkeys and normalized their daily cortisol rhythm. Animal data only."
+    },
+    {
+      "id": "pmid-40141333",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "40141333",
+      "year": 2025,
+      "summary": "Review (Araj et al., Int J Mol Sci, open access) of 25 years of epitalon research, mostly cell and animal studies. It also describes two human reports from the originating group: a retinitis pigmentosa trial and a 20-day sublingual study in 75 women. The original sublingual paper could not be found in PubMed.",
+      "finding": "The review says mechanisms remain uncertain and that information on short and long-term safety is missing. It describes 5 micrograms per eye for 10 days in 162 eye patients (no side effects reported) and 0.5 mg a day under the tongue for 20 days in 75 women."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "No approved dose exists. Human reports describe 0.5 mg a day under the tongue for 20 days, or tiny eye injections. Online sources describe 5 to 10 mg a day injected, which is 10 to 20 times higher, and no human study of those doses was found.",
+      "items": [
+        {
+          "text": "A 2025 review describes a Russian trial in 162 patients with retinitis pigmentosa (an inherited eye disease) in which each patient got 5 micrograms of epitalon per eye, injected behind the eye, for 10 days. The control group had standard care. This is a single-group report with limited methods.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40141333"
+        },
+        {
+          "text": "The same review describes a study in 75 women that gave 0.5 mg a day of epitalon under the tongue for 20 days, with placebo and control groups. The original paper could not be found in PubMed, so the details are second-hand.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40141333"
+        },
+        {
+          "text": "Animal study only, not human data: 1.0 microgram per mouse (about 30 to 40 micrograms per kg) was injected under the skin in female SHR mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14501183"
+        },
+        {
+          "text": "Animal study only, not human data: 0.1 microgram was injected under the skin in one-year-old female C3H/He mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16634527"
+        },
+        {
+          "text": "PeptidesExplorer says the standard epitalon protocol is 5 to 10 mg per day injected under the skin, with 10 mg per day described as the classic approach, and says no officially approved dosing exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/epitalon-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says 5 to 10 mg per day by injection under the skin, that some community protocols go above 10 mg a day, and that optimal human dosing has not been established in rigorous trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/epithalon/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols describes 5 mg a day for a 20-day course or 10 mg a day for a condensed 10-day course, both injected under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Innerbody Research says standard dosing is 1 mg per injection, much lower than the 5 to 10 mg other sites describe.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.innerbody.com/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HubMedEd, a medical education site that carries supplier banner links, says a standard dosage is 5 to 10 mg per day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day for epitalon. Online sources favor evening or bedtime to match melatonin. The only support is melatonin changes after the older pineal extract in elderly people and after epitalon in monkeys.",
+      "items": [
+        {
+          "text": "After a course of epithalamin (the pineal extract, not synthetic epitalon), night melatonin rose in elderly people with low pineal activity. No study compared evening with morning dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-15452611"
+        },
+        {
+          "text": "In old rhesus monkeys, epitalon raised evening melatonin and normalized the daily cortisol rhythm. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11524632"
+        },
+        {
+          "text": "PeptidesExplorer says epitalon is given in the evening because epithalamin restored the night-time melatonin peak.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/epitalon-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says evening or bedtime dosing is commonly recommended to align with natural melatonin rhythms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/epithalon/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says evening or bedtime dosing, to align with the natural melatonin rhythm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Innerbody Research says night-time dosing is considered ideal because of the link to melatonin production.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.innerbody.com/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Breakdown, an educational blog with affiliate links, says epitalon is often taken in the evening to match circadian (body clock) rhythm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideWiki, a guide with affiliate supplier links, says evening use 1 to 2 hours before bed is common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study or label covers food and epitalon. One seller-affiliated guide says no fasting is needed, unlike growth hormone (GH) peptides.",
+      "items": [
+        {
+          "text": "PeptideWiki, a guide with affiliate supplier links, says epitalon has no fasting requirement, unlike growth hormone releasing peptides.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Animal studies gave short daily or weekly runs. Online sources describe one injection a day during a course, and one seller-affiliated site says some split it into morning and evening. No missed-dose rule was found.",
+      "items": [
+        {
+          "text": "In a lifetime mouse study, injections were given on 5 consecutive days each month from age 3 months. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14501183"
+        },
+        {
+          "text": "In one-year-old mice, injections were given 5 times a week. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16634527"
+        },
+        {
+          "text": "HubMedEd, a medical education site that carries supplier banner links, says the daily dose is sometimes divided into morning and evening doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human study tested repeated courses of synthetic epitalon or what happens after stopping. Studies of the older pineal extract (epithalamin) gave repeated courses over years. Online sources describe 10 to 20 days, once to three times a year, while Innerbody describes 1 month on and 3 months off.",
+      "items": [
+        {
+          "text": "A Russian retinitis pigmentosa trial gave epitalon for 10 consecutive days, as described in a 2025 review. Outcomes beyond the course were not given.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40141333"
+        },
+        {
+          "text": "A study in 75 women gave epitalon under the tongue for 20 days, as described in the same review.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40141333"
+        },
+        {
+          "text": "Elderly coronary patients got 6 courses of epithalamin (the extract, not synthetic epitalon) over 30 months. The abstract gives no course length.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18214303"
+        },
+        {
+          "text": "In a 266-person report from the developers, thymic and pineal extracts were given for the first 2 to 3 years of a 6 to 8 year follow-up. Mortality was reported lower with epithalamin than in controls. The extract, not synthetic epitalon, was tested.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14523363"
+        },
+        {
+          "text": "In a 12-year randomized study of epithalamin in elderly coronary patients, deaths were 28% lower in the treated group. Course length and schedule are not given in the abstract, and the extract, not synthetic epitalon, was tested.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17426848"
+        },
+        {
+          "text": "In mice, injections continued for about 6.5 months. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16634527"
+        },
+        {
+          "text": "Peptidepedia says courses run 10 to 20 consecutive days, repeated once or twice a year with 4 to 6 months between, and that the cycling rationale is hypothesis, not validated pharmacokinetic study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/epithalon/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says 10 to 20 days per course, 1 to 2 courses a year, with 4 to 6 months between. It describes the classic protocol as 10 mg a day for 10 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/epitalon-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says 20 days (standard) or 10 days (condensed), 2 to 3 times a year, 4 to 6 months apart, and notes no large blinded human trial tested a specific injected dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Innerbody Research describes one month on followed by three months off, three cycles a year, which differs from the 10 to 20 day courses on other sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.innerbody.com/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideWiki, a guide with affiliate supplier links, says epitalon is used in short repeated courses a few times a year rather than continuously.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label or study covers storage. Online sources say to refrigerate the mixed vial and discard it if cloudy, but disagree on how long it lasts, from 1 to 2 weeks up to 30 days.",
+      "items": [
+        {
+          "text": "Innerbody Research says epitalon is injected under the skin in areas of body fat, and that leftover peptide is stored in a refrigerator.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.innerbody.com/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the powder is kept in a freezer (-20 C) long term and the mixed liquid at 2 to 8 C for about 1 to 2 weeks, and is discarded if cloudy or with particles. It gives 2.0 mL bacteriostatic water per 10 mg vial for 5 mg per mL.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Breakdown, an educational blog with affiliate links, says a mixed vial is kept at 2 to 8 C and best used within 30 days, and cloudy or discolored solution is discarded.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideWiki, a guide with affiliate supplier links, says a mixed vial is kept refrigerated and used within about 3 to 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "How epitalon works in people is not known. In cells it raised telomerase (an enzyme that rebuilds chromosome ends), and in old monkeys it raised evening melatonin. A 2025 review calls the mechanisms uncertain.",
+      "items": [
+        {
+          "text": "Added to human fetal fibroblast cells that lack telomerase, epitalon induced telomerase activity and telomere lengthening. Single-group cell data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-12937682"
+        },
+        {
+          "text": "An independent lab found epitalon lengthened telomeres in normal cells through telomerase and in breast cancer cells through an alternative pathway. Cell culture only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40908429"
+        },
+        {
+          "text": "In old rhesus monkeys, epitalon raised evening melatonin and normalized the daily cortisol rhythm. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11524632"
+        },
+        {
+          "text": "A 2025 review says it remains uncertain whether telomerase and melatonin effects are the only mechanisms, and that physico-chemical and safety studies are limited.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-40141333"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No good independent human evidence exists for anti-aging effects. The Khavinson group reports a 12-year mortality benefit, but that study tested the older pineal extract (epithalamin), with few methods details, and has not been replicated.",
+      "items": [
+        {
+          "text": "A 12-year randomized study of epithalamin (the pineal extract, not synthetic epitalon) in elderly coronary patients reported 28% fewer deaths and 2-fold fewer cardiovascular deaths than controls. Khavinson is a co-author, and the abstract gives no group sizes, blinding or dose. Quality is limited by that and by the lack of independent replication.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17426848"
+        },
+        {
+          "text": "A report from the developers on 266 elderly people found 1.6 to 1.8 times lower mortality with epithalamin than in controls. Extract, not synthetic epitalon. Design details are not given.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14523363"
+        },
+        {
+          "text": "A Russian report says 90% of patients with degenerative retinal disease had a positive effect from epitalon. No sample size, control group or outcome definitions are in the abstract.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-12195242"
+        },
+        {
+          "text": "A Russian report says pineal peptide preparations including epitalon restored night melatonin in elderly people with low pineal function. Design details are not given.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17969590"
+        },
+        {
+          "text": "In mice, monthly injections did not change average lifespan but maximum lifespan was about 12% higher and leukemia was reduced. Animal data from the originating network.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14501183"
+        },
+        {
+          "text": "Wikipedia says epitalon and epithalamin increased telomere length in blood cells of people aged 60 to 65 and 75 to 80. The article carries banners warning it relies on primary sources and may present fringe theories.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Epitalon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Human reports from the originating group say no side effects, with little detail. No independent safety trial exists.",
+      "items": [
+        {
+          "text": "A Russian report says pineal peptide preparations including epitalon increased melatonin in elderly people and had no side effects. Design details are not given.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17969590"
+        },
+        {
+          "text": "A 2025 review says none of the epitalon-treated retinitis pigmentosa patients reported side effects, and that information on short and long-term safety is missing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40141333"
+        }
+      ]
+    },
+    {
+      "title": "In animals",
+      "summary": "Mouse studies found no toxicity at the doses tested.",
+      "items": [
+        {
+          "text": "In female mice, long-term low-dose epitalon showed no toxic effect (animal study).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16634527"
+        },
+        {
+          "text": "In a lifetime study in mice, epitalon did not change food consumption, body weight or mean lifespan, and the authors concluded long-term use was safe in mice (animal study).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14501183"
+        }
+      ]
+    },
+    {
+      "title": "Cancer concern",
+      "summary": "A cell study found epitalon lengthened telomeres in breast cancer cells, which raises a theoretical concern. It has not been tested in people.",
+      "items": [
+        {
+          "text": "An independent lab found epitalon lengthened telomeres in breast cancer cell lines through an alternative lengthening pathway, which raises the question of whether this is desirable in cancer cells. Cell culture only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40908429"
+        },
+        {
+          "text": "Peptidepedia says telomerase reactivation is a hallmark of most cancers and that people with active or suspected cancer should be cautious.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/epithalon/side-effects",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says compounded epitalon may cause immune reactions from clumping of the peptide.",
+      "items": [
+        {
+          "text": "FDA lists epitalon among bulk drug substances nominated for compounding and later withdrawn, stating compounded drugs containing it may pose a risk of immunogenicity (immune reaction) for certain routes of administration due to aggregation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-compounding-page"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources describe mild injection-site reactions, drowsiness and headache, without trial frequencies.",
+      "items": [
+        {
+          "text": "Peptidepedia lists injection-site redness or swelling, drowsiness or fatigue, and mild headache as commonly reported, and says safety data come mostly from one research group.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/longevity/epithalon/side-effects",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols lists injection-site redness, soreness or a small bump, mild drowsiness, and occasional headache or sleep changes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Breakdown, an educational blog with affiliate links, says injection-site irritation may occur and that sleep, circadian or alertness responses vary, while stating the frequency of adverse effects has not been well established.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -107,5 +107,259 @@
       "finding": "FOXO4-DRI binds the disordered p53 transactivation domain, which explains its mechanism. Laboratory data only."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose exists. Mice got 5 mg/kg by injection into the belly cavity. Online sources describe anything from 250 micrograms to 25 mg per injection, with none of it tested in people.",
+      "items": [
+        {
+          "text": "Animal study only, not human data: aged male mice (20 to 24 months) received 5 mg/kg by intraperitoneal injection (into the belly cavity) every other day for three doses.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-31959736"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says research community protocols use 3 to 25 mg per injection, that this is highly variable, and that no established human dose exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptibase, a site that links to sellers, says 2 to 10 mg every other day for 3 doses is one course, within a broader range of 2 to 25 mg per injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says a community-reported schedule of 250 micrograms daily for weeks 1 to 4, 375 micrograms for weeks 5 to 8 and 500 micrograms for weeks 9 to 16, under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested a time of day. One seller-linked site says none has been established.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says no specific time of day is established.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No food rule has been studied. One seller-linked site says it can be taken with or without food.",
+      "items": [
+        {
+          "text": "Peptibase, a site that links to sellers, says it is taken with or without food, with no fasting requirement.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "In mice it was given every other day for three doses. Online sources describe short courses of 3 to 6 doses every other day, or daily injections for 16 weeks. None of this has been tested in people.",
+      "items": [
+        {
+          "text": "In the aged-mouse study, FOXO4-DRI was given every other day for three administrations.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-31959736"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says community protocols use every other day for 3 to 6 doses per cycle, and published research used three times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptibase, a site that links to sellers, says the standard protocol is 3 doses every other day, one course being 3 doses over 5 to 6 days, rather than daily dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says daily injections throughout a 16-week schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human or long-term animal data on course length or rest periods. Online sources describe short courses repeated 1 to 3 times a year, but one describes a continuous 16-week schedule.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says cycles are short, 3 to 6 doses, repeated 1 to 3 times per year, with recovery windows between treatments.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptibase, a site that links to sellers, says courses are given 1 to 3 times per year.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says a 16-week dosing schedule with no rest period stated afterward, which differs from the short-course schedules on other sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Animal studies used injection into the belly cavity or a vein. Online sources say to keep powder frozen and mixed solution refrigerated for a short time. No label or study covers handling.",
+      "items": [
+        {
+          "text": "In the aged-mouse study the peptide was injected into the belly cavity (intraperitoneal), not under the skin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-31959736"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says animal studies used intraperitoneal or intravenous injection, that under-the-skin use appears only in community reports and is untested in humans, and that dry powder is stored at -20 C while mixed solution is kept at 2 to 8 C and used within a short window.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says site rotation and fresh supplies are commonly cited handling practices linked to less irritation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, a site that lists peptide sellers, says dry powder is stored at -20 C or below, and mixed solution at 2 to 8 C for up to 28 days, using bacteriostatic water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Designed to block the FOXO4 and p53 partnership inside aged (senescent) cells so they self-destruct. This was shown in cells and mice only, not in people.",
+      "items": [
+        {
+          "text": "In senescent cells the peptide caused p53 to leave the nucleus and triggered cell death (apoptosis). Cell and mouse data, from the 2017 Cell paper.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-28340339"
+        },
+        {
+          "text": "Structural lab work (NMR) found that FOXO4-DRI binds the disordered p53 activation region, which explains how it works. Laboratory data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-40593617"
+        },
+        {
+          "text": "Wikipedia describes FOXO4-DRI as a synthetic all-D-amino-acid retro-inverso peptide that blocks FOXO4, which frees p53 to trigger death of senescent cells while sparing healthy cells. The article cites only preclinical work.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/FOXO4-DRI",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No human data exist. In aged mice it improved fitness, fur density, kidney function and testosterone production. In human cartilage cells it cleared cells but did not improve cartilage quality.",
+      "items": [
+        {
+          "text": "Mouse results: in fast-aging and naturally aged mice it improved fitness, fur density and kidney function, and countered doxorubicin toxicity. No human trial exists.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-28340339"
+        },
+        {
+          "text": "In naturally aged mice it raised testosterone output by clearing senescent Leydig (testis) cells. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-31959736"
+        },
+        {
+          "text": "In human cartilage cells grown in a dish it removed more than half the cells at later passage but did not improve cartilage-forming potential.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33996787"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "No human data",
+      "summary": "FOXO4-DRI has never been tested in people, so no human side effects are documented. Seller-linked sites list theoretical concerns only.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to sellers, says no human side effects are documented because it has not been tested in people, and lists theoretical concerns including unintended cell death, immune burden from clearing dead cells, impaired wound healing and injection-site irritation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In animals",
+      "summary": "In rodents, clearing senescent cells, including with FOXO4-DRI, worsened pulmonary hypertension (high blood pressure in the lung arteries). This is a safety signal and is not human data.",
+      "items": [
+        {
+          "text": "A rodent study found that eliminating senescent cells, including with FOXO4-DRI, promoted development and progression of pulmonary hypertension in mice and rats (animal study).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-36515093"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "One seller-linked site lists injection-site burning or itching, fatigue, muscle soreness and nausea, while also saying human safety data are limited. No source for these was given.",
+      "items": [
+        {
+          "text": "Peptibase, a site that links to sellers, says side effects are injection site reactions (burning, itching), fatigue, muscle soreness and nausea, that it is generally well tolerated in animal studies, and that human safety data are limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
