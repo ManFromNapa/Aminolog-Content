@@ -115,15 +115,6 @@
       "finding": "Labeled as an adjunct to diet and exercise for glycemic control in adults and children aged 10 and older with type 2 diabetes, at 2 mg once weekly; carries a boxed warning for thyroid C-cell tumors in rats."
     },
     {
-      "id": "fda-bydureon-bcise-label",
-      "evidence_type": "fda_label",
-      "source_kind": "fda",
-      "identifier": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/209210s025lbl.pdf",
-      "year": 2025,
-      "summary": "FDA prescribing information (Drugs@FDA label PDF) for Bydureon BCise (exenatide extended-release injectable suspension), AstraZeneca, revised May 2025.",
-      "finding": "Labeled as an adjunct to diet and exercise for glycemic control in adults and children aged 10 and older with type 2 diabetes, at 2 mg once weekly; carries a boxed warning for thyroid C-cell tumors in rats."
-    },
-    {
       "id": "fda-bydureon-daf",
       "evidence_type": "regulatory_document",
       "source_kind": "fda",
@@ -140,42 +131,6 @@
       "year": 2005,
       "summary": "Triple-blind placebo-controlled 30-week trial of exenatide in 336 metformin-treated patients with type 2 diabetes.",
       "finding": "HbA1c fell 0.78% (higher-dose arm) and 0.40% versus a 0.08% rise on placebo, with dose-dependent weight loss and low hypoglycemia."
-    },
-    {
-      "id": "drucker-2008",
-      "evidence_type": "human_trial",
-      "source_kind": "pubmed",
-      "identifier": "18782641",
-      "year": 2008,
-      "summary": "30-week randomized open-label non-inferiority trial of exenatide 2 mg once weekly versus 10 mcg twice daily in 295 adults with type 2 diabetes (Drucker et al., Lancet).",
-      "finding": "HbA1c fell 1.9% with once-weekly versus 1.5% with twice-daily exenatide, with no increased risk of hypoglycemia and similar weight loss."
-    },
-    {
-      "id": "henry-2016-duration1",
-      "evidence_type": "human_trial",
-      "source_kind": "pubmed",
-      "identifier": "27525540",
-      "year": 2016,
-      "summary": "Uncontrolled open-label extension of the DURATION-1 trial: 295 adults with type 2 diabetes started exenatide once weekly or twice daily, then all received 2 mg once weekly for up to 6 years; 136 (46%) completed (Henry et al., Diabetes Technol Ther).",
-      "finding": "Six-year completers kept an HbA1c reduction of 1.6% and lost 4.2 kg, with no unexpected adverse events."
-    },
-    {
-      "id": "exscel-2017",
-      "evidence_type": "human_trial",
-      "source_kind": "pubmed",
-      "identifier": "28910237",
-      "year": 2017,
-      "summary": "EXSCEL: randomized double-blind trial of exenatide 2 mg once weekly versus placebo in 14,752 adults with type 2 diabetes, median follow-up 3.2 years (Holman et al., N Engl J Med).",
-      "finding": "Major cardiovascular events occurred in 11.4% versus 12.2% (hazard ratio 0.91): safe compared with placebo but not shown to be superior; pancreatitis, pancreatic cancer and thyroid cancer rates did not differ."
-    },
-    {
-      "id": "vijiaratnam-2025",
-      "evidence_type": "human_trial",
-      "source_kind": "pubmed",
-      "identifier": "39919773",
-      "year": 2025,
-      "summary": "Phase 3 randomized double-blind trial of exenatide 2 mg once weekly versus placebo for 96 weeks in 194 people with Parkinson's disease in the UK (Vijiaratnam et al., Lancet).",
-      "finding": "No benefit on the main Parkinson's score at 96 weeks: scores worsened by 5.7 points on exenatide versus 4.5 on placebo (p=0.47)."
     },
     {
       "id": "drucker-2008",

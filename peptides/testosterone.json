@@ -289,69 +289,6 @@
       "year": 2026,
       "summary": "Retrospective two-center cohort of 79 recreational anabolic steroid users who used steroids for 6 months or less, compared no treatment, clomiphene, or clomiphene plus hCG afterward (Ibis et al., BJU Int).",
       "finding": "Hormones normalized by month 6 in all groups; at 12 months normal sperm counts were seen in 87.5% with clomiphene plus hCG, 69.2% with clomiphene and 58.6% with no treatment."
-    },
-    {
-      "id": "fda-testosterone-enanthate-label",
-      "evidence_type": "fda_label",
-      "source_kind": "fda",
-      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
-      "year": 2026,
-      "summary": "FDA-approved DailyMed label for testosterone enanthate injection (Hikma), an intramuscular oil-based product, Schedule III.",
-      "finding": "Replacement dose 50 to 400 mg every 2 to 4 weeks; states total doses above 400 mg per month are not required and injections more often than every two weeks are rarely indicated; includes a blood pressure warning."
-    },
-    {
-      "id": "fda-androgel-label",
-      "evidence_type": "fda_label",
-      "source_kind": "fda",
-      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
-      "year": 2025,
-      "summary": "FDA-approved DailyMed label for AndroGel 1.62% (testosterone gel), a skin-applied product, Schedule III, labeling updated July 2025.",
-      "finding": "Starting dose 40.5 mg once daily in the morning on shoulders and upper arms; warnings include secondary exposure of children and women, blood pressure increases, polycythemia, venous thromboembolism and effects on sperm production."
-    },
-    {
-      "id": "fda-jatenzo-label",
-      "evidence_type": "fda_label",
-      "source_kind": "fda",
-      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
-      "year": 2026,
-      "summary": "FDA-approved DailyMed label for Jatenzo (testosterone undecanoate) oral capsules.",
-      "finding": "Taken twice daily with food; ambulatory blood pressure monitoring showed average rises of 4.9/2.5 mm Hg after 4 months; warnings cover polycythemia, venous thromboembolism and effects on sperm production."
-    },
-    {
-      "id": "fda-testopel-label",
-      "evidence_type": "fda_label",
-      "source_kind": "fda",
-      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03b9c0b1-5884-11e4-8ed6-0800200c9a66",
-      "year": 2025,
-      "summary": "FDA-approved DailyMed label for Testopel (testosterone pellets), implanted under the skin, revised July 2025.",
-      "finding": "Dosage guideline 150 to 450 mg implanted subcutaneously every 3 to 6 months; post-marketing reports of implant site infection and pellet extrusion, mostly within the first month."
-    },
-    {
-      "id": "bhasin-1996-nejm",
-      "evidence_type": "human_trial",
-      "source_kind": "pubmed",
-      "identifier": "8637535",
-      "year": 1996,
-      "summary": "Randomized trial of 43 healthy men given 600 mg testosterone enanthate or placebo weekly for 10 weeks, with or without weight training (Bhasin et al., N Engl J Med).",
-      "finding": "Testosterone increased muscle size and strength in men who did not exercise, and more so in men who lifted weights; mood and behavior did not change in any group."
-    },
-    {
-      "id": "liu-2006-spermatogenic-recovery",
-      "evidence_type": "systematic_review",
-      "source_kind": "pubmed",
-      "identifier": "16650651",
-      "year": 2006,
-      "summary": "Integrated analysis of individual data from 30 studies of 1549 healthy men on androgen-based hormonal contraception, tracking sperm recovery after stopping (Liu et al., Lancet).",
-      "finding": "Sperm concentration recovered to 20 million per mL in a median of 3.4 months; the chance of recovery was 67% within 6 months, 90% within 12 months and 100% within 24 months."
-    },
-    {
-      "id": "ibis-2026-post-cycle-therapy",
-      "evidence_type": "human_trial",
-      "source_kind": "pubmed",
-      "identifier": "41147237",
-      "year": 2026,
-      "summary": "Retrospective two-center cohort of 79 recreational anabolic steroid users who used steroids for 6 months or less, compared no treatment, clomiphene, or clomiphene plus hCG afterward (Ibis et al., BJU Int).",
-      "finding": "Hormones normalized by month 6 in all groups; at 12 months normal sperm counts were seen in 87.5% with clomiphene plus hCG, 69.2% with clomiphene and 58.6% with no treatment."
     }
   ],
   "how_to_take": {
