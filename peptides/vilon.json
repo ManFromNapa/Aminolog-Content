@@ -10,7 +10,7 @@
   "regulatory_status": "unapproved",
   "category": "immune_inflammation",
   "compound_type": "peptide",
-  "used_for": "A synthetic dipeptide (Lys-Glu) developed by the Khavinson group as the smallest active fragment of thymalin, promoted online as an immune and anti-aging bioregulator. Evidence is cell and animal work from the originating network (mice with longer lifespan and fewer spontaneous tumors) and gene-expression studies. No human trial of vilon alone was found, and it is not an approved drug.",
+  "used_for": "A synthetic dipeptide (Lys-Glu) developed by the Khavinson group as the smallest active fragment of thymalin, promoted online as an immune and anti-aging bioregulator. Evidence is cell and animal work from the originating network (mice with longer lifespan and fewer spontaneous tumors) and gene-expression studies. Three small human reports from the same network (type 1 diabetes and elderly colon and rectal cancer) describe vilon added to standard treatment; their abstracts give no control group, patient numbers or doses. No controlled human trial of vilon alone was found, and it is not an approved drug.",
   "dosing": {
     "basis": "studied",
     "entries": [],
@@ -91,7 +91,393 @@
       "year": 2020,
       "summary": "Cell-culture study (Mol Biol Rep) of Lys-Glu and related short peptides in aging human mesenchymal stem cell cultures.",
       "finding": "The peptides altered expression of IGF1, FOXO1, TERT, TNKS2 and NFkB genes. Cell data only."
+    },
+    {
+      "id": "pmid-18306698",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "18306698",
+      "year": 2007,
+      "summary": "Report from a Russian group (Kuznik et al., Adv Gerontol) of vilon added to standard treatment in elderly patients with type 1 diabetes. The abstract gives no control group, patient number, dose or course length.",
+      "finding": "Authors report better blood-clotting balance, less insulin needed in most cases, and normalized levels of some immune cells and IgA. Uncontrolled as described in the abstract."
+    },
+    {
+      "id": "pmid-17152731",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "17152731",
+      "year": 2006,
+      "summary": "Report (Kuznik et al., Adv Gerontol) of vilon given to patients of different ages with type 1 diabetes who had abnormal blood clotting. The abstract gives no control group, patient number, dose or course length.",
+      "finding": "Authors report that vilon reduced or removed the clotting abnormality (a chronic form of disseminated intravascular coagulation), with a weaker effect in elderly patients with severe disease."
+    },
+    {
+      "id": "pmid-16075684",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "16075684",
+      "year": 2005,
+      "summary": "Report (Iaskevich et al., Adv Gerontol, with Khavinson as an author) of vilon added to surgery, chemotherapy and radiotherapy in elderly patients with stage III colon and rectal cancer. The abstract gives no control group, patient number, dose or course length.",
+      "finding": "Authors call the results preliminary and suggest vilon may improve 2-year survival and reduce complications and recurrence. No numbers are given in the abstract."
+    },
+    {
+      "id": "pmid-15105581",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "15105581",
+      "year": 2004,
+      "summary": "Lab study (Lezhava et al., Biogerontology) of vilon on cultured blood lymphocytes taken from old people.",
+      "finding": "Vilon loosened tightly packed chromatin (DNA packaging) and reactivated some silenced genes in the cultured cells. Cell data only."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose has been established. Online sources describe about 200 to 500 micrograms (mcg) under the skin once daily for short courses, or 67 to 670 mcg. No human report found states the dose used.",
+      "items": [
+        {
+          "text": "Three small Russian human reports of vilon added to standard care (type 1 diabetes and elderly colon and rectal cancer) were found. Their abstracts give no dose, so these reports do not support any particular dose.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18306698"
+        },
+        {
+          "text": "Peptide Initiative, an education site, says an introductory range of 200 to 500 mcg under the skin once daily for 5 to 10 days, and 500 mcg once daily for 10 to 12 days as a fuller course, and describes it as research use only.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says the dose can be raised if the current dose has been tolerated and goals are not met, and lowered if side effects bother the user.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, says 67 to 670 mcg per day under the skin, and says the subcutaneous route is the main one, with intranasal and oral use appearing in Russian research.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says community reports describe 100 to 500 mcg once daily under the skin, with 100 mcg a common starting dose, and also lists Russian oral capsules at 1 to 2 capsules daily. It notes no study shows that oral vilon is absorbed or works.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study or label addresses time of day. Peptide Initiative says to use a consistent time, morning or evening.",
+      "items": [
+        {
+          "text": "Peptide Initiative says to take it at the same time each day and that many users prefer morning or evening.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study addresses food. Peptide Initiative says injections can be given regardless of meals, and Peptide Protocol Wiki describes oral capsules with meals.",
+      "items": [
+        {
+          "text": "Peptide Initiative says injections can be given regardless of meal timing, and that an empty stomach or a light meal may help if stomach upset occurs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki lists Russian oral capsules taken 1 to 2 times daily with meals, and says this use has no controlled human trial support.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human schedule has been tested. Online sources describe once daily for 5 to 12 days, with courses repeated a few times a year.",
+      "items": [
+        {
+          "text": "Peptide Initiative says once daily during a course, and that courses are repeated 2 to 3 times a year (5 to 10 day course) or every 3 to 6 months (10 to 12 day course).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says that if a dose is missed, follow a healthcare provider's instructions and do not double up.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, says 5 consecutive days of dosing, repeated every 3 to 6 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says community reports describe once daily dosing under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Only mouse studies tested long-term use. For people, online sources describe short courses of 5 to 12 days repeated every 3 to 6 months.",
+      "items": [
+        {
+          "text": "In female mice, vilon injected under the skin from 6 months of age and continued long term extended lifespan, with no unfavourable effects on development reported. This is animal data from the originating group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11140587"
+        },
+        {
+          "text": "The human reports found give no course length in their abstracts, so the length of any human course is unknown.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16075684"
+        },
+        {
+          "text": "Peptide Initiative says 5 to 10 day courses repeated 2 to 3 times yearly, or 10 to 12 day courses repeated every 3 to 6 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, says 5 days on and 3 to 6 months off is the established pattern for this type of peptide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki lists Russian oral capsules for 10 to 30 days, repeated every 4 to 6 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. Online sources disagree: Peptide Initiative and Peptides Institute say refrigerate at 2 to 8 C, while Peptide Protocol Wiki says freeze the powder at -20 C.",
+      "items": [
+        {
+          "text": "Peptide Initiative says unmixed vilon is kept in the refrigerator at 2 to 8 C (36 to 46 F) in its box, protected from light and moisture, and not frozen. After mixing it is kept refrigerated and used within the time on the product label, typically 14 to 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says to discard the vial if the solution is cloudy, discolored or has particles, or if it was frozen or exposed to out-of-range temperatures.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says to inject under the skin of the abdomen (at least 2 inches from the navel), front of the thigh or back of the upper arm, with a 27 to 30 gauge needle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, says reconstituted product is refrigerated at 2 to 8 C and used within 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says to store the powder at -20 C, protected from light and moisture, and to use reconstituted solution promptly or freeze it in portions, and elsewhere says refrigerated solution should generally be used within 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "How vilon acts in people is not known. Lab and animal studies show it changes gene activity in several cell types; online sources go further and say it binds DNA.",
+      "items": [
+        {
+          "text": "In human stem cell cultures, the vilon dipeptide (Lys-Glu) changed the activity of IGF1, FOXO1, TERT, TNKS2 and NFkB genes at very low concentrations. Cell data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-32399807"
+        },
+        {
+          "text": "In cultured lymphocytes from old people, vilon loosened tightly packed chromatin and reactivated some silenced genes. Cell data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-15105581"
+        },
+        {
+          "text": "In mouse heart tissue, vilon changed the activity of 36 of about 15,000 genes tested by more than two-fold. Animal data only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-12360356"
+        },
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, says vilon binds DNA and histone proteins to switch silenced genes back on, and boosts T-cell growth and interleukin-2 signaling. This is a proposed mechanism, not shown in people.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Longer lifespan and fewer spontaneous tumors in mice. Three small human reports from the originating network describe benefits, but their abstracts show no controls or numbers.",
+      "items": [
+        {
+          "text": "In female mice given vilon under the skin from 6 months of age, lifespan was longer, physical endurance rose, and spontaneous tumors were prevented.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11140587"
+        },
+        {
+          "text": "An earlier mouse report from the same group states that vilon inhibited growth of spontaneous tumors and increased lifespan. No abstract is available.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-10944717"
+        },
+        {
+          "text": "In elderly patients with type 1 diabetes, the authors report less insulin needed in most cases and better clotting balance. The abstract describes no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18306698"
+        },
+        {
+          "text": "In patients with type 1 diabetes and abnormal clotting, the authors report vilon reduced or removed the clotting abnormality. The abstract describes no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17152731"
+        },
+        {
+          "text": "In elderly colon and rectal cancer patients, the authors call results preliminary and suggest better 2-year survival. The abstract gives no numbers or control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-16075684"
+        },
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, says vilon promotes T-lymphocyte proliferation, protects blood vessels and extended lifespan in animals, while stating that human clinical data are limited and that it is not FDA or EMA approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In animals and people",
+      "summary": "Mouse work reported no harm from long-term use. The human reports found do not describe side effects in their abstracts.",
+      "items": [
+        {
+          "text": "In a mouse study, long-term vilon administration was reported to cause no unfavourable effects on animal development.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-11140587"
+        },
+        {
+          "text": "The abstracts of the three small human reports found (diabetes and colon or rectal cancer) do not report side effects, so human safety is not documented here.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-18306698"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources describe injection-site reactions, tiredness and mild headache as common and mild. These claims are not backed by a controlled trial.",
+      "items": [
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, lists injection-site reactions, transient fatigue and mild headache, with theoretical concerns about immune hyperstimulation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative lists injection site reaction, mild fatigue, mild headache and digestive changes as commonly reported, and flu-like symptoms as less common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says side effects are infrequent and mild, mainly injection-site discomfort, with occasional mild stomach upset (nausea, loose stools) with oral capsules at higher doses. It also says no tolerance or autoimmune effects were documented in Russian observational use, which no controlled study confirms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Online sources warn against use with active autoimmune disease or immunosuppressant drugs because vilon is said to stimulate T cells. This is theoretical.",
+      "items": [
+        {
+          "text": "Peptides Institute, an education site with affiliate links to sellers, lists active autoimmune disease and immunosuppressant use as contraindications, and also lists active lymphoproliferative malignancy, pregnancy or breastfeeding.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative flags immunosuppressive drugs (cyclosporine, tacrolimus, mycophenolate) and high-dose corticosteroids as pairings to use with caution, and says to stop and seek help for signs of an allergic reaction.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/vilon",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
