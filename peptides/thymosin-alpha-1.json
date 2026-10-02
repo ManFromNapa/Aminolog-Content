@@ -636,7 +636,7 @@
         {
           "text": "FDA's page lists thymosin-alpha-1 as a nominated but withdrawn bulk substance and says compounded versions may carry a significant risk of immunogenicity (immune reaction) for certain routes, with impurity concerns. It does not say the substance is approved.",
           "label": "research",
-          "validity": "moderate",
+          "validity": "strong",
           "citation_id": "fda-cat2-bulks-page"
         }
       ]

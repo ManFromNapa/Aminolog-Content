@@ -537,7 +537,7 @@
         {
           "text": "FDA's page on compounding bulk substances says compounded Melanotan II may pose a risk of immune reactions from peptide clumping or impurities, and that published case reports describe serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.",
           "label": "research",
-          "validity": "low",
+          "validity": "strong",
           "citation_id": "fda-bulks-page"
         },
         {

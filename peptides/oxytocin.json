@@ -160,7 +160,485 @@
       "year": 2026,
       "summary": "12-week randomized double-blind placebo-controlled multisite trial of intranasal oxytocin in 100 people with alcohol use disorder.",
       "finding": "No significant difference in percent heavy drinking days during maintenance; lower anger and aggression scores with oxytocin; well tolerated with mild adverse events."
+    },
+    {
+      "id": "de-cagna-2019",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "30690935",
+      "year": 2019,
+      "summary": "Systematic review of 15 randomized controlled trials of intranasal oxytocin in anxiety and depressive disorders (De Cagna, Fusar-Poli, Damiani et al., Clinical Psychopharmacology and Neuroscience).",
+      "finding": "Mostly single-dose studies (13 of 15) with no significant effects on core symptoms; the authors concluded evidence is inconclusive and called for larger trials with long-term dosing."
+    },
+    {
+      "id": "ott-2013",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23835346",
+      "year": 2013,
+      "summary": "Placebo-controlled study of intranasal oxytocin on food intake and metabolism in healthy men, tested fasted with intake measured 45 minutes after dosing (Ott, Finlayson, Lehnert et al., Diabetes).",
+      "finding": "Oxytocin cut chocolate cookie intake by 25%, lowered stress hormone levels and curbed the meal-related rise in blood glucose; hunger-driven intake was unchanged."
+    },
+    {
+      "id": "bales-2013",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "23079235",
+      "year": 2013,
+      "summary": "Study of 89 prairie voles given intranasal oxytocin or saline daily from weaning (day 21) to sexual maturity (day 42) (Bales et al., Biological Psychiatry).",
+      "finding": "Low-dose developmental treatment led to a long-term deficit in partner preference in male voles after treatment stopped."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "The label covers hospital use only: an intravenous drip starting at 0.5 to 1 milliunit per minute for labor, or 10 units into a muscle after delivery for bleeding. Nasal studies in autism and alcohol use disorder used about 24 to 70 international units (IU) a day, and online sources describe 20 to 50 IU doses that no label covers.",
+      "items": [
+        {
+          "text": "Label: Pitocin (oxytocin injection) for labor induction or stimulation is given only by intravenous infusion, with an initial dose of 0.5 to 1 milliunit per minute, increased in increments of 1 to 2 milliunits per minute at 30 to 60 minute intervals until the desired contraction pattern is reached.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "Label: Pitocin for control of postpartum uterine bleeding is described as 10 units given intramuscularly after delivery of the placenta, or 10 to 40 units added to an intravenous infusion running (maximum 40 units to 1000 mL).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "Label: Pitocin for incomplete, inevitable, or elective abortion is described as an intravenous infusion of 10 units in 500 mL of physiologic saline or 5% dextrose-in-water after curettage.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "The Pitocin label states the product is for intravenous infusion or intramuscular injection, that for induction or augmentation of labor it is to be given only by the intravenous route under adequate medical supervision in a hospital, and that patients receiving intravenous oxytocin need continuous observation by trained personnel.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "A 24-week placebo-controlled trial in 290 children and adolescents with autism used intranasal oxytocin with a total target dose of 48 IU daily. A 12-week trial in 100 adults with alcohol use disorder used up to 70 IU per day.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sikich-2021"
+        },
+        {
+          "text": "A 2019 systematic review of 15 randomized trials of intranasal oxytocin in anxiety and depression found doses of 16 to 40 IU, most often 24 IU.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "de-cagna-2019"
+        },
+        {
+          "text": "A peptide education website (SeekPeptides) says intranasal oxytocin is commonly cited at 24 IU (about 40 mcg) as three sprays per nostril, 10 to 20 IU for anxiety or mood uses, and 24 to 32 IU for sexual enhancement. The site promotes its own membership service.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Defy Medical, a telehealth company, says oxytocin troches (dissolving tablets held in the cheek) are suggested at 25 to 50 IU once daily to increase desire, with an extra 25 IU 20 to 30 minutes before sex. The company sells peptide therapies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy that sells it, lists its oxytocin nasal spray as 1 to 2 sprays in each nostril once daily, with the prescriber free to choose other doses. The page says the product has not been evaluated by the FDA.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says intravenous effects begin almost at once and fade within about 1 hour, and intramuscular effects begin in 3 to 5 minutes and last 2 to 3 hours. Online sources describe nasal doses in the morning, before social events, or troches at bedtime, none of which has been tested.",
+      "items": [
+        {
+          "text": "The Pitocin label states uterine response begins almost immediately after intravenous administration and subsides within about 1 hour, and begins within 3 to 5 minutes after intramuscular injection and lasts 2 to 3 hours; plasma half-life is about 1 to 6 minutes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "In a study of healthy men, intranasal oxytocin was given and food intake was measured 45 minutes later (Ott et al., Diabetes 2013).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ott-2013"
+        },
+        {
+          "text": "Wikipedia's oxytocin medication article says intranasal oxytocin has a central duration of at least 2.25 hours and as long as 4 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Oxytocin_(medication)",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, which links to outside suppliers, says morning or early afternoon is preferred for research protocols and that nasal doses are given 30 to 45 minutes before behavioral assessments or therapy sessions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to a vendor directory, says no time of day is required, that daily users can dose in the morning to match social interactions, and that effects begin 30 to 45 minutes after a dose and last 2 to 4 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Defy Medical, a telehealth company that sells peptide therapies, recommends oxytocin troches at bedtime because of possible orthostatic hypotension (a drop in blood pressure on standing).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label has no food rule, but it warns about water intoxication when oxytocin runs continuously and the patient is also drinking fluids. A small study in healthy fasted men found nasal oxytocin cut snack intake and blunted the glucose rise after a meal. No online source found gives a food rule.",
+      "items": [
+        {
+          "text": "The Pitocin label states oxytocin has an intrinsic antidiuretic effect that increases water reabsorption, so water intoxication should be considered, particularly when it is given continuously by infusion and the patient is receiving fluids by mouth.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "In healthy men tested fasted, intranasal oxytocin cut chocolate cookie intake by 25%, lowered stress hormone levels and curbed the meal-related rise in blood glucose (Ott et al., Diabetes 2013). Hunger-driven food intake was not affected.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ott-2013"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label describes a hospital drip adjusted every 30 to 60 minutes, or a single intramuscular dose after delivery, and gives no missed-dose rule. Nasal trials ranged from daily dosing to a single dose, and most trials in one review gave only one dose. Online sources suggest once or twice daily or as needed.",
+      "items": [
+        {
+          "text": "Label: for labor, the infusion rate is raised every 30 to 60 minutes until the desired contraction pattern is reached, and the infusion can be stopped abruptly if contractions become too strong. For postpartum bleeding, 10 units is given once intramuscularly after delivery of the placenta.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "A placebo-controlled trial of intranasal oxytocin in children and adolescents with autism gave it every day over 24 weeks and reported adverse events similar between the oxytocin and placebo groups.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sikich-2021"
+        },
+        {
+          "text": "In a 2019 systematic review of 15 randomized trials of intranasal oxytocin in anxiety and depression, 13 studied only a single dose. One anxiety trial used 24 IU once a week for 4 weeks, and one depression study used 16 IU once daily for 12 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "de-cagna-2019"
+        },
+        {
+          "text": "Alzforum says dementia trials used a single 24 IU dose, then 24, 48 or 72 IU twice daily for one week, then 72 IU given daily, every other day, or every third day for six weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.alzforum.org/therapeutics/intranasal-oxytocin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A blogger with affiliate links says he favors sublingual or nasal oxytocin, advises using it around specific romantic occasions rather than every day because of its short half-life.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to a vendor directory, describes as-needed use 1 to 3 times a week before specific situations, or once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, which links to outside suppliers, says nasal doses are used once or twice daily for research protocols, or as a single dose before therapy sessions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest human trial found ran 24 weeks in autism and found no benefit over placebo. A vole study of daily nasal oxytocin for three weeks found impaired pair bonding later, but this is animal data. Online sources describe 2 to 4 weeks on and 2 weeks off, with no study behind it.",
+      "items": [
+        {
+          "text": "In the 24-week autism trial, intranasal oxytocin did not beat placebo on social withdrawal. A 12-week alcohol use disorder trial found no significant difference in heavy drinking days, with a small numerically larger reduction in weeks 9 to 12.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sikich-2021"
+        },
+        {
+          "text": "In young prairie voles given intranasal oxytocin daily from weaning through sexual maturity (about 3 weeks, 89 animals), low doses led to a deficit in pair bonding after treatment stopped. The authors say long-term treatment may differ from short-term results and that safe chronic use needs further animal study.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "bales-2013"
+        },
+        {
+          "text": "Alzforum says in a 2009 to 2010 pilot of 20 people with frontotemporal dementia, improvement in neuropsychiatric scores 8 hours after a dose had disappeared by one week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.alzforum.org/therapeutics/intranasal-oxytocin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to a vendor directory, says oxytocin cycles are 2 to 4 weeks on and 2 weeks off, with a conservative option of 2 weeks on and 2 off, or no cycle for as-needed use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, which links to outside suppliers, says nasal protocols run 4 to 24 weeks in clinical research, or as a single dose for acute social studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The label says store the injection vials at 20 to 25 C (room temperature). Online sellers refrigerate their compounded nasal sprays at 2 to 8 C, and one wiki says injectable oxytocin is refrigerated, which differs from the label.",
+      "items": [
+        {
+          "text": "The Pitocin label states the vials are stored at controlled room temperature (20 to 25 C).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "The Pitocin label states the standard infusion is made by adding one 10 unit vial to 1000 mL of 0.9% sodium chloride or Ringer's lactate, and that parenteral products should be inspected for particles and discoloration before use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "Wikipedia's oxytocin medication article says oxytocin can be given by injection into a muscle or vein or as an intranasal spray, and that oxytocin is poorly absorbed sublingually.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Oxytocin_(medication)",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, which links to outside suppliers, says to store injectable oxytocin at 2 to 8 C, protected from light and not frozen. This differs from the Pitocin label, which says room temperature (20 to 25 C).",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, which links to outside suppliers, says intranasal oxytocin is stored at room temperature (15 to 25 C) or as the manufacturer specifies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy that sells it, says its compounded oxytocin nasal spray is refrigerated at 2 to 8 C, with temporary excursions up to 25 C for up to 24 hours in shipping.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides, a site that links to a vendor directory, says to refrigerate at 2 to 8 C and use within 28 days of reconstitution.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Oxytocin acts on receptors in the uterus to raise calcium inside muscle cells and make it contract. In the brain, nasal oxytocin is thought to travel along the smell nerve, though the exact route in people is not settled.",
+      "items": [
+        {
+          "text": "The Pitocin label states oxytocin promotes uterine contractions by increasing intracellular calcium, that the number of its receptors in the uterus rises greatly in pregnancy, and that even in pure form it has pressor (blood pressure raising) and antidiuretic properties at large doses.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "Wikipedia's oxytocin medication article says nasal oxytocin is thought to reach the brain along the olfactory nerve.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Oxytocin_(medication)",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "The label supports hospital use of injected oxytocin for labor, incomplete abortion and postpartum bleeding. For the nasal route, the large trials in autism and alcohol use disorder found no clear benefit over placebo, and a review of anxiety and depression trials called the evidence inconclusive.",
+      "items": [
+        {
+          "text": "The Pitocin label lists indications of medically indicated labor induction, stimulation of labor, adjunct therapy in incomplete or inevitable abortion, and control of postpartum bleeding. It states Pitocin is not indicated for elective induction of labor.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "In a 290-participant trial in autism, the change in the social withdrawal score was -3.7 with oxytocin and -3.5 with placebo (difference -0.2, 95% CI -1.5 to 1.0).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sikich-2021"
+        },
+        {
+          "text": "In a 100-participant alcohol use disorder trial, heavy drinking days did not differ significantly between oxytocin and placebo, though anger and physical aggression scores were lower with oxytocin.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "aud-2026"
+        },
+        {
+          "text": "A 2019 systematic review of 15 randomized trials found no significant effects on core symptoms of anxiety or depression and called the evidence inconclusive, noting most studies used a single dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "de-cagna-2019"
+        },
+        {
+          "text": "Wikipedia says intranasal oxytocin shows potential in autism, anxiety disorders and post-traumatic stress disorder (PTSD) but that the evidence is limited, and that it may improve recognition of positive social cues.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Oxytocin_(medication)",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Alzforum says intranasal oxytocin is under investigation for frontotemporal dementia, autism, schizophrenia, pain, substance use disorders, obesity, personality disorders and PTSD.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.alzforum.org/therapeutics/intranasal-oxytocin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A Substack author with affiliate links promotes exogenous oxytocin for bonding, sexual desire and intimacy while acknowledging trials show it does not beat placebo for sexual quality.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Labeled (hospital use)",
+      "summary": "The label lists serious maternal and newborn reactions from intravenous use in labor, including water intoxication, rupture of the uterus and heart rhythm problems.",
+      "items": [
+        {
+          "text": "The Pitocin label lists maternal adverse reactions including anaphylaxis, cardiac arrhythmia, hypertensive episodes, nausea, vomiting, postpartum hemorrhage, uterine rupture and subarachnoid hemorrhage, and states that severe water intoxication with convulsions and coma, and maternal death from water intoxication, have been reported.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        },
+        {
+          "text": "The Pitocin label lists neonatal reactions including bradycardia, low Apgar scores, neonatal jaundice, retinal hemorrhage, seizures and fetal death, and states it is not indicated for elective induction of labor.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pitocin-label"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "Nasal oxytocin trials reported side effects about as common as placebo, but one dementia study saw more inappropriate sexual behavior.",
+      "items": [
+        {
+          "text": "In the 24-week intranasal oxytocin trial in children with autism, the authors reported the incidence and severity of adverse events was similar in the oxytocin and placebo groups.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sikich-2021"
+        },
+        {
+          "text": "In a 12-week placebo-controlled trial of intranasal oxytocin in people with alcohol use disorder, the authors reported the treatment was well tolerated with mild adverse events comparable across groups. The most common event in both groups was reduced sense of smell (hyposmia).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "aud-2026"
+        },
+        {
+          "text": "A 2019 systematic review of 15 randomized trials of intranasal oxytocin in anxiety and depression reported that in the anxiety studies 37% of participants had adverse events, mainly jitteriness, nervousness, dry mouth and drowsiness, with no difference between oxytocin and placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "de-cagna-2019"
+        },
+        {
+          "text": "Alzforum says that in an early dementia safety study (24 to 72 IU twice daily for one week), about one third of treated patients showed more inappropriate sexual behavior.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.alzforum.org/therapeutics/intranasal-oxytocin",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Sellers list lightheadedness, headache, drowsiness and nasal irritation. Bloggers mention bonding with whoever is present and one case of depersonalization.",
+      "items": [
+        {
+          "text": "Defy Medical, a telehealth company that sells peptide therapies, lists lightheadedness, vertigo, drowsiness, dry throat or mouth, abdominal pain, anxiousness, euphoria, calmness and headache as side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy that sells it, lists transient nasal burning, runny nose, headache and mild nausea as common, and dizziness, palpitations or flushing as infrequent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A blogger with affiliate links says oxytocin can make a person feel bonded to whoever is present at the time.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A Substack author with affiliate links passes on an anecdote of depersonalization after using oxytocin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

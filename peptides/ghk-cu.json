@@ -543,7 +543,7 @@
         {
           "text": "FDA page on bulk drug substances for compounding (dated 04/22/2026) lists GHK-Cu among substances nominated and later withdrawn, and says compounded injectable drugs containing GHK-Cu may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
           "label": "research",
-          "validity": "low",
+          "validity": "strong",
           "citation_id": "fda-compounding-page"
         }
       ]

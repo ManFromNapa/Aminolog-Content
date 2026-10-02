@@ -626,7 +626,7 @@
         {
           "text": "FDA says compounded drugs containing MOTS-c may pose a significant risk of immune reactions (immunogenicity) for certain routes, and may have impurity and ingredient-characterization problems. It says it found no human exposure data and does not know whether MOTS-c would cause harm in people.",
           "label": "research",
-          "validity": "low",
+          "validity": "strong",
           "citation_id": "fda-compounding-page"
         }
       ]

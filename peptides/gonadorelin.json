@@ -112,7 +112,424 @@
       "year": 2019,
       "summary": "Nonrandomized comparison in 28 azoospermic men with congenital hypogonadotropic hypogonadism of a pulsatile gonadorelin pump (10 men) versus cyclical hCG/hMG therapy (18 men) over 24 months.",
       "finding": "Spermatogenesis occurred earlier with the pump (median 6 vs 14 months) with similar overall rates (90% vs 83%); small, nonrandomized, and in a different population than the testosterone-adjunct use being marketed."
+    },
+    {
+      "id": "belchetz-1978",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "100883",
+      "year": 1978,
+      "summary": "Experiments in rhesus monkeys with hypothalamic lesions, comparing constant and once-hourly gonadotropin-releasing hormone (GnRH) delivery (Belchetz, Plant, Nakai and colleagues, Science).",
+      "finding": "Constant GnRH infusion failed to restore sustained gonadotropin release, while hourly pulses restored it; starting continuous GnRH after pulsatile replacement caused desensitization (down regulation). Monkey data, not human."
+    },
+    {
+      "id": "quaas-2022-fha",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "36378460",
+      "year": 2022,
+      "summary": "Single-center retrospective cohort of 66 women with functional hypothalamic amenorrhea (82 treatments, 212 cycles) treated with a pulsatile subcutaneous GnRH pump for conception (Quaas and colleagues, Journal of Assisted Reproduction and Genetics).",
+      "finding": "Ovulation rate was 96% per cycle, live birth rate 65.9% per treatment, and 75% of cycles produced a single dominant follicle. Uncontrolled, in women, for fertility."
+    },
+    {
+      "id": "jiang-2025-chh",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40800099",
+      "year": 2025,
+      "summary": "Retrospective study of 54 adult men with congenital hypogonadotropic hypogonadism treated with pulsatile GnRH pumps, mean follow-up 15.9 months (Jiang, Li, Jin and colleagues, Translational Andrology and Urology).",
+      "finding": "Mean testicular volume rose from 3.19 to 9.73 mL and testosterone from 48 to 381 ng/dL by 2 years; 27 men produced sperm. No control group."
+    },
+    {
+      "id": "braat-1989",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "2658472",
+      "year": 1989,
+      "summary": "Retrospective international multicentre review of 223 pregnancies induced with pulsatile LH-RH (GnRH) in women with hypothalamic amenorrhea (174) or polycystic ovarian disease (24) (Braat, Ayalon, Blunt and colleagues, Gynecological Endocrinology).",
+      "finding": "Multiple pregnancies occurred in 30 of 174 hypothalamic amenorrhea pregnancies and none in polycystic ovarian disease; their rate correlated with pulse dose and was higher in the first treatment cycle."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved for humans in the US. The best human data used a pump giving 10 mcg under the skin every 90 minutes. Online sources describe 50 to 250 mcg injections 2 to 3 times a week for men on testosterone therapy, which has not been studied in a controlled trial.",
+      "items": [
+        {
+          "text": "In a 2019 nonrandomized study in 28 azoospermic men with congenital hypogonadotropic hypogonadism, 10 men received gonadorelin initially at 10 mcg every 90 minutes subcutaneously by a wearable pulsatile infusion pump, compared with 18 men on cyclical hCG/hMG injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pump-chh-2019"
+        },
+        {
+          "text": "The only FDA-approved gonadorelin products on DailyMed are for cattle. The Factrel veterinary label gives 100 to 200 mcg per cow by intramuscular injection for estrus synchronization and states it is for animals only and not for human use. This is animal labeling, not a human dose.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-factrel-vet-label"
+        },
+        {
+          "text": "Wikipedia says standard pulsatile dosing is 5 to 20 mcg per pulse every 90 to 120 minutes by portable subcutaneous infusion pump.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Institute, an educational site, lists 50 to 100 mcg subcutaneously as a testosterone therapy adjunct and 100 to 250 mcg for hypogonadotropic hypogonadism, and 100 mcg as a single intravenous diagnostic dose in adults. The site shows no sales links.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide dosing blog with supplier and affiliate links says gonadorelin maintenance is commonly 100 to 150 mcg and fertility restoration 200 to 250 mcg per injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptidedosage.org, a site with a shop link, describes two schedules: 50 mcg rising to 100 mcg then 100 to 150 mcg over 8 weeks, or 200 mcg daily for 7 days then 100 mcg daily. It says these are for research purposes only.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day for injections. Gonadorelin works for only minutes, and animal and human pump work uses pulses about every 90 minutes, so online sources focus on spacing rather than clock time.",
+      "items": [
+        {
+          "text": "Wikipedia says gonadorelin has a distribution half-life of 2 to 10 minutes and a terminal half-life of 10 to 40 minutes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide-db, an educational site with no sales links, says gonadorelin needs pulsatile dosing and that continuous exposure causes receptor desensitization, the opposite of the intended effect.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says no specific timing is required for injections and that some protocols pick the evening for convenience.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Human studies of the pump use a pulse about every 90 minutes. Online sources for men on testosterone therapy mostly describe injections 2 to 3 times weekly, but one clinic site says once or twice daily, and none of these have been compared in a trial.",
+      "items": [
+        {
+          "text": "In the 2019 pump study, gonadorelin was delivered by wearable pump as a pulse every 90 minutes rather than as occasional injections.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pump-chh-2019"
+        },
+        {
+          "text": "The Factrel veterinary label uses two doses per cow, about 6 to 8 days apart then again 30 to 72 hours after a second drug, in a single synchronization program. This is for cattle only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-factrel-vet-label"
+        },
+        {
+          "text": "Peptides Institute lists 50 to 100 mcg 2 to 3 times weekly as a testosterone therapy adjunct and 100 to 250 mcg 2 to 3 times weekly for hypogonadotropic hypogonadism.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says gonadorelin is available for pulsatile subcutaneous delivery by portable pump.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A TRT clinic's educational page says gonadorelin is given by subcutaneous injection because its action is brief, and that the clinic does not regard it as interchangeable with hCG because it acts on the pituitary rather than the testes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Men.med, a TRT clinic comparison site, says gonadorelin is typically prescribed once or twice daily by subcutaneous injection, more often than hCG's 2 to 3 times weekly, and warns of a theoretical risk of pituitary downregulation with improper dosing patterns.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Stack-builder, a site with affiliate links to peptide sellers, recommends consistent days such as Monday and Thursday with at least 3 and at most 5 days between doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidemind, a site with a supplier link, describes 125 mcg three times weekly (Monday, Wednesday, Friday) in a 6-week fertility support protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "In men with congenital hypogonadotropic hypogonadism, pump treatment was studied for 24 months and for about 16 months on average in a later review. Monkey data show constant exposure shuts the response down. Online cycle advice ranges from 6 weeks to year-round and is untested.",
+      "items": [
+        {
+          "text": "A comparison of a pulsatile gonadorelin pump with cyclical gonadotropin therapy in men with congenital hypogonadotropic hypogonadism reported spermatogenesis earlier with the pump (median 6 months) than with cyclical gonadotropins (median 14 months) in this small nonrandomized study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pump-chh-2019"
+        },
+        {
+          "text": "In a retrospective study of 54 men with congenital hypogonadotropic hypogonadism on pulsatile GnRH pumps (mean follow-up 15.9 months), testicular volume and testosterone kept rising between 6 months and 2 years. There was no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "jiang-2025-chh"
+        },
+        {
+          "text": "In a 25-year retrospective cohort of 66 women with hypothalamic amenorrhea, 82 pump treatments (212 cycles) gave a live birth rate of 65.9% per treatment. This is a fertility use in women.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "quaas-2022-fha"
+        },
+        {
+          "text": "In monkeys, continuous GnRH infusion failed to restore hormone release, while hourly pulses worked, and starting continuous GnRH after pulsatile replacement caused desensitization. This is animal data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "belchetz-1978"
+        },
+        {
+          "text": "FormBlends says pump therapy continues until pregnancy, fertility support typically runs 3 to 6 cycles, and male hormone therapy use is ongoing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Stack-builder, a site with affiliate links to peptide sellers, says dosing runs year-round for testosterone replacement and 12 to 24 weeks for fertility restoration goals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidemind, a site with a supplier link, describes a typical 6-week cycle with washout breaks between cycles and says continuous use may reduce effectiveness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No human label exists. The cattle label says to refrigerate and use within 1 month of first puncture. Online sellers say to refrigerate after mixing, with discard times from 14 to 30 days.",
+      "items": [
+        {
+          "text": "The Factrel veterinary label says to store at 2 to 8 degrees Celsius (36 to 46 degrees Fahrenheit), with excursions permitted to 25 degrees Celsius, and to use the contents within 1 month of first vial puncture. This is a cattle product.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-factrel-vet-label"
+        },
+        {
+          "text": "Peptide-db, an educational site with no sales links, says to reconstitute with bacteriostatic water by running it slowly down the vial side, swirl without shaking, refrigerate at 2 to 8 degrees Celsius, and use within 14 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to refrigerate after reconstitution, discard after 28 days and not freeze it, and to rotate injection sites among the abdomen (avoiding 2 inches around the navel), thigh and upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidemind, a site with a supplier link, says to keep the powder frozen at about -20 degrees Celsius, refrigerate after mixing, and use within about 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Gonadorelin is the body's own GnRH. It makes the pituitary release luteinizing hormone (LH) and follicle-stimulating hormone (FSH), but only when given in pulses.",
+      "items": [
+        {
+          "text": "The Factrel label says gonadorelin has the same amino acid sequence and activity as natural GnRH and causes the release of LH and FSH from the anterior pituitary. This label is for cattle.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-factrel-vet-label"
+        },
+        {
+          "text": "Wikipedia notes gonadorelin differs from GnRH agonist drugs used for suppression because it raises rather than lowers sex hormones.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Gonadorelin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide-db says gonadorelin triggers pituitary release of FSH and LH and that pulsatile dosing is required.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/gonadorelin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In men with congenital hypogonadotropic hypogonadism, pulse pumps restored sperm production and testosterone in small, uncontrolled or nonrandomized studies. No controlled trial of the testosterone-adjunct use sold online was found.",
+      "items": [
+        {
+          "text": "In 28 azoospermic men with congenital hypogonadotropic hypogonadism, sperm appeared in 90% on the pump versus 83.3% on cyclical gonadotropins, and earlier (median 6 vs 14 months). The groups were not randomized.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pump-chh-2019"
+        },
+        {
+          "text": "In 54 men with congenital hypogonadotropic hypogonadism on pumps, mean testicular volume rose from 3.19 to 9.73 mL and testosterone from 48 to 381 ng/dL over 2 years, and 27 men produced sperm. No control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "jiang-2025-chh"
+        },
+        {
+          "text": "In 66 women with hypothalamic amenorrhea, the pulsatile pump gave ovulation in 96% of cycles and a live birth rate of 65.9% per treatment in a retrospective cohort.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "quaas-2022-fha"
+        },
+        {
+          "text": "In a cattle field study of 1142 cows, pregnancy rates after two Factrel doses with a second drug were 27.3 to 32.2% versus 17.1% with the second drug alone. This is animal data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-factrel-vet-label"
+        },
+        {
+          "text": "A TRT clinic's page says compounded gonadorelin is used with testosterone therapy to prevent testicular shrinkage and keep sperm production going, while conceding it lacks the clinical evidence behind hCG for fertility preservation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Men.med, a TRT clinic comparison site, says most published evidence for fertility preservation during testosterone therapy involves hCG, clomiphene or pausing therapy, not gonadorelin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Skin reactions were common with the pump, and pulse dosing in women was linked to twin and higher-order pregnancies.",
+      "items": [
+        {
+          "text": "In the small pump versus cyclical gonadotropin comparison in men with congenital hypogonadotropic hypogonadism, skin allergic reactions were a common side effect of the gonadorelin pump, while higher testosterone with facial acne and breast tenderness occurred more with cyclical gonadotropins.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pump-chh-2019"
+        },
+        {
+          "text": "In a review of 223 pregnancies induced with pulsatile GnRH in women, multiple pregnancies occurred in 30 of 174 with hypothalamic amenorrhea, correlated with the pulse dose and more often in the first cycle.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "braat-1989"
+        }
+      ]
+    },
+    {
+      "title": "Regulator label",
+      "summary": "The only FDA gonadorelin labels are for cattle and say not for human use. In cows, repeated high doses caused no problems.",
+      "items": [
+        {
+          "text": "The Factrel veterinary label says it is for animals only and not for human use. In cows, intramuscular doses up to 12.5 times the maximum recommended dose (2,500 mcg per day) for 3 days affected no physiological or clinical measure.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "fda-factrel-vet-label"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources mostly list injection site reactions, headache, nausea and flushing, and clinics add hormone and mood shifts. These are not from controlled data.",
+      "items": [
+        {
+          "text": "A TRT clinic's educational page lists possible effects such as headache, testicular fullness or tenderness, temporary shifts in testosterone or estradiol, breast or nipple tenderness, water retention and mood changes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Men.med, a TRT clinic comparison site, says injection site reactions (pain, redness, swelling) are most commonly reported, plus headache, nausea and flushing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidedosage.org, a site with a shop link, lists injection site reactions, flushing, headache, nausea and abdominal discomfort as common, and rare anaphylaxis as serious.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide-db, an educational site with no sales links, lists injection site reactions, headache, flushing, nausea and abdominal discomfort and says to stop for allergic reactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/gonadorelin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

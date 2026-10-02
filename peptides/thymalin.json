@@ -76,7 +76,296 @@
       "year": 2018,
       "summary": "Rat study (Bull Exp Biol Med) of thymalin in rats with transplanted sarcoma.",
       "finding": "Low doses of thymalin were reported to arrest or regress tumor growth in more than half of animals. Animal data only."
+    },
+    {
+      "id": "pmid-14523363",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "14523363",
+      "year": 2003,
+      "summary": "English-language report (Khavinson and Morozov, Neuro Endocrinol Lett) from the originating institutes on 266 older people followed for 6 to 8 years, with thymalin and epithalamin applied in the first 2 to 3 years, versus a control group.",
+      "finding": "The authors report 2.0 to 2.1 times lower mortality in the thymalin group than in controls, and 4.1 times lower mortality in a separate group given thymalin plus epithalamin every year for 6 years. Developer report with limited methodological detail, not independent."
+    },
+    {
+      "id": "pmid-33575961",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "33575961",
+      "year": 2021,
+      "summary": "Report (Khavinson et al., Stem Cell Rev Rep) of thymalin added to standard treatment in patients with COVID-19, compared with standard treatment alone. Group sizes and dosing are not stated in the abstract.",
+      "finding": "Adding thymalin was reported to speed the fall in interleukin-6, C-reactive protein, D-dimer and T-cell markers. Lab markers only, from the originating group."
+    },
+    {
+      "id": "pmid-37686182",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "37686182",
+      "year": 2023,
+      "summary": "Molecular modeling and cell study (Linkova, Khavinson et al., Int J Mol Sci) of the KE and EW dipeptides in thymalin, using blood cells from 4 donors.",
+      "finding": "Thymalin and the two dipeptides lowered production of the inflammatory signals IL-1 beta, IL-6 and TNF-alpha by 1.4 to 6.0 times in human blood cells exposed to a bacterial toxin. The docking results are computer predictions."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "last_reviewed": "2026-10-02",
+  "how_to_take": {
+    "dose": {
+      "summary": "No trial dose was found. Online sources describe 5 to 10 mg per day by injection into muscle or under the skin for a short course. These doses are not backed by a study or label.",
+      "items": [
+        {
+          "text": "A peptide wiki with affiliate discount codes says thymalin is commonly used at 10 mg intramuscularly or subcutaneously daily for 5 to 10 days, or a more conservative 5 mg daily for 10 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptides Institute, an educational site, says 10 mg per day for 5 to 10 consecutive days, or a maintenance course of 5 mg per day for 5 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says 5 to 10 mg daily into a muscle for standard use, and 10 mg daily for an anti-aging course.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative, an educational site, says 5 to 10 mg per injection, reconstituted in saline.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study or label addresses time of day. Online sources say morning for consistency, with evening also acceptable.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki says morning administration is preferred.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says a morning injection is for consistency, and that evening is also acceptable because there is no stimulant effect.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study or label addresses food. Online sources say no fasting is needed.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki says there is no specific fasting requirement.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says it can be injected with or without food and that food does not affect absorption. No study was cited for this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No trial or label sets a schedule. Online sources describe one injection per day for the length of a short course.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki says once daily during the course.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "In the developers' trial, thymalin was given during the first 2 to 3 years of a 6 to 8 year follow-up, and in one group every year for 6 years (with epithalamin). Online sources describe 5 to 10 day courses repeated every few months, which no study has tested.",
+      "items": [
+        {
+          "text": "In the developers' report on 266 older people, thymalin and epithalamin were applied in the first 2 to 3 years of a 6 to 8 year follow-up. One separate group got thymalin plus epithalamin every year for 6 years. Course length and dose per course are not given in the abstract.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14523363"
+        },
+        {
+          "text": "Peptides Institute says 5 to 10 consecutive days on, then 3 to 6 months off, repeated every 6 months, with a maintenance course of 5 days every 3 to 4 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says a 3 to 10 day course repeated every 1 to 6 months, or a 10 day course every 6 months for anti-aging.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says a 5 to 10 day course, often repeated every 6 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. Online sources agree on injecting into a muscle or under the skin and not freezing, but differ on how long mixed solution keeps (use immediately, 1 to 2 hours, or 5 to 7 days).",
+      "items": [
+        {
+          "text": "Peptides Institute says thymalin is given by injection into a muscle or under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Institute says reconstituted powder is refrigerated, used within 5 to 7 days and never frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki says unmixed powder is stored refrigerated at 2 to 8 degrees Celsius, protected from light and not frozen. It says to mix with saline or sterile water, swirl gently and use immediately.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Initiative says to store unmixed vials at 2 to 8 degrees Celsius and to use the mixed solution immediately, or within 1 to 2 hours if refrigerated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Thought to act on the immune system by supplying thymus peptides and encouraging T cell development. How it works in people is not established; the evidence is from cell studies and computer modeling.",
+      "items": [
+        {
+          "text": "In human stem cell cultures, thymalin lowered stem cell markers and raised CD28, which the authors read as pushing cells toward mature T lymphocytes. Cell data from the originating group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33237528"
+        },
+        {
+          "text": "In human blood cells, thymalin and its KE and EW dipeptides lowered IL-1 beta, IL-6 and TNF-alpha by 1.4 to 6.0 times. Binding to DNA was predicted by computer docking only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-37686182"
+        },
+        {
+          "text": "Peptides Institute says thymalin supplies signaling peptides the aging thymus no longer makes enough of, binds DNA and histone proteins, supports T cell development and restores interleukin-2 production.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "The developers report about half the mortality in older people treated with thymalin, over 6 to 8 years, but the report is not independent and lacks method detail. No independent controlled trial was found.",
+      "items": [
+        {
+          "text": "In 266 older people followed for 6 to 8 years, the authors report 2.0 to 2.1 times lower mortality and 2.0 to 2.4 times fewer acute respiratory infections in thymalin-treated groups than controls. Developer report, not independent.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14523363"
+        },
+        {
+          "text": "Same cohort, Russian-language report: fewer respiratory infections and lower mortality in treated groups than controls, with limited methodological detail.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-12577695"
+        },
+        {
+          "text": "In COVID-19 patients, thymalin added to standard care was reported to speed the fall in IL-6, C-reactive protein and D-dimer. Lab markers only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-33575961"
+        },
+        {
+          "text": "Peptides Institute says thymalin supports immune restoration in aging, cites up to a 2-fold reduction in mortality in elderly subjects, and states it is registered in Russia but not approved by the FDA or EMA.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "No human safety data was found. Peptides Institute lists injection-site reactions, brief fever, tiredness and headache as common.",
+      "items": [
+        {
+          "text": "Peptides Institute lists injection-site reactions and transient fever as common effects, along with mild fatigue and occasional headache.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Theoretical risks",
+      "summary": "Peptides Institute describes rare allergic reactions and possible autoimmune flares as theoretical risks. These are not backed by a cited study.",
+      "items": [
+        {
+          "text": "Peptides Institute lists rare allergic reactions and possible autoimmune flares in susceptible people as theoretical risks, and immune dysregulation in lymphoproliferative disorders.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ]
 }

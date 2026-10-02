@@ -166,6 +166,15 @@
       "finding": "All three arms raised testosterone with no significant difference among groups; the combination had a greater symptom score gain."
     },
     {
+      "id": "coviello-2005-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "15713727",
+      "year": 2005,
+      "summary": "Randomized trial in 29 healthy men given 200 mg testosterone enanthate weekly plus placebo or 125, 250 or 500 IU hCG every other day for 3 weeks (Coviello et al., J Clin Endocrinol Metab).",
+      "finding": "Testosterone alone cut testosterone inside the testes by 94%. Doses of 250 and 500 IU hCG every other day kept it near or above baseline, and it rose in line with the hCG dose."
+    },
+    {
       "id": "hcg-lowdose-2010",
       "evidence_type": "human_trial",
       "source_kind": "pubmed",
@@ -175,5 +184,475 @@
       "finding": "Intratesticular testosterone rose in a dose-dependent way with hCG, indicating hCG can stimulate testicular testosterone production in this experimental model."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "The Novarel label lists regimens by indication, from 500 to 1,000 USP Units per injection up to 4,000 to 5,000 USP Units, all by muscle injection. Trials in men used 15 to 125 IU under the skin every other day, or 5,000 IU twice weekly. Online sources give lower under-the-skin doses for use with testosterone therapy (250 to 1,000 IU, 2 to 3 times a week), which differ from the label route. Diet doses of 125 IU a day are online claims, and the label says hCG has not been shown to help weight loss.",
+      "items": [
+        {
+          "text": "Label: Novarel for prepubertal cryptorchidism (undescended testicles) lists 4,000 USP Units three times weekly for three weeks, 5,000 USP Units every second day for four injections, 15 injections of 500 to 1,000 USP Units over six weeks, or 500 USP Units three times weekly for four to six weeks, then 1,000 USP Units per injection if a second course is needed a month later.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Label: Novarel for selected cases of hypogonadotropic hypogonadism in men lists 500 to 1,000 USP Units three times a week for three weeks, then twice a week for three weeks, or 4,000 USP Units three times weekly for six to nine months, then possibly 2,000 USP Units three times weekly for three more months.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Label: for ovulation induction in women pretreated with menotropins, 5,000 to 10,000 USP Units one day after the last menotropin dose. The label says the regimen depends on indication, age, weight and physician preference.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "In a randomized trial of 282 men with hypogonadism who wanted to preserve fertility, 5,000 IU hCG injections twice weekly raised testosterone as much as clomiphene (50 mg) did over 3 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "bju-2018"
+        },
+        {
+          "text": "In 29 healthy men on testosterone enanthate, 250 IU hCG every other day kept testosterone inside the testes near baseline and 500 IU raised it above baseline over 3 weeks. 125 IU was not enough.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "coviello-2005-jcem"
+        },
+        {
+          "text": "In 37 healthy men with experimentally blocked gonadotropins, 15, 60 and 125 IU hCG under the skin every other day for 10 days raised testosterone inside the testes in a dose-dependent way.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "hcg-lowdose-2010"
+        },
+        {
+          "text": "In a 6-week trial of 40 obese women, daily muscle injections of hCG (6 days a week) worked no better than saline on weight loss or hunger.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "hcg-obesity-1990"
+        },
+        {
+          "text": "Doctronic, an AI health information platform, says hCG alongside testosterone therapy is commonly given as 250 to 500 IU under the skin two to three times per week, and cites 1,500 to 3,000 IU three times weekly for fertility restoration.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A private urology clinic blog says hCG for maintenance during testosterone therapy is commonly 500 to 1,000 IU under the skin 2 to 3 times per week, and 1,500 to 3,000 IU every other day for fertility recovery.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telehealth referral site with affiliate links says hCG maintenance on testosterone therapy is commonly 500 IU under the skin 2 to 3 times per week, and 1,000 to 1,500 IU every other day for fertility recovery.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site that links to a peptide seller, says 500 IU three times weekly under the skin for maintenance, and 1,000 to 2,000 IU per dose for post-cycle therapy (PCT) after steroid use.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HCG Best Diet, a site selling hCG products, says the Simeons weight-loss protocol uses 125 IU of hCG each day with a 500 calorie diet.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says Albert Simeons recommended low-dose daily hCG injections of 125 IU with a 500 calorie a day diet, and that the weight loss may be entirely due to the calorie restriction.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label names no time of day for injections. No online source reviewed gave a tested timing rule.",
+      "items": [
+        {
+          "text": "The Novarel label gives no time of day for injections, only the days per week.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label has no food rules. For weight loss, the label says hCG has no known effect on fat mobilization, appetite or hunger and no proven added benefit beyond calorie restriction. Two placebo-controlled trials found no benefit, and online diet plans pair hCG with about 500 calories a day.",
+      "items": [
+        {
+          "text": "Label: hCG has no known effect on fat mobilization, appetite or hunger, or body fat distribution, and there is no substantial evidence it increases weight loss beyond calorie restriction. The label has no food or fasting instructions for its approved uses.",
+          "label": "research",
+          "validity": "strong",
+          "conflicts_with_label": true,
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Randomized trial of 51 women on the same 500 calorie diet found no difference in weight loss or hunger between hCG and placebo over 32 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "hcg-obesity-1976"
+        },
+        {
+          "text": "In 40 obese women on a 5,000 kJ a day diet, hCG injections gave no advantage over placebo in weight, hunger or psychological measures.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "hcg-obesity-1990"
+        },
+        {
+          "text": "Wikipedia says the Simeons hCG diet paired hCG with extreme calorie restriction, that the FDA requires a disclaimer that there is no substantial evidence hCG increases weight loss, and that over-the-counter hCG products were banned as fraudulent in December 2011.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HCG Best Diet, a site selling hCG products, says to keep to no more than 500 calories a day during the active phase.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label regimens run from every second day to three times a week, and twice a week later in treatment. The label has no missed-dose rule. Online sources suggest two to three times a week with testosterone therapy and a missed-dose rule that is untested.",
+      "items": [
+        {
+          "text": "Label regimens range from three times weekly (500 to 4,000 USP Units) and every second day (5,000 USP Units, four injections) to twice a week after three weeks in the hypogonadism regimen. The label gives no instruction for a missed dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "In the 282-man trial, 5,000 IU hCG was given twice weekly for 3 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "bju-2018"
+        },
+        {
+          "text": "In the healthy-men trials hCG was given every other day (125, 250 or 500 IU for 3 weeks, or 15 to 125 IU for 10 days).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "coviello-2005-jcem"
+        },
+        {
+          "text": "Doctronic says a Monday and Thursday split is a practical starting point, and three times weekly is preferred when fertility is the goal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "MedsBase, an online pharmacy, says a missed dose should be taken as soon as practical and then the regular schedule resumed, because hCG has a long half-life.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site linking to a peptide seller, says 2 to 3 times weekly for typical use and every other day for 10 to 14 days for post-cycle therapy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The label courses last 3 to 6 weeks for cryptorchidism and up to 9 to 12 months for hypogonadism, and says testicular descent is usually reversible when hCG stops. Trials ran 10 days to 3 months. Online sources describe 3 to 12 months for fertility and 23 or 40 days for diets.",
+      "items": [
+        {
+          "text": "Label: the cryptorchidism courses last 3 to 6 weeks, and a second course may follow a month later. The hypogonadism regimen runs 6 weeks, or 6 to 9 months with possibly 3 more months at a lower dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Label: testicular descent from hCG is usually reversible when hCG is discontinued, and in most cases the response is temporary.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Trials were short: 3 months in 282 men with hypogonadism, 3 weeks in healthy men on testosterone, 10 days in men with experimentally blocked gonadotropins, and 6 weeks and 32 days in the two weight-loss trials.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "bju-2018"
+        },
+        {
+          "text": "Doctronic says sperm production improvements usually take 3 to 6 months of consistent treatment, and men recovering from long suppression may need 6 to 12 months or longer.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site linking to a peptide seller, shows sample schedules of 12 weeks and says post-cycle therapy runs 10 to 14 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HCG Best Diet, a site selling hCG products, says the Simeons program runs 23 or 40 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The label says muscle injection only. Store the powder at room temperature, then refrigerate after mixing with bacteriostatic water and use within 30 days. Online guides describe under-the-skin injections, refrigerating the powder, and 60 days of stability, which differ from the label.",
+      "items": [
+        {
+          "text": "The Novarel label states it is for intramuscular use only and is supplied as a freeze-dried powder with bacteriostatic water diluent containing 0.9% benzyl alcohol. The label also asks for a visual check for particles and discoloration before use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "The Novarel label states the unreconstituted product is stored at controlled room temperature (20 to 25 C), and the reconstituted product is refrigerated at 2 to 8 C and used within 30 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Label: used needles and syringes go in a closeable, puncture-resistant sharps container.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Wikipedia says hCG is extracted from the urine of pregnant women or produced by recombinant methods, and that it can likely only enter the bloodstream by injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Doctronic says to rotate between subcutaneous sites, typically the abdomen, thighs or upper arms.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says to add 5 mL bacteriostatic water to a 5,000 IU vial, keep it at 2 to 8 C, and that it stays stable for 30 to 60 days. It adds to let the drawn syringe warm for 60 seconds to reduce stinging.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site linking to a peptide seller, says to refrigerate both powder and mixed vials and that mixed solution is stable up to 60 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "MedsBase, an online pharmacy, says mixed hCG is kept refrigerated (2 to 8 C) for 30 days with bacteriostatic water, and only 24 hours with sterile water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "hCG acts like luteinizing hormone (LH). It makes the testes produce testosterone and, in women, triggers ovulation and supports the corpus luteum.",
+      "items": [
+        {
+          "text": "Label: hCG acts virtually like pituitary LH, with a small degree of FSH activity. It stimulates Leydig cells in the testis to make androgens and the ovarian corpus luteum to make progesterone, and can substitute for the mid-cycle LH surge that triggers ovulation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "In healthy men with blocked gonadotropins, testosterone inside the testes rose in line with hCG dose, showing hCG drives testicular testosterone directly.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "hcg-lowdose-2010"
+        },
+        {
+          "text": "Wikipedia says hCG triggers ovulation in women and stimulates testosterone production in men, and is used in assisted reproduction and to maintain fertility during testosterone replacement.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says hCG is often used during testosterone replacement to restore or maintain fertility and prevent testicular shrinkage.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "hCG raises testosterone in men with low testosterone: in a 282-man trial it raised testosterone about 2.2-fold over 3 months, matching clomiphene. For weight loss, the trials found no benefit over placebo.",
+      "items": [
+        {
+          "text": "In 282 men with hypogonadism who wanted to keep fertility, 5,000 IU hCG twice weekly raised testosterone over 3 months, similar to clomiphene alone or with hCG (average testosterone across all groups rose from 2.31 to 5.17 nmol/L, still below the normal range).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "bju-2018"
+        },
+        {
+          "text": "In healthy men on testosterone enanthate, testosterone inside the testes fell 94% on placebo, but 250 to 500 IU hCG every other day for 3 weeks held it near or above baseline.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "coviello-2005-jcem"
+        },
+        {
+          "text": "For weight loss, two double-blind trials (40 and 51 women) found no difference from placebo, and the label says hCG has not been shown to help obesity.",
+          "label": "research",
+          "validity": "strong",
+          "conflicts_with_label": true,
+          "citation_id": "hcg-obesity-1990"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "The label lists headache, irritability, restlessness, depression, fatigue, swelling, early puberty in boys, breast enlargement and injection site pain.",
+      "items": [
+        {
+          "text": "The Novarel label lists headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia and injection site pain, and states hypersensitivity reactions, local and systemic, have been reported.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "The label lists contraindications and serious risks in women treated with menotropins, including ovarian hyperstimulation and blood clots.",
+      "items": [
+        {
+          "text": "The Novarel label lists contraindications including precocious puberty, prostatic carcinoma or other androgen-dependent neoplasm, and prior allergic reaction to hCG, and states hCG may cause fetal harm in pregnancy.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        },
+        {
+          "text": "Label warnings with menotropins: ovarian hyperstimulation, ovarian cyst enlargement or rupture, multiple births and arterial thromboembolism. Anaphylaxis has been reported with urinary-derived hCG, and there are sporadic reports of testicular tumors in young men treated for infertility, with no proven cause.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-novarel-label"
+        }
+      ]
+    },
+    {
+      "title": "Weight-loss diet",
+      "summary": "The FDA warns that the very low calorie diets used with hCG weight-loss products carry risks, including serious events.",
+      "items": [
+        {
+          "text": "The FDA states that people following the very low calorie diets recommended with hCG weight-loss products face risks including gallstones, electrolyte imbalance and heart arrhythmias, and that it has received reports of serious adverse events including pulmonary embolism, depression, cerebrovascular events, cardiac arrest and death.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-hcg-weightloss"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources mention estrogen rise, acne, fluid retention and breast enlargement. Some of these match the label list.",
+      "items": [
+        {
+          "text": "Doctronic says hCG can raise estrogen levels because the extra testosterone converts to estrogen, so levels need regular monitoring.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/hcg-for-men-uses-in-trt-and-fertility/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "MedsBase, an online pharmacy, lists injection-site reactions, acne, oily skin, mild fluid retention and gynecomastia if estradiol rises unchecked.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosage, a site linking to a peptide seller, lists injection-site reactions, headache, fatigue, gynecomastia, water retention and acne, and rare hypersensitivity and blood clots.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Sports and regulation",
+      "summary": "hCG is banned in sport, and the FDA treats over-the-counter hCG weight-loss products as illegal.",
+      "items": [
+        {
+          "text": "The FDA states there is no substantial evidence hCG increases weight loss, that homeopathic over-the-counter hCG weight-loss products are illegal, and that hCG is approved only as an injectable for some female infertility and male hormonal conditions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-hcg-weightloss"
+        },
+        {
+          "text": "Wikipedia notes professional athletes have been banned after testing positive for hCG, which is on banned-substance lists because it can restore testosterone production after steroid use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

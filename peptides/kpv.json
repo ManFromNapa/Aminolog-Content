@@ -267,7 +267,7 @@
         {
           "text": "FDA's bulk-substances page says it has not identified human exposure data for KPV by any route and lacks information on whether it would cause harm.",
           "label": "research",
-          "validity": "moderate",
+          "validity": "strong",
           "citation_id": "fda-bulk-substances-page"
         },
         {
@@ -432,7 +432,7 @@
         {
           "text": "FDA lists KPV among bulk substances nominated for compounding but withdrawn, and says it has not identified human exposure data by any route and lacks information on whether it would cause harm.",
           "label": "research",
-          "validity": "moderate",
+          "validity": "strong",
           "citation_id": "fda-bulk-substances-page"
         },
         {

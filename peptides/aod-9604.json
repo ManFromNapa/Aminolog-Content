@@ -446,7 +446,7 @@
         {
           "text": "FDA lists AOD-9604 among bulk drug substances for compounding that may present significant safety risks, stating it may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
           "label": "research",
-          "validity": "moderate",
+          "validity": "strong",
           "citation_id": "fda-bulks-page"
         }
       ]

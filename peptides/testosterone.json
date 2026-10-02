@@ -226,7 +226,797 @@
       "year": 2018,
       "summary": "Endocrine Society clinical practice guideline on testosterone therapy in men with hypogonadism.",
       "finding": "Recommends diagnosing hypogonadism only with symptoms plus repeatedly low morning fasting testosterone, advises against starting therapy in men with conditions such as prostate or breast cancer, elevated hematocrit or near-term fertility plans."
+    },
+    {
+      "id": "fda-testosterone-enanthate-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for testosterone enanthate injection (Hikma), an intramuscular oil-based product, Schedule III.",
+      "finding": "Replacement dose 50 to 400 mg every 2 to 4 weeks; states total doses above 400 mg per month are not required and injections more often than every two weeks are rarely indicated; includes a blood pressure warning."
+    },
+    {
+      "id": "fda-androgel-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed label for AndroGel 1.62% (testosterone gel), a skin-applied product, Schedule III, labeling updated July 2025.",
+      "finding": "Starting dose 40.5 mg once daily in the morning on shoulders and upper arms; warnings include secondary exposure of children and women, blood pressure increases, polycythemia, venous thromboembolism and effects on sperm production."
+    },
+    {
+      "id": "fda-jatenzo-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for Jatenzo (testosterone undecanoate) oral capsules.",
+      "finding": "Taken twice daily with food; ambulatory blood pressure monitoring showed average rises of 4.9/2.5 mm Hg after 4 months; warnings cover polycythemia, venous thromboembolism and effects on sperm production."
+    },
+    {
+      "id": "fda-testopel-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03b9c0b1-5884-11e4-8ed6-0800200c9a66",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed label for Testopel (testosterone pellets), implanted under the skin, revised July 2025.",
+      "finding": "Dosage guideline 150 to 450 mg implanted subcutaneously every 3 to 6 months; post-marketing reports of implant site infection and pellet extrusion, mostly within the first month."
+    },
+    {
+      "id": "bhasin-1996-nejm",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8637535",
+      "year": 1996,
+      "summary": "Randomized trial of 43 healthy men given 600 mg testosterone enanthate or placebo weekly for 10 weeks, with or without weight training (Bhasin et al., N Engl J Med).",
+      "finding": "Testosterone increased muscle size and strength in men who did not exercise, and more so in men who lifted weights; mood and behavior did not change in any group."
+    },
+    {
+      "id": "liu-2006-spermatogenic-recovery",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "16650651",
+      "year": 2006,
+      "summary": "Integrated analysis of individual data from 30 studies of 1549 healthy men on androgen-based hormonal contraception, tracking sperm recovery after stopping (Liu et al., Lancet).",
+      "finding": "Sperm concentration recovered to 20 million per mL in a median of 3.4 months; the chance of recovery was 67% within 6 months, 90% within 12 months and 100% within 24 months."
+    },
+    {
+      "id": "ibis-2026-post-cycle-therapy",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41147237",
+      "year": 2026,
+      "summary": "Retrospective two-center cohort of 79 recreational anabolic steroid users who used steroids for 6 months or less, compared no treatment, clomiphene, or clomiphene plus hCG afterward (Ibis et al., BJU Int).",
+      "finding": "Hormones normalized by month 6 in all groups; at 12 months normal sperm counts were seen in 87.5% with clomiphene plus hCG, 69.2% with clomiphene and 58.6% with no treatment."
+    },
+    {
+      "id": "fda-testosterone-enanthate-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for testosterone enanthate injection (Hikma), an intramuscular oil-based product, Schedule III.",
+      "finding": "Replacement dose 50 to 400 mg every 2 to 4 weeks; states total doses above 400 mg per month are not required and injections more often than every two weeks are rarely indicated; includes a blood pressure warning."
+    },
+    {
+      "id": "fda-androgel-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed label for AndroGel 1.62% (testosterone gel), a skin-applied product, Schedule III, labeling updated July 2025.",
+      "finding": "Starting dose 40.5 mg once daily in the morning on shoulders and upper arms; warnings include secondary exposure of children and women, blood pressure increases, polycythemia, venous thromboembolism and effects on sperm production."
+    },
+    {
+      "id": "fda-jatenzo-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+      "year": 2026,
+      "summary": "FDA-approved DailyMed label for Jatenzo (testosterone undecanoate) oral capsules.",
+      "finding": "Taken twice daily with food; ambulatory blood pressure monitoring showed average rises of 4.9/2.5 mm Hg after 4 months; warnings cover polycythemia, venous thromboembolism and effects on sperm production."
+    },
+    {
+      "id": "fda-testopel-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03b9c0b1-5884-11e4-8ed6-0800200c9a66",
+      "year": 2025,
+      "summary": "FDA-approved DailyMed label for Testopel (testosterone pellets), implanted under the skin, revised July 2025.",
+      "finding": "Dosage guideline 150 to 450 mg implanted subcutaneously every 3 to 6 months; post-marketing reports of implant site infection and pellet extrusion, mostly within the first month."
+    },
+    {
+      "id": "bhasin-1996-nejm",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8637535",
+      "year": 1996,
+      "summary": "Randomized trial of 43 healthy men given 600 mg testosterone enanthate or placebo weekly for 10 weeks, with or without weight training (Bhasin et al., N Engl J Med).",
+      "finding": "Testosterone increased muscle size and strength in men who did not exercise, and more so in men who lifted weights; mood and behavior did not change in any group."
+    },
+    {
+      "id": "liu-2006-spermatogenic-recovery",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "16650651",
+      "year": 2006,
+      "summary": "Integrated analysis of individual data from 30 studies of 1549 healthy men on androgen-based hormonal contraception, tracking sperm recovery after stopping (Liu et al., Lancet).",
+      "finding": "Sperm concentration recovered to 20 million per mL in a median of 3.4 months; the chance of recovery was 67% within 6 months, 90% within 12 months and 100% within 24 months."
+    },
+    {
+      "id": "ibis-2026-post-cycle-therapy",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41147237",
+      "year": 2026,
+      "summary": "Retrospective two-center cohort of 79 recreational anabolic steroid users who used steroids for 6 months or less, compared no treatment, clomiphene, or clomiphene plus hCG afterward (Ibis et al., BJU Int).",
+      "finding": "Hormones normalized by month 6 in all groups; at 12 months normal sperm counts were seen in 87.5% with clomiphene plus hCG, 69.2% with clomiphene and 58.6% with no treatment."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Labeled doses depend on the product: 50 to 400 mg of the injected oils every 2 to 4 weeks, 75 mg weekly for the under-the-skin injector, 750 mg for Aveed, 40.5 mg daily for the gel, 237 mg twice daily for Jatenzo capsules, and pellets every 3 to 6 months. Online sources describe men using 100 to 600 mg a week, which is above what the labels describe. One trial gave healthy men 600 mg weekly to study muscle growth.",
+      "items": [
+        {
+          "text": "Label: Depo-Testosterone (testosterone cypionate) injection states that for replacement in the hypogonadal male, 50 to 400 mg should be administered intramuscularly every two to four weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "Label: testosterone enanthate injection (Hikma) states the suggested replacement dose is 50 to 400 mg every 2 to 4 weeks, and that total doses above 400 mg per month are not required because of the prolonged action of the preparation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testosterone-enanthate-label"
+        },
+        {
+          "text": "Label: Xyosted (testosterone enanthate) subcutaneous autoinjector states a starting dose of 75 mg subcutaneously in the abdominal region once weekly, adjusted by 25 mg up or down based on trough total testosterone measured after 6 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "Label: Aveed (testosterone undecanoate) injection states 750 mg (3 mL) intramuscularly, repeated after 4 weeks, then every 10 weeks, with observation in a healthcare setting for 30 minutes after each injection.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-aveed-label"
+        },
+        {
+          "text": "Label: AndroGel 1.62% states a starting dose of 40.5 mg of testosterone (2 pump actuations or one packet) applied once daily in the morning, adjusted between 20.25 mg and 81 mg based on morning blood testosterone checked at about 14 and 28 days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "Label: Jatenzo (testosterone undecanoate) capsules state a starting dose of 237 mg by mouth twice daily, adjusted between 158 mg and 396 mg twice daily based on blood testosterone drawn 6 hours after the morning dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-jatenzo-label"
+        },
+        {
+          "text": "Label: Testopel (testosterone pellets) states a dosage guideline of 150 to 450 mg implanted subcutaneously every 3 to 6 months.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testopel-label"
+        },
+        {
+          "text": "A randomized trial gave 43 healthy men 600 mg of testosterone enanthate weekly for 10 weeks, which increased muscle size and strength, especially with weight training. This dose is well above labeled replacement doses and the men were not hypogonadal.",
+          "label": "research",
+          "validity": "moderate",
+          "conflicts_with_label": true,
+          "citation_id": "bhasin-1996-nejm"
+        },
+        {
+          "text": "The Endocrine Society guideline suggests treatment aim for mid-normal testosterone concentrations during therapy with any approved formulation.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "endocrine-society-guideline-2018"
+        },
+        {
+          "text": "A Substack author writing about TRT (testosterone replacement therapy) says men commonly use 100 to 250 mg of testosterone cypionate or enanthate per week. This is more per month than the labels describe.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The same Substack author says women commonly use 5 to 15 mg per week, typically about 10 mg of testosterone cypionate weekly or 5 mg every other day. The labels reviewed here cover use in men.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A hormone clinic blog says TRT patients typically receive 75 to 100 mg intramuscularly per week. The cypionate label describes injections every two to four weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The same clinic blog says TRT patients may instead receive 150 to 200 mg every two weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The same clinic blog says bodybuilding protocols commonly involve 300 to 600 mg of testosterone enanthate or cypionate per week, with some users exceeding this. This is far above labeled replacement doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Cleveland Clinic describes testosterone replacement as available through several routes (skin gels and patches, nasal gel, intramuscular and subcutaneous injections, implanted pellets, and oral or buccal forms) and says it treats symptoms of low testosterone without curing the underlying cause.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A telehealth company's blog says its providers mainly work with testosterone and related ancillary medications and handle peptides case by case, and that growth hormone peptides are the add-on most often discussed alongside testosterone.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The AndroGel label says to apply the gel once daily in the morning, and Jatenzo is taken in the morning and evening. The injected products have no time-of-day rule in the labels read. Online sources say any consistent time works, and some prefer mornings to match the natural daily testosterone peak.",
+      "items": [
+        {
+          "text": "Label: AndroGel 1.62% is applied once daily in the morning to clean, dry skin of the shoulders and upper arms. The label advises avoiding swimming, showering or washing the site for at least 2 hours after application.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "In a crossover study in 24 hypogonadal men described in the AndroGel label, showering 2 or 6 hours after application lowered average testosterone exposure by 13% and 12%, and showering 10 hours after had no effect.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "Label: Jatenzo capsules are taken once in the morning and once in the evening, and the same dose is given at both times.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-jatenzo-label"
+        },
+        {
+          "text": "The Depo-Testosterone label states that before starting treatment, low testosterone should be confirmed with morning blood tests on at least two separate days.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "TRTReady, a directory that matches men with TRT clinics, says the best time to inject is the time you will do it consistently. It says morning injections fit the natural early-day testosterone peak and let soreness develop while you are active, and that some men report better sleep with evening injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "Only the Jatenzo capsules have a food rule in the labels read: take them with food. Diagnosis uses a morning fasting blood test. The Depo-Testosterone label says androgens can lower blood sugar and insulin needs in people with diabetes. No online source on meals was found.",
+      "items": [
+        {
+          "text": "Label: Jatenzo is taken with food.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-jatenzo-label"
+        },
+        {
+          "text": "The Endocrine Society guideline recommends diagnosing hypogonadism only in men with symptoms and signs of testosterone deficiency and consistently low morning fasting testosterone on repeat testing.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "endocrine-society-guideline-2018"
+        },
+        {
+          "text": "The Depo-Testosterone label states that in diabetic patients, the metabolic effects of androgens may decrease blood glucose and therefore insulin requirements.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Injected oils are labeled for every 2 to 4 weeks, the under-the-skin injector weekly, Aveed every 10 weeks after two starter doses, gel daily and pellets every 3 to 6 months. No labeled missed-dose rule was found. Online sources split doses into two shots a week, which is more often than the cypionate and enanthate labels describe.",
+      "items": [
+        {
+          "text": "Label: Depo-Testosterone states that testosterone esters in oil injected intramuscularly are absorbed slowly, so testosterone cypionate can be given at intervals of two to four weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "Label: testosterone enanthate injection (Hikma) states that injections more frequently than every two weeks are rarely indicated.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testosterone-enanthate-label"
+        },
+        {
+          "text": "Label: Xyosted is given once weekly, with the dose adjusted by 25 mg based on trough testosterone measured 7 days after a dose, after 6 weeks of dosing, 6 weeks after any change, and periodically after.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "Label: Aveed is given as 750 mg at the start, again after 4 weeks, then every 10 weeks, and the label states dose titration is not necessary.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-aveed-label"
+        },
+        {
+          "text": "Label: AndroGel 1.62% is applied once daily and Jatenzo twice daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "Label: Testopel pellets are implanted every 3 to 6 months.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testopel-label"
+        },
+        {
+          "text": "Cleveland Clinic says intramuscular injections are given every one to two weeks (some products every 10 weeks), subcutaneous injections weekly, gels and patches daily, buccal tablets and oral pills twice daily, nasal gel three times daily, and pellets every three to six months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The same Substack author says the weekly amount is often split into two smaller doses of 50 to 100 mg twice a week to keep blood levels stable. The cypionate label describes one injection every two to four weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://justinmihaly.substack.com/p/trt-the-rulebook",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Marek Health, a company that sells physician-prescribed TRT and lab tests, says splitting a weekly dose into two injections 3 to 4 days apart narrows the gap between peak and trough testosterone. It cites an American Urological Association preference for smaller, more frequent doses of short-acting injections.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Testosterone replacement is meant to be long term: the Testopel label says prolonged treatment is needed to maintain male characteristics, and trials ran from 10 weeks to about 2 years. After stopping, the body's own production restarts slowly, and sperm counts in healthy men recovered in a median of about 3 months after contraceptive-style regimens. Online sources describe post-cycle therapy with other drugs, which is unproven for this use.",
+      "items": [
+        {
+          "text": "The Testopel label states that prolonged androgen treatment will be required to maintain sexual characteristics in men who develop testosterone deficiency after puberty.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testopel-label"
+        },
+        {
+          "text": "The Depo-Testosterone label states that individuals taking supratherapeutic doses may have withdrawal symptoms lasting weeks or months, including depressed mood, fatigue, craving, restlessness, irritability, insomnia, decreased libido and hypogonadotropic hypogonadism. Drug dependence at approved doses for approved uses has not been documented.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "In TRAVERSE, men used daily testosterone gel for a mean of 21.7 months with a mean follow-up of 33 months.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "traverse-2023"
+        },
+        {
+          "text": "In the Testosterone Trials, men aged 65 or older with low testosterone used gel or placebo for 1 year.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "testosterone-trials-2016"
+        },
+        {
+          "text": "In an analysis of 1549 healthy men who stopped contraceptive-style testosterone regimens, sperm concentration returned to 20 million per mL in a median of 3.4 months, with 67% recovered by 6 months, 90% by 12 months and 100% by 24 months. Longer treatment and longer-acting preparations slowed recovery.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "liu-2006-spermatogenic-recovery"
+        },
+        {
+          "text": "In a retrospective cohort of 79 recreational anabolic steroid users who stopped after 6 months or less, hormones normalized by month 6 in all groups. At 12 months, normal sperm counts were seen in 87.5% who received clomiphene plus hCG, 69.2% with clomiphene alone and 58.6% with no treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "ibis-2026-post-cycle-therapy"
+        },
+        {
+          "text": "Cleveland Clinic says TRT is meant to be long-term and can continue as long as it benefits symptoms without causing health issues. If stopped, it says levels return to baseline and the body takes time to restart its own testosterone production.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "H.U.M. Clinic, a clinic that sells post-cycle therapy, says a standard post-cycle therapy runs 4 to 6 weeks using clomiphene and tamoxifen, and that stopping without it can extend recovery of testosterone and sperm production to over a year. It says men on TRT do not usually use it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Labels say to keep the products at room temperature (about 20 to 25 C) and out of light, and not to refrigerate Xyosted. Each route has its own handling rules: deep muscle injection for the oils, abdomen only for Xyosted, a clinic setting for Aveed, and covering and washing for the gel. One online seller adds a 28-day discard rule for opened vials that is not in the label.",
+      "items": [
+        {
+          "text": "The Depo-Testosterone (testosterone cypionate) label states the product is for intramuscular use only, is an oil-based solution that is absorbed slowly from the injection site, and is stored at controlled room temperature (20 to 25 C) protected from light.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Depo-Testosterone label states injections are given deep in the gluteal muscle, and that warming and shaking the vial should redissolve crystals that form during storage at temperatures lower than recommended.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Xyosted (testosterone enanthate) label states the product is a single-dose autoinjector for subcutaneous use in the abdomen only, is not refrigerated or frozen, and is stored at controlled room temperature (20 to 25 C) in its carton, protected from light. The label states the liquid should be clear to light yellow and not used if cloudy or containing particles.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "The Aveed (testosterone undecanoate) label states that patients are observed in a healthcare setting for 30 minutes after each injection, and that the product is available only through a restricted REMS program because of the risk of pulmonary oil microembolism reactions and anaphylaxis. It is stored at controlled room temperature in the original carton.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-aveed-label"
+        },
+        {
+          "text": "The Aveed label states the injection is given deep in the gluteal muscle, alternating left and right buttock between injections, and the single-use vial is discarded after use.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-aveed-label"
+        },
+        {
+          "text": "The AndroGel 1.62% label states to wash hands right away after applying, cover the site with clothing once dry, wash the site before skin-to-skin contact with another person, because of the risk of secondary exposure of children and women. It states the gel is flammable until dry and is stored at room temperature.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "The Jatenzo label states the capsules are stored at 20 to 25 C in a dry place, away from moisture.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-jatenzo-label"
+        },
+        {
+          "text": "The Testopel label states pellets are implanted under the skin and stored at 25 C, with excursions permitted to 15 to 30 C.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testopel-label"
+        },
+        {
+          "text": "HealthRx, a marketplace that connects patients with telehealth providers, says testosterone cypionate should be stored at room temperature and not refrigerated because it can crystallize below about 15 C. It says to warm crystals in a 37 to 40 C water bath for 5 to 10 minutes and to discard multi-dose vials 28 days after first puncture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Testosterone acts on androgen receptors, partly after being turned into dihydrotestosterone (DHT). The label says giving it from outside switches off the body's own testosterone through the brain's luteinizing hormone (LH) signal, and at large doses can also lower sperm production.",
+      "items": [
+        {
+          "text": "The Depo-Testosterone label states that in many tissues the activity of testosterone depends on reduction to dihydrotestosterone (DHT), which binds receptor proteins and sets off cellular changes. During exogenous administration, the label says endogenous testosterone release is inhibited through feedback inhibition of pituitary luteinizing hormone (LH), and at large doses sperm production may be suppressed through follicle-stimulating hormone (FSH).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Depo-Testosterone label states that androgens have been reported to stimulate production of red blood cells by enhancing production of an erythropoietic stimulation factor.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "Wikipedia describes testosterone as a high-affinity agonist of the nuclear androgen receptor, converted by 5-alpha-reductase to DHT and by aromatase to estradiol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Testosterone_(medication)",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In the Xyosted label's one-year trial, 90% of men with low testosterone (135 of 150) had average testosterone in the normal range at week 12. In older men with low testosterone, a 1-year trial found a moderate gain in sexual function and some mood benefit but no gain in vitality or walking.",
+      "items": [
+        {
+          "text": "In the Xyosted label's clinical study, 135 of 150 hypogonadal men (90%) had a time-averaged total testosterone concentration within the normal range (300 to 1100 ng/dL) at week 12, and none had a peak above 1500 ng/dL.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "Testosterone Trials: in 790 men aged 65 or older with low testosterone and symptoms, 1 year of testosterone gel gave a moderate benefit in sexual function and some benefit for mood and depressive symptoms, no benefit for vitality, and no significant walking benefit in the physical function trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "testosterone-trials-2016"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Acne, ankle swelling, breast enlargement, headache, injection-site pain or bruising, and rises in prostate-specific antigen (PSA).",
+      "items": [
+        {
+          "text": "The Depo-Testosterone label lists adverse reactions including gynecomastia, acne, headache, anxiety, depression, changes in libido, fluid retention and pain or inflammation at the intramuscular injection site.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "In the Xyosted label's one-year study of 150 men, PSA increased in 12.0%, injection site bruising occurred in 6.7%, headache in 5.3% and acne in 2.7%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "Cleveland Clinic lists acne or oily skin, ankle swelling, prostate stimulation causing urinary symptoms, breast enlargement or tenderness, worsening sleep apnea, smaller testicles and raised PSA as possible effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "title": "Blood pressure",
+      "summary": "All the labels read carry a warning that testosterone can raise blood pressure, with average rises of about 2 to 5 mm Hg in trials. They are not recommended in uncontrolled high blood pressure.",
+      "items": [
+        {
+          "text": "The Depo-Testosterone label states testosterone can increase blood pressure, which can increase cardiovascular risk over time, that blood pressure should be monitored periodically especially in men with hypertension, and that testosterone products are not recommended in patients with uncontrolled hypertension.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Xyosted label states the product can increase blood pressure. In its clinical trials ambulatory monitoring showed average increases of about 3.9 mm Hg systolic and 1.5 mm Hg diastolic after 12 weeks, and about 10% of treated patients started or changed antihypertensive medication during the 1-year study. Hypertension was reported in 12.7% of men in the one-year study.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "The Aveed label states that ambulatory monitoring showed average blood pressure increases of 3.1/2.0 mm Hg after 16 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-aveed-label"
+        },
+        {
+          "text": "The AndroGel 1.62% label states that ambulatory monitoring showed average increases of 1.9/1.3 mm Hg after 16 weeks. In TRAVERSE, systolic pressure rose 1.0 mm Hg with the gel and fell 0.5 mm Hg with placebo at 36 months.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "The Jatenzo label states ambulatory monitoring showed average increases of 4.9/2.5 mm Hg after 4 months and that average pressures had not plateaued at the end of the trial.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-jatenzo-label"
+        },
+        {
+          "text": "The FDA's February 2025 class-wide labeling changes added a blood pressure warning to testosterone products, and the agency said postmarket blood pressure studies showed measurable increases.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testosterone-class-labeling-2025"
+        }
+      ]
+    },
+    {
+      "title": "Red blood cells",
+      "summary": "Testosterone can raise red blood cell counts (hematocrit), which can thicken the blood and may require stopping treatment. Labels call for periodic blood tests.",
+      "items": [
+        {
+          "text": "The Xyosted label states increases in hematocrit reflect increased red blood cell mass and may require stopping the drug, with hematocrit checked about every 3 months. Hematocrit of 55% or more occurred in 4.2% of patients (12 of 283) and increased hematocrit was reported in 14.0% in the one-year study. The label says more red blood cells may raise the risk of blood clots.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "The AndroGel 1.62% label states hematocrit should be checked before starting, re-checked 3 to 6 months after starting and then yearly, and therapy stopped until it falls if it becomes elevated.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "The Depo-Testosterone label lists polycythemia among adverse reactions and states hemoglobin and hematocrit should be checked periodically in patients on long-term androgen therapy.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "Cleveland Clinic lists an increase in red blood cell count, which thickens the blood, as a laboratory change with TRT.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Marek Health, a company that sells TRT and lab tests, cites a 2025 study in which 23% of men reached a hematocrit above 50% and 5% exceeded 54%, and says guidelines use 54% as the point to intervene.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Fertility",
+      "summary": "Labels say testosterone can lower sperm production and fertility, and the effect may be irreversible. Recovery after stopping usually takes months.",
+      "items": [
+        {
+          "text": "The Xyosted label states that large doses of exogenous androgens may suppress sperm production through feedback inhibition, that reduced fertility is observed in some men on testosterone replacement, and that the impact on fertility may be irreversible.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "The Depo-Testosterone label states oligospermia may occur after prolonged administration or excessive dosage, and that if it appears the androgen should be stopped and, if restarted, a lower dose used.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Depo-Testosterone label lists testicular atrophy, subfertility and infertility among reactions reported in men who abuse anabolic androgenic steroids.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "Cleveland Clinic says TRT can decrease sperm count and cause infertility, that trying to repair fertility after TRT can be very expensive and take a long time, and that men considering biological children should avoid it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says exogenous testosterone may suppress sperm production in men, leading in some cases to reversible infertility.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Testosterone_(medication)",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Heart and clots",
+      "summary": "Older labels warned of possible heart risk, and current labels warn of blood clots. In the TRAVERSE trial, serious heart events were similar to placebo, while atrial fibrillation, kidney injury and lung clots were more common with testosterone.",
+      "items": [
+        {
+          "text": "The Depo-Testosterone label lists myocardial infarction, stroke and venous thromboembolism among adverse reactions, and states that studies have been inconclusive on major adverse cardiovascular events and that some but not all studies reported increased risk.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Xyosted label's warnings cover venous thromboembolism, and its 2025 update removed the boxed blood pressure warning and the separate cardiovascular risk entry.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "In the TRAVERSE trial, a higher incidence of atrial fibrillation, acute kidney injury and pulmonary embolism was observed with testosterone gel than with placebo, while the composite of cardiovascular death, nonfatal myocardial infarction and nonfatal stroke was similar between groups (7.0% vs 7.3%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "traverse-2023"
+        },
+        {
+          "text": "The AndroGel 1.62% label states that in TRAVERSE the gel was associated with a numerically higher incidence of venous thromboembolism (1.7% vs 1.2%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "Cleveland Clinic says research on heart attack and stroke is mixed, with some studies suggesting TRT lowers risk and others suggesting it raises it, and that a 2024 large trial found the gel was not tied to increased heart risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://my.clevelandclinic.org/health/treatments/testosterone-replacement-therapy-trt",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Aveed boxed warning",
+      "summary": "Aveed carries a boxed warning for serious lung oil reactions and allergic shock after any injection.",
+      "items": [
+        {
+          "text": "The Aveed label carries a boxed warning for serious pulmonary oil microembolism (POME) reactions, with urge to cough, dyspnea, throat tightening, chest pain, dizziness and syncope, and for anaphylaxis including life-threatening reactions, which can occur after any injection including the first.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-aveed-label"
+        }
+      ]
+    },
+    {
+      "title": "Prostate and other warnings",
+      "summary": "Labels warn about worsening prostate enlargement, possible prostate cancer risk, and contraindicate use in men with known prostate or breast cancer.",
+      "items": [
+        {
+          "text": "The Xyosted label's warnings also cover worsening benign prostatic hyperplasia and possible prostate cancer risk.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-xyosted-label"
+        },
+        {
+          "text": "The Depo-Testosterone label lists known or suspected prostate cancer and breast cancer in men as contraindications.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        }
+      ]
+    },
+    {
+      "title": "Route-specific",
+      "summary": "Gel can transfer to children and women. Pellets can cause infection or extrude from the implant site.",
+      "items": [
+        {
+          "text": "The AndroGel 1.62% label states secondary exposure has caused virilization of children, with penis or clitoris enlargement, pubic hair, aggressive behavior and advanced bone age, and that in a few cases enlarged genitalia did not fully return to normal.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-androgel-label"
+        },
+        {
+          "text": "The Testopel label describes post-marketing cases of implant site infection (cellulitis and abscess) and pellet extrusion, most within the first month after implantation.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-testopel-label"
+        }
+      ]
+    },
+    {
+      "title": "High doses and misuse",
+      "summary": "The label says testosterone has been abused at doses above those approved and with other steroids, which can cause serious heart and mental health problems.",
+      "items": [
+        {
+          "text": "The Depo-Testosterone label states testosterone has been subject to abuse, typically at amounts higher than approved and with other anabolic androgenic steroids, and that such abuse can cause serious cardiovascular and psychiatric adverse reactions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        },
+        {
+          "text": "The Depo-Testosterone label lists reactions reported with anabolic steroid abuse including cardiac arrest, myocardial infarction, hypertrophic cardiomyopathy, heart failure, stroke, hepatotoxicity, and serious psychiatric effects such as major depression, mania, psychosis and aggression.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-depo-testosterone-label"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

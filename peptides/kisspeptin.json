@@ -184,6 +184,51 @@
       "finding": "No results are posted yet. The record describes an investigational physiology study of hormone release and ovarian follicle growth."
     },
     {
+      "id": "pmid-21632807",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "21632807",
+      "year": 2011,
+      "summary": "Dose-response and infusion study of kisspeptin-10 in healthy men, with 4 to 6 men per part (George et al., J Clin Endocrinol Metab).",
+      "finding": "Intravenous boluses raised luteinizing hormone (LH) in a dose-dependent way, peaking at 1 microgram per kg, while 3 micrograms per kg gave a smaller response. A 1.5 microgram per kg per hour infusion raised LH pulse frequency, and a 22.5-hour infusion raised testosterone."
+    },
+    {
+      "id": "pmid-42549827",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42549827",
+      "year": 2026,
+      "summary": "Randomized, single-blinded, placebo-controlled study (Yeung et al., Eur J Endocrinol) of subcutaneous kisspeptin-10 infusions in 15 healthy men, including 5 days of continuous infusion and 12 days of daily 8-hour infusions.",
+      "finding": "Continuous infusion for 5 days kept testosterone up but gonadotropins fell back to vehicle levels. Daily 8-hour infusions kept LH and FSH raised for 12 days (mean LH rise +1.68 on day 1 and +1.14 on day 12), and the receptor still responded to a bolus afterward. The study used infusions, not injections."
+    },
+    {
+      "id": "pmid-16174713",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "16174713",
+      "year": 2005,
+      "summary": "Double-blind, placebo-controlled crossover study in 6 healthy men of a 90-minute intravenous kisspeptin-54 infusion (Dhillo et al., J Clin Endocrinol Metab).",
+      "finding": "Kisspeptin-54 raised LH (10.8 vs 4.2 U/liter), follicle-stimulating hormone (FSH) and testosterone versus saline. Its blood half-life was about 27.6 minutes."
+    },
+    {
+      "id": "pmid-14573733",
+      "evidence_type": "case_report",
+      "source_kind": "pubmed",
+      "identifier": "14573733",
+      "year": 2003,
+      "summary": "Genetic study of a family and one unrelated patient with absent puberty, plus a mouse model with the same receptor gene removed (Seminara et al., N Engl J Med).",
+      "finding": "People and mice lacking a working GPR54 (the kisspeptin receptor) did not go through puberty but still responded to gonadotropin-releasing hormone (GnRH), which places kisspeptin signaling above GnRH."
+    },
+    {
+      "id": "pmid-21976724",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "21976724",
+      "year": 2011,
+      "summary": "Small study (4 to 5 per group) of kisspeptin-10 given intravenously or subcutaneously to healthy men and women (Jayasena et al., J Clin Endocrinol Metab).",
+      "finding": "Men responded with higher LH and FSH. Women in the follicular phase of the cycle showed no response even at the highest doses, while women in the preovulatory phase did respond."
+    },
+    {
       "id": "fda-bulk-substances-page",
       "evidence_type": "regulatory_document",
       "source_kind": "fda",
@@ -193,5 +238,405 @@
       "finding": "Kisspeptin-10 is listed in category 2 for section 503A compounding (added 29 September 2023). FDA says compounded kisspeptin-10 may pose immunogenicity and impurity risks and that it has no or limited safety information for the proposed routes. This does not make kisspeptin an approved drug."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "No approved dose exists. Trials gave kisspeptin-54 by weight, for example 1.6 to 12.8 nmol/kg under the skin before egg collection in in vitro fertilization (IVF), and kisspeptin-10 mostly by vein or infusion. Online sources describe 50 to 500 mcg of kisspeptin-10, which differs from the by-weight doses studied.",
+      "items": [
+        {
+          "text": "Kisspeptin-54 as a single subcutaneous injection at 1.6 to 12.8 nmol/kg to trigger egg maturation in 53 women having IVF. This was an uncontrolled dose-finding study.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25036713"
+        },
+        {
+          "text": "Kisspeptin-54 as a single subcutaneous injection at 3.2 to 12.8 nmol/kg for egg maturation, with doses assigned at random, in 60 women having IVF who were at high risk of ovarian hyperstimulation syndrome (OHSS).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26192876"
+        },
+        {
+          "text": "Kisspeptin-54 at 9.6 nmol/kg subcutaneously, in 62 women having IVF at high risk of OHSS. Half then got a second dose 10 hours later.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-28854728"
+        },
+        {
+          "text": "Kisspeptin-54 at 6.4 nmol/kg by subcutaneous injection twice daily for 2 weeks, versus saline, in 10 women with hypothalamic amenorrhea (5 per group).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19820030"
+        },
+        {
+          "text": "Kisspeptin-54 as an intravenous infusion at 1 nmol/kg per hour for 75 minutes, crossover versus placebo, in 32 premenopausal women with hypoactive sexual desire disorder who completed both visits.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-36287566"
+        },
+        {
+          "text": "In healthy men, intravenous kisspeptin-10 raised luteinizing hormone (LH) most at 1 microgram per kg, and a 3 microgram per kg dose gave a smaller rise.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-21632807"
+        },
+        {
+          "text": "In 15 healthy men, subcutaneous kisspeptin-10 infusions of 1.25 to 10 nmol/kg per hour raised LH, follicle-stimulating hormone (FSH) and testosterone in a dose-dependent way.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42549827"
+        },
+        {
+          "text": "A peptide protocol site that earns affiliate commissions says people commonly use 100 mcg, 200 mcg or up to 500 mcg of kisspeptin, and also lists a weight-based range of 6 to 10 mcg per kg subcutaneously.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative, an educational site, lists three kisspeptin-10 doses: 50 mcg, 100 mcg, and 100 to 200 mcg per injection. It says doses above about 1 mcg per kg can blunt the LH response, citing the men's study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that earns supplier commissions, lists 50 to 100 mcg of kisspeptin-10 as a low dose and 100 to 200 mcg as a standard dose. It says these are community ranges based partly on kisspeptin-54 trial data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day. In IVF trials eggs were collected 36 hours after the injection, and in women kisspeptin-10 worked only in the preovulatory part of the cycle. Online sources say bedtime or morning, which is untested.",
+      "items": [
+        {
+          "text": "In IVF trials, eggs were collected 36 hours after the kisspeptin-54 injection. This timing was set by the egg-collection schedule, not tested against other times.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26192876"
+        },
+        {
+          "text": "In healthy women, kisspeptin-10 raised LH and FSH during the preovulatory phase but not in the follicular phase, even at high doses. Men responded at low doses.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-21976724"
+        },
+        {
+          "text": "A peptide protocol site with affiliate links says kisspeptin is often timed before sleep in community planning.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A kisspeptin dosing site that earns affiliate commissions says injections are placed about an hour before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative says morning dosing works well for most goals and ties it to the body's natural cortisol rise on waking. It says fertility timing may be adjusted by cycle phase.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food or fasting with kisspeptin. One educational site says food timing does not matter.",
+      "items": [
+        {
+          "text": "Peptide Initiative says kisspeptin can be taken regardless of food timing and that meals do not much change absorption of an injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Trials used single doses for IVF. Twice-daily injections lost most of their effect within 2 weeks, while twice-weekly injections kept a partial effect. Online sources describe daily dosing or two to three times a week, and skipping a missed dose.",
+      "items": [
+        {
+          "text": "In women with hypothalamic amenorrhea, kisspeptin-54 twice daily raised LH by 24.0 IU/liter on the first injection day but only by 2.5 by day 14. The authors called this desensitization.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19820030"
+        },
+        {
+          "text": "Twice-daily kisspeptin-54 nearly abolished the FSH response by day 2 and gradually reduced the LH response. Twice-weekly injections caused only partial desensitization.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-20980998"
+        },
+        {
+          "text": "In women having IVF at high risk of OHSS, a second kisspeptin-54 dose 10 hours after the first raised the share reaching a high egg yield from 45% to 71%. It did not raise moderate OHSS.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-28854728"
+        },
+        {
+          "text": "In 7 healthy men, kisspeptin-10 infused for 8 hours then paused for 16 hours each day kept LH raised. Continuous infusion for 5 days did not.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42549827"
+        },
+        {
+          "text": "A registered, ongoing phase 2 trial (NCT05896293) gives subcutaneous kisspeptin in pulses every 60 to 240 minutes for two weeks in people with idiopathic hypogonadotropic hypogonadism. No results are posted and the exact dose is not stated.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-05896293"
+        },
+        {
+          "text": "A peptide protocol site that earns affiliate commissions says people commonly use kisspeptin two to three times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative lists once-daily injections, and once or twice daily at 100 to 200 mcg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that earns supplier commissions, lists once-daily injections of 50 to 200 mcg, or 100 mcg twice daily as a split dose. It says a missed dose is usually skipped rather than doubled.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran from a single dose to 8 weeks, and the longest used twice-weekly injections. No study tested stopping or restarting. Online sources describe cycles of 2 to 6 weeks with breaks, which no trial has tested.",
+      "items": [
+        {
+          "text": "After 2 weeks of twice-daily kisspeptin-54, women remained responsive to GnRH. The loss of response was to kisspeptin, not to the pituitary.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19820030"
+        },
+        {
+          "text": "Twice-weekly kisspeptin-54 for 8 weeks left hormone levels higher than saline at 8 weeks, with no adverse effects reported. This very small study measured hormones, not fertility.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-20980998"
+        },
+        {
+          "text": "Daily 8-hour subcutaneous kisspeptin-10 infusions for 12 days kept LH and FSH raised (LH rise +1.68 on day 1 and +1.14 on day 12) in healthy men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-42549827"
+        },
+        {
+          "text": "A kisspeptin dosing site that earns affiliate commissions says use is cycled with off periods to avoid receptor desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative lists 1 to 2 weeks at 50 mcg daily, and 4 to 6 weeks at 100 mcg daily or at 100 to 200 mcg once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that earns supplier commissions, lists 2 to 4 weeks on and 2 to 4 weeks off, or 4 to 6 weeks on and 4 weeks off. It says nonstop use can make the signal fade.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label or study gives storage rules, and no product is approved. Online sources say to refrigerate a mixed vial and discard it after 14 to 28 days or the supplier's stated limit.",
+      "items": [
+        {
+          "text": "A peptide protocol site with affiliate links says the mixed vial is kept refrigerated right away and that shelf life depends on the supplier's stated beyond-use limits.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide protocol site with affiliate links says to rotate injection sites and let the alcohol swab dry before injecting.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A kisspeptin dosing site that earns affiliate commissions says to inject in the lower abdomen or upper outer thigh and rotate sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A kisspeptin dosing site that earns affiliate commissions says a mixed vial is refrigerated and used within about 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Initiative says powder is kept in the fridge short term or the freezer long term, and a mixed vial is refrigerated, never frozen, and used within 14 to 21 days. It lists belly, thigh and upper arm as injection sites and says to discard cloudy or discolored vials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that earns supplier commissions, says powder is kept at -20 C and a mixed vial at 2 to 8 C, not frozen. It says to discard a cloudy vial and to respect the supplier's beyond-use limit.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Kisspeptin is a natural brain hormone that acts above gonadotropin-releasing hormone (GnRH), which tells the pituitary to release luteinizing hormone (LH) and follicle-stimulating hormone (FSH). In men LH then raises testosterone. Kisspeptin-54 lasts about 28 minutes in blood.",
+      "items": [
+        {
+          "text": "People and mice lacking a working kisspeptin receptor (GPR54) did not go through puberty but still responded to GnRH. This places kisspeptin signaling above GnRH.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14573733"
+        },
+        {
+          "text": "In 6 healthy men, a 90-minute kisspeptin-54 infusion raised LH, FSH and testosterone versus saline. Its blood half-life was about 27.6 minutes.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16174713"
+        },
+        {
+          "text": "In healthy men, a kisspeptin-10 infusion raised LH pulse frequency and size, which fits an action on the GnRH pulse generator.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-21632807"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Best result is as an IVF egg-maturation trigger. Eggs matured in 95% of 60 women at high risk of OHSS with no moderate or worse OHSS, but there was no comparison with standard triggers. Other uses are tested only for hormone or brain effects.",
+      "items": [
+        {
+          "text": "In 60 women at high risk of OHSS, a single kisspeptin-54 injection matured eggs in 95%, no woman developed moderate to critical OHSS, and live birth was 45% per transfer. There was no standard-trigger arm.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26192876"
+        },
+        {
+          "text": "In the first 53-women study, eggs matured at every dose, 92% had embryo transfer and clinical pregnancy was 23%. There was no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-25036713"
+        },
+        {
+          "text": "In 10 women with hypothalamic amenorrhea, 2 weeks of twice-daily kisspeptin-54 did not change LH pulsatility or ovarian ultrasound findings.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19820030"
+        },
+        {
+          "text": "In women with low sexual desire, one kisspeptin-54 infusion changed brain responses to erotic and attractive-face images. The outcome was brain activity in 32 women, not sexual function in daily life.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-36287566"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Small trials reported kisspeptin as well tolerated. No woman at high risk of ovarian hyperstimulation syndrome (OHSS) had moderate or worse OHSS.",
+      "items": [
+        {
+          "text": "In a randomized crossover trial of a single intravenous kisspeptin-54 infusion in women with hypoactive sexual desire disorder, kisspeptin was reported as well tolerated.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-36287566"
+        },
+        {
+          "text": "In a trial of women at high risk of OHSS given kisspeptin-54 as an egg-maturation trigger, no woman developed moderate to critical OHSS.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-26192876"
+        },
+        {
+          "text": "A study of twice-weekly kisspeptin-54 injections for up to 8 weeks in women with hypothalamic amenorrhea reported no adverse effects, in a very small sample.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-20980998"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources list mild flushing, injection site redness, headache and nausea. These come from sellers or education sites, not from trials.",
+      "items": [
+        {
+          "text": "A protocol site with affiliate links says reported effects include mild flushing or warmth shortly after injection, mild injection-site redness, transient headache and brief nausea.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Peptide Initiative says flushing, injection site reactions and mild headache are common, and a faster heart rate or dizziness is less common. It says to stop for allergic reactions, persistent flushing, or large rises in blood pressure or heart rate.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/kisspeptin-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA lists kisspeptin-10 among compounding substances that may carry significant safety risks. No kisspeptin product is approved.",
+      "items": [
+        {
+          "text": "The FDA lists kisspeptin-10 in category 2 for section 503A compounding, added 29 September 2023. It says compounded drugs may pose immunogenicity risk and impurity concerns and that it has no or limited safety information for the proposed routes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bulk-substances-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
