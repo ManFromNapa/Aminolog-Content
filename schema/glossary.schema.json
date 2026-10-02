@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Glossary",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["entries"],
+  "properties": {
+    "entries": {"type":"array","minItems":1,"items":{
+      "type":"object","additionalProperties":false,
+      "required":["term","definition","category"],
+      "properties":{
+        "term":{"type":"string","minLength":1},
+        "abbreviation":{"type":"boolean"},
+        "aliases":{"type":"array","items":{"type":"string","minLength":1}},
+        "abbreviation_aliases":{"type":"array","items":{"type":"string","minLength":1}},
+        "definition":{"type":"string","minLength":1,"maxLength":240},
+        "category":{"enum":["units","hormones_receptors","body_conditions","study_evidence","routes_handling","drugs_compounds"]},
+        "source":{"type":"object","additionalProperties":false,"required":["name","url"],
+          "properties":{
+            "name":{"enum":["MedlinePlus","NCI Dictionary of Cancer Terms"]},
+            "url":{"type":"string","pattern":"^https://(medlineplus\\.gov|www\\.cancer\\.gov)/"}}}}}}
+  }
+}

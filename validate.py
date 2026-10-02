@@ -79,6 +79,28 @@ for f in blend_files:
                 errors.append(f"blends/{f.name}: {field}[{n}] cites unknown {item['citation_id']}")
             if item.get("label") == "internet" and (item["source_type"] == "vendor") != (item["url"] is None):
                 errors.append(f"blends/{f.name}: {field}[{n}] vendor/url mismatch")
+# Glossary
+gp = root / "glossary.json"
+if gp.exists() and not only:
+    g = json.loads(gp.read_text())
+    gv = Draft202012Validator(json.loads((root / "schema/glossary.schema.json").read_text()))
+    for e in gv.iter_errors(g): errors.append(f"glossary.json: {e.message}")
+    seen = {}
+    for entry in g.get("entries", []):
+        t = entry["term"]
+        if "\u2014" in entry["definition"] or "\u2013" in entry["definition"]: errors.append(f"glossary.json: {t}: dash in definition")
+        cat = entry["category"]
+        if cat == "units" and "source" in entry: errors.append(f"glossary.json: {t}: units take no source")
+        # every match string and its case rule: (text, case_sensitive)
+        forms = [(t, bool(entry.get("abbreviation")))]
+        forms += [(a, False) for a in entry.get("aliases", [])]
+        forms += [(a, True) for a in entry.get("abbreviation_aliases", [])]
+        for text, cs in forms:
+            key = text if cs else text.lower()
+            for (k2, cs2), owner in seen.items():
+                if (cs and cs2 and text == k2) or (not cs and not cs2 and key == k2) or (cs != cs2 and text.lower() == k2.lower()):
+                    if owner != t: errors.append(f"glossary.json: '{text}' ({t}) collides with '{k2}' ({owner})")
+            seen[(key, cs)] = t
 mp = root / "manifest.json"
 if mp.exists() and not only:
     m = json.loads(mp.read_text())
