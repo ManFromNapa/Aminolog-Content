@@ -29,6 +29,7 @@ for f in files:
         errors.append(f"{f.name}: {e.message}")
     if d.get("id") != f.stem: errors.append(f"{f.name}: id != filename")
     ids = {r["id"] for r in d.get("research", [])}
+    if len(ids) != len(d.get("research", [])): errors.append(f"{f.name}: duplicate research id")
     for e in d.get("dosing", {}).get("entries", []):
         if e["citation_id"] not in ids: errors.append(f"{f.name}: unknown citation {e['citation_id']}")
     for r in d.get("research", []):
@@ -65,6 +66,7 @@ for f in blend_files:
     if len(b.get("components", [])) + len(b.get("other_components", [])) < 2:
         errors.append(f"blends/{f.name}: a blend needs at least two components")
     ids = {r["id"] for r in b.get("research", [])}
+    if len(ids) != len(b.get("research", [])): errors.append(f"blends/{f.name}: duplicate research id")
     for r in b.get("research", []):
         k, i = r["source_kind"], r["identifier"]
         if k == "pubmed" and not re.fullmatch(r"\d+", i): errors.append(f"blends/{f.name}: bad PMID {i}")
