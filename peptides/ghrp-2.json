@@ -154,7 +154,500 @@
       "year": 2020,
       "summary": "FDA warning letter to a compounding pharmacy (1 April 2020), fetched 2026-09-30.",
       "finding": "The letter lists GHRP-2 among substances the pharmacy compounded and says products made from them were not eligible for the section 503A exemptions; it notes GHRP-2 was nominated without adequate support for FDA to evaluate it and that the pharmacy said it removed it from its formulary."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "ho-1988-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3127426",
+      "year": 1988,
+      "summary": "Frequent-sampling study of 24-hour growth hormone secretion in 6 healthy men on a fed day and on days 1 and 5 of a 5-day fast (Ho et al., J Clin Invest).",
+      "finding": "Fasting increased growth hormone secretion and amplified its daily rhythms compared with the fed day."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
+    },
+    {
+      "id": "pmid-9390009",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9390009",
+      "year": 1997,
+      "summary": "Uncontrolled study of intranasal GHRP-2 (5 to 15 micrograms per kg, twice a day for 3 months, then three times a day) in 15 children with short stature, 6 of them followed for 18 to 24 months (Pihoker et al., J Endocrinol).",
+      "finding": "Height velocity rose from 3.7 to 6.1 cm per year at 6 months and stayed at 6.0 cm per year at 18 to 24 months. Acute GH responses to GHRP-2 did not change significantly, and the spray was well tolerated. There was no control group."
+    },
+    {
+      "id": "pmid-26401470",
+      "evidence_type": "case_report",
+      "source_kind": "pubmed",
+      "identifier": "26401470",
+      "year": 2015,
+      "summary": "Case report of one woman with a 20-year history of anorexia nervosa given intranasal GHRP-2 before every meal for 1 year (Haruta et al., J Cachexia Sarcopenia Muscle).",
+      "finding": "GHRP-2 increased hunger and food intake, and her body weight rose by 6.7 kg (from 21.1 to 27.8 kg) over 14 months. The authors observed no obvious side effects. One patient, no control."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Studies used IV or infusion doses of 1 to 2 mcg per kg, a nasal spray in children, or a high oral dose in children. Online sources describe 100 to 300 mcg injected per dose, which has not been studied in trials.",
+      "items": [
+        {
+          "text": "Subcutaneous infusion of 1 microgram per kg per hour for 270 minutes, versus saline, before a meal, in seven lean, healthy men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15699539"
+        },
+        {
+          "text": "Single intravenous doses of 1 and 2 micrograms per kg in six healthy young adults and six elderly adults (2 micrograms per kg).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9285939"
+        },
+        {
+          "text": "Oral 900 micrograms per kg twice daily for 12 months in ten prepubertal children with growth hormone deficiency, with no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14513874"
+        },
+        {
+          "text": "Intranasal doses of 5 to 15 micrograms per kg were given to 15 children with short stature in an uncontrolled study.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-9390009"
+        },
+        {
+          "text": "An affiliate-linked peptide site says the usual range is 100 to 300 mcg per injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptidepedia says a single 100 mcg dose at bedtime is a typical starting point and that the usual range is 100 to 300 mcg per injection. It says GHRP-2 is most often stacked with CJC-1295, a growth hormone releasing hormone (GHRH) analog, and states it is not FDA-approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds says GHRP-2 is dosed at 100 to 300 mcg per subcutaneous injection and is almost always stacked with a GHRH analog such as CJC-1295. It states that neither GHRP-2 nor GHRP-6 is FDA-approved, so all human use is off-label.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing. The body's own growth hormone (GH) peaks after falling asleep, and online sources favor a pre-bed dose, though this has not been tested with GHRP-2.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep. This is natural GH, not GHRP-2.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "Peptidepedia says the pre-bed injection is considered most important because it amplifies the natural nighttime GH surge.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds says common injection times are before a workout, before sleep and mid-day while fasted.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An affiliate-linked peptide site (PeptideWiki) says injections are timed on waking before breakfast, optionally 2 to 3 hours after lunch, and 30 to 60 minutes before sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested GHRP-2 with meals. Glucose blunted GH release in a GHRH study and fasting raised natural GH, and online sources say to inject on an empty stomach.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink lowered the GH response to injected GHRH by about a third. GHRP-2 works through a different receptor (ghrelin), and meals have not been tested with it.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "In healthy men, fasting increased the body's own GH secretion compared with a fed day.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ho-1988-jci"
+        },
+        {
+          "text": "Peptidepedia says GHRP-2 is taken on an empty stomach, at least 30 minutes before eating or 2 or more hours after a meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds says to inject fasted or 2 or more hours after a meal to avoid insulin-driven blunting of the GH response.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An affiliate-linked peptide site (PeptideWiki) says to fast at least 2 hours before an injection and wait 20 to 30 minutes before eating, and calls this non-negotiable.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Children in studies took it by mouth twice daily or by nasal spray two to three times daily for months. Online sources describe 1 to 3 injections a day, and some add days off each week, which has not been studied.",
+      "items": [
+        {
+          "text": "Oral GHRP-2 was given twice daily for 12 months to children with growth hormone deficiency.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14513874"
+        },
+        {
+          "text": "Intranasal GHRP-2 was given twice daily for 3 months, then three times daily, to children with short stature, with no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-9390009"
+        },
+        {
+          "text": "In one patient with anorexia nervosa, intranasal GHRP-2 was given before every meal for a year.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26401470"
+        },
+        {
+          "text": "An affiliate-linked peptide site says the usual schedule is 1 to 3 injections a day, with 100 mcg twice daily for beginners up to 150 to 200 mcg three times daily for advanced users.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptidepedia describes one to three doses a day, including a middle tier of 150 to 200 mcg twice daily, morning fasted and before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds says GHRP-2 is injected 2 to 3 times daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An affiliate-linked peptide site (peptides.wiki) lists 5 days on and 2 days off, or one week on and one week off, as ways to prevent desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Children used it for up to 12 to 24 months without loss of response in small uncontrolled studies, and a 7 to 30 day report said desensitization depended on dose and frequency. Online sources describe 8 to 12 weeks on and 4 to 8 weeks off, and no study tested on and off cycles or what happens after stopping.",
+      "items": [
+        {
+          "text": "Chronic dosing for 7 to 30 days changed how the growth hormone response behaved, and whether the response weakened (desensitized) depended partly on dose and frequency. The abstract gives no clinical outcome data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-8887169"
+        },
+        {
+          "text": "In 15 children given intranasal GHRP-2 for 6 months, with 6 followed for 18 to 24 months, acute GH responses to GHRP-2 did not change significantly. The study had no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-9390009"
+        },
+        {
+          "text": "Ten children with growth hormone deficiency took oral GHRP-2 for 12 months. Appetite rose during the first 6 months, but body mass index did not change significantly.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14513874"
+        },
+        {
+          "text": "Peptidepedia says to cycle 8 to 12 weeks on followed by 4 to 8 weeks off to maintain receptor sensitivity, with beginner and intermediate plans lasting 8 to 12 weeks and advanced plans 8 to 16 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds says 8 to 12 weeks is most commonly reported, followed by a break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An affiliate-linked peptide site (PeptideWiki) says 8 to 16 weeks on and 4 to 8 weeks off is standard, and that continuous use beyond 6 months may reduce receptor sensitivity.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official guidance. Online sources describe freezing or refrigerating the powder, mixing with bacteriostatic water by swirling, refrigerating the mixed vial for 3 to 4 weeks, and rotating injection sites.",
+      "items": [
+        {
+          "text": "Peptidepedia says unmixed powder is stored frozen at minus 20 degrees C for long-term stability or refrigerated at 2 to 8 degrees C for shorter periods, and that vials are kept in the original box or wrapped in foil away from light.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says a mixed vial is refrigerated at 2 to 8 degrees C and used within 3 to 4 weeks, and that reconstituted peptide should never be frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says the powder is dissolved with bacteriostatic water by swirling gently, never shaking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptidepedia says GHRP-2 is injected under the skin into abdominal fat, the thigh or the deltoid, with sites rotated to prevent lipodystrophy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An affiliate-linked peptide site (PeptideWiki) says a mixed vial is refrigerated at 2 to 8 degrees C and used within 28 to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "GHRP-2 is a synthetic agonist of the ghrelin receptor and releases growth hormone, but in people it also raises prolactin, ACTH and cortisol. Online sources describe the cell signaling in more detail.",
+      "items": [
+        {
+          "text": "GHRP-2 is a synthetic agonist of ghrelin, which binds the GH secretagogue receptor, and like ghrelin it increased food intake in seven healthy men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15699539"
+        },
+        {
+          "text": "Intravenous GHRP-2 produced a strong GH response, larger than GHRH, but also raised prolactin, ACTH and cortisol.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9285939"
+        },
+        {
+          "text": "Peptidepedia says GHRP-2 activates Gq/11 signaling and phospholipase C, which triggers release of GH granules, and calls it the most potent classic growth hormone-releasing peptide by peak GH output.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Strong GH release, which is how it is used as a diagnostic test in Japan. Small uncontrolled studies suggest faster growth in short children and weight gain in one patient. No controlled trial tested muscle, fat loss or recovery.",
+      "items": [
+        {
+          "text": "A GHRP-2 test gave higher peak GH than the insulin test in 71 Japanese adults with pituitary tumors and was judged an acceptable alternative for diagnosing severe adult growth hormone deficiency. This is diagnostic testing, not therapy.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-23079545"
+        },
+        {
+          "text": "In 15 children with short stature given intranasal GHRP-2, height velocity rose from 3.7 to 6.1 cm per year at 6 months. There was no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-9390009"
+        },
+        {
+          "text": "One patient with anorexia nervosa gained 6.7 kg over 14 months on intranasal GHRP-2 before meals. This is a single case report.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26401470"
+        },
+        {
+          "text": "Participants ate about 36% more during the GHRP-2 infusion and GH rose strongly. Very small study, but it confirms an appetite effect.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15699539"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Hunger",
+      "summary": "GHRP-2 raised appetite in small studies. Online sources say it causes less hunger than GHRP-6.",
+      "items": [
+        {
+          "text": "Subcutaneous GHRP-2 infusion increased food intake at a buffet meal by about 36% in seven healthy men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15699539"
+        },
+        {
+          "text": "Seven of ten children with growth hormone deficiency given oral GHRP-2 for 12 months reported a significant increase in appetite during the first 6 months; the change in body mass index was not significant.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14513874"
+        },
+        {
+          "text": "Peptidepedia says GHRP-2 has less appetite stimulation than GHRP-6, which it says triggers robust hunger. It calls the appetite effect moderate.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds says GHRP-2 produces significantly less hunger than GHRP-6, with mild to negligible hunger effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Hormone effects",
+      "summary": "GHRP-2 raised prolactin, ACTH and cortisol along with growth hormone. One online source says it does this more than GHRP-6.",
+      "items": [
+        {
+          "text": "Intravenous GHRP-2 raised prolactin, ACTH and cortisol levels in healthy adults, in addition to growth hormone.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9285939"
+        },
+        {
+          "text": "Peptide Nerds says GHRP-2 raises cortisol and prolactin more than GHRP-6 does.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In trials",
+      "summary": "Nasal GHRP-2 was described as well tolerated in small uncontrolled studies. No controlled long-term safety data were found.",
+      "items": [
+        {
+          "text": "Intranasal GHRP-2 was described as well tolerated in 15 children with short stature followed for 6 months or longer, in a study with no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-9390009"
+        },
+        {
+          "text": "The authors of a one-patient report of one year of intranasal GHRP-2 observed no obvious side effects.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-26401470"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources list flushing, drowsiness, water retention, headaches, tingling and injection site reactions. These lists cite no trial data.",
+      "items": [
+        {
+          "text": "Peptidepedia lists increased appetite, flushing, transient drowsiness and mild water retention as side effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Nerds lists water retention, injection site reactions, headaches and tingling or numbness as common effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA lists compounded GHRP-2 as a possible safety risk and reports serious adverse events in patients, with causality not established.",
+      "items": [
+        {
+          "text": "FDA lists GHRP-2 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-category2-page"
+        },
+        {
+          "text": "FDA says it is aware of reports of serious adverse events in patients who received GHRP-2, including increased insulin requirement, death of critically ill study subjects, infection and pancreatitis, though causality has not been established.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-category2-page"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -169,7 +169,420 @@
       "year": 2020,
       "summary": "FDA warning letter to a compounding pharmacy (1 April 2020), fetched 2026-09-30.",
       "finding": "The letter lists CJC 1295 among substances the pharmacy compounded and says products made from these substances were not eligible for the section 503A exemptions. The letter also cites sterile-production deficiencies."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "ho-1988-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3127426",
+      "year": 1988,
+      "summary": "Frequent-sampling study of 24-hour growth hormone secretion in 6 healthy men on a fed day and on days 1 and 5 of a 5-day fast (Ho et al., J Clin Invest).",
+      "finding": "Fasting increased growth hormone secretion and amplified its daily rhythms compared with the fed day."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Two small trials in healthy adults gave single or weekly injections dosed by body weight. Online sources describe 1,000 to 2,000 mcg of the long-acting (DAC) form weekly and 100 to 300 mcg of the form without DAC, none of it tested.",
+      "items": [
+        {
+          "text": "Single subcutaneous doses were given in ascending steps in a randomized, placebo-controlled trial, followed by two or three weekly or biweekly doses in a second trial. The authors reported the best tolerability at 30 or 60 micrograms per kg. The abstract does not list every dose step.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "A single subcutaneous injection of 60 or 90 micrograms per kg, with hormone sampling one week later.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17018654"
+        },
+        {
+          "text": "PeptidesExplorer, an educational website, says CJC-1295 with DAC is commonly described at 1,000 to 2,000 mcg per dose and CJC-1295 without DAC (Mod GRF 1-29) at 100 to 300 mcg per dose, and that 100 mcg of CJC-1295 with 200 mcg of ipamorelin is the most common pairing. It presents these as protocol ranges, not approved dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, describes a starting dose of 100 mcg each of CJC-1295 and ipamorelin per injection, rising to 200 to 300 mcg of each, and 1 to 2 mg of the DAC form once or twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide information site with supplier links says a common convention for CJC-1295 combined with ipamorelin is 300 to 500 mcg of total blend per injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing. Online sources favor bedtime for the form without DAC, based on the natural GH sleep pulse, which has not been tested with CJC-1295.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not CJC-1295; no trial has compared bedtime with daytime dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "Peptidepedia says the version without DAC is usually timed at bedtime to match the night-time growth hormone surge.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says CJC-1295 with ipamorelin is injected 30 to 60 minutes before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer says the version without DAC is best taken 30 minutes before sleep, with a fasted morning or post-workout dose as options, and that timing is flexible for the DAC form.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food with CJC-1295. Online sources say to inject on an empty stomach, based on studies where glucose lowered the GH response to natural GHRH.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink before an injection of natural GHRH lowered the GH response by about a third; the authors suggest somatostatin as the reason. CJC-1295 acts like GHRH, but no study has tested meals with CJC-1295.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "In healthy men, fasting increased the body's own GH secretion compared with a fed day.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ho-1988-jci"
+        },
+        {
+          "text": "Peptidepedia says CJC-1295 is said to work best on an empty stomach, at least 30 minutes before eating or 2 to 3 hours after meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says to inject on an empty stomach, 2 to 3 hours after eating, and to wait about 20 to 30 minutes before eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide information site with supplier links says the CJC-1295 and ipamorelin blend is taken on an empty stomach.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says to fast at least 2 hours before injecting and to wait 20 to 30 minutes after, and says insulin can reduce the GH response by up to 75%. The page does not cite a study for the figure.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "One injection raised GH for 6 days or more in a trial, and weekly or biweekly doses kept IGF-1 raised. Online sources describe weekly dosing of the DAC form and one to three daily doses of the form without DAC, none of it tested.",
+      "items": [
+        {
+          "text": "One subcutaneous injection raised growth hormone 2- to 10-fold for 6 days or more and IGF-1 for 9 to 11 days in healthy adults.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "With repeated weekly or biweekly doses in the second trial, mean IGF-1 stayed above baseline for up to 28 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "Peptidepedia says the version without DAC is given once or twice daily and the DAC version once or twice weekly. After a missed injection the regular schedule is resumed without doubling up.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says the DAC form is given once per week or twice weekly, and the form without DAC 1 to 3 times per day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, describes injecting 5 days per week at bedtime for the form without DAC, with optional weekend breaks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest human trials ran 28 to 49 days, and no data show what happens after stopping. Online sources describe 8 to 12 weeks on and 4 or more weeks off.",
+      "items": [
+        {
+          "text": "The two placebo-controlled trials lasted 28 and 49 days. IGF-1 stayed above baseline for up to 28 days after repeated doses. No longer human study was found, and none tested stopping or desensitization.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "PeptidesExplorer describes 8 to 12 weeks on and 4 to 8 weeks off, or 12 to 16 weeks on and 6 to 8 weeks off, and says the break prevents GHRH receptor desensitization. The page cites no study for this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, describes 8 to 12 weeks of daily dosing followed by a break of roughly 4 or more weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Dr. Wool's naturopathic clinic blog says the CJC-1295 and ipamorelin pair is typically dosed 5 days a week for up to 3 months, with practitioners often recommending a month off to let IGF-1 levels settle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official guidance. Online sources say to refrigerate mixed vials, use them within about 4 to 6 weeks, protect them from light and rotate injection sites.",
+      "items": [
+        {
+          "text": "Peptidepedia says a vial mixed with bacteriostatic water keeps about 4 to 6 weeks refrigerated, versus 5 to 7 days if mixed with sterile water, that unmixed powder lasts 24 months or more refrigerated, and that mixed peptide should not be frozen and should be protected from light.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Peptidepedia says injection sites are rotated among abdominal fat, thighs and upper arms.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Beverly Hills Rejuvenation Center, a medical spa chain, says a mixed vial is commonly used within about 28 to 30 days, kept refrigerated at 2 to 8 degrees Celsius, protected from light and not frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer says to refrigerate at 2 to 8 degrees Celsius, that mixed vials last 28 to 30 days, and that a vial left on a countertop for 48 hours loses significant potency. The page gives no study for the 48-hour claim.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A long-acting version of growth hormone-releasing hormone (GHRH). One injection raised GH for about a week in healthy adults. Online sources say it is stacked with a ghrelin-type peptide for larger GH pulses.",
+      "items": [
+        {
+          "text": "Described as a long-acting GHRH analog. The estimated half-life in healthy adults was 5.8 to 8.1 days, and GH pulses continued after dosing rather than being flattened.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "GH pulse frequency and size were unchanged after a single injection; the rise came mostly from higher baseline (trough) GH.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17018654"
+        },
+        {
+          "text": "Peptide Nerds, a peptide education site, says GHRP-2 and GHRP-6 are almost always stacked with a GHRH analog like CJC-1295 to produce larger GH pulses, and says neither is FDA-approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Raised GH 2 to 10 times and IGF-1 1.5 to 3 times for over a week in healthy adults. No trial measured a health benefit. Online sources promote muscle, fat loss and sleep benefits that are untested.",
+      "items": [
+        {
+          "text": "One injection raised GH 2- to 10-fold for 6 days or more and IGF-1 1.5- to 3-fold for 9 to 11 days in healthy adults aged 21 to 61. These were short trials that did not test any health benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "In healthy men, baseline GH rose about 7.5-fold and IGF-1 about 45% one week after a single injection. The study measured hormone levels only.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-17018654"
+        },
+        {
+          "text": "The only trial testing a clinical outcome, a 12-week Phase 2 study in HIV-associated visceral obesity, was terminated with no results posted.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "nct-00267527"
+        },
+        {
+          "text": "Dr. Wool's naturopathic clinic blog says the CJC-1295 and ipamorelin pair may speed muscle recovery, add muscle, help fat loss and improve sleep. The page also says peptides are not FDA approved and human studies are scarce.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Midi Health, a telehealth company, says CJC-1295 is popular for body composition, energy and sleep, but that there is very little evidence it delivers these results, and that effects were shown mostly in animals or people with true GH deficiency.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.joinmidi.com/post/cjc-1295",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "No serious reactions in two small trials in healthy adults. FDA lists headache, flushing, injection-site reactions and loose stools.",
+      "items": [
+        {
+          "text": "In two placebo-controlled trials in healthy adults, no serious adverse reactions were reported, and the authors called CJC-1295 relatively well tolerated, particularly at the lower doses tested.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-16352683"
+        },
+        {
+          "text": "An FDA briefing summarizes headache, flushing, injection-site reactions and loose stools in the published healthy-volunteer studies, and notes only limited clinical data exist.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-pcac-briefing-2024"
+        },
+        {
+          "text": "An FDA briefing relays anecdotal reports that a participant in the terminated Phase 2 HIV trial died of a heart attack after a later dose, which the physician attributed to underlying coronary disease. The trial record does not confirm this.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct-00267527"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Websites list injection-site reactions, flushing, headache, joint pain, fluid retention and insulin resistance, mostly without trial data.",
+      "items": [
+        {
+          "text": "Midi Health, a telehealth company, lists injection site reactions, joint and muscle pain, nausea, appetite changes, increased insulin resistance, fluid retention and carpal tunnel symptoms, and warns about severe headaches, vision changes, chest pain and fainting.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.joinmidi.com/post/cjc-1295",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Wool's naturopathic clinic blog lists headaches, injection-site redness, flushing, increased hunger, restless dreams, fatigue and water retention as usually mild, and says prolonged high doses may cause insulin resistance, hypertension, joint pain and cardiovascular or cancer risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA lists compounded CJC-1295 as a possible safety risk and proposed against allowing it in compounding.",
+      "items": [
+        {
+          "text": "FDA lists CJC-1295 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-category2-page"
+        },
+        {
+          "text": "FDA says it has identified serious adverse events with compounded CJC-1295, including increased heart rate and a systemic vasodilatory reaction.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-category2-page"
+        },
+        {
+          "text": "At a December 2024 FDA advisory meeting, voting members recorded no votes (13 to 0 on the tallies read out) on placing CJC-1295 substances on the compounding bulks list. This is an advisory recommendation, not a final rule.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-pcac-transcript-2024"
+        },
+        {
+          "text": "Midi Health, a telehealth company, says CJC-1295 is on an FDA list of bulk drug substances that cannot be used in compounded medications.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.joinmidi.com/post/cjc-1295",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

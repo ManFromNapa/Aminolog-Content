@@ -155,7 +155,392 @@
       "year": 2001,
       "summary": "Cattle study of GHRP-6 and GHRH-induced growth hormone release before and after feeding (McMahon et al., J Endocrinol).",
       "finding": "GH release induced by GHRP-6 or GHRH was lower 1 hour after feeding than 1 hour before, while the two together produced a large release both before and after feeding."
+    },
+    {
+      "id": "pmid-7903313",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "7903313",
+      "year": 1993,
+      "summary": "Nine healthy young men received a 34-hour intravenous GHRP-6 or saline infusion and then GHRH and GHRP-6 test boluses (Jaffe et al., J Clin Endocrinol Metab).",
+      "finding": "During the infusion, GH output rose (integrated GH 2908 vs 1374 micrograms x min/L) and IGF-I rose from 252 to 312 micrograms/L, so the pituitary stayed responsive. The GH response to a GHRP-6 bolus at the end was smaller than with saline."
+    },
+    {
+      "id": "pmid-7636426",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "7636426",
+      "year": 1995,
+      "summary": "Repeated GHRP-6 injections in chronically cannulated guinea pigs (Fairhall et al., J Endocrinol).",
+      "finding": "Injections 60 or 90 minutes apart gave variable GH release on a cyclic pattern, and a 3-hour interval gave more regular responses. Animal data only."
+    },
+    {
+      "id": "pmid-9543138",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9543138",
+      "year": 1998,
+      "summary": "Nine healthy men received a GHRH antagonist or saline before an intravenous GHRP-6 bolus (Pandya et al., J Clin Endocrinol Metab).",
+      "finding": "The GHRH antagonist cut the GH response to GHRP-6 from 33.8 to 6.2 micrograms/L, so most of GHRP-6's effect in people depends on the body's own GHRH."
+    },
+    {
+      "id": "pmid-7581965",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "7581965",
+      "year": 1995,
+      "summary": "Oral GHRP-6 (300 micrograms/kg) compared with intravenous GHRH in 13 children with normal short stature (Bellone et al., Eur J Endocrinol).",
+      "finding": "In the first seven children, oral GHRP-6 raised GH to a peak of 18.8 micrograms/L, similar to the GHRH response. A single-dose test, not treatment."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Studies used single doses of 1 microgram per kg by vein for testing, and one trial gave 300 micrograms per kg by mouth. Online sources describe about 100 to 300 mcg per injection, often paired with CJC-1295.",
+      "items": [
+        {
+          "text": "A single intravenous bolus of 100, 200 or 400 micrograms per kg in a pharmacokinetic study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-23099431"
+        },
+        {
+          "text": "1 microgram per kg was used for a stimulation test of cortisol response (the route is not stated in the abstract).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19946832"
+        },
+        {
+          "text": "1 microgram per kg intravenously, together with GHRH, as a diagnostic growth hormone test.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18772594"
+        },
+        {
+          "text": "A single oral dose of 300 micrograms per kg raised growth hormone in 7 children with normal short stature, similar to an intravenous GHRH test.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-7581965"
+        },
+        {
+          "text": "A peptide guide site that links to vendors says a standard protocol is 100 mcg GHRP-6 with 100 mcg CJC-1295 (no DAC) per injection, and describes tiers from 100 mcg to 300 mcg per dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "An affiliate-linked peptide site with discount codes says beginner use is 100 mcg, intermediate 200 mcg and advanced 300 mcg per dose, with weight-based figures of about 1 to 3 mcg/kg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptidepedia website says the dose is about 1 mcg/kg, roughly 100 mcg per injection for most adults.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested when to dose. The body's own GH pulse comes after falling asleep, so online sources favor a bedtime injection, plus mornings or after exercise.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep. This is natural GH, not GHRP-6.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "The Peptidepedia website says the pre-bed injection is widely considered the most important one because it amplifies the body's largest natural GH pulse in deep sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "The Peptide Guides website lists morning (fasted), post-workout and pre-sleep as the best times.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptideguides.com/protocols/ghrp-6-protocol",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "In cattle, GH release was lower after feeding. Online sources say to inject on an empty stomach and eat 20 to 30 minutes later because GHRP-6 causes strong hunger. This has not been tested in people.",
+      "items": [
+        {
+          "text": "A 2001 study in cattle found that GH responses to GHRP-6 and to GHRH were lower 1 hour after feeding than 1 hour before feeding, and that GHRP-6 combined with GHRH restored the response after feeding.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "mcmahon-2001-feeding"
+        },
+        {
+          "text": "The Peptidepedia website says GHRP-6 is taken on an empty stomach, at least 30 minutes before eating or 2 or more hours after a meal, and says high blood sugar and insulin blunt the GH response.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "The Peptidepedia website says GHRP-6 causes intense hunger within 15 to 20 minutes of injection, so users typically eat 20 to 30 minutes afterward.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide guide site that links to vendors says doses are taken on an empty stomach.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human trial tested repeated dosing schedules, and no label exists. Guinea pig data favored spacing doses about 3 hours apart. Online sources describe 1 to 3 injections a day, at least 3 to 4 hours apart.",
+      "items": [
+        {
+          "text": "In guinea pigs, injections 60 or 90 minutes apart gave variable GH release, and a 3-hour gap gave more regular responses.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-7636426"
+        },
+        {
+          "text": "A peptide guide site that links to vendors says the standard protocol is 2 to 3 injections a day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "An affiliate-linked peptide site with discount codes says beginners use 2 doses a day, intermediate users 2 to 3, and advanced users 3.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptidepedia website says protocols range from once or twice daily to two to three times daily, with injections at least 3 hours apart.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with an affiliate link and discount code for a seller, says 3 times daily at least 4 hours apart, commonly morning, midday and bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "One small trial found the pituitary still responded during a 34-hour infusion, though the response to a new dose was smaller at the end. No trial tested weeks of dosing. Online sources describe cycles of 8 to 16 weeks on and 4 to 8 weeks off, which is untested.",
+      "items": [
+        {
+          "text": "In 9 healthy men, a 34-hour GHRP-6 infusion raised GH and IGF-I, but the GH response to a GHRP-6 bolus at the end was smaller than after saline.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-7903313"
+        },
+        {
+          "text": "The Peptidepedia website says 8 to 16 weeks on followed by 4 to 8 weeks off, and says use beyond 16 weeks may weaken the GH response through receptor desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides website says 8 to 12 weeks on and 4 weeks off, and says GHRP-6 desensitizes less quickly than hexarelin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptideguides.com/protocols/ghrp-6-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with an affiliate link and discount code for a seller, says cycles often run several weeks to a few months and says no controlled human trial validates a schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official guidance. Online sources say to store mixed vials in a refrigerator, use them within about 28 days, never shake or freeze them, and rotate injection sites.",
+      "items": [
+        {
+          "text": "The Peptidepedia website says a mixed vial is refrigerated at 2 to 8 degrees C, used within 28 days and not frozen, and that unmixed powder is stable at room temperature for months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "The Peptidepedia website says to add bacteriostatic water slowly, swirl gently and never shake the vial.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says injection sites are abdominal fat, thigh or deltoid, rotated to prevent lipodystrophy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Guides website says to refrigerate at 2 to 8 degrees C and use within 28 days of mixing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptideguides.com/protocols/ghrp-6-protocol",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with an affiliate link and discount code for a seller, says powder is kept at -20 C long term and mixed vials at 2 to 8 C.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Acts on the ghrelin receptor to release growth hormone, and most of the effect in people needs the body's own GHRH. Known for causing strong hunger. Half-life is about 2.5 hours.",
+      "items": [
+        {
+          "text": "Endogenous GHRH was needed for most of the GH response: a GHRH blocker cut the response to a GHRP-6 bolus from 33.8 to 6.2 micrograms/L in 9 healthy men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9543138"
+        },
+        {
+          "text": "Elimination half-life averaged about 2.5 hours and exposure rose with dose; unexplained concentration spikes appeared in four of nine men. No efficacy or safety conclusions.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-23099431"
+        },
+        {
+          "text": "The Peptidepedia website says GHRP-6 binds the growth hormone secretagogue receptor 1a on pituitary and brain cells.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Used with GHRH as a diagnostic growth hormone test. Other effects come from animal studies.",
+      "items": [
+        {
+          "text": "The combined test identified children with severe growth hormone insufficiency, though six were non-responders. Diagnostic study, not treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-18772594"
+        },
+        {
+          "text": "GHRP-6 given by intraperitoneal injection prevented the lesions, and brain injection did not. Rat findings do not show a benefit in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-22791951"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In studies",
+      "summary": "Raised cortisol; no side effects detected in a single-dose test.",
+      "items": [
+        {
+          "text": "A single-dose GHRP-6 test in patients and healthy controls activated the HPA axis (cortisol rise) with no detectable side effects reported.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-19946832"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA lists compounded GHRP-6 as a possible safety risk.",
+      "items": [
+        {
+          "text": "FDA lists GHRP-6 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-category2-page"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Online sources describe strong hunger, water retention, and higher cortisol and prolactin. These reports are untested.",
+      "items": [
+        {
+          "text": "The Peptidepedia website says GHRP-6 gives the strongest appetite stimulation of any growth hormone-releasing peptide, starting 15 to 20 minutes after injection, and lists mild water retention, flushing, dizziness and injection site reactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says tingling or numbness in the hands and feet is less common, and that higher doses can raise cortisol and prolactin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The PeptideNerds website says GHRP-6 causes intense hunger that suits bulking but works against fat loss, raises cortisol and prolactin less than GHRP-2, and can cause headaches and blood sugar swings.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidenerds.com/blog/ghrp-2-vs-ghrp-6",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

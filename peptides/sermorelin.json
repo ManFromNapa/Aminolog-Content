@@ -146,7 +146,427 @@
       "year": 1999,
       "summary": "Review of sermorelin in the diagnosis and treatment of children with idiopathic growth hormone deficiency (Prakash and Goa, BioDrugs), covering the treatment trials.",
       "finding": "The review states that once daily subcutaneous sermorelin given at bedtime was effective in some prepubertal children with idiopathic growth hormone deficiency, based on limited data."
+    },
+    {
+      "id": "pmid-9141536",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9141536",
+      "year": 1997,
+      "summary": "Single-blind, randomized, placebo-controlled 5-month trial of a modified sermorelin analog, [Nle27]GHRH(1-29)-NH2, 10 micrograms/kg under the skin nightly for 16 weeks after 4 weeks of placebo, in 19 men and women aged 55 to 71 (Khorram et al., J Clin Endocrinol Metab).",
+      "finding": "Each nightly dose released growth hormone within 10 minutes for about 2 hours, and this response was sustained through the study. Blood IGF-I rose within 2 weeks. Lean body mass rose in men only, skin thickness rose in both sexes, and sleep quality was unchanged. The only adverse effect was transient high blood fats."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "ho-1988-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3127426",
+      "year": 1988,
+      "summary": "Frequent-sampling study of 24-hour growth hormone secretion in 6 healthy men on a fed day and on days 1 and 5 of a 5-day fast (Ho et al., J Clin Invest).",
+      "finding": "Fasting increased growth hormone secretion and amplified its daily rhythms compared with the fed day."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Geref, the former FDA-approved form, is described at 30 micrograms per kilogram (mcg/kg) of body weight. Studies used IV, infusion, nose or nightly injections. Online sources describe 200 to 500 mcg injected under the skin at bedtime.",
+      "items": [
+        {
+          "text": "GHRH(1-29)-NH2 (the sermorelin sequence) at 30 or 60 micrograms/kg/day, given as a continuous infusion for 6 months. Height growth was lower than with growth hormone (9.2 and 9.3 versus 14.6 cm/year).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329830"
+        },
+        {
+          "text": "GHRH(1-29)-NH2 single intravenous doses of 0.25 to 2 micrograms/kg raised growth hormone (maximal at 1 to 2 micrograms/kg); intranasal dosing needed about 50 micrograms/kg for a similar effect.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329825"
+        },
+        {
+          "text": "A modified sermorelin analog, [Nle27]GHRH(1-29)-NH2, was given under the skin at 10 micrograms/kg each night for 16 weeks. This was a placebo-controlled trial in 19 adults aged 55 to 71 and the dose raised growth hormone.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        },
+        {
+          "text": "HealthRx, a health information site, describes the former Geref label dose as 30 mcg/kg of body weight under the skin once daily at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthrx.com/regulatory-sermorelin/fda-approval-history",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An educational website (Peptide Dossier) says most sermorelin protocols begin with 200 mcg daily, increased to 300 mcg after 1 to 2 weeks, with 300 to 500 mcg daily described for experienced users. The site says it does not encourage use without medical supervision.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says standard anti-aging dosing is 200 to 300 mcg under the skin at bedtime, with 100 to 200 mcg as a conservative start and 300 to 500 mcg at the high end.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A compounded-peptide telehealth seller says the typical adult range is 200 to 500 mcg injected subcutaneously, with 100 to 200 mcg described as a conservative starting level. The page is part of a site that sells the product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Studies gave it at bedtime or in the evening. Online sources say 15 to 60 minutes before bed to match the natural sleep growth hormone (GH) pulse, which has not been tested with sermorelin.",
+      "items": [
+        {
+          "text": "A 1999 review states that in children with idiopathic growth hormone deficiency, sermorelin was given at bedtime in the treatment studies it covered.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "prakash-1999-biodrugs"
+        },
+        {
+          "text": "In adults aged 55 to 71, the analog was injected each night at 9 pm, and every dose released growth hormone for about 2 hours.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        },
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not sermorelin; no trial has compared bedtime with daytime dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "The Peptidepedia website says sermorelin is injected 15 to 30 minutes before bed to line up with the early slow-wave-sleep growth hormone pulse, and that daytime use is said to be less effective.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An educational website (Peptide Dossier) says to inject 30 to 60 minutes before bed, and that some users split the dose into 250 mcg in the morning and 250 mcg in the evening.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A compounded-peptide telehealth seller says to inject at bedtime. The page is part of a site that sells the product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food with sermorelin. Online sources say to inject on an empty stomach, 90 minutes to 3 hours after eating, citing blunting of the GH response by glucose.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink before an injection of natural GHRH lowered the GH response by about a third. Sermorelin is a GHRH fragment, but no study has tested meals with it.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "In healthy men, fasting increased the body's own GH secretion compared with a fed day. This was not tested with sermorelin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ho-1988-jci"
+        },
+        {
+          "text": "The Peptidepedia website says sermorelin is injected on an empty stomach, at least 90 minutes after eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An educational website (Peptide Dossier) says to avoid large meals or sugar within 2 to 3 hours before injection, because high insulin and blood sugar suppress GH release.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily at bedtime in studies. Online sources describe daily dosing, 5 nights a week, or a split morning and evening dose, none tested.",
+      "items": [
+        {
+          "text": "A 1999 review states that in children with idiopathic growth hormone deficiency, sermorelin was given once daily under the skin in the treatment studies it covered.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "prakash-1999-biodrugs"
+        },
+        {
+          "text": "The analog was injected every night for 16 weeks in adults aged 55 to 71, with the GH response sustained through the study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        },
+        {
+          "text": "The Peptidepedia website says 5 to 7 nights per week is standard, with some providers starting nightly and then moving to 5 nights on and 2 off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An educational website (Peptide Dossier) says sermorelin should be taken daily, and notes some users split the day into a morning and an evening dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 16 weeks to 6 months, and GH release held up with nightly dosing. Online sources describe 8 to 12 weeks on then a break, or no cycling at all.",
+      "items": [
+        {
+          "text": "The children's trial gave GHRH(1-29)-NH2 continuously for 6 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329830"
+        },
+        {
+          "text": "In adults aged 55 to 71, nightly dosing for 16 weeks kept releasing GH each time. Blood IGF-I and related proteins stayed up for 12 weeks and moved back toward baseline by week 16.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        },
+        {
+          "text": "An educational website (Peptide Dossier) says standard cycles last 8 to 12 weeks, with 4 weeks off, and describes a 12 weeks on and 4 weeks off schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says cycling is not universally required, that tolerance appears to develop slowly if at all, and suggests rechecking every 3 to 6 months with IGF-1 testing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No current label. Online sources say to refrigerate a mixed vial, with storage times ranging from about 30 days to 90 days, and to rotate sites among the abdomen, thigh and upper arm.",
+      "items": [
+        {
+          "text": "The Peptidepedia website says a mixed vial is refrigerated at 2 to 8 C and used within 4 to 6 weeks, a vial left unrefrigerated for more than 72 hours is discarded, and reconstituted vials should never be frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says unmixed powder is stable at room temperature, with refrigeration recommended for storage of 12 months or longer.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says a common mix is 3 mg of powder with 3 mL of bacteriostatic water, with the water added gently against the vial wall and swirled, never shaken.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptidepedia website says sermorelin is injected under the skin of the abdomen, front of the thigh or back of the upper arm, with rotation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin/how-to-use",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An educational website (Peptide Dossier) says mixed sermorelin is stored at 2 to 8 C and stays stable for about 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/sermorelin-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telehealth clinic blog (Defy Medical) says a reconstituted sermorelin vial is kept refrigerated and can last up to 90 days, and can tolerate under 72 hours out of the fridge. The clinic sells sermorelin therapy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A telehealth clinic blog (Defy Medical) describes injecting slowly under the skin of the abdomen, arm, thigh or buttock and rotating sites. The clinic sells sermorelin therapy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "The first 29 amino acids of growth hormone-releasing hormone (GHRH). It binds receptors on the pituitary gland and makes it release growth hormone (GH).",
+      "items": [
+        {
+          "text": "Intravenous doses released growth hormone, which stayed elevated for about 3 hours; nasal absorption was low (3 to 5% bioavailability). This is a short-term study in healthy men and does not show clinical benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329825"
+        },
+        {
+          "text": "In adults aged 55 to 71, nightly doses of the analog released growth hormone within 10 minutes for about 2 hours, and the response was sustained over 16 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        },
+        {
+          "text": "The Peptidepedia website says sermorelin binds GHRH receptors on pituitary cells to trigger growth hormone release, and that somatostatin (a natural GH brake) modulates the effect.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/sermorelin",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Helped some children with growth hormone deficiency grow, but less than growth hormone itself. In small adult trials it raised GH and IGF-I and added lean mass in men only. Online claims of better sleep and strength are untested.",
+      "items": [
+        {
+          "text": "Growth with GHRH(1-29)-NH2 was clearly less than with growth hormone. Nearly all treated children developed antibodies to GHRH, and the authors concluded it was unlikely to be as effective as growth hormone for growth.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329830"
+        },
+        {
+          "text": "The review states that once daily subcutaneous sermorelin given at bedtime was effective in some prepubertal children with idiopathic growth hormone deficiency, based on limited data.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "prakash-1999-biodrugs"
+        },
+        {
+          "text": "In 19 adults aged 55 to 71, 16 weeks of the nightly analog raised IGF-I, increased lean body mass in men only, thickened skin in both sexes, and left sleep quality unchanged.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        },
+        {
+          "text": "A clinic blog says sermorelin is better than hormone replacement because it stimulates natural growth hormone release, and lists benefits including more muscle, less fat, better sleep, faster healing and heart health.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.progressivemedicalcenter.com/blog/sermorelin-for-anti-aging/",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "Testing.com says human evidence for sermorelin's anti-aging benefits is limited, that most claimed effects are anecdotal, and that compounded sermorelin is not an FDA-approved product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.testing.com/treatments/sermorelin-benefits/",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A health-system blog says there is no FDA-approved sermorelin product on the US market, that old small studies showed only modest changes, and that no randomized trial shows better sleep or strength.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://acibademinternational.com/blog/sermorelin-what-the-growth-hormone-secretagogue-is-what-it-is-not-and-what-clinics-rarely-say/",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "No serious side effects in a 6-month children's trial. The adult trial reported only temporary high blood fats.",
+      "items": [
+        {
+          "text": "In a 6-month trial in children with growth hormone deficiency, no serious side effects were seen; three children receiving GHRH(1-29)-NH2 reported mild injection site irritation.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329830"
+        },
+        {
+          "text": "In the 16-week trial in adults aged 55 to 71, the only adverse side effect was transient high blood fats (hyperlipidemia), which resolved by the end of the study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9141536"
+        }
+      ]
+    },
+    {
+      "title": "Antibodies",
+      "summary": "Nearly all treated children developed antibodies to it.",
+      "items": [
+        {
+          "text": "In the same trial, nearly all children given GHRH(1-29)-NH2 (39 of 40) developed antibodies to it, which had almost disappeared 9 months after treatment stopped; no correlation with growth response was found.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-8329830"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "One health-system blog says growth hormone itself caused swelling and joint pain in healthy older adults. This was not tested with sermorelin.",
+      "items": [
+        {
+          "text": "A health-system blog says growth hormone in healthy older adults caused swelling and joint pain.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://acibademinternational.com/blog/sermorelin-what-the-growth-hormone-secretagogue-is-what-it-is-not-and-what-clinics-rarely-say/",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

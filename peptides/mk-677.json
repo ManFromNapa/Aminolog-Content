@@ -173,7 +173,433 @@
       "year": 2026,
       "summary": "FDA page on certain bulk drug substances for compounding that may present significant safety risks, which lists ibutamoren mesylate.",
       "finding": "The FDA says ibutamoren poses significant safety risks because of potential congestive heart failure, citing the terminated hip-fracture trial."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
+    },
+    {
+      "id": "r-chapman-1996",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8954023",
+      "year": 1996,
+      "summary": "Randomized, double-blind, placebo-controlled trial (J Clin Endocrinol Metab) of oral MK-677 2, 10 or 25 mg once daily for study periods of 14 and 28 days in 32 healthy adults aged 64 to 81 (Chapman et al.).",
+      "finding": "MK-677 raised 24-hour growth hormone by enhancing existing pulses (25 mg: mean 24-hour GH up 97%) and raised IGF-1 from 141 to 265 micrograms/L at 4 weeks on 25 mg. Fasting glucose rose from 5.4 to 6.8 mmol/L at 4 weeks."
+    },
+    {
+      "id": "r-svensson-1998",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9467542",
+      "year": 1998,
+      "summary": "Randomized, double-blind, placebo-controlled trial (J Clin Endocrinol Metab) of MK-677 25 mg daily for 8 weeks in 24 obese men aged 18 to 50 (Svensson et al.).",
+      "finding": "IGF-1 rose about 40% and fat-free mass increased, while the GH rise after the first dose was larger than after repeated doses. Fasting glucose and insulin were unchanged, but an oral glucose tolerance test showed impaired glucose handling at 2 and 8 weeks."
+    },
+    {
+      "id": "r-murphy-1998",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9467534",
+      "year": 1998,
+      "summary": "Randomized, double-blind, placebo-controlled crossover study (J Clin Endocrinol Metab) of MK-677 25 mg or placebo once daily for the last 7 days of two 14-day calorie-restricted periods in 8 healthy volunteers aged 24 to 39 (Murphy et al.).",
+      "finding": "MK-677 reversed diet-induced nitrogen loss (balance +0.31 vs -1.48 g/day on placebo). Peak GH was 55.9 micrograms/L after the first dose and 22.6 after a week. It was generally well tolerated."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Trials gave 25 mg by mouth once daily, and one trial compared 2, 10 and 25 mg. Online sources describe 10 to 25 mg daily, which was not tested as a range in trials.",
+      "items": [
+        {
+          "text": "In a 2-year trial in healthy older adults, oral MK-677 25 mg or placebo was given once daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "A 14 and 28 day trial in healthy adults aged 64 to 81 compared 2, 10 and 25 mg once daily. Growth hormone rose with dose, and 25 mg raised IGF-1 into the young-adult range.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-chapman-1996"
+        },
+        {
+          "text": "In an 8-week trial in 24 obese men, MK-677 25 mg or placebo was given daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-svensson-1998"
+        },
+        {
+          "text": "In a 2010 trial after hip fracture, MK-0677 25 mg per day or placebo was given. The trial was terminated early because of a congestive heart failure safety signal.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-adunsky-2011"
+        },
+        {
+          "text": "In a 12-month trial, MK-677 25 mg or placebo was given daily. It did not slow disease progression.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ad-2008"
+        },
+        {
+          "text": "Rupa Health, a laboratory testing company that does not sell MK-677, says the typical range described for MK-677 is 10 to 25 mg per day, with about 10 mg described as enough for general wellness and up to 25 mg for fitness enthusiasts and athletes. The page notes it is not FDA-approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.rupahealth.com/post/mk-677-your-ultimate-ibutamoren-resource",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, a site that earns affiliate commissions from sellers but does not sell it directly, lists 10 to 25 mg per day and says 25 mg is the dose used in clinical trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day. Online sources favor bedtime to match the natural overnight growth hormone (GH) pulse, which has not been tested with MK-677.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not MK-677, and no trial has compared bedtime with daytime dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "Members of the Elite Fitness bodybuilding forum mostly favor taking MK-677 before bed, partly because it raises hunger and can be slept through. One poster suggests the morning if you want the appetite boost, and others tell users to watch their sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.elitefitness.com/forum/threads/proper-way-to-dose-mk677.1506753/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog, an affiliate site, says before bed, because natural GH release peaks during deep sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wikipedia says sleep studies used 25 mg per day at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study compared taking MK-677 with or without food. Trials did show higher blood sugar, so online sources advise tracking it. The claim that an empty stomach works better is untested.",
+      "items": [
+        {
+          "text": "In healthy adults aged 64 to 81, fasting glucose rose from 5.4 to 6.8 mmol/L after 4 weeks of MK-677 25 mg daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-chapman-1996"
+        },
+        {
+          "text": "In obese men, fasting glucose and insulin were unchanged after 8 weeks, but a glucose tolerance test showed impaired glucose handling at 2 and 8 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-svensson-1998"
+        },
+        {
+          "text": "In the 2-year trial, fasting blood glucose rose by an average of 0.3 mmol/L (5 mg/dL) and insulin sensitivity fell.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "Peptides.org, an affiliate site that does not sell MK-677, says it works better on an empty stomach and recommends dosing at least two hours after the last meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptides.org/mk-677-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Rupa Health says MK-677 may pose a risk of insulin sensitivity problems and recommends tracking blood sugar levels.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.rupahealth.com/post/mk-677-your-ultimate-ibutamoren-resource",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog says an empty stomach is preferred but not required, and that mild insulin resistance is temporary and reversible.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once daily by mouth in every trial. No missed-dose guidance was found. A forum suggests splitting the dose.",
+      "items": [
+        {
+          "text": "The 2-year trial gave 25 mg by mouth once daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "The 14 and 28 day trial gave each dose by mouth once daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-chapman-1996"
+        },
+        {
+          "text": "Peptides.org says MK-677 is taken once per day, citing a 24-hour half-life.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptides.org/mk-677-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Elite Fitness forum members mostly recommend 25 mg once daily before bed, and some suggest splitting it, for example 10 mg after dinner and 15 mg before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "forum",
+          "url": "https://www.elitefitness.com/forum/threads/proper-way-to-dose-mk677.1506753/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran from 7 days to 2 years of daily dosing. In two trials the GH response was smaller after repeated doses than after the first, though IGF-1 stayed raised. Online sources describe cycles of weeks on and off, which no trial tested.",
+      "items": [
+        {
+          "text": "Healthy adults took MK-677 daily for 2 years.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "In 12 months of daily dosing in Alzheimer disease, IGF-1 was 60.1% higher at 6 weeks and 72.9% higher at 12 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ad-2008"
+        },
+        {
+          "text": "The hip fracture trial ran up to 24 weeks and was terminated early because of a congestive heart failure safety signal.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-adunsky-2011"
+        },
+        {
+          "text": "In obese men on 8 weeks of daily dosing, the GH rise after the first dose was larger than after repeated doses, while IGF-1 stayed raised.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-svensson-1998"
+        },
+        {
+          "text": "After 7 days of daily dosing, peak GH was 22.6 micrograms/L, down from 55.9 after the first dose.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-murphy-1998"
+        },
+        {
+          "text": "Peptides.org says the recommended approach is 2 to 8 weeks on followed by 2 to 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptides.org/mk-677-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Catalog says 8 to 12 weeks on and 4 weeks off, to prevent receptor desensitization, while noting the 2-year trial showed sustained effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Healthy Male says the gains are not permanent and effects wear off when people stop taking the drug.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No storage temperature or handling rule was found. One source describes the forms it is sold in.",
+      "items": [
+        {
+          "text": "Healthy Male, an Australian men's health organization that does not sell it, says MK-677 can be taken orally as a powder, tablet or liquid, whereas peptides are injected.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "An oral pill that mimics ghrelin, a hunger hormone, and raises growth hormone (GH) and IGF-1 by boosting the body's existing GH pulses.",
+      "items": [
+        {
+          "text": "In older adults, MK-677 raised 24-hour GH by enhancing existing pulses, with higher pulse height and baseline and no change in the number of pulses. IGF-1 rose into the young-adult range.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-chapman-1996"
+        },
+        {
+          "text": "Wikipedia describes ibutamoren as a long-acting, oral, non-peptide agonist of the ghrelin receptor that raises GH, IGF-1 and cortisol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://en.wikipedia.org/wiki/Ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Raised GH and IGF-1 to young-adult levels and added fat-free mass in older adults. It did not improve function after hip fracture or slow Alzheimer disease. Online sources say the muscle and sleep claims lack evidence.",
+      "items": [
+        {
+          "text": "MK-677 raised growth hormone and IGF-1 to young-adult levels and increased fat-free mass (1.1 kg vs -0.5 kg on placebo at 1 year), but also raised body weight, fasting glucose and cortisol and lowered insulin sensitivity, with no gain in strength or function.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "Calorie-restricted healthy volunteers kept a neutral nitrogen balance on MK-677 for a week, while placebo lost nitrogen. This was an 8-person short trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-murphy-1998"
+        },
+        {
+          "text": "Serum IGF-1 rose, but there were no significant differences on any cognitive or functional scale, so it did not slow disease progression.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ad-2008"
+        },
+        {
+          "text": "IGF-1 rose in hip fracture patients but most functional measures did not improve.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-adunsky-2011"
+        },
+        {
+          "text": "Healthy Male says MK-677 has gotten plenty of attention for claims of muscle growth, better sleep and enhanced recovery, but that there is no evidence of these benefits, that it has no approved uses in Australia and that it is banned in sport.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "In the 2-year trial the most frequent effects were increased appetite that faded over months, mild leg swelling and muscle pain. Healthy Male also lists anxiety and numbness.",
+      "items": [
+        {
+          "text": "In a 2-year randomized trial in 65 healthy older adults, the most frequent effects of MK-677 were increased appetite that subsided over months and transient mild leg swelling and muscle pain. Body weight rose by 2.7 kg versus 0.8 kg on placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "Healthy Male lists increased appetite, swelling, anxiety, numbness and muscle pain.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Blood sugar",
+      "summary": "Trials showed higher fasting glucose and lower insulin sensitivity. Healthy Male describes diabetes-like effects.",
+      "items": [
+        {
+          "text": "In the 2-year trial, MK-677 raised fasting glucose slightly, lowered insulin sensitivity and raised cortisol.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nass-2008"
+        },
+        {
+          "text": "Fasting glucose rose from 5.4 to 6.8 mmol/L within 4 weeks in older adults on 25 mg.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-chapman-1996"
+        },
+        {
+          "text": "Healthy Male says many studies show diabetes-like effects of MK-677, including higher blood glucose, lower insulin sensitivity and higher glycated hemoglobin (HbA1c).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Heart failure warning",
+      "summary": "A trial stopped early over heart failure, and the FDA cites this risk.",
+      "items": [
+        {
+          "text": "A randomized trial in 123 elderly hip-fracture patients was terminated early because of a safety signal of congestive heart failure in a limited number of patients, and the authors describe an unfavorable safety profile in that population.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-adunsky-2011"
+        },
+        {
+          "text": "The FDA says ibutamoren mesylate poses significant safety risks because of the potential for congestive heart failure, and cites the terminated hip-fracture trial. It also notes limited data showing effects on cortisol and blood glucose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-bulk"
+        },
+        {
+          "text": "Healthy Male says researchers stopped at least one clinical trial of MK-677 early because of concerns that it might cause heart failure.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthymale.org.au/health-article/what-you-need-to-know-about-mk-677-ibutamoren",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "In other trials",
+      "summary": "Short trials in healthy volunteers and a small dialysis study reported no serious side effects.",
+      "items": [
+        {
+          "text": "In a 7-day dosing period in 8 healthy volunteers, MK-677 25 mg was generally well tolerated and without clinically significant adverse experiences.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-murphy-1998"
+        },
+        {
+          "text": "In a small crossover study of 22 hemodialysis patients, MK-0677 raised IGF-1 and no serious adverse effects were attributed to it.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-hd-2018"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

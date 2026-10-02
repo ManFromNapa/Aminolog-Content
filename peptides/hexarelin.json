@@ -153,7 +153,350 @@
       "year": 2018,
       "summary": "Mouse heart-attack model treated with hexarelin or vehicle for 21 days (Physiol Rep).",
       "finding": "Treated mice had better heart function and less scarring than vehicle mice. Findings in mice do not show the same effect in people."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "ho-1988-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3127426",
+      "year": 1988,
+      "summary": "Frequent-sampling study of 24-hour growth hormone secretion in 6 healthy men on a fed day and on days 1 and 5 of a 5-day fast (Ho et al., J Clin Invest).",
+      "finding": "Fasting increased growth hormone secretion and amplified its daily rhythms compared with the fed day."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Studies used about 1 to 2 micrograms per kg, or 50 mcg doses hourly at night. Online sources describe 100 to 200 mcg, with one clinic describing 0.2 mg.",
+      "items": [
+        {
+          "text": "1.5 micrograms per kg subcutaneously two or three times in one day, then 1 microgram per kg intravenously at the end of each 24-hour sampling period. Single-day exposure only.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11888836"
+        },
+        {
+          "text": "Four doses of 50 micrograms at hourly intervals from 22:00 to 01:00 versus placebo (the route is not stated in the abstract).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15177700"
+        },
+        {
+          "text": "A single intravenous dose of 2.0 micrograms per kg during bypass surgery.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12144941"
+        },
+        {
+          "text": "Animal study only, not human data: 0.3 mg per kg per day for 21 days after induced heart attack.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29756411"
+        },
+        {
+          "text": "PeptidesExplorer, an educational website, says typical use is 100 to 200 mcg subcutaneously, with 100 mcg described as conservative and 200 mcg as standard.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wittmer Rejuvenation Clinic, which offers hexarelin treatment, describes 0.2 mg injected subcutaneously, from a 6 mg vial mixed with 6 mL of bacteriostatic water.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "One study found evening doses reduced deep sleep. Online sources disagree: some say morning, others bedtime, and none cite a trial of dose timing.",
+      "items": [
+        {
+          "text": "Four evening hexarelin doses reduced deep (stage 4) sleep and delta-wave activity in healthy volunteers.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15177700"
+        },
+        {
+          "text": "The body's own largest growth hormone (GH) pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not hexarelin, and no trial has compared bedtime with daytime hexarelin dosing.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "The Peptides Insider website, which carries affiliate links to sellers, says common windows are the morning before breakfast, before a workout, or at bedtime at least 2 hours after dinner.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wittmer Rejuvenation Clinic, which offers hexarelin treatment, says to inject at bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says morning fasted or before bed are the preferred windows.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food with hexarelin. Online sources mostly say to inject on an empty stomach, based on glucose blunting GH in studies of other compounds, while one clinic says it is not needed.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink before an injection of natural growth hormone-releasing hormone (GHRH) lowered the GH response by about a third; the authors suggest somatostatin as the reason. Hexarelin acts differently, and no study has tested meals with it.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "In healthy men, fasting increased the body's own GH secretion compared with a fed day.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ho-1988-jci"
+        },
+        {
+          "text": "The Peptides Insider website, which carries affiliate links to sellers, says hexarelin works best fasted, with no food for about 2 hours before and 30 minutes after a dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says to inject on an empty stomach and wait at least 1 hour before eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wittmer Rejuvenation Clinic, which offers hexarelin treatment, says hexarelin does not need to be taken on an empty stomach.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "One study gave two or three injections in a single day. Online sources describe once or twice daily, or nightly and then every other night. None of these schedules has been tested over time.",
+      "items": [
+        {
+          "text": "Two or three subcutaneous injections in one day raised growth hormone output to the same extent.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11888836"
+        },
+        {
+          "text": "PeptidesExplorer says typical use is once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptides Insider website, which carries affiliate links to sellers, says research doses used 1 to 2 times daily by subcutaneous injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wittmer Rejuvenation Clinic, which offers hexarelin treatment, describes nightly injections in month 1, then every other night.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Repeated dosing blunted the GH response in people, and receptors desensitized within minutes in cells. No study tested on and off cycles. Online cycle lengths vary widely.",
+      "items": [
+        {
+          "text": "Growth hormone output rose to the same extent with two or three injections, and a later intravenous dose produced a blunted growth hormone response, which fits desensitization. IGF-I did not change after this one-day schedule. Tiny, one-day study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11888836"
+        },
+        {
+          "text": "The cells' calcium response to hexarelin faded within minutes of the first dose, showing rapid receptor desensitization. Cell-culture evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-14669829"
+        },
+        {
+          "text": "PeptidesExplorer says the recommended pattern is 4 to 6 weeks on and 6 to 8 weeks off, and that the GH response fades with continued use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptides Insider website, which carries affiliate links to sellers, says roughly 4 weeks on and 2 weeks off lets receptor sensitivity recover.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wittmer Rejuvenation Clinic, which offers hexarelin treatment, describes 12 to 16 weeks in a row, then a 4-week break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists for hexarelin. Online sources say to refrigerate a mixed vial at 2 to 8 C and rotate injection sites; none of this has been tested.",
+      "items": [
+        {
+          "text": "The Peptides Insider website, which carries affiliate links to sellers, says a mixed vial is kept at 2 to 8 C, protected from light, used within about 28 days, and not put through freeze-thaw cycles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptides Insider website, which carries affiliate links to sellers, says to rotate injection sites to reduce local reactions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says to refrigerate after mixing at 2 to 8 C and use within 28 days, and that unmixed powder is stable frozen at -20 C.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/hexarelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Wittmer Rejuvenation Clinic, which offers hexarelin treatment, says to keep the mixed vial refrigerated and rotate injection sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Acts on the ghrelin receptor to release growth hormone, and also raises prolactin, ACTH and cortisol.",
+      "items": [
+        {
+          "text": "Hexarelin and GHRP-2 produced similar, strong growth hormone responses, larger than GHRH, but also raised prolactin, ACTH and cortisol, so the effect is not specific to growth hormone.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-9285939"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Short-lived improvement in heart pumping during heart surgery, plus heart benefits in mice.",
+      "items": [
+        {
+          "text": "Hexarelin transiently increased ejection fraction and cardiac output for up to 90 minutes and raised mean arterial pressure, while the other agents did not. These are acute measurements under anesthesia, not evidence of treatment benefit.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12144941"
+        },
+        {
+          "text": "Ejection fraction rose in patients with ischemic cardiomyopathy but not in those with dilated cardiomyopathy, despite similar growth hormone release. Small, acute study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11959048"
+        },
+        {
+          "text": "Treated mice had better heart function and less scarring than vehicle mice. Findings in mice do not show the same effect in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-29756411"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Sleep",
+      "summary": "Less deep sleep after evening doses.",
+      "items": [
+        {
+          "text": "After four hexarelin injections during the evening in seven healthy volunteers, deep (stage 4) sleep and EEG delta power decreased, and the authors suggested sleep was impaired; GH, prolactin, ACTH and cortisol increased.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-15177700"
+        }
+      ]
+    },
+    {
+      "title": "Fading response",
+      "summary": "Repeated dosing blunted the growth hormone response.",
+      "items": [
+        {
+          "text": "With repeated daily subcutaneous hexarelin, the GH response to a later intravenous test dose was blunted and the ACTH and cortisol responses were abolished, indicating down-regulation.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-11888836"
+        }
+      ]
+    },
+    {
+      "title": "Blood pressure",
+      "summary": "Raised blood pressure during heart surgery.",
+      "items": [
+        {
+          "text": "Intravenous hexarelin raised mean arterial pressure in patients with coronary artery disease under anesthesia, alongside increases in ejection fraction and cardiac output.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pmid-12144941"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
