@@ -181,7 +181,314 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
       "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), added September 29, 2023, with FDA citing immunogenicity and impurity concerns and a literature report of serious adverse events, including death, after intravenous use for gastric motility. FDA says it lacks sufficient information on harm via other injectable routes."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "ho-1988-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "3127426",
+      "year": 1988,
+      "summary": "Frequent-sampling study of 24-hour growth hormone secretion in 6 healthy men on a fed day and on days 1 and 5 of a 5-day fast (Ho et al., J Clin Invest).",
+      "finding": "Fasting increased growth hormone secretion and amplified its daily rhythms compared with the fed day."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. The only patient trial used an IV infusion after bowel surgery. Online sources describe 100 to 300 mcg injected under the skin per dose, which has not been studied.",
+      "items": [
+        {
+          "text": "Intravenous infusions of 0.03 mg/kg twice daily for up to 7 days were studied against placebo; the study found no significant benefit on time to tolerate a meal.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ileus-phase2"
+        },
+        {
+          "text": "Single 15-minute intravenous infusions at five dose levels from 4.21 to 140.45 nmol/kg were studied to characterize pharmacokinetics and growth hormone response.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-pkpd-1999"
+        },
+        {
+          "text": "Animal study only, not human data: 100 micrograms per kg was injected subcutaneously three times daily for three months together with a glucocorticoid.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-bone-2001"
+        },
+        {
+          "text": "An educational website (PeptidesExplorer) says a commonly used solo dose is 200 to 300 mcg injected subcutaneously, 1 to 3 times per day, and describes 100 to 200 mcg once daily at bedtime as a common beginner level. The site states this is a research compound, not an approved therapy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ipamorelin-dosage",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "An affiliate-linked peptide information site says community-reported schedules use 100 to 300 mcg per injection, one to three times per day, and states these figures are community-derived, not from clinical trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide information site with supplier links says a standard protocol is 200 mcg per injection, and that research protocols typically use roughly 100 to 300 mcg per subcutaneous administration, one to three times per day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing. Each dose gives one short GH pulse, and natural GH peaks after falling asleep, so online sources favor bedtime or a fasted morning.",
+      "items": [
+        {
+          "text": "In healthy men, each IV dose released growth hormone in a single short pulse, and the drug's half-life was about 2 hours.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-pkpd-1999"
+        },
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep. This is natural GH, not ipamorelin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "The My Pep Calc website says ipamorelin is injected either first thing in the morning after an overnight fast or at bedtime at least 2 hours after eating, with a wait of at least 30 minutes after the injection before eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mypepcalc.com/learn/cjc-ipamorelin/ipamorelin-timing-guide",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptidesExplorer says the bedtime injection on an empty stomach is the one that matters most.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ipamorelin-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "Online sources say to inject on an empty stomach and wait 30 minutes before eating. Studies show glucose blunts GH release and fasting raises it, but none tested ipamorelin.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink lowered the GH response to injected GHRH by about a third. Ipamorelin works through a different receptor (ghrelin), and meals have not been tested with it.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "In healthy men, fasting increased the body's own GH secretion compared with a fed day.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ho-1988-jci"
+        },
+        {
+          "text": "Peptidepedia says ipamorelin is best taken at least 30 minutes before eating or 2 or more hours after a meal, because food raises insulin and is said to interfere with the GH response.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "My Pep Calc says to wait at least 30 minutes after the injection before eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.mypepcalc.com/learn/cjc-ipamorelin/ipamorelin-timing-guide",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The bowel surgery trial gave IV doses twice daily for up to 7 days. Online sources describe 1 to 3 injections a day, often 5 days on and 2 off; none of this has been studied.",
+      "items": [
+        {
+          "text": "The phase 2 trial gave IV ipamorelin twice daily for up to 7 days after bowel surgery.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ileus-phase2"
+        },
+        {
+          "text": "PeptidesExplorer describes 1 to 3 injections a day, with weekdays on and weekends off as one option.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ipamorelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "An AI tool built on the Huberman Lab podcast suggests 5 days on and 2 days off to avoid desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "podcast",
+          "url": "https://ai.hubermanlab.com/s/1HRFtZgO",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, lists 5 days on and 2 days off as one weekly pattern.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human study lasted longer than 7 days. Online sources describe 8 to 12 weeks on, then about 4 weeks off, and say desensitization data are thin.",
+      "items": [
+        {
+          "text": "The longest human study of ipamorelin gave it for up to 7 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ileus-phase2"
+        },
+        {
+          "text": "In rats, ipamorelin was given three times daily for 3 months.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-bone-2001"
+        },
+        {
+          "text": "PeptidesExplorer describes 8 to 12 weeks on and 4 weeks off, and says ipamorelin-specific desensitization data are thin, with the off-cycle borrowed from practice with similar compounds.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ipamorelin-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "HealthRx describes 8 to 16 week cycles followed by a 4 to 8 week break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://healthrx.com/peptide-protocols-ipamorelin/executive-longevity",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says 8 to 12 weeks on and 4 weeks off is the most common pattern.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official guidance. Online sources say to mix gently with bacteriostatic water, refrigerate, use within 4 to 6 weeks, and rotate injection sites.",
+      "items": [
+        {
+          "text": "The Peptidepedia website says ipamorelin is injected subcutaneously into the abdomen, thigh or shoulder with sites rotated, and that the lyophilized powder is dissolved with bacteriostatic water by swirling gently, never shaking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptidepedia says a mixed vial keeps for 4 to 6 weeks refrigerated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Acts on the ghrelin receptor to make the pituitary release a pulse of growth hormone, without raising cortisol in animal studies.",
+      "items": [
+        {
+          "text": "Ipamorelin released growth hormone selectively in animals, without raising cortisol or ACTH at the doses tested. This is animal and cell evidence.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-raun-1998"
+        },
+        {
+          "text": "In healthy men, each dose released GH in a single short pulse.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-pkpd-1999"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Short GH pulses in healthy men. The one patient trial, after bowel surgery, found no benefit; other effects come from animal studies.",
+      "items": [
+        {
+          "text": "Each IV dose released a short GH pulse in healthy men.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-pkpd-1999"
+        },
+        {
+          "text": "Ipamorelin was well tolerated for up to 7 days, but time to first tolerated meal was not significantly different from placebo (median about 25 vs 33 hours, p=0.15).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ileus-phase2"
+        },
+        {
+          "text": "Ipamorelin shortened time to first bowel movement and, with repeated dosing, increased fecal output, food intake and weight gain in rats.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-ileus-2009"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Well tolerated for up to 7 days in one surgery trial; no long-term human safety data.",
+      "items": [
+        {
+          "text": "In a phase 2 trial of intravenous ipamorelin twice daily for up to 7 days after bowel surgery, treatment-emergent adverse events occurred in 87.5% of the ipamorelin group and 94.8% of the placebo group, and the authors described it as well tolerated.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ileus-phase2"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA says compounded ipamorelin may cause immune reactions from clumping or impurities.",
+      "items": [
+        {
+          "text": "FDA lists ipamorelin acetate among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-cat2"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -157,5 +157,192 @@
       "finding": "Confirms retatrutide is described by its sponsor as investigational and available outside trials only through a restricted expanded access route."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Phase 3 trials used 4, 9 or 12 mg weekly after starting at 2 mg and stepping up every 4 weeks. Online users describe starting at 1 or 2 mg; research-grade products are unregulated.",
+      "items": [
+        {
+          "text": "In an 80-week phase 3 trial, once-weekly subcutaneous doses of 4 mg, 9 mg and 12 mg were studied versus placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        },
+        {
+          "text": "In a 40-week phase 3 trial, once-weekly subcutaneous doses of 4 mg, 9 mg and 12 mg were studied versus placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-transcend-t2d1"
+        },
+        {
+          "text": "In a 48-week phase 2 trial, once-weekly subcutaneous injections were studied at maintenance doses of 1 mg, 4 mg, 8 mg and 12 mg, with different starting doses (2 mg or 4 mg) for some groups; gastrointestinal side effects were more frequent at higher starting doses.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nejm-2023"
+        },
+        {
+          "text": "In a 24-week phase 2 trial, once-weekly subcutaneous doses with maintenance levels from 0.5 mg to 12 mg were studied and compared with placebo and dulaglutide.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-lancet-t2d-2023"
+        },
+        {
+          "text": "Peptide Dossier says research-peptide users usually start at 2 mg weekly, mirroring the trials, and that some nausea-sensitive users start at 1 mg. It says all access today is through research peptide vendors or trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/retatrutide-starting-dose/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "GLP3 Planner describes a community titration starting at 1 mg weekly and rising toward 8 to 12 mg, and says it is based on theory and community experience, not controlled studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://glp3planner.com/resources/retatrutide-dosing-schedule",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Once a week, self-injected, in the trials. No label exists. Online sources say the time of day is flexible.",
+      "items": [
+        {
+          "text": "In the phase 3 TRIUMPH-2 trial, retatrutide was given as self-administered once-weekly subcutaneous injections. Retatrutide is investigational, so no label guidance on timing, meals, or storage exists.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        },
+        {
+          "text": "An educational peptide site says the time of day is flexible given the drug's long half-life, that morning injection lets side effects be noticed while awake and evening injection lets nausea fall during sleep, that food does not affect absorption of a subcutaneous injection, and that high-fat meals on injection days are best avoided. It also says reconstituted vials are kept upright in the refrigerator. These are the site's statements, not label guidance, since retatrutide is unapproved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.seekpeptides.com/blog/articles/best-time-to-take-retatrutide",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No meal rules were published from the trials. An online source says food does not affect absorption of the injection.",
+      "items": [
+        {
+          "text": "SeekPeptides says food does not affect absorption of a subcutaneous retatrutide injection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.seekpeptides.com/blog/articles/best-time-to-take-retatrutide",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once weekly in every trial. Some online users split the weekly dose into smaller injections, which was not studied.",
+      "items": [
+        {
+          "text": "Every published trial gave retatrutide once weekly by injection under the skin.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        },
+        {
+          "text": "Peptide Dossier describes splitting the weekly dose for nausea-sensitive users as an off-protocol community practice.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/retatrutide-starting-dose/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest published trial ran 80 weeks of continuous weekly dosing. No published data yet on what happens after stopping.",
+      "items": [
+        {
+          "text": "TRIUMPH-2 gave weekly retatrutide for 80 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        },
+        {
+          "text": "The phase 2 obesity trial ran 48 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nejm-2023"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Acts on three hormone receptors (GIP, GLP-1 and glucagon), lowering appetite and possibly raising energy use.",
+      "items": [
+        {
+          "text": "Retatrutide is a single peptide that activates the GIP, GLP-1 and glucagon receptors.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-nejm-2023"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "About 24% average weight loss at 48 weeks on 12 mg in a phase 2 trial, and about 19% at 80 weeks in people with obesity and type 2 diabetes.",
+      "items": [
+        {
+          "text": "Average body weight fell by about 24% at 48 weeks with the 12 mg dose versus about 2% with placebo. Side effects were mostly gastrointestinal and dose-related; heart rate increased in a dose-dependent way.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nejm-2023"
+        },
+        {
+          "text": "TRIUMPH-2: body weight fell about 12% (4 mg), 17% (9 mg) and 19% (12 mg) versus about 5% with placebo at 80 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Diarrhea (27 to 34%) and nausea, mostly mild to moderate, more frequent at higher starting doses; heart rate rose and later eased.",
+      "items": [
+        {
+          "text": "In TRIUMPH-2 (type 2 diabetes and obesity), diarrhea occurred in 27 to 34% of retatrutide recipients vs 13% with placebo and nausea in 14 to 28% vs 8%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        },
+        {
+          "text": "In the phase 2 obesity trial, the most common adverse events were gastrointestinal, were dose-related, mostly mild to moderate, and were partly reduced by a lower starting dose. Dose-dependent increases in heart rate peaked at 24 weeks and declined afterward.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nejm-2023"
+        },
+        {
+          "text": "In TRANSCEND-T2D-1 (40 weeks), the most frequent adverse events were mostly mild to moderate gastrointestinal events that subsided over time. Discontinuations due to adverse events were 2 to 5% with retatrutide and 0% with placebo, and no severe hypoglycemia was reported.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-transcend-t2d1"
+        }
+      ]
+    },
+    {
+      "title": "Less common",
+      "summary": "Skin tingling or numbness (dysesthesia) and low blood pressure; 8 to 12% stopped because of side effects.",
+      "items": [
+        {
+          "text": "In TRIUMPH-2, dysesthesia occurred in 4 to 7% of retatrutide recipients vs 1% with placebo and hypotension in 1 to 6% vs under 1%. Permanent discontinuation due to adverse events or death was 8% to 12% across the retatrutide groups, vs 5% with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-triumph2"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

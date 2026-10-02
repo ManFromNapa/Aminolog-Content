@@ -179,7 +179,306 @@
       "year": 2016,
       "summary": "SUSTAIN-6: randomized trial of once-weekly semaglutide versus placebo in adults with type 2 diabetes at high cardiovascular risk (Marso et al., N Engl J Med).",
       "finding": "Major cardiovascular events occurred in 6.6% with semaglutide versus 8.9% with placebo (hazard ratio 0.74); retinopathy complications were more frequent with semaglutide."
+    },
+    {
+      "id": "step-4-2021",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "33755728",
+      "year": 2021,
+      "summary": "Randomized withdrawal trial in 803 adults with overweight or obesity: after 20 weeks on semaglutide 2.4 mg weekly, participants continued semaglutide or switched to placebo for 48 weeks (Rubino et al., JAMA; STEP 4).",
+      "finding": "Those who continued lost a further 7.9% of body weight, while those switched to placebo regained 6.9%."
+    },
+    {
+      "id": "step-1-extension-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "35441470",
+      "year": 2022,
+      "summary": "Off-treatment extension of the STEP 1 trial following 327 participants for one year after semaglutide 2.4 mg and lifestyle intervention stopped at week 68 (Wilding et al., Diabetes Obes Metab).",
+      "finding": "One year after stopping, participants had regained about two-thirds of the weight they lost, and most heart and metabolic improvements had returned toward baseline."
+    },
+    {
+      "id": "wong-2026-obesity",
+      "evidence_type": "case_report",
+      "source_kind": "pubmed",
+      "identifier": "41732031",
+      "year": 2026,
+      "summary": "Retrospective case series of 30 adults who reached a weight plateau on weekly semaglutide or tirzepatide and then stretched dosing to about every other week or longer (Wong et al., Obesity).",
+      "finding": "Weight and metabolic improvements were maintained over an average of about 36 weeks; the authors say randomized trials are needed."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Wegovy injection starts at 0.25 mg weekly and steps up every 4 weeks to a maintenance dose, usually 1.7 to 2.4 mg. Ozempic goes up to 2 mg weekly, and Wegovy tablets reach 25 mg daily. Online microdosing at 0.05 to 0.5 mg weekly is unstudied.",
+      "items": [
+        {
+          "text": "Wegovy injection: labeled starting dose 0.25 mg subcutaneously once weekly for 4 weeks, with stepwise increases every 4 weeks (0.5 mg, 1 mg, 1.7 mg) toward a maintenance dose that varies by indication (labeled maintenance typically 1.7 to 2.4 mg weekly; label also describes up to 7.2 mg weekly for weight reduction).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "Wegovy tablets: labeled starting dose 1.5 mg orally once daily for 30 days, then 4 mg, then 9 mg in 30-day steps, with a maintenance dose of 25 mg daily.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "Ozempic injection: labeled starting dose 0.25 mg subcutaneously once weekly for 4 weeks, then 0.5 mg weekly, with optional increases to 1 mg and then 2 mg weekly (maximum) after at least 4 weeks at each dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-ozempic-label"
+        },
+        {
+          "text": "A health information website that carries affiliate links to telehealth providers says people who microdose semaglutide commonly start at 0.05 mg to 0.125 mg once weekly, and that many stay below 0.5 mg weekly. The page notes there is no agreed definition of a microdose and describes the practice as not studied in a protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A prescription discount service blog says some people report using semaglutide microdoses starting as low as 0.05 mg once weekly, and that some take 10 to 100 times lower doses than standard prescriptions. The page presents this as an unstudied off-label practice.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Injections go on the same day each week at any time of day. Tablets are taken in the morning. Online sources suggest choosing morning or evening based on when nausea is easier to handle.",
+      "items": [
+        {
+          "text": "The Wegovy label states the injection is given once weekly on the same day each week, at any time of day, with or without meals, subcutaneously in the abdomen, thigh, or upper arm.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "The Wegovy label states the tablet form is taken once daily in the morning on an empty stomach with water (up to 4 ounces), swallowed whole, with at least 30 minutes before eating, drinking other beverages, or taking other oral medicines. A missed tablet dose is skipped and the next dose taken the following day.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "A telehealth company's blog says the best injection time is whatever can be kept consistent each week, that morning injections may let nausea pass during waking hours while evening injections may suit those who want any nausea overnight, and that a low-fat, low-fiber meal may reduce early nausea.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "Injections can be taken with or without food. Tablets need an empty stomach and 30 minutes before eating or drinking. Online tips for nausea include smaller, blander meals.",
+      "items": [
+        {
+          "text": "The Wegovy and Ozempic labels state the weekly injection can be given with or without meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "The Wegovy label states the tablet is taken on an empty stomach with up to 4 ounces of water, at least 30 minutes before food, other drinks or other oral medicines.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "A Healthline article on nausea with Ozempic describes eating smaller portions, choosing bland foods, avoiding greasy or spicy foods, taking frequent sips of water, and waiting at least 30 minutes after the injection before trying certain foods such as ginger or mints.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.healthline.com/health/drugs/ozempic-nausea-relief",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once weekly for injections, once daily for tablets, with label rules for missed doses. A small case series kept results with every-other-week dosing after weight plateaued; this differs from the label and is not proven.",
+      "items": [
+        {
+          "text": "The Wegovy label states that if a weekly injection is missed and the next scheduled dose is more than 2 days away, it is given as soon as possible, and if the next dose is less than 2 days away the missed dose is skipped and the regular day is resumed. After 2 or more consecutive missed doses, the label states dose escalation is restarted at a lower dosage to reduce gastrointestinal reactions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "The Ozempic label states the day of weekly administration can be changed if necessary, as long as the time between two doses is at least 2 days (more than 48 hours). It also states pens must never be shared between patients, even if the needle is changed, and that when used with insulin the products can be injected in the same body region but not adjacent to each other.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-ozempic-label"
+        },
+        {
+          "text": "Every-other-week or longer dosing after a weight plateau kept weight and metabolic improvements in 30 adults over about 36 weeks. This was a retrospective case series without a comparison group.",
+          "label": "research",
+          "validity": "low",
+          "conflicts_with_label": true,
+          "citation_id": "wong-2026-obesity"
+        },
+        {
+          "text": "Doctronic, an online health service, says some clinicians space doses every 3 to 4 weeks when tapering, and that no FDA-approved taper exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "website",
+          "url": "https://www.doctronic.ai/blog/semaglutide-withdrawal-taper/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Treated as long-term. Trials ran 68 weeks, and people who stopped regained much of the weight within a year. Online sources describe tapering down instead of stopping abruptly, which has not been tested in a trial.",
+      "items": [
+        {
+          "text": "The STEP 1 trial gave semaglutide 2.4 mg weekly for 68 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "step-1-2021"
+        },
+        {
+          "text": "After 20 weeks on semaglutide, those who continued lost a further 7.9% over 48 weeks, while those switched to placebo regained 6.9%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "step-4-2021"
+        },
+        {
+          "text": "One year after stopping at week 68, participants had regained about two-thirds of the weight they lost.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "step-1-extension-2022"
+        },
+        {
+          "text": "Ro, a telehealth company that sells GLP-1 treatment, says gradual tapering may help maintain weight after stopping and that providers may step the dose down every few weeks or months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A physician writing for Business Insider describes staying on a 0.5 mg weekly maintenance dose and notes there is no protocol showing this works.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://autos.yahoo.com/im-doctor-lost-25-pounds-100000902.html",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Unused pens are refrigerated and protected from light. Pens in use can stay at room temperature for up to 56 days. Inject into the abdomen, thigh or upper arm, and never share pens.",
+      "items": [
+        {
+          "text": "The Wegovy label states an unused pen or syringe is stored in a refrigerator (2 to 8 C) and protected from light, and may be kept at 8 to 30 C for up to 28 days before the cap is removed. A multi-dose FlexTouch pen can be kept for 56 days after first use at 15 to 30 C or in the refrigerator, with the cap on and a new needle used for each injection. The product must not be frozen.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "The Ozempic label states a pen is refrigerated (2 to 8 C) before first use, kept in the original carton, and after first use can be stored for 56 days at 15 to 30 C or in the refrigerator, not frozen.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-ozempic-label"
+        },
+        {
+          "text": "The Ozempic label states the weekly dose is given at any time of day with or without meals, and that a missed dose can be administered within 5 days of the missed dose. It states to use a different injection site each week within the same body region, and to inject separately from insulin without mixing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-ozempic-label"
+        },
+        {
+          "text": "The Wegovy label lists the abdomen, thigh or upper arm as injection sites.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A long-acting version of the gut hormone GLP-1. It lowers appetite and food intake, and raises insulin when blood sugar is high.",
+      "items": [
+        {
+          "text": "The Wegovy label describes semaglutide as a GLP-1 receptor agonist with 94% similarity to human GLP-1. It acts on GLP-1 receptors, including in brain areas that regulate appetite, lowering appetite and calorie intake; it also raises insulin and lowers glucagon in a glucose-dependent way.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "About 15% average weight loss over 68 weeks versus about 2% on placebo, plus fewer heart attacks and strokes in people with type 2 diabetes.",
+      "items": [
+        {
+          "text": "STEP 1: average weight change was -14.9% with semaglutide 2.4 mg versus -2.4% with placebo at 68 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "step-1-2021"
+        },
+        {
+          "text": "SUSTAIN-6: major cardiovascular events occurred in 6.6% versus 8.9% with placebo (hazard ratio 0.74) in people with type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "sustain-6-2016"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea (44%), diarrhea, vomiting, constipation and stomach pain, plus headache and fatigue.",
+      "items": [
+        {
+          "text": "In the Wegovy label's pooled weight-management trials, gastrointestinal reactions were the most frequent: nausea 44% vs 16% with placebo, diarrhea 30% vs 16%, vomiting 24% vs 6%, constipation 24% vs 11%, and abdominal pain 20% vs 10%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        },
+        {
+          "text": "The Wegovy label also lists headache (14% vs 10%), fatigue (11% vs 5%), dyspepsia, dizziness, and hair loss among adverse reactions, and hypoglycemia (6% vs 2%) in participants with type 2 diabetes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Boxed warning for thyroid C-cell tumors in rodents, plus pancreatitis and gallbladder disease.",
+      "items": [
+        {
+          "text": "The Wegovy and Ozempic labels carry a boxed warning of thyroid C-cell tumors: semaglutide caused such tumors in rodents, the relevance to humans is unknown, and the drug is contraindicated with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-ozempic-label"
+        },
+        {
+          "text": "The Wegovy label lists warnings for acute pancreatitis and acute gallbladder disease, and notes that substantial or rapid weight loss can increase gallbladder risk.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-wegovy-label"
+        }
+      ]
+    },
+    {
+      "title": "Low blood sugar",
+      "summary": "More common when combined with insulin or a sulfonylurea.",
+      "items": [
+        {
+          "text": "In the Ozempic label's placebo-controlled trials in type 2 diabetes, documented symptomatic hypoglycemia occurred more often with insulin or a sulfonylurea added (for example 29.8% with basal insulin added vs 15.2% with placebo).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-ozempic-label"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

@@ -211,5 +211,275 @@
       "finding": "On the fetched page BPC-157 appears in the list of substances nominated but withdrawn (previously category 2), with FDA noting risks of immunogenicity, impurities and limited safety information. This page does not make BPC-157 an approved drug."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved. Human data are two tiny pilots using 10 to 20 mg by bladder injection or IV. Online sources describe 200 to 500 mcg a day injected under the skin, which has not been studied.",
+      "items": [
+        {
+          "text": "A single 10 mg dose was injected around the area of bladder inflammation during a cystoscopy procedure in a small uncontrolled pilot (12 participants, no comparison group).",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-ic-pilot"
+        },
+        {
+          "text": "Intravenous infusions of 10 mg and then 20 mg (each in 250 mL saline over one hour) were used in a safety pilot of two people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-iv-pilot"
+        },
+        {
+          "text": "Animal study only, not human data: 10 micrograms per kg per day was given by intraperitoneal injection for four weeks after Achilles tendon surgery.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2026"
+        },
+        {
+          "text": "A clinic website says BPC-157 is commonly dosed in the 250 to 500 mcg per day range by subcutaneous injection, given once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A physician-run site that promotes affiliate links and paid courses says 200 to 500 mcg per day is the most commonly used range for subcutaneous injection, and lists 250 to 500 mcg twice daily for acute injuries and 200 to 300 mcg once daily for chronic conditions. It also lists 500 to 1,000 mcg daily for oral use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A supplement retailer's blog says typical daily doses fall between 200 and 1,000 mcg, with 500 mcg per day the most commonly reported, injected once or twice daily. For oral use it cites 250 to 500 mcg once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing. Online sources suggest morning and before bed for twice-daily use.",
+      "items": [
+        {
+          "text": "PeptideJournal.org suggests morning and before-bed times for twice-daily use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A telehealth company that sells compounded BPC-157 suggests first thing in the morning or at least 2 hours after a meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food. Online sources say to take it on an empty stomach and away from coffee, protein powders and other supplements.",
+      "items": [
+        {
+          "text": "PeptideJournal.org says BPC-157 is usually taken on an empty stomach, at least 30 minutes before eating or 2 hours after a meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A telehealth company that sells compounded BPC-157 says it is best taken fasting and kept separate from coffee, protein powders, collagen and other supplements.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human study used repeated doses. Online sources describe once or twice daily, or a few days a week.",
+      "items": [
+        {
+          "text": "Rat tendon studies gave BPC-157 once daily.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2026"
+        },
+        {
+          "text": "A physician-run site with affiliate links lists twice daily for acute injuries and once daily for chronic conditions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "An AI tool built on the Huberman Lab podcast describes 2 to 3 times a week, up to 5 days a week, or daily with weekends off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "podcast",
+          "url": "https://ai.hubermanlab.com/s/qUgUwktz",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human data on repeated or long-term use. Online sources describe anywhere from 4 to 12 weeks on, then 2 to 10 weeks off, with no agreement.",
+      "items": [
+        {
+          "text": "Rat tendon studies ran 4 weeks.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2026"
+        },
+        {
+          "text": "PeptideJournal.org says a period of daily use is followed by a break of a few weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "An AI tool built on the Huberman Lab podcast describes about 8 weeks on, then 8 to 10 weeks off, and says continuous use is not advised given limited human data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "podcast",
+          "url": "https://ai.hubermanlab.com/s/zh30rLg-",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier describes 8 to 12 weeks on, then 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/bpc-157-before-and-after/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide clinic's blog describes 4 to 6 weeks on, then 2 to 4 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official guidance. Online sources say to add water slowly, swirl without shaking, refrigerate away from light, use within 2 to 3 weeks, and rotate sites.",
+      "items": [
+        {
+          "text": "PeptideJournal.org says a mixed vial is refrigerated away from light and heat, not frozen, and used within about 2 to 3 weeks; the lower abdomen is the most common site, and sites are rotated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "PeptideJournal.org says to add water slowly down the side of the vial and swirl gently without shaking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Unknown in people. In cell and rat studies it helped tendon cells grow, survive and move.",
+      "items": [
+        {
+          "text": "BPC 157 increased tendon cell outgrowth, survival under stress and migration in culture, likely via the FAK-paxillin pathway. This is cell-culture evidence only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tendon-invitro-2011"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Faster tendon healing in rats. Human evidence is limited to tiny uncontrolled pilots and a weak retrospective survey.",
+      "items": [
+        {
+          "text": "BPC 157 accelerated tendon healing in rats and stimulated tendon cell growth in vitro. Results in rodents do not establish effects in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2003"
+        },
+        {
+          "text": "Participants reported symptom improvement on a questionnaire and no adverse events were reported. Because the study was tiny, uncontrolled and unblinded, it cannot show that the peptide works or is safe.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-ic-pilot"
+        },
+        {
+          "text": "Most contacted patients reported pain relief, but the design was retrospective, uncontrolled and relied on recall, so it is weak evidence.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-knee-2021"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In human pilots",
+      "summary": "No side effects reported in two tiny pilots (14 people total); the safety profile is unknown.",
+      "items": [
+        {
+          "text": "In a pilot of 12 women given a single bladder injection of BPC-157 for interstitial cystitis, no adverse events were reported. The study was uncontrolled and too small to establish safety.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-ic-pilot"
+        },
+        {
+          "text": "In a two-person pilot of intravenous BPC-157 infusions, no side effects and no change in tested blood markers were reported. Two participants is too few to establish safety.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-iv-pilot"
+        },
+        {
+          "text": "A registered pilot trial record states BPC-157 has not yet been studied in formal human clinical trials, so its side-effect profile is unknown.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-nct-ark"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Mild headache, fatigue, injection-site irritation and occasional dizziness or nausea.",
+      "items": [
+        {
+          "text": "PeptideJournal.org describes reported effects of BPC-157 as minimal, mainly a mild transient headache in the first few days, fatigue, injection-site irritation and rare dizziness, with nausea described as uncommon and more frequent with oral use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidejournal.org/how-to/how-to-use-bpc-157-routes-dosing-and-protocols",
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA notes risks of immune reactions and impurities with compounded BPC-157.",
+      "items": [
+        {
+          "text": "On the fetched page BPC-157 appears in the list of substances nominated but withdrawn (previously category 2), with FDA noting risks of immunogenicity, impurities and limited safety information. This page does not make BPC-157 an approved drug.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-cat2"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

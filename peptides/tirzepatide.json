@@ -138,7 +138,223 @@
       "year": 2021,
       "summary": "SURPASS-2: randomized trial comparing weekly tirzepatide with semaglutide 1 mg in adults with type 2 diabetes (N Engl J Med).",
       "finding": "All tirzepatide doses lowered HbA1c more than semaglutide (up to 2.30 vs 1.86 percentage points) and produced greater weight loss; gastrointestinal effects were most common."
+    },
+    {
+      "id": "surmount-4-2024",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "38078870",
+      "year": 2024,
+      "summary": "Randomized withdrawal trial in adults with obesity: after a 36-week open-label lead-in on tirzepatide (average loss 20.9%), 670 participants continued tirzepatide or switched to placebo for 52 weeks (Aronne et al., JAMA; SURMOUNT-4).",
+      "finding": "Those who continued lost a further 5.5% of body weight, while those switched to placebo regained 14.0%."
+    },
+    {
+      "id": "wong-2026-obesity",
+      "evidence_type": "case_report",
+      "source_kind": "pubmed",
+      "identifier": "41732031",
+      "year": 2026,
+      "summary": "Retrospective case series of 30 adults who reached a weight plateau on weekly semaglutide or tirzepatide and then stretched dosing to about every other week or longer (Wong et al., Obesity).",
+      "finding": "Weight and metabolic improvements were maintained over an average of about 36 weeks; the authors say randomized trials are needed."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Starts at 2.5 mg weekly and rises in 2.5 mg steps every 4 weeks, to 5 to 15 mg weekly (15 mg maximum). Online microdosing below the labeled starting dose is unstudied.",
+      "items": [
+        {
+          "text": "Zepbound: labeled starting dose 2.5 mg subcutaneously once weekly for 4 weeks, then 5 mg weekly, with increases in 2.5 mg steps every 4 weeks; labeled maintenance dosages are 5, 10 or 15 mg weekly for weight reduction and 10 or 15 mg weekly for obstructive sleep apnea (maximum 15 mg weekly).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        },
+        {
+          "text": "Mounjaro: labeled starting dose 2.5 mg subcutaneously once weekly, increased in 2.5 mg steps after at least 4 weeks on the current dose as needed for glycemic control; labeled maximum 15 mg weekly in adults and 10 mg weekly in pediatric patients.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-mounjaro-label"
+        },
+        {
+          "text": "A pharmacy intermediary blog says people who microdose tirzepatide commonly use amounts below the labeled starting dose, giving examples of 1.5 mg to 1.8 mg once weekly at the start, and a split approach of 0.5 mg every 3 days. The page presents these as off-label practices, not established dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Once a week at any time of day. An online source suggests injecting 30 to 60 minutes before the largest meal to reduce nausea, which has not been tested.",
+      "items": [
+        {
+          "text": "The Zepbound label states the drug is given once weekly at any time of day, with or without meals, by subcutaneous injection into the abdomen, thigh, or another permitted site, alongside a reduced-calorie diet and increased physical activity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        },
+        {
+          "text": "A telehealth company's blog says tirzepatide can be taken at any time of day, that the specific hour matters less than keeping the same time each week, and that taking the injection 30 to 60 minutes before the largest meal may help reduce nausea.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "Can be taken with or without food.",
+      "items": [
+        {
+          "text": "The Zepbound label states the weekly injection can be given with or without meals.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Once weekly, with label rules for missed doses and changing the day. A small case series kept results with every-other-week dosing after weight plateaued; this differs from the label and is not proven.",
+      "items": [
+        {
+          "text": "The Zepbound and Mounjaro labels state that a missed dose is given as soon as possible within 4 days (96 hours), and is skipped if more than 4 days have passed. The weekly day can be changed if the time between two doses is at least 3 days (72 hours).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-mounjaro-label"
+        },
+        {
+          "text": "Every-other-week or longer dosing after a weight plateau kept weight and metabolic improvements in 30 adults on semaglutide or tirzepatide over about 36 weeks. This was a retrospective case series without a comparison group.",
+          "label": "research",
+          "validity": "low",
+          "conflicts_with_label": true,
+          "citation_id": "wong-2026-obesity"
+        },
+        {
+          "text": "A pharmacy intermediary blog describes splitting tirzepatide into smaller doses, such as 0.5 mg every 3 days, as an off-label practice.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Treated as long-term. Trials ran 72 weeks, and people switched to placebo regained much of the weight within a year.",
+      "items": [
+        {
+          "text": "SURMOUNT-1 gave tirzepatide weekly for 72 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "surmount-1-2022"
+        },
+        {
+          "text": "After 36 weeks on tirzepatide, those who continued lost a further 5.5% over 52 weeks, while those switched to placebo regained 14.0%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "surmount-4-2024"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Refrigerated, with up to 21 days total at room temperature. Opened multi-dose pens and vials are discarded after 30 days or 4 doses. Inject into the abdomen, thigh or upper arm.",
+      "items": [
+        {
+          "text": "The Mounjaro label states single-dose pens and vials are refrigerated (2 to 8 C), may be kept unrefrigerated up to 30 C for a total of 21 days, and are not to be frozen or used if frozen. Opened multi-dose vials and KwikPens are discarded after 30 days or after 4 weekly doses, even if medicine remains.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-mounjaro-label"
+        },
+        {
+          "text": "The Zepbound label states vials require a suitable syringe and a new syringe and needle for each injection, the solution should appear clear and colorless to slightly yellow, and the KwikPen is not recommended for self-administration by people who are visually impaired.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        },
+        {
+          "text": "The Zepbound label lists the abdomen, thigh or upper arm as injection sites.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Acts on two gut hormone receptors, GIP and GLP-1, lowering appetite and raising insulin when blood sugar is high.",
+      "items": [
+        {
+          "text": "The Mounjaro label describes tirzepatide as a GIP receptor and GLP-1 receptor agonist: a 39-amino-acid modified peptide with a fatty acid chain that binds albumin and extends its half-life, allowing once-weekly dosing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-mounjaro-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "About 15 to 21% average weight loss over 72 weeks versus about 3% on placebo, and larger blood sugar drops than semaglutide 1 mg.",
+      "items": [
+        {
+          "text": "SURMOUNT-1: average weight change was -15.0%, -19.5% and -20.9% on 5, 10 and 15 mg versus -3.1% with placebo at 72 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "surmount-1-2022"
+        },
+        {
+          "text": "SURPASS-2: all tirzepatide doses lowered HbA1c more than semaglutide 1 mg (up to 2.30 vs 1.86 percentage points).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "surpass-2-2021"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea (25 to 29%), diarrhea, constipation, vomiting and stomach pain, plus injection site reactions and fatigue.",
+      "items": [
+        {
+          "text": "In the Zepbound label's weight-management trials, nausea occurred in 25 to 29% of participants vs 8% with placebo, diarrhea 19 to 23% vs 8%, constipation 11 to 17% vs 5%, vomiting 8 to 13% vs 2%, and abdominal pain 9 to 10% vs 5%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        },
+        {
+          "text": "The Zepbound label also lists injection site reactions (6 to 8% vs 2%), fatigue, hypersensitivity reactions (5% vs 3%), dizziness, and hair loss (4 to 5% vs 1%).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        },
+        {
+          "text": "In the Mounjaro label's type 2 diabetes trial pool, nausea occurred in 12 to 18% vs 4% with placebo, diarrhea 12 to 17% vs 9%, decreased appetite 5 to 11% vs 1%, and vomiting 5 to 9% vs 2%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-mounjaro-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Boxed warning for thyroid C-cell tumors in rats, plus gallbladder disease and pancreatitis.",
+      "items": [
+        {
+          "text": "The Zepbound and Mounjaro labels carry a boxed warning of thyroid C-cell tumors in rats, with unknown relevance to humans, and a contraindication with a personal or family history of medullary thyroid carcinoma or MEN 2.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        },
+        {
+          "text": "The Zepbound label lists warnings for acute gallbladder disease and acute pancreatitis.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-zepbound-label"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

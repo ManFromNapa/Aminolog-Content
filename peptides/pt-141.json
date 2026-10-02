@@ -123,7 +123,221 @@
       "year": 2019,
       "summary": "52-week open-label extension of the RECONNECT trials (Simon et al., Obstet Gynecol).",
       "finding": "No new safety signals; improvements in desire and distress were sustained, with nausea (about 40%), flushing and headache the most common drug-related events."
+    },
+    {
+      "id": "diamond-2004-ijir",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "14963471",
+      "year": 2004,
+      "summary": "Placebo-controlled phase 1 studies of intranasal PT-141 in healthy men and in men with erectile dysfunction who respond to Viagra (Diamond et al., Int J Impot Res).",
+      "finding": "Erections were significantly more frequent than with placebo at intranasal doses above 7 mg, starting about 30 minutes after dosing; it was well tolerated and no maximum tolerated dose was found."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "1.75 mg injected under the skin per the FDA label, for premenopausal women. Online, men and women describe 0.5 to 2 mg, often starting lower to limit nausea; no dose is approved for men.",
+      "items": [
+        {
+          "text": "Vyleesi: labeled dose 1.75 mg injected subcutaneously into the abdomen or thigh at least 45 minutes before anticipated sexual activity; no more than one dose in 24 hours and no more than 8 doses per month.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "In men, intranasal PT-141 produced erections more often than placebo only at doses above 7 mg. This was a nasal form, not the approved injection.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "diamond-2004-ijir"
+        },
+        {
+          "text": "Peptide Protocol Wiki says community users have settled on 0.5 to 1 mg, below the approved dose, to reduce nausea.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/pt-141/community",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says there is no approved dose for men, who generally borrow the 1.75 mg reference and start lower, and that compounded nasal sprays are used at about 1 to 2 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/pt-141-dosage/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, says men commonly use 1.5 to 2 mg off-label.",
+          "label": "internet",
+          "validity": "very_low",
+          "conflicts_with_label": true,
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "At least 45 minutes before sexual activity. Nausea usually starts within an hour and lasts about 2 hours.",
+      "items": [
+        {
+          "text": "The label states the injection is given at least 45 minutes before anticipated sexual activity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "The label reports that nausea usually begins within an hour of the injection and lasts about two hours, and that nausea improves for most patients with the second dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "Intranasal PT-141 in men produced a first erection about 30 minutes after dosing.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "diamond-2004-ijir"
+        },
+        {
+          "text": "Peptide Dossier says nasal doses are taken 45 to 90 minutes before activity.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/pt-141-dosage/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label gives no food rules. It may slow stomach emptying and change how oral medicines taken at the same time are absorbed.",
+      "items": [
+        {
+          "text": "The label does not give food or meal timing instructions.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "The label states bremelanotide may slow gastric emptying and affect absorption of oral medications taken at the same time, and may significantly reduce exposure to oral naltrexone, so use with oral naltrexone products for alcohol or opioid addiction is to be avoided.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Used as needed: no more than one dose in 24 hours and no more than 8 doses a month.",
+      "items": [
+        {
+          "text": "The label limits use to no more than one dose in 24 hours and no more than 8 doses per month.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No cycling; used as needed. Trials ran 24 weeks with a 52-week extension, and the label says to stop after 8 weeks if there is no improvement.",
+      "items": [
+        {
+          "text": "The label says to stop treatment after 8 weeks if sexual desire and related distress have not improved.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "No new safety signals; improvements in desire and distress were sustained, with nausea (about 40%), flushing and headache the most common drug-related events.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "reconnect-extension-2019"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Stored at or below room temperature (77 F), not frozen, protected from light. Injected into the abdomen or thigh, away from the navel.",
+      "items": [
+        {
+          "text": "The label states storage at or below 25 C (77 F), without freezing, protected from light.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "The label states the autoinjector is injected under the skin of the abdomen or thigh, avoiding the area within about 2 inches of the navel.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "The label states autoinjectors with a purple view window, or a cloudy or discolored solution, are discarded.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Activates melanocortin receptors in the brain, mainly MC4R. How this improves sexual desire is not known.",
+      "items": [
+        {
+          "text": "The Vyleesi label describes bremelanotide as a melanocortin receptor agonist that activates several receptor subtypes, MC4R most relevant at the approved dose; how it improves desire in HSDD is unknown.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Improved sexual desire and less related distress versus placebo in premenopausal women with low desire (HSDD).",
+      "items": [
+        {
+          "text": "Bremelanotide produced statistically significant improvements in sexual desire and reductions in related distress versus placebo; nausea, flushing and headache were most common.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "reconnect-2019"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common",
+      "summary": "Nausea (40%), flushing, headache and injection site reactions.",
+      "items": [
+        {
+          "text": "Nausea was the most common reaction in the label's trials (40% with bremelanotide versus 1.3% with placebo), typically starting within an hour of injection and lasting about two hours; vomiting occurred in 4.8%.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "Flushing (20.3% versus 0.3% with placebo), headache (11.3% versus 1.9%) and injection site reactions (13.2% versus 8.4%) were also common.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Short-lived rise in blood pressure after each dose, and dark skin patches in about 1%.",
+      "items": [
+        {
+          "text": "The label warns of transient increases in blood pressure after a dose (a peak of about 6 mmHg systolic and 3 mmHg diastolic, resolving within about 12 hours).",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        },
+        {
+          "text": "The label reports focal hyperpigmentation in about 1% of patients in the trials.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-vyleesi-label"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

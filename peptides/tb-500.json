@@ -159,5 +159,198 @@
       "finding": "On the fetched page, thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of substances nominated but withdrawn (previously category 2). FDA noted immunogenicity and impurity risks and that it had found no human exposure data for products containing this fragment."
     }
   ],
-  "last_reviewed": "2026-09-30"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved and never tested in people. The only human trial used a different, full-length molecule. Online sources describe 2 to 2.5 mg once or twice a week, which has not been studied.",
+      "items": [
+        {
+          "text": "Different molecule (recombinant full-length thymosin beta-4, not TB-500): single intravenous doses from 0.05 to 25 micrograms per kg, and daily doses of 0.5, 2.0 and 5.0 micrograms per kg for 10 days, were studied for safety and pharmacokinetics.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tb4-phase1"
+        },
+        {
+          "text": "Animal study only, not human data: TB-500 at 60 micrograms per kg per day was given by intraperitoneal injection for four weeks after Achilles tendon repair.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2026"
+        },
+        {
+          "text": "An educational site that carries banner ads for peptide providers says typical dosing is 2.0 to 2.5 mg given subcutaneously or intramuscularly every other day at the start, with a total weekly range of 4 to 8 mg divided into 2 to 3 administrations.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A dosing-guide site with supplier links and discount codes says TB-500 schedules of approximately 2 to 2.5 mg subcutaneously twice weekly, then once weekly, are used, and states these are not validated by a human randomized trial.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing, and online sources say no particular time of day matters.",
+      "items": [
+        {
+          "text": "A peptide information site that links to suppliers says no particular time of day is specified.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No human data. Online sources describe twice weekly for a loading phase, then once weekly or less.",
+      "items": [
+        {
+          "text": "A protocol guide that links to a vendor directory says TB-500 is usually injected twice weekly at first, then weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Project Biohacking describes 2 to 3 mg twice weekly for loading, then 2 to 5 mg every 1 to 2 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://projectbiohacking.beehiiv.com/p/the-wolverine-protocol-why-most-people-are-getting-it-wrong",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human data. Online sources describe a 4 to 6 week loading phase, then maintenance, with 8 to 12 weeks total and a break; one says no human trial supports any cycle.",
+      "items": [
+        {
+          "text": "The rat tendon study gave TB-500 daily for 4 weeks.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2026"
+        },
+        {
+          "text": "Peptide Dosing Protocols describes 4 to 6 week loading, 8 to 12 week standard cycles and 4 to 8 week breaks, and says no human trial of TB-500 has established a cycle length.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/tb-500",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FormBlends, a compounded-peptide seller, describes 4 to 6 weeks of loading, 6 to 12 weeks of maintenance, then a 4 to 8 week break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No official guidance. Online sources say to add water slowly, swirl without shaking, refrigerate, use within about 30 days, and rotate sites.",
+      "items": [
+        {
+          "text": "A peptide information site that also sells or links to suppliers says TB-500 is injected subcutaneously with sites rotated between sessions to avoid lumps from repeated use of one spot, and that no particular time of day is specified. It says a mixed vial is kept refrigerated in the dark and used within about 2 to 4 weeks, with some references saying up to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A protocol guide whose site also links to a vendor directory says TB-500 acts body-wide so the injection site need not be near the injury (lower abdomen, outer thigh and upper arm are listed), that it is usually injected twice weekly at first and then weekly, that bacteriostatic water is added slowly down the glass wall with gentle swirling and no shaking, and that a mixed vial is refrigerated, not frozen, and used within about 30 days. It does not address missed doses or time of day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "A short fragment of thymosin beta-4, a protein involved in cell movement and repair. How the fragment acts in people is unknown.",
+      "items": [
+        {
+          "text": "Thymosin beta-4 promoted heart cell survival and migration and improved cardiac function in mice after heart attack. This does not show the same effect for TB-500 or in humans.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tb4-mouse-2004"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Better tendon healing in rats. No human results.",
+      "items": [
+        {
+          "text": "TB-500 alone improved tendon strength and histology scores versus controls; the combination improved some histology scores. Results are from rats only.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-2026"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "The related full-length protein was well tolerated by IV in healthy volunteers; TB-500 itself has no human safety data.",
+      "items": [
+        {
+          "text": "In a phase 1 trial of full-length recombinant thymosin beta-4 (not TB-500) given intravenously to healthy volunteers, adverse events were mild to moderate with no serious events or dose-limiting toxicities.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-tb4-phase1"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Fatigue, headache, injection-site reactions and appetite changes, mostly mild.",
+      "items": [
+        {
+          "text": "A telehealth clinic's educational article (Midi Health) says reported TB-500 side effects include fatigue, headaches, injection-site reactions and appetite changes, and notes that these come from limited anecdotal reports.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.joinmidi.com/post/tb-500",
+          "retrieved": "2026-09-30"
+        },
+        {
+          "text": "A peptide information site that also sells or links to suppliers says community reports of TB-500 describe mostly mild injection-site discomfort, redness and short-lived fatigue or a head-pressure feeling in the first few days, and that direct human safety data are essentially absent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "FDA notes immune and impurity risks and found no human exposure data.",
+      "items": [
+        {
+          "text": "On the fetched page, thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of substances nominated but withdrawn (previously category 2). FDA noted immunogenicity and impurity risks and that it had found no human exposure data for products containing this fragment.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-cat2"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
