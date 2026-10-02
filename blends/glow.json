@@ -47,5 +47,270 @@
     }
   ],
   "research": [],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Sellers describe a pre-mixed 70 mg vial with GHK-Cu, TB-500 and BPC-157 in roughly a 5 to 1 to 1 ratio, and a daily dose of about 2 to 2.8 mg of blend. No study has tested any dose of this combination, and formulations vary by seller.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes a 70 mg vial of 50 mg GHK-Cu, 10 mg TB-500 and 10 mg BPC-157 (a 5 to 1 to 1 ratio). It says 10 units (0.10 mL) after adding 3 mL of bacteriostatic water gives about 1.67 mg GHK-Cu, 0.33 mg TB-500 and 0.33 mg BPC-157.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer, an education site that says it does not sell peptides, describes a 5 to 1 to 1 ratio (GHK-Cu to BPC-157 to TB-500) and 2,000 to 2,500 mcg of total blend injected under the skin once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind, a site that links to a seller, describes 2.8 mg per injection (about 2 mg GHK-Cu, 400 mcg BPC-157 and 400 mcg TB-500) from 70 mg or 90 mg freeze-dried vials, and says formulations are sold in different sizes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The only timing advice found is that morning or evening both work. No study has tested timing for this combination.",
+      "items": [
+        {
+          "text": "PeptidesExplorer says to inject in the morning or evening and that consistency matters more than the hour.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Online sources describe one injection a day, either 5 to 7 days a week or Monday to Friday. One site describes the TB-500 part as twice weekly when the peptides are bought as separate vials. None of this has been studied.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols says the pre-blended vial is a once-daily injection under the skin. For separate vials it lists BPC-157 and GHK-Cu daily and TB-500 twice a week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer describes one injection a day, 5 to 7 days per week, during the active cycle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind describes 5 days per week, Monday through Friday, for 7 weeks focused on skin and hair.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Online sources describe 4 to 6 weeks on and 2 to 4 weeks off, with longer cycles of 8 to 12 weeks on and 4 to 8 weeks off. These come from sellers and guides, not from combination studies.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols describes 4 to 6 weeks on and 2 to 4 weeks off as standard and 8 to 12 weeks on with 4 to 8 weeks off as extended. It says GHK-Cu typically sets the cycle length because of copper-handling considerations.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer describes 4 weeks on and 2 to 4 weeks off as the standard cycle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind describes about 4 to 6 weeks on and 2 to 4 weeks off, with some extended protocols of 8 to 12 weeks on and 4 to 8 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Sources disagree on mixing: one says never to combine separate vials in one syringe, another allows drawing each into one syringe just before injecting but not storing a DIY mix. Reconstituted vials are kept refrigerated at 2 to 8 degrees C for about 28 to 30 days, with TB-500 the shortest. No stability study of the blend was found.",
+      "items": [
+        {
+          "text": "The Peptide Dosing Protocols site (which carries supplier affiliate links) warns against combining separate-vial peptides in one syringe because of differing stability and pH needs.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Peptide Dosing Protocols site (which carries supplier affiliate links) says reconstituted solutions are refrigerated at 2 to 8 degrees C, with TB-500 having the shortest stability window of 1 to 2 weeks and BPC-157 and GHK-Cu up to 30 days. These windows describe the separate components.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the dry powder is kept at -20 degrees C long term and that the 70 mg pre-blend vial is reconstituted with 3.0 mL of bacteriostatic water, giving about 23.3 mg/mL.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says each peptide can be drawn into the same syringe and injected once, but not pre-mixed into a storage vial because long-term stability of the DIY mix has not been tested. It says to store at 2 to 8 degrees C, protected from light, and use within 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind says the powder is frozen for long-term storage, or refrigerated for up to four weeks. After mixing it says to refrigerate, protect from light and use within about a month. For separate vials it says each is injected with its own syringe rather than mixed together. It names the abdomen or thigh as injection sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Sellers and guides describe the blend as three peptides with complementary roles: blood vessel growth, cell movement and collagen remodeling. This is the sources' description, not a tested mechanism of the combination.",
+      "items": [
+        {
+          "text": "The Peptide Dosing Protocols site says the name GLOW comes from the GHK-Cu component and associates the blend with soft-tissue repair, skin and collagen remodeling, anti-inflammatory effects and hair density.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols describes three roles: BPC-157 for blood vessel growth and tissue protection, TB-500 for actin (a protein that helps cells move), and GHK-Cu for collagen, elastin and skin remodeling.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says BPC-157 builds new blood vessels, TB-500 mobilizes repair cells and GHK-Cu provides copper to cross-link collagen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No human trial or registered study of GLOW or of these three peptides together was found. Sources state this themselves, so there is no documented effect of the combination.",
+      "items": [
+        {
+          "text": "A Florida wellness clinic's guide describes GLOW as a peptide blend rather than a standardized product and notes that human research on BPC-157 remains extremely limited. The BPC-157 point describes that one component.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says no published human trial has tested BPC-157, TB-500 and GHK-Cu together and that the combination is built from research on the individual compounds.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptidesExplorer says no human clinical trials exist for this specific three-peptide blend.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind says no published human trial has evaluated the three compounds together as a fixed combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "Sellers and guides list injection-site irritation, short-term fatigue and occasional headache. These are not from combination studies.",
+      "items": [
+        {
+          "text": "The Peptide Dosing Protocols site (which carries supplier affiliate links) lists injection-site irritation, short-term fatigue and occasional headache, and states the blend is not FDA-approved.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer lists mild injection-site redness and transient fatigue as common, and nausea, dizziness and a temporary flare of old injuries as uncommon.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/ghk-cu-bpc-157-tb-500-blend-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Mind lists mild injection-site irritation (redness, itching or soreness), short-term fatigue and occasional headache.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "One site says the main concern with the stack is overlapping blood-vessel-growth signaling, so people with active cancer or retinal vascular disease are told to avoid it. This is a seller-side warning, not a study result.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols names overlap of blood-vessel-growth signaling from BPC-157 and TB-500 as the main stack concern. It lists active cancer or a strong cancer history and active retinal vascular disease as contraindications.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

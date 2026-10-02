@@ -49,5 +49,196 @@
       "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. The page also names CJC-1295, BPC-157 and TB-500 (thymosin beta-4 fragment) in its withdrawn section, citing immunogenicity risk, and for CJC-1295 serious adverse events including increased heart rate and systemic vasodilatory reaction."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No dose for the full four-peptide stack has been studied. Online sources give doses only for the pairs inside it, such as CJC-1295 with ipamorelin at 100 to 200 mcg of each per injection.",
+      "items": [
+        {
+          "text": "Telehealth Ally, a site that earns compensation when a reader requests a telehealth consultation, gives a standard CJC-1295 plus ipamorelin protocol of 100 to 200 mcg of each, once daily before sleep. This covers that pair only, not the full stack.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "KingKillers, an apparel brand that links to a peptide seller, gives 100 to 200 mcg per injection for the CJC-1295 plus ipamorelin pair. It gives no dose for all four together.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No timing for the four-peptide stack has been studied. Perfect B says both pairs are injected before bed, in the same session but not in the same syringe.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells peptides, says the CJC-1295/ipamorelin pair and the BPC-157/TB-500 pair are both injected before bed, in the same session.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Telehealth Ally, a site that earns compensation when a reader requests a telehealth consultation, says the CJC-1295 plus ipamorelin pair is given once daily before sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No food rule for the combined stack has been studied. Perfect B gives a meal gap for its pair of pairs.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells peptides, says the injection before bed should be at least 2 hours after the last meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No schedule for the full stack has been studied. Perfect B describes 5 days on and 2 days off for both pairs, while KingKillers describes up to three daily injections for one pair.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells peptides, says the CJC-1295/ipamorelin pair and the BPC-157/TB-500 pair both follow a 5 days on, 2 days off schedule, so they can be given together without dose changes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "KingKillers, an apparel brand that links to a peptide seller, describes the CJC-1295 plus ipamorelin pair 1 to 3 times daily (morning fasted, after a workout, before sleep).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No combined cycle length has been studied. Online sources give separate cycles for each pair, from 4 weeks to 3 months.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells peptides, says the BPC-157 plus TB-500 blend (which it calls the Wolverine blend) runs as a 3-month progressive dose cycle, and the CJC-1295/ipamorelin pair as a 1 to 3 month cycle.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "KingKillers, an apparel brand that links to a peptide seller, describes 12 to 16 weeks with 4-week breaks for the CJC-1295 plus ipamorelin pair, and 4 to 6 weeks for the BPC-157 plus TB-500 pair.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Telehealth Ally, a site that earns compensation when a reader requests a telehealth consultation, describes 4 to 8 week cycles of the BPC-157 plus TB-500 pair for acute injuries, with growth hormone peptide users rechecking IGF-1 (insulin-like growth factor 1) at baseline and 8 to 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No stability data for a mixed product was found. Sellers say the peptides should not be mixed in one syringe or vial, and that reconstituted peptides are kept in the fridge.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells peptides, says no two peptides are ever mixed in the same syringe or vial. Each is drawn and injected separately, even in the same session.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "KingKillers, an apparel brand that links to a peptide seller, says never to mix compounds in the same vial, and to keep BPC-157 and TB-500 especially separate. It says each needs a separate injection site, and that powdered peptides are stable at room temperature while reconstituted peptides must be refrigerated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "",
+      "items": []
+    },
+    "best_documented_effect": {
+      "summary": "No study of this combination was found, and the contents vary by seller. Meto says most stacks have far more marketing momentum than clinical evidence, especially for combinations.",
+      "items": [
+        {
+          "text": "Meto, a telehealth company that offers consultations and compounded medications, says most peptide stacks have far more marketing momentum than clinical evidence, especially for combinations. It lists the kitchen sink stack as CJC-1295, ipamorelin, BPC-157 and TB-500, with more added.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "FDA's compounding safety-risk page names ipamorelin, CJC-1295, BPC-157 and TB-500, each for immunogenicity concerns. It describes no combined-stack data.",
+      "items": [
+        {
+          "text": "FDA's compounding safety-risk page lists ipamorelin acetate among substances that may present significant safety risks, citing immunogenicity concerns; it also names CJC-1295, BPC-157 and TB-500 in its withdrawn section with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
+          "label": "research",
+          "citation_id": "r-fda-cat2",
+          "validity": "strong"
+        }
+      ]
+    },
+    {
+      "title": "Online cautions",
+      "summary": "Meto warns that mixing many peptides makes it impossible to tell which one caused a change. No study of side effects of the full stack was found.",
+      "items": [
+        {
+          "text": "A telehealth company's blog (Meto, which offers compounded medications) describes a 'kitchen sink' stack of many peptides combined, and warns that the more experimental the stack, the more conservative the risk posture should be.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Meto asks, of a stack of many peptides, what did it if you improve, what caused it if you worsen, and which compound drove it if labs change.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Telehealth Ally, a site that earns compensation when a reader requests a telehealth consultation, says protocols with 5 or more compounds at a single clinic visit are usually a sign of aggressive upselling, and that 2 to 3 compounds with clear mechanistic rationale is the clinical norm. It also says each compound's contraindications apply to the whole stack.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

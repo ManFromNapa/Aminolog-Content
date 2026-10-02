@@ -49,7 +49,319 @@
       "year": 2025,
       "summary": "REDEFINE 2: 68-week phase 3 trial of CagriSema versus placebo in 1,206 adults with obesity and type 2 diabetes (N Engl J Med; NCT05394519).",
       "finding": "Weight change was -13.7% with CagriSema versus -3.4% with placebo; gastrointestinal events were 72.5% versus 34.4%."
+    },
+    {
+      "id": "pmid-42251860",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42251860",
+      "year": 2026,
+      "summary": "REIMAGINE 1: 40-week randomised, double-blind, placebo-controlled phase 3a trial in 189 adults with type 2 diabetes inadequately controlled on diet and exercise, comparing once-weekly cagrilintide-semaglutide 2.4 mg each, 1.0 mg each, or placebo (Lancet Diabetes Endocrinol 2026; NCT06323174; funded by Novo Nordisk).",
+      "finding": "HbA1c fell 1.8 percentage points at 2.4 mg each and 1.5 at 1.0 mg each versus 0.1 with placebo. Body weight fell 13.8% (2.4 mg each) and 11.8% (1.0 mg each) versus 1.4% with placebo. Adverse events were reported by 79%, 75% and 66% of participants, mostly mild or moderate and gastrointestinal."
+    },
+    {
+      "id": "pmid-42251859",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42251859",
+      "year": 2026,
+      "summary": "REIMAGINE 2: 68-week randomised, double-blind phase 3 trial in 2,713 adults with type 2 diabetes on metformin, comparing once-weekly cagrilintide-semaglutide (2.4 mg each or 1.0 mg each) with semaglutide, cagrilintide or placebo (Lancet Diabetes Endocrinol 2026; NCT06065540; funded by Novo Nordisk).",
+      "finding": "HbA1c fell 1.91 percentage points with cagrilintide-semaglutide 2.4 mg each versus 1.75 with semaglutide 2.4 mg (difference -0.16, p=0.0035). 95.7% completed the study and 87.6% were still on treatment at week 68. Adverse events were reported by 86.9% with the combination, 81.2% with semaglutide 2.4 mg and 70.5% with placebo, most often gastrointestinal."
+    },
+    {
+      "id": "nct04940078",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT04940078",
+      "year": 2021,
+      "summary": "Phase 1 trial (Novo Nordisk, 40 participants with overweight or obesity) comparing pharmacokinetics (blood levels) of cagrilintide and semaglutide given as a combined injection with a device (DV3384) versus separate injections, with escalation over 14 weeks to 1.7 mg then 2.4 mg for 2 weeks of each drug. Completed; no results posted on ClinicalTrials.gov.",
+      "finding": "No results were available, so it is not known how blood levels differed between combined and separate injections."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "In the phase 3 trials, CagriSema was cagrilintide 2.4 mg plus semaglutide 2.4 mg once a week under the skin, reached by stepping up over 16 weeks. REIMAGINE trials also tested 1.0 mg of each. Online sellers describe a 1:1 mix, which no study tested as a vial.",
+      "items": [
+        {
+          "text": "REDEFINE 1 and REDEFINE 2 (68-week phase 3 trials) gave cagrilintide 2.4 mg plus semaglutide 2.4 mg once weekly by subcutaneous injection as the maintenance dose.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "In REDEFINE 2, adults with obesity and type 2 diabetes received cagrilintide-semaglutide at 2.4 mg each, or placebo, for 68 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544432"
+        },
+        {
+          "text": "The REDEFINE 1 registry record describes a dose escalation period of 16 weeks followed by 52 weeks of maintenance at 2.4 mg of each drug. The step sizes are not given in the record.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "nct05567796"
+        },
+        {
+          "text": "REIMAGINE 1 also tested a lower fixed dose of 1.0 mg of each drug once weekly for 40 weeks, which lowered HbA1c by 1.5 percentage points versus 0.1 with placebo.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251860"
+        },
+        {
+          "text": "A phase 1 trial gave the two drugs as a combined injection with a device (DV3384) or as separate injections, escalating over 14 weeks to 1.7 mg and then 2.4 mg for 2 weeks. No results are posted.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct04940078"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to a supplier, says the 16-week step-up starts at 0.25 mg of each, then 0.5 mg (weeks 5 to 8), 1.0 mg (weeks 9 to 12) and 1.7 mg (weeks 13 to 16), then 2.4 mg of each. It describes this as a research target dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Second Nature, a company selling weight-loss programs, says the trials used a 16-week build-up from 0.25 mg to 2.4 mg, increasing every 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide dosage site that links to a supplier (Prime Lab Peptides) describes a combo vial with 5 mg of each peptide, a fixed 1:1 ratio. It says adding 1 mL of bacteriostatic water gives about 5 mg per mL of each, and that one component cannot be raised without the other. No study tested this vial.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, an educational site that says it sells no products, says escalation takes about 16 to 20 weeks to reach 2.4 mg of each drug.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/cagrisema/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No trial or regulator guidance on time of day was found. Online sites say to inject on the same day each week, and one says the two drugs are often injected the same day when kept in separate vials.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki, an educational site that says it sells no products, says to inject once weekly on the same day each week, at any time of day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/cagrisema/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to a supplier, says that with separate vials people often inject both drugs on the same day with site rotation, and that staggering them by a few hours is also common to see which drug causes a side effect. No study tested this.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No trial or regulator guidance on food was found for the combination. One educational site says it can be taken without regard to meals.",
+      "items": [
+        {
+          "text": "Peptide Protocol Wiki, an educational site that says it sells no products, says the weekly dose can be taken without regard to meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/cagrisema/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Every phase 3 trial gave both drugs once a week. No missed-dose or schedule-change rules for the combination were found.",
+      "items": [
+        {
+          "text": "REDEFINE 1, REDEFINE 2 and the REIMAGINE trials gave cagrilintide and semaglutide once weekly by subcutaneous injection in all arms.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "In REIMAGINE 2, 87.6% of participants were still on once-weekly treatment at week 68 and 95.7% completed the study.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251859"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to a supplier, says once-weekly subcutaneous injection is the standard across all protocols it describes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The combination was given for 40 to 68 weeks in phase 3 trials, with long-term use intended. An off-treatment extension of REDEFINE 1 is registered, but no results on weight after stopping were found. Online sellers describe shorter cycles that no trial tested.",
+      "items": [
+        {
+          "text": "REDEFINE 1 and REDEFINE 2 treated people for 68 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "REIMAGINE 1 treated for 40 weeks and REIMAGINE 2 for 68 weeks.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251860"
+        },
+        {
+          "text": "The REDEFINE 1 registry record describes a 97-week extension in which participants take no study drug, to see what happens to weight after stopping. No results from this extension were found.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nct05567796"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to a supplier, says trial-mirroring cycles run 68 weeks, while research cycles of 12 to 24 weeks with 4 to 8 week off-periods and short cycles of 8 to 12 weeks are also described. No trial tested these shorter cycles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, an educational site that says it sells no products, says the combination is intended for long-term use, with 68 weeks in the phase 3 trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/cagrisema/dosing",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists because CagriSema is not approved. Online sites describe refrigerating the mixed product at 2 to 8 degrees C for about 28 days, which no study tested.",
+      "items": [
+        {
+          "text": "A peptide dosage site that links to a supplier (Prime Lab Peptides) says a reconstituted combo vial should be refrigerated at 2 to 8 degrees C, protected from light, and used within the bacteriostatic-water window, commonly cited as up to about 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to a supplier, says freeze-dried powder is stored at minus 20 degrees C and reconstituted solution at 2 to 8 degrees C for up to about 28 days for individual compounds. It says pre-blended vials defer to the supplier's certificate of analysis.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Protocol Wiki, an educational site that says it sells no products, says to store the product refrigerated at 2 to 8 degrees C and not to freeze it, and describes it as a prefilled pen with both drugs in one formulation. No approved product with a label was found.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptideprotocolwiki.com/peptides/cagrisema/dosing",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Second Nature, a company selling weight-loss programs, says CagriSema is injected into the skin of the abdomen, thigh or upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "",
+      "items": []
+    },
+    "best_documented_effect": {
+      "summary": "In 68-week phase 3 trials, people on CagriSema lost about 20% of body weight without diabetes and about 14% with type 2 diabetes, versus 3% on placebo. In people with diabetes it also lowered blood sugar more than semaglutide alone.",
+      "items": [
+        {
+          "text": "REDEFINE 1 (3,417 adults with overweight or obesity, no diabetes): weight change was -20.4% with cagrilintide-semaglutide versus -3.0% with placebo at week 68.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "REDEFINE 2 (1,206 adults with obesity and type 2 diabetes): weight change was -13.7% versus -3.4% with placebo, and 73.5% versus 15.9% reached HbA1c of 6.5% or less.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544432"
+        },
+        {
+          "text": "REIMAGINE 2 (2,713 adults with type 2 diabetes): HbA1c fell 1.91 points with the combination versus 1.75 with semaglutide 2.4 mg alone at week 68.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251859"
+        },
+        {
+          "text": "REIMAGINE 1 (189 adults with early type 2 diabetes): weight fell 13.8% versus 1.4% with placebo at week 40.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251860"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Stomach and gut side effects were the most common, in about 70 to 80% of people on the combination versus 34 to 40% on placebo in the REDEFINE trials. Most were mild to moderate.",
+      "items": [
+        {
+          "text": "In REDEFINE 1, gastrointestinal adverse events were more frequent with CagriSema than placebo (79.6% versus 39.9%) and were mostly mild to moderate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544433"
+        },
+        {
+          "text": "In REDEFINE 2, gastrointestinal events were 72.5% with CagriSema versus 34.4% with placebo, mostly transient and mild or moderate.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-40544432"
+        },
+        {
+          "text": "In REIMAGINE 1, adverse events were reported by 79% (2.4 mg each), 75% (1.0 mg each) and 66% (placebo), mostly mild or moderate and gastrointestinal.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251860"
+        },
+        {
+          "text": "In REIMAGINE 2, adverse events were reported by 86.9% with the combination, 81.2% with semaglutide 2.4 mg alone and 70.5% with placebo, most often gastrointestinal.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "pmid-42251859"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "One supplier-linked site repeats trial figures for specific symptoms. They could not be traced to the trial report.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with affiliate links to a supplier, says that in REDEFINE 1 gastrointestinal events occurred in 79.6% of CagriSema participants versus 39.9% on placebo, including nausea (55%), constipation (30.7%) and vomiting (26.1%). The symptom figures were not checked against the trial report.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

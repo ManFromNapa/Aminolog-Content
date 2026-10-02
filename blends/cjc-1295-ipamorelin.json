@@ -52,7 +52,472 @@
       "year": 2026,
       "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
       "finding": "FDA lists ipamorelin acetate in category 2 for 503B outsourcing facilities and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. It also lists CJC-1295 among withdrawn substances, stating that compounded drugs containing it may pose risk for immunogenicity for certain routes and may have complexities with peptide-related impurities and API characterization."
+    },
+    {
+      "id": "van-cauter-1992-jcem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1592892",
+      "year": 1992,
+      "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
+      "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
+    },
+    {
+      "id": "ghigo-1992-metabolism",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "1355580",
+      "year": 1992,
+      "summary": "Study in 7 healthy young adults of how an oral glucose load and arginine change the growth hormone response to injected GHRH (Ghigo et al., Metabolism).",
+      "finding": "Oral glucose beforehand lowered the GH peak after GHRH from 11.6 to 7.4 micrograms per liter; the authors suggest, from indirect evidence, that glucose acts by raising hypothalamic somatostatin."
+    },
+    {
+      "id": "bowers-1996-jpem",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "8887169",
+      "year": 1996,
+      "summary": "Controlled clinical studies in normal younger and older men and women given growth hormone releasing peptide-2 (GHRP-2, a different peptide from ipamorelin), growth hormone releasing hormone (GHRH), or both for 7 to 30 days (Bowers and Granda-Ayala, J Pediatr Endocrinol Metab).",
+      "finding": "GHRP-2 plus GHRH gave an additive or synergistic growth hormone response, and chronic dosing of either could turn an additive response into a synergistic one. Whether the response became desensitized depended partly on dose and frequency. No CJC-1295 or ipamorelin was used."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No label or combination trial sets a dose. Online sellers and guides describe about 100 to 300 micrograms (mcg) per injection, with sources differing on the ratio of the two peptides.",
+      "items": [
+        {
+          "text": "Peptides Explorer says a standard protocol is 100 mcg CJC-1295 plus 200 mcg ipamorelin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says a vial labeled 5 mg/5 mg holds 5 mg of each peptide, not 5 mg combined, and that dose schedules for the blend are proposals the cited study did not validate.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks, a clinic that prescribes the blend, says 100 to 300 mcg per injection, with 200 mcg most common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alpha Rejuvenation, a clinic that advertises peptide therapy, says 100 to 300 mcg of each peptide daily, with 200 mcg of each before bed as its recommended level.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, a clinic that prescribes the blend, describes a single blend vial dosed from 6 units (0.3 mg) daily in week 1 to 20 units (1.0 mg) by month 2.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested when to take the combination. Online sources favor bedtime to match the natural overnight growth hormone (GH) pulse, and one guide says bedtime is not validated.",
+      "items": [
+        {
+          "text": "The body's own largest GH pulse comes shortly after falling asleep, during deep sleep. This is natural GH, not the blend; no trial has compared bedtime with daytime dosing of the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "van-cauter-1992-jcem"
+        },
+        {
+          "text": "Peptides Explorer says the highest-priority window is 30 minutes before bed.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says bedtime, morning-plus-bedtime and multiple-daily schedules are protocol proposals, not schedules validated by the cited CJC-1295 study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B says to inject before bedtime, to align with natural GH release during sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks says to inject just before bed, because evening matches the body's natural GH pulse.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study has tested the combination with or without meals. Online sources say to wait 2 to 3 hours after eating, based on the idea that insulin blunts the GH response.",
+      "items": [
+        {
+          "text": "In healthy adults, a glucose drink before an injection of natural GH releasing hormone lowered the GH response by about a third. CJC-1295 acts like that hormone, but no study has tested meals with the blend.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "ghigo-1992-metabolism"
+        },
+        {
+          "text": "Peptides Explorer says to inject on an empty stomach, fasted at least 2 hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B says to inject at least 2 hours after the last meal, because food raises insulin and blunts the GH response.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks says at least 2 to 3 hours after eating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alpha Rejuvenation says to inject 30 to 60 minutes before eating to avoid insulin interference.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No study has tested how often to give the combination. Online sources describe once daily, often 5 days on and 2 days off, and up to three injections a day in one guide.",
+      "items": [
+        {
+          "text": "Peptides Explorer says the minimum is once daily before bed and the maximum is three times daily (morning, after a workout, before bed), with morning plus bedtime as the standard two-a-day plan.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says cycling schedules for the blend are not validated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B says once daily, 5 days on and 2 days off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks says once daily is most common and 5 days on, 2 days off is widely used.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alpha Rejuvenation says 5 days on, 2 days off, weekdays only.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No trial has tested the combination over a course. One study of a related pair (GHRP-2 plus GHRH) found desensitization depends on dose and frequency. Online sources describe 8 to 16 weeks on, then a break.",
+      "items": [
+        {
+          "text": "In controlled studies of a related pair (GHRP-2 plus GHRH) given for 7 to 30 days, whether the GH response became desensitized depended partly on dose and frequency. Neither CJC-1295 nor ipamorelin was used.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "bowers-1996-jpem"
+        },
+        {
+          "text": "Peptides Explorer says 8 to 16 weeks on, then 4 to 8 weeks off, and that the off period prevents receptor desensitization.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says the 12 to 16 week courses and 4 to 8 week breaks sometimes described are not validated as a standard blend protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B describes monthly cycles of 20 injections, up to 3 back to back, then a 2-month break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks says most protocols run 8 to 16 weeks followed by 4 to 8 weeks off, and that long-term data beyond about six months of continuous use are limited.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alpha Rejuvenation says 12 to 16 weeks, then 4 to 6 weeks off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists for the blend. Sources disagree on whether the two peptides may be mixed in one syringe, and say to refrigerate a mixed vial for about 4 to 6 weeks.",
+      "items": [
+        {
+          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. It also lists CJC-1295 among withdrawn substances with a similar warning. This concerns the components, not the combination.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-cat2"
+        },
+        {
+          "text": "Peptides Explorer says both peptides can be drawn into the same syringe and do not degrade each other in solution, and that a reconstituted vial is kept at 2 to 8 degrees Celsius.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says storage needs product-specific instructions and that refrigeration alone does not establish 8 to 10 weeks of stability or sterility.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B says not to mix different peptides in the same syringe or vial, and that a reconstituted vial stays stable 4 to 6 weeks refrigerated and is not frozen.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks says a blend comes as one pre-blended vial, not to combine separate vials yourself, and that a mixed vial is refrigerated and typically lasts 28 to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alpha Rejuvenation says both peptides can go in the same syringe, and that a reconstituted vial is refrigerated and used within 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Sources describe the pair as acting on two different receptors, one for GH releasing hormone and one for ghrelin, to raise GH. A related-pair study found additive or synergistic effects, but no study tested this blend.",
+      "items": [
+        {
+          "text": "In controlled studies in men and women, a related pair (GHRP-2 plus GHRH) gave an additive or synergistic GH response. This was not CJC-1295 plus ipamorelin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "bowers-1996-jpem"
+        },
+        {
+          "text": "Peptide Dossier says CJC-1295 acts as a GH releasing hormone analog and ipamorelin works through a different receptor, and that this reasoning does not establish the size of a combination benefit in people.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer cites a study of combined GH releasing hormone and GH releasing peptide dosing as producing 2 to 3 times more GH release than either alone in healthy subjects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A Miami anti-aging clinic's blog says the two stimulate growth hormone through complementary pathways and calls the pairing the single most prescribed peptide stack in anti-aging medicine.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Perfect B says CJC-1295 extends each GH pulse and ipamorelin selectively activates ghrelin receptors without raising cortisol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No study of the CJC-1295 and ipamorelin combination was found. Sources that discuss it say outcomes are not proven.",
+      "items": [
+        {
+          "text": "Peptide Dossier says the foundational CJC-1295 study examined only long-acting CJC-1295 alone, not the daily blend, and did not establish an athletic benefit.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B says no head-to-head trial has compared the combination and no randomized controlled trial has shown clinically significant or sustained fat loss in humans with it.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A telemedicine company's article calls CJC-1295 plus ipamorelin the classic growth hormone stack, marketed for fat loss, lean mass, sleep and recovery, while stating that the growth hormone biology is real but the stack outcomes are not well proven.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "The Miami anti-aging clinic's blog cites one study as suggesting effects beyond either agent alone.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A Florida wellness clinic's guide says CJC-1295 and ipamorelin are commonly discussed for growth hormone signaling and recovery.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Regulator warning",
+      "summary": "FDA warns about compounded ipamorelin and lists CJC-1295 as withdrawn; neither statement covers the combination.",
+      "items": [
+        {
+          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "r-fda-cat2"
+        },
+        {
+          "text": "A Florida wellness clinic's guide states that CJC-1295 is not FDA-approved for anti-aging, fat loss or muscle building and that FDA has identified safety concerns. This describes the CJC-1295 component.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "No study reports side effects of the combination. Sellers and guides list mild local reactions and water retention, and one lists blood sugar and heart effects.",
+      "items": [
+        {
+          "text": "Perfect B lists mild redness, itching, headache, water retention, tingling and drowsiness, and also insulin resistance, high blood sugar, widened blood vessels, low blood pressure and fast heartbeat as documented risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "ThinWorks says reports are mostly minor and show up in the first weeks, mainly local injection reactions, with dizziness, flushing and water retention less often.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alpha Rejuvenation says standard doses cause minimal effects such as water retention and vivid dreams, and higher doses may cause hunger, mild headaches or joint discomfort.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer says common effects are water retention, numbness or tingling, and facial flushing, related to GH elevation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/cjc-1295-dosage-guide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dossier says reliable side-effect rates for the exact daily blend are not established by the studies it cites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/guides/cjc-1295-ipamorelin-dosage-guide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

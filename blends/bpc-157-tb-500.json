@@ -47,6 +47,305 @@
       "retrieved": "2026-10-01"
     }
   ],
-  "research": [],
-  "last_reviewed": "2026-10-01"
+  "research": [
+    {
+      "id": "r-knee-2021-combo",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "34324435",
+      "year": 2021,
+      "summary": "Retrospective chart review with telephone follow-up (Lee and Padgett, Altern Ther Health Med) of 16 contacted patients given intra-articular injections for knee pain at one clinic in Orlando, Florida. 12 received BPC-157 alone and 4 received BPC-157 plus thymosin beta-4 (TB4).",
+      "finding": "In the 4 patients who received both peptides, 75% (3 of 4) reported significant improvement and 1 had no relief. Doses were not given in the abstract. The design was retrospective, uncontrolled and relied on recall, and the combination group is too small to compare with BPC-157 alone."
+    },
+    {
+      "id": "r-rat-achilles-combo-2026",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "42542926",
+      "year": 2026,
+      "summary": "Rat study (Biçer et al., Jt Dis Relat Surg) of Achilles tendon repair in 32 rats in four groups of 8: control, BPC-157 (10 micrograms per kg per day), TB-500 (60 micrograms per kg per day) and the two combined, all given into the abdominal cavity for four weeks.",
+      "finding": "The combined group had significantly lower Movin tendon scores than controls, but the authors state that the combination did not confer additional benefits compared to either agent alone. They suggest the peptides may act on shared downstream pathways, which still needs confirmation."
+    }
+  ],
+  "how_to_take": {
+    "dose": {
+      "summary": "No human study has tested a fixed combined dose of BPC-157 and TB-500. Online sources describe about 0.5 to 2 mg of total blend per day from a 1:1 vial, or separate injections at different doses.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols says a common pre-blended vial holds 10 mg BPC-157 plus 10 mg TB-500, and that typical doses are 0.5 to 2 mg of total blend per day. It says no published clinical trial has tested the two together.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/stacks/wolverine-stack",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideMind, a site that links to blend sellers, says a 500 microgram dose of the Wolverine blend means 500 micrograms of each peptide, or 1 mg total, taken daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer, an education site that says it does not sell peptides, describes a combined protocol of 250 to 500 micrograms of BPC-157 plus 2 to 2.5 mg of TB-500 once daily, which is about 1 to 5 by weight rather than 1 to 1. It says this is extrapolated from the single-peptide research and no study tested the specific combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/bpc-157-tb-500-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "In the only controlled combination data found, rats received BPC-157 at 10 micrograms per kg per day, TB-500 at 60 micrograms per kg per day, or both into the abdominal cavity for four weeks. Animal doses do not translate to people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-combo-2026"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study has tested when to take the combination. One seller says to inject before bedtime.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells the Wolverine blend, says to inject before bedtime.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study has tested food or fasting with the combination. One seller says to wait at least 2 hours after the last meal.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells the Wolverine blend, says to inject at least 2 hours after your last meal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No study has tested how often to give the combination. Online sources describe daily injections, some with 2 days off each week, and some with TB-500 given less often than BPC-157.",
+      "items": [
+        {
+          "text": "Perfect B, a clinic that sells the Wolverine blend, says to inject once a day for 5 days followed by 2 days off.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says a pre-blended vial is drawn daily, while separate vials are described as daily BPC-157 with twice-weekly TB-500. It says the pre-blended schedule gives steadier daily TB-500 exposure than the twice-weekly one.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/stacks/wolverine-stack",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer says both peptides are given daily in weeks 1 and 2, then TB-500 drops to 2 to 3 times weekly while BPC-157 continues, as a community protocol.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/bpc-157-tb-500-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A Rite Aid peptide education page says commercial blends place both in one vial while other reported protocols use separate injections, with one clinic giving BPC-157 daily and TB-500 twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://riteaid.com/peptides/stacks/bpc-157-and-tb-500",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No human study has tested how long to use the combination. Online sources describe cycles of 4 to 12 weeks, some followed by a break.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols says most community protocols run 6 to 12 weeks in total, often a loading period then maintenance, and describes these as research-planning structures rather than clinically proven timelines.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/stacks/wolverine-stack",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer describes a 4 to 8 week protocol with a 2 to 4 week break before repeating.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/bpc-157-tb-500-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, a clinic that sells the Wolverine blend, describes a month-long cycle of 20 injections, repeated up to 3 times in a row, then a 2 month break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The only controlled combination data found is a four-week rat study. It does not show how long people should use the combination.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-combo-2026"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No stability study of a mixed BPC-157 and TB-500 product was found. Sellers and education sites describe refrigerating the mixed vial and using it within about 30 days. Sources disagree on whether the two can share a syringe.",
+      "items": [
+        {
+          "text": "The Peptide Breakdown blog (which carries supplier affiliate links) says the blend is sold as a freeze-dried powder to be mixed with bacteriostatic water, that the mixed vial is kept refrigerated for a typical window of about 30 days and should not be frozen, and that unmixed powder is refrigerated for 12 to 24 months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says a pre-blended vial reconstituted with 2.0 mL of bacteriostatic water gives 10 mg per mL total (5 mg per mL of each), is kept at 2 to 8 degrees C after mixing and used within about 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/stacks/wolverine-stack",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptides Explorer says never to mix the two reconstituted peptides in the same syringe and that no stability data exists for the liquid combination. It says pre-blended freeze-dried vials are acceptable if stored per their instructions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/bpc-157-tb-500-dosage",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, a clinic that sells the Wolverine blend, says the blend arrives as a single vial with both peptides but the two are injected separately, not mixed in one syringe.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "How the pair works together is not established in people. The online rationale is that the two act on different parts of repair, but a rat study found no added benefit from combining them.",
+      "items": [
+        {
+          "text": "A Miami anti-aging clinic's blog says BPC-157 acts more locally at an injury while TB-500 gives broader systemic support. This describes the two components separately, as a reason for pairing them.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the rationale for combining is mechanistic, not empirical, and that no controlled study has tested whether the combination beats either peptide alone.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/stacks/wolverine-stack",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A rat tendon repair study found no additional benefit from the combination over either peptide alone. The authors suggest the two may converge on shared downstream pathways, a hypothesis that needs further confirmation.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-combo-2026"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No controlled human study of the combination exists. The only data are a rat study showing no added benefit over single peptides and a four-patient clinic series.",
+      "items": [
+        {
+          "text": "In rats after Achilles tendon repair, the combined group had significantly lower Movin tendon scores than controls, but the combination gave no additional benefit over either peptide alone.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-achilles-combo-2026"
+        },
+        {
+          "text": "In a retrospective knee pain review, 3 of the 4 patients who received BPC-157 plus thymosin beta-4 reported significant improvement. There was no control group.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-knee-2021-combo"
+        },
+        {
+          "text": "A telemedicine company's article calls the pair the injury recovery stack for tendon, ligament and muscle recovery, and says it is one of the most hyped stacks relative to its human outcomes evidence.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A Rite Aid peptide education page says no controlled human trial has established whether the stack improves healing or whether one component adds value to the other.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://riteaid.com/peptides/stacks/bpc-157-and-tb-500",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "Online sources list injection-site reactions and mild symptoms. They state that human safety data for the combination are lacking.",
+      "items": [
+        {
+          "text": "The Peptide Breakdown blog (which carries supplier affiliate links) lists injection-site irritation, redness or swelling and possible sensitivity reactions, and states that human safety data for the combined protocol are lacking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says reported injection-site issues include redness, mild swelling and transient bruising. It notes both peptides are described as promoting new blood vessel growth, a theoretical tumor concern whose meaning for TB-500 in humans it says is unknown.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/stacks/wolverine-stack",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Perfect B, a clinic that sells the Wolverine blend, says reported side effects are typically mild and transient, including nausea, fatigue, lethargy and injection site discomfort, and that no synergistic toxicity is documented.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Evidence gap",
+      "summary": "No controlled human trial has tested the combination's safety.",
+      "items": [
+        {
+          "text": "A Rite Aid peptide education page recommends tracking redness, warmth, swelling, drainage, fever or worsening pain, and says cancer history, pregnancy, blood-vessel disorders and clotting medications warrant clinical review. It says no controlled human trial has established the stack's benefit or a safe dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://riteaid.com/peptides/stacks/bpc-157-and-tb-500",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
