@@ -10,7 +10,7 @@
   "regulatory_status": "unapproved",
   "category": "weight_metabolic",
   "compound_type": "peptide",
-  "used_for": "Adipotide (FTPP) is a peptidomimetic, a peptide-like molecule containing D-amino acids, that homes to prohibitin on blood vessels supplying white fat and triggers cell death in them. It caused fat loss and improved insulin resistance in obese monkeys, with reversible kidney tubule changes at the doses tested, and is sold online as a 'research chemical' for fat loss. No published human trial results were found and no registered ClinicalTrials.gov trial was found; it is not approved by the FDA and not a legal compounded drug.",
+  "used_for": "Adipotide (FTPP) is a peptidomimetic, a peptide-like molecule containing D-amino acids, that homes to prohibitin on blood vessels supplying white fat and triggers cell death in them. It caused fat loss and improved insulin resistance in obese monkeys, with reversible kidney tubule changes at the doses tested, and is sold online as a 'research chemical' for fat loss. No published human trial results were found. One first-in-human phase 1 trial (NCT01262664) was registered, enrolled 4 people, and was terminated with no results posted. It is not approved by the FDA and not a legal compounded drug.",
   "dosing": {
     "basis": "studied",
     "entries": [
