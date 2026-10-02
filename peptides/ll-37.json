@@ -242,8 +242,8 @@
           "text": "Peaked Labs, a peptide-guide site that sells a paid guide, says 100 to 200 mcg injected under the skin is used for immune support, and 50 to 100 mcg/mL applied to wounds. It says this is mostly preclinical evidence.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -297,8 +297,8 @@
           "text": "Peaked Labs says 100 to 200 mcg is injected 2 to 3 times per week.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -330,8 +330,8 @@
           "text": "Peaked Labs says 4 to 8 week cycles with 2 to 4 week breaks are standard.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -408,8 +408,8 @@
           "text": "Superpower, a health-testing company, says LL-37 breaks up microbe membranes and attracts immune cells through FPRL1, and that it is not fully selective, so it can disrupt human cell membranes at higher concentrations.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/ll-37",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -439,8 +439,8 @@
           "text": "Peaked Labs says the evidence is mostly preclinical and the best human data is for wounds.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -489,8 +489,8 @@
           "text": "Peaked Labs says injection-site redness, mild irritation and brief swelling are the most frequent reports, and that some people have mild flu-like symptoms in the first 24 to 48 hours.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peakedlabs.com/blog/ll-37-peptide-immune-defense",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -517,8 +517,8 @@
           "text": "Superpower says LL-37 is a recognized psoriasis autoantigen, contributes to inflammation in rosacea, and has been linked to tumor growth in breast, ovarian and lung cancers. It frames these as theoretical concerns.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/ll-37",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

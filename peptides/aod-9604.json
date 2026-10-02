@@ -265,11 +265,11 @@
           "citation_id": "pmid-11146367"
         },
         {
-          "text": "Superpower, a biomarker-testing company that does not sell the peptide, says the main human study ran 24 weeks in 536 people and failed to produce significant weight loss versus placebo.",
+          "text": "Superpower, a biomarker-testing company that offers peptide access, says the main human study ran 24 weeks in 536 people and failed to produce significant weight loss versus placebo.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/aod-9604",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -415,8 +415,8 @@
           "text": "Superpower says a 24-week trial in 536 people failed to produce significant weight loss versus placebo.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/aod-9604",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

@@ -355,11 +355,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "Superpower, a health testing company that says it does not sell MGF, says theoretical concerns include acromegaly-like effects, low blood sugar and tumor growth, and that none have been studied in controlled human trials.",
+          "text": "Superpower, a health testing company that offers peptide access, says theoretical concerns include acromegaly-like effects, low blood sugar and tumor growth, and that none have been studied in controlled human trials.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/mgf-mechano-growth-factor",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

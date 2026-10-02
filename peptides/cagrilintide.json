@@ -209,8 +209,8 @@
           "text": "Path to Peptides, an educational site, says to step up in 2-week steps (0.3, 0.6, 1.2, 2.4 then 4.5 mg once weekly) and calls 2.4 to 4.5 mg the target range. This schedule is not the same as Doctronic's and was not tested as written.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/cagrilintide-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -300,8 +300,8 @@
           "text": "Path to Peptides says to administer once weekly on the same day each week.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/cagrilintide-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -398,8 +398,8 @@
           "text": "Path to Peptides says unmixed powder can be kept at room temperature or refrigerated away from light, and mixed solution is refrigerated at 2 to 8 degrees C, used within 30 days and not frozen.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/cagrilintide-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -441,8 +441,8 @@
           "text": "Hubmeded, an education company for aesthetic clinicians, says cagrilintide acts mainly on amylin and calcitonin receptors in the brain to increase fullness and that it delays gastric emptying.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -486,8 +486,8 @@
           "text": "Hubmeded says cagrilintide gives about 5 to 10% weight loss alone and up to about 15% with semaglutide, and states it is not FDA-approved and still investigational.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -520,8 +520,8 @@
           "text": "Hubmeded says mild to moderate nausea is common during early dose steps, with reduced appetite, bloating, early fullness and occasional vomiting with fast dose increases.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -570,8 +570,8 @@
           "text": "Hubmeded lists medullary thyroid carcinoma or a family history of it, MEN2 syndrome, severe gastrointestinal conditions such as gastroparesis, pregnancy or breastfeeding, and severe kidney impairment (eGFR below 30) as contraindications.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/cagrilintide-the-next-gen-peptide-for-weight-loss-and-satiety",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

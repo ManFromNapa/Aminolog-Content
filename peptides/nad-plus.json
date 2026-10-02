@@ -192,8 +192,8 @@
           "text": "Peptide Dosing Protocols says common subcutaneous doses are 50 to 100 mg per injection, IV sessions are 250 to 500 mg (500 to 1,000 mg in higher-dose clinic protocols), and oral precursors are 300 to 1,000 mg of NR or 300 to 900 mg of NMN daily.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -227,8 +227,8 @@
           "text": "Peptide Dosing Protocols says morning dosing is commonly preferred to avoid sleep disruption, and that IV sessions are delivered over 2 to 4 hours.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -264,8 +264,8 @@
           "text": "Peptide Dosing Protocols says subcutaneous doses are given 2 to 3 times per week and IV sessions weekly or every two weeks.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -309,8 +309,8 @@
           "text": "Peptide Dosing Protocols says common planning uses 4, 8 or 12 week frameworks and that NAD+ does not have to be cycled on and off.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -346,16 +346,16 @@
           "text": "Peptide Dosing Protocols says the powder is kept at room temperature short term or refrigerated long term, and mixed solution is kept at 2 to 8 degrees C for a 14 to 30 day window depending on compounder guidance.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols says injection stinging is managed by injecting slowly over 5 to 10 seconds and rotating sites.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -498,8 +498,8 @@
           "text": "Peptide Dosing Protocols lists pregnancy, active malignancy, severe liver or kidney disease and concurrent high-dose niacin as contraindications.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/nad-plus",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

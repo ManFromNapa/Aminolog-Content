@@ -296,8 +296,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/ss-31/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -352,8 +352,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/ss-31/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -427,8 +427,8 @@
           "text": "Empire Medical Training, a CME course provider, describes SS-31 as the first mitochondrial-targeted peptide with FDA approval, but only for Barth syndrome, calls longevity uses off-label and investigational, and says the human trial record is mixed, with a heart failure study negative on its primary endpoint.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.empiremedicaltraining.com/antiaging-regenerative-workshops/resources/peptide-therapy/ss-31/",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         }
       ]

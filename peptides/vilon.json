@@ -167,8 +167,8 @@
           "text": "Peptide Protocol Wiki says community reports describe 100 to 500 mcg once daily under the skin, with 100 mcg a common starting dose, and also lists Russian oral capsules at 1 to 2 capsules daily. It notes no study shows that oral vilon is absorbed or works.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -201,8 +201,8 @@
           "text": "Peptide Protocol Wiki lists Russian oral capsules taken 1 to 2 times daily with meals, and says this use has no controlled human trial support.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -238,8 +238,8 @@
           "text": "Peptide Protocol Wiki says community reports describe once daily dosing under the skin.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -279,8 +279,8 @@
           "text": "Peptide Protocol Wiki lists Russian oral capsules for 10 to 30 days, repeated every 4 to 6 months.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -324,8 +324,8 @@
           "text": "Peptide Protocol Wiki says to store the powder at -20 C, protected from light and moisture, and to use reconstituted solution promptly or freeze it in portions, and elsewhere says refrigerated solution should generally be used within 28 days.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -450,8 +450,8 @@
           "text": "Peptide Protocol Wiki says side effects are infrequent and mild, mainly injection-site discomfort, with occasional mild stomach upset (nausea, loose stools) with oral capsules at higher doses. It also says no tolerance or autoimmune effects were documented in Russian observational use, which no controlled study confirms.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/tools/dosing-calculator/vilon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

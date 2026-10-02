@@ -173,11 +173,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "My Peptide Story, a site that says it is not a vendor, says common oral doses are 200 to 500 mcg once or twice daily and that community reports cluster around 500 mcg injected, which it calls anecdotal.",
+          "text": "My Peptide Story, a guide site that discloses affiliate links, says common oral doses are 200 to 500 mcg once or twice daily and that community reports cluster around 500 mcg injected, which it calls anecdotal.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.mypeptidestory.com/peptides/kpv",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -290,8 +290,8 @@
           "text": "My Peptide Story says oral use is referenced in 4 to 12 week cycles, with no established cycling requirement, and that continuous long-term use remains unstudied.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.mypeptidestory.com/peptides/kpv",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -419,8 +419,8 @@
           "text": "My Peptide Story says user reports mention occasional mild stomach symptoms, passing skin reactions with topical use, and possibly increased appetite, and flags possible interference with appetite suppressants.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.mypeptidestory.com/peptides/kpv",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -439,8 +439,8 @@
           "text": "A primary care clinic article (InCareNow) says KPV has no human clinical trials and no FDA approval, and that products sold online carry risks such as uncertain purity, unclear dosing, unsterile injectables and unknown medication interactions.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.incarenow.com/can-kpv-peptide-really-improve-your-gut-health/",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

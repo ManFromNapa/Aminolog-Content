@@ -254,11 +254,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "The Peptide Catalog, a site that earns affiliate commissions from sellers but does not sell it directly, lists 10 to 25 mg per day and says 25 mg is the dose used in clinical trials.",
+          "text": "The Peptide Catalog, a site that earns affiliate commissions from sellers, lists 10 to 25 mg per day and says 25 mg is the dose used in clinical trials.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -284,8 +284,8 @@
           "text": "The Peptide Catalog, an affiliate site, says before bed, because natural GH release peaks during deep sleep.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -320,11 +320,11 @@
           "citation_id": "r-nass-2008"
         },
         {
-          "text": "Peptides.org, an affiliate site that does not sell MK-677, says it works better on an empty stomach and recommends dosing at least two hours after the last meal.",
+          "text": "Peptides.org, an affiliate site, says it works better on an empty stomach and recommends dosing at least two hours after the last meal.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptides.org/mk-677-dosage-guide/",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -339,8 +339,8 @@
           "text": "The Peptide Catalog says an empty stomach is preferred but not required, and that mild insulin resistance is temporary and reversible.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -364,8 +364,8 @@
           "text": "Peptides.org says MK-677 is taken once per day, citing a 24-hour half-life.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptides.org/mk-677-dosage-guide/",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -415,16 +415,16 @@
           "text": "Peptides.org says the recommended approach is 2 to 8 weeks on followed by 2 to 4 weeks off.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptides.org/mk-677-dosage-guide/",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "The Peptide Catalog says 8 to 12 weeks on and 4 weeks off, to prevent receptor desensitization, while noting the 2-year trial showed sustained effects.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptidecatalog.com/articles/mk-677-dosing-guide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

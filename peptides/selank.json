@@ -363,8 +363,8 @@
           "text": "Peptidepedia says nasal Selank takes effect in 2 to 5 minutes and injected Selank in 15 to 30 minutes.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/cognitive/selank/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -523,8 +523,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://peptidepedia.org/cognitive/selank/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -743,8 +743,8 @@
           "text": "Peptidepedia says the most common effects are mild nasal irritation, stinging or dryness at the spray site.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/cognitive/selank/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

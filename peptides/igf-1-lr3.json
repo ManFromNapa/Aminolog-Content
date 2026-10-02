@@ -44,7 +44,7 @@
       "citation_id": "r-increlex-label"
     },
     {
-      "text": "HubMed Ed, an education company that promotes its own peptide-therapy courses and does not sell IGF-1 LR3, says it is given by subcutaneous injection into the abdomen or thigh and that taking it with some carbohydrates can help keep blood sugar stable. It says the peptide stays active for 20 to 30 hours.",
+      "text": "HubMed Ed, an education company that promotes its own peptide-therapy courses and carries ads for sellers, says it is given by subcutaneous injection into the abdomen or thigh and that taking it with some carbohydrates can help keep blood sugar stable. It says the peptide stays active for 20 to 30 hours.",
       "label": "internet",
       "source_type": "website",
       "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
@@ -58,7 +58,7 @@
       "citation_id": "r-increlex-label"
     },
     {
-      "text": "The Peptide Protocol Wiki, an educational site that says it does not sell products, lists oncogenic potential through IGF-1 receptor signaling, severe hypoglycemia, unregulated product quality and the absence of any human clinical trial as the main risks of IGF-1 LR3.",
+      "text": "The Peptide Protocol Wiki, a guide site with links to sellers, lists oncogenic potential through IGF-1 receptor signaling, severe hypoglycemia, unregulated product quality and the absence of any human clinical trial as the main risks of IGF-1 LR3.",
       "label": "internet",
       "source_type": "website",
       "url": "https://www.peptideprotocolwiki.com/peptides/igf-1-lr3/risks",
@@ -181,11 +181,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "HubMed Ed, an education company that promotes its own peptide-therapy courses and does not sell IGF-1 LR3, says suggested protocols often use about 10 to 20 micrograms a day.",
+          "text": "HubMed Ed, an education company that promotes its own peptide-therapy courses and carries ads for sellers, says suggested protocols often use about 10 to 20 micrograms a day.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -232,8 +232,8 @@
           "text": "HubMed Ed says taking IGF-1 LR3 with some carbohydrates can help keep blood sugar stable.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -281,8 +281,8 @@
           "text": "HubMed Ed says the peptide stays active for 20 to 30 hours and that injections are typically daily during active cycles. It gives no study for either claim.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -330,8 +330,8 @@
           "text": "HubMed Ed says the 4 to 6 week course is usually followed by a break of equal or longer length to let receptors reset.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -363,8 +363,8 @@
           "text": "HubMed Ed says IGF-1 LR3 is given by subcutaneous injection into the abdomen or thigh.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -429,8 +429,8 @@
           "text": "The Peptide Protocol Wiki says no pharmacokinetic, pharmacodynamic, tolerability or safety data exist in humans for IGF-1 LR3.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/igf-1-lr3/risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -466,19 +466,19 @@
       "summary": "Education sites list low blood sugar, possible cell-growth risk and product quality as the main concerns, none from human trials of LR3.",
       "items": [
         {
-          "text": "The Peptide Protocol Wiki, an educational site that says it does not sell products, lists oncogenic potential through IGF-1 receptor signaling, severe hypoglycemia, unregulated product quality and the absence of any human clinical trial as the main risks of IGF-1 LR3.",
+          "text": "The Peptide Protocol Wiki, a guide site with links to sellers, lists oncogenic potential through IGF-1 receptor signaling, severe hypoglycemia, unregulated product quality and the absence of any human clinical trial as the main risks of IGF-1 LR3.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/igf-1-lr3/risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "HubMed Ed lists blood sugar swings, hypoglycemia if injected without eating, insulin resistance with frequent use, water retention, headaches, joint stiffness and a theoretical risk of stimulating abnormal cell growth.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/igf-1-lr3-in-aesthetic-anti-aging-medicine-benefits-and-risks",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

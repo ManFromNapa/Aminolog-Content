@@ -117,8 +117,8 @@
           "text": "Peptides Institute says 1 to 4 mg per injection under the skin is described for investigational human use, that animal studies used 4 mg per kg into the abdominal cavity twice weekly, and that no standardized human protocol exists.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -184,8 +184,8 @@
           "text": "Peptides Institute describes 1 to 3 injections per week for investigational human use, and says no standardized human protocol exists.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -213,8 +213,8 @@
           "text": "Peptides Institute describes an on period of 4 to 12 weeks with variable off periods, and says no standardized human protocol exists.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -250,8 +250,8 @@
           "text": "Peptides Institute says to mix the freeze-dried powder with bacteriostatic water, then keep it refrigerated at 2 to 8 degrees Celsius and use it within 30 days.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -326,8 +326,8 @@
           "text": "Peptides Institute lists injection site reactions (redness, swelling, mild discomfort) and transient nausea, more common with higher doses or intravenous use.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -356,8 +356,8 @@
           "text": "Peptides Institute lists a hypoglycemia (low blood sugar) risk and potential interference with apoptosis (programmed cell death) as theoretical risks.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/humanin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

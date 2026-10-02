@@ -238,16 +238,16 @@
           "text": "Peptide Protocol Wiki, an educational site that lists supplier links, says the standard amount is 1.6 mg injected subcutaneously.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says the usual dose is 1.6 mg twice weekly, and for acute conditions 1.6 mg daily or 3.2 mg twice weekly, possibly rising to 6.4 mg twice weekly.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -275,8 +275,8 @@
           "text": "Peptidepedia says it can be given at any time of day without regard to meals. It adds that some practitioners prefer mornings, but no clinical evidence requires a specific time.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -296,8 +296,8 @@
           "text": "Peptidepedia says it can be given without regard to meals.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -333,8 +333,8 @@
           "text": "Peptide Protocol Wiki says twice weekly separated by 3 to 4 days as the standard, daily during chemotherapy cycles for cancer, and daily for 7 days in sepsis.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -394,16 +394,16 @@
           "text": "Peptide Protocol Wiki says 6 to 12 months for hepatitis B, typically 3 to 6 months for immune support, and treatment matching the chemotherapy course in cancer.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says it does not appear to cause receptor downregulation or tachyphylaxis (fading effect), so continuous use is common, and some practitioners use 8 to 12 week cycles followed by 4-week breaks for prevention.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -439,32 +439,32 @@
           "text": "Peptide Protocol Wiki says the powder is stored at 2 to 8 C, protected from light, not frozen. It says a reconstituted vial should be used immediately and any remainder discarded, because there is no preservative.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Protocol Wiki says to inject under the skin and rotate between the front of the abdomen, front of the thigh and upper arm, at least 1 inch from earlier injections.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says the powder is stored at 2 to 8 C, and a reconstituted vial is refrigerated, kept from light, never frozen and used within 28 to 30 days.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says to rotate between the abdomen (2 inches from the navel), front of the thigh and back of the upper arm.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/thymosin-alpha-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -520,8 +520,8 @@
           "text": "Peptide Protocol Wiki describes an immune-mediated mechanism acting on T-cell and natural killer cell function.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymosin-alpha-1/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

@@ -197,8 +197,8 @@
           "text": "GLP3 Planner describes a community titration starting at 1 mg weekly and rising toward 8 to 12 mg, and says it is based on theory and community experience, not controlled studies.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://glp3planner.com/resources/retatrutide-dosing-schedule",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -216,8 +216,8 @@
           "text": "An educational peptide site says the time of day is flexible given the drug's long half-life, that morning injection lets side effects be noticed while awake and evening injection lets nausea fall during sleep, that food does not affect absorption of a subcutaneous injection, and that high-fat meals on injection days are best avoided. It also says reconstituted vials are kept upright in the refrigerator. These are the site's statements, not label guidance, since retatrutide is unapproved.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.seekpeptides.com/blog/articles/best-time-to-take-retatrutide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         }
       ]
@@ -229,8 +229,8 @@
           "text": "SeekPeptides says food does not affect absorption of a subcutaneous retatrutide injection.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.seekpeptides.com/blog/articles/best-time-to-take-retatrutide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         }
       ]

@@ -121,16 +121,16 @@
           "text": "Peptides Institute, an educational site, says 10 mg per day for 5 to 10 consecutive days, or a maintenance course of 5 mg per day for 5 days.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Protocol Wiki says 5 to 10 mg daily into a muscle for standard use, and 10 mg daily for an anti-aging course.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -150,8 +150,8 @@
           "text": "Peptide Protocol Wiki says morning administration is preferred.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -171,8 +171,8 @@
           "text": "Peptide Protocol Wiki says there is no specific fasting requirement.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -192,8 +192,8 @@
           "text": "Peptide Protocol Wiki says once daily during the course.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -219,16 +219,16 @@
           "text": "Peptides Institute says 5 to 10 consecutive days on, then 3 to 6 months off, repeated every 6 months, with a maintenance course of 5 days every 3 to 4 months.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Protocol Wiki says a 3 to 10 day course repeated every 1 to 6 months, or a 10 day course every 6 months for anti-aging.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -248,24 +248,24 @@
           "text": "Peptides Institute says thymalin is given by injection into a muscle or under the skin.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptides Institute says reconstituted powder is refrigerated, used within 5 to 7 days and never frozen.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Protocol Wiki says unmixed powder is stored refrigerated at 2 to 8 degrees Celsius, protected from light and not frozen. It says to mix with saline or sterile water, swirl gently and use immediately.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/thymalin/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -299,8 +299,8 @@
           "text": "Peptides Institute says thymalin supplies signaling peptides the aging thymus no longer makes enough of, binds DNA and histone proteins, supports T cell development and restores interleukin-2 production.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -330,8 +330,8 @@
           "text": "Peptides Institute says thymalin supports immune restoration in aging, cites up to a 2-fold reduction in mortality in elderly subjects, and states it is registered in Russia but not approved by the FDA or EMA.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -346,8 +346,8 @@
           "text": "Peptides Institute lists injection-site reactions and transient fever as common effects, along with mild fatigue and occasional headache.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -360,8 +360,8 @@
           "text": "Peptides Institute lists rare allergic reactions and possible autoimmune flares in susceptible people as theoretical risks, and immune dysregulation in lymphoproliferative disorders.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/thymalin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

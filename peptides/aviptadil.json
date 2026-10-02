@@ -258,11 +258,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "PeptideBenchmark, a vendor review site that says it does not sell peptides, says one small clinical protocol used a 50 microgram nasal spray 4 times per day.",
+          "text": "PeptideBenchmark, a vendor review site, says one small clinical protocol used a 50 microgram nasal spray 4 times per day.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidebenchmark.com/blog/vip-peptide-fda-category-1-pcac-history-cirs/",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

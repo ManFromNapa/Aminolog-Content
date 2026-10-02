@@ -241,8 +241,8 @@
           "text": "Peptidepedia says a single 100 mcg dose at bedtime is a typical starting point and that the usual range is 100 to 300 mcg per injection. It says GHRP-2 is most often stacked with CJC-1295, a growth hormone releasing hormone (GHRH) analog, and states it is not FDA-approved.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -268,8 +268,8 @@
           "text": "Peptidepedia says the pre-bed injection is considered most important because it amplifies the natural nighttime GH surge.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -309,8 +309,8 @@
           "text": "Peptidepedia says GHRP-2 is taken on an empty stomach, at least 30 minutes before eating or 2 or more hours after a meal.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -364,8 +364,8 @@
           "text": "Peptidepedia describes one to three doses a day, including a middle tier of 150 to 200 mcg twice daily, morning fasted and before bed.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -411,8 +411,8 @@
           "text": "Peptidepedia says to cycle 8 to 12 weeks on followed by 4 to 8 weeks off to maintain receptor sensitivity, with beginner and intermediate plans lasting 8 to 12 weeks and advanced plans 8 to 16 weeks.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -440,32 +440,32 @@
           "text": "Peptidepedia says unmixed powder is stored frozen at minus 20 degrees C for long-term stability or refrigerated at 2 to 8 degrees C for shorter periods, and that vials are kept in the original box or wrapped in foil away from light.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says a mixed vial is refrigerated at 2 to 8 degrees C and used within 3 to 4 weeks, and that reconstituted peptide should never be frozen.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says the powder is dissolved with bacteriostatic water by swirling gently, never shaking.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptidepedia says GHRP-2 is injected under the skin into abdominal fat, the thigh or the deltoid, with sites rotated to prevent lipodystrophy.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -499,8 +499,8 @@
           "text": "Peptidepedia says GHRP-2 activates Gq/11 signaling and phospholipase C, which triggers release of GH granules, and calls it the most potent classic growth hormone-releasing peptide by peak GH output.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -556,8 +556,8 @@
           "text": "Peptidepedia says GHRP-2 has less appetite stimulation than GHRP-6, which it says triggers robust hunger. It calls the appetite effect moderate.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -616,8 +616,8 @@
           "text": "Peptidepedia lists increased appetite, flushing, transient drowsiness and mild water retention as side effects.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-2",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

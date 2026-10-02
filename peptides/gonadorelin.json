@@ -178,8 +178,8 @@
           "text": "Peptides Institute, an educational site, lists 50 to 100 mcg subcutaneously as a testosterone therapy adjunct and 100 to 250 mcg for hypogonadotropic hypogonadism, and 100 mcg as a single intravenous diagnostic dose in adults. The site shows no sales links.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/gonadorelin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -252,8 +252,8 @@
           "text": "Peptides Institute lists 50 to 100 mcg 2 to 3 times weekly as a testosterone therapy adjunct and 100 to 250 mcg 2 to 3 times weekly for hypogonadotropic hypogonadism.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidesinstitute.org/peptides/gonadorelin",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

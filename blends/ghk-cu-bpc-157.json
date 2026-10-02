@@ -28,11 +28,11 @@
       "summary": "No combination study was found, so there is no studied combined dose. One educational calculator site describes a community mixing recipe of 10 mg GHK-Cu and 5 mg BPC-157 in one vial, and says this is untested.",
       "items": [
         {
-          "text": "CalcMyPeptide, an educational calculator site that does not sell peptides, describes a community-developed mix: reconstitute a 10 mg GHK-Cu vial with 3 to 4 mL of bacteriostatic water instead of the standard 2 mL, then add the contents of a 5 mg BPC-157 vial to the same solution, about a 2 to 1 GHK-Cu to BPC-157 ratio. The page cites no studies.",
+          "text": "CalcMyPeptide, a peptide calculator site, describes a community-developed mix: reconstitute a 10 mg GHK-Cu vial with 3 to 4 mL of bacteriostatic water instead of the standard 2 mL, then add the contents of a 5 mg BPC-157 vial to the same solution, about a 2 to 1 GHK-Cu to BPC-157 ratio. The page cites no studies.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.calcmypeptide.com/blog/ghk-cu-injection-pain-bpc-157-solution",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -66,11 +66,11 @@
       "summary": "No stability study of a mixed GHK-Cu and BPC-157 product was found. Online sources disagree on whether the two can share a vial or syringe.",
       "items": [
         {
-          "text": "PeptIQ, an app and education site that says it does not sell peptides, says GHK-Cu is compatible with a BPC-157 plus TB-500 draw in one syringe, but also says never to add bacteriostatic water to multiple peptides in the same vial, and to draw immediately before injecting rather than pre-drawing syringes.",
+          "text": "PeptIQ, a peptide app and education site, says GHK-Cu is compatible with a BPC-157 plus TB-500 draw in one syringe, but also says never to add bacteriostatic water to multiple peptides in the same vial, and to draw immediately before injecting rather than pre-drawing syringes.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptiq.io/blog/can-you-mix-peptides-in-same-syringe",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -111,8 +111,8 @@
           "text": "CalcMyPeptide says GHK-Cu alone causes burning injection pain because its solution is acidic (pH about 3.5 to 4.5), and that the community mix of both peptides in one vial with extra water reduces pain from severe burning (8 to 9 out of 10) to a mild sting (2 to 3 out of 10). The page cites no studies.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.calcmypeptide.com/blog/ghk-cu-injection-pain-bpc-157-solution",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

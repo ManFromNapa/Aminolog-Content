@@ -262,16 +262,16 @@
           "text": "Peptidepedia says 5 to 10 mg per day by injection under the skin, that some community protocols go above 10 mg a day, and that optimal human dosing has not been established in rigorous trials.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/epithalon/dosage",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols describes 5 mg a day for a 20-day course or 10 mg a day for a condensed 10-day course, both injected under the skin.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -319,16 +319,16 @@
           "text": "Peptidepedia says evening or bedtime dosing is commonly recommended to align with natural melatonin rhythms.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/epithalon/dosage",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols says evening or bedtime dosing, to align with the natural melatonin rhythm.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -438,8 +438,8 @@
           "text": "Peptidepedia says courses run 10 to 20 consecutive days, repeated once or twice a year with 4 to 6 months between, and that the cycling rationale is hypothesis, not validated pharmacokinetic study.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/epithalon/dosage",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -454,8 +454,8 @@
           "text": "Peptide Dosing Protocols says 20 days (standard) or 10 days (condensed), 2 to 3 times a year, 4 to 6 months apart, and notes no large blinded human trial tested a specific injected dose.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -491,8 +491,8 @@
           "text": "Peptide Dosing Protocols says the powder is kept in a freezer (-20 C) long term and the mixed liquid at 2 to 8 C for about 1 to 2 weeks, and is discarded if cloudy or with particles. It gives 2.0 mL bacteriostatic water per 10 mg vial for 5 mg per mL.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -639,8 +639,8 @@
           "text": "Peptidepedia says telomerase reactivation is a hallmark of most cancers and that people with active or suspected cancer should be cautious.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/epithalon/side-effects",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -665,16 +665,16 @@
           "text": "Peptidepedia lists injection-site redness or swelling, drowsiness or fatigue, and mild headache as commonly reported, and says safety data come mostly from one research group.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/longevity/epithalon/side-effects",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols lists injection-site redness, soreness or a small bump, mild drowsiness, and occasional headache or sleep changes.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/epitalon",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

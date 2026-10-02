@@ -200,11 +200,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "PeptIQ, a peptide-tracking app that says it does not sell peptides, summarizes the phase 2 doses (0.6 to 4.8 mg) and phase 3 targets (up to 3.6 or 6.0 mg) as once-weekly injections after dose escalation. It says these are trial designs, not a consumer protocol.",
+          "text": "PeptIQ, a peptide-tracking app that links to telehealth partners, summarizes the phase 2 doses (0.6 to 4.8 mg) and phase 3 targets (up to 3.6 or 6.0 mg) as once-weekly injections after dose escalation. It says these are trial designs, not a consumer protocol.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptiq.io/blog/survodutide-dosing-guide",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

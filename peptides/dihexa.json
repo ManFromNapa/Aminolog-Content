@@ -110,16 +110,16 @@
           "text": "Path To Peptides, a peptide information site, says people commonly report oral amounts of 10 to 100 mg per dose, with a stated starter range of 10 to 20 mg weekly, or a 1 to 5% cream. The site says no validated human dose exists.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols, a peptide information site, lists a low dose of 5 mg and a standard research dose of 10 to 20 mg, by oral or transdermal (through the skin) use, and carries a not-medical-advice disclaimer.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidedosing.org/peptides/dihexa",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -139,16 +139,16 @@
           "text": "Path To Peptides says oral dihexa is taken in the morning.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols says morning use lets people monitor cognitive alertness.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidedosing.org/peptides/dihexa",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -160,8 +160,8 @@
           "text": "Path To Peptides says oral dihexa should be taken on an empty stomach.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -179,16 +179,16 @@
           "text": "Path To Peptides says oral dihexa is dosed 1 to 3 times per week, not daily, because of a long duration of action that causes accumulation, and that cream is used 1 to 3 times per week only. The same page also has a table row that says the cream is applied daily, so the page contradicts itself.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols says dihexa is taken once per day or every other day.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidedosing.org/peptides/dihexa",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -212,16 +212,16 @@
           "text": "Path To Peptides says a standard cycle is 4 to 8 weeks on and 4 weeks off.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Dosing Protocols says a cycle is 4 to 8 weeks.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidedosing.org/peptides/dihexa",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -241,16 +241,16 @@
           "text": "Path To Peptides says the powder can be kept at room temperature or refrigerated, away from light and moisture, and that a compounded cream should be refrigerated at 2 to 8 C and used within 60 days.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.pathtopeptides.com/dihexa-protocol.html",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Peptide Protocol Wiki says lyophilized (freeze-dried) powder should be stored at -20 C and reconstituted solutions refrigerated at 2 to 8 C. It also says dihexa has limited solubility in water.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/blog/dihexa-research-status-2026",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -278,8 +278,8 @@
           "text": "Peptide Protocol Wiki says the 2014 paper proposing that dihexa binds hepatocyte growth factor (HGF) and boosts its receptor c-Met was retracted in April 2025 for image falsification, so this mechanism is no longer supported. PubMed also lists the paper as retracted.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/blog/dihexa-research-status-2026",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -347,8 +347,8 @@
           "text": "Peptide Protocol Wiki says the safety profile of dihexa is essentially unknown, that it has never entered human trials, and that no carcinogenicity studies have been conducted, noting that the HGF and c-Met pathway is linked to several cancers.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/blog/dihexa-research-status-2026",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

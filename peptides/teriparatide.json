@@ -152,11 +152,11 @@
           "citation_id": "neer-2001"
         },
         {
-          "text": "Peptide Protocol Wiki, an educational site that does not sell products, says the dose is a fixed 20 mcg with no dose titration.",
+          "text": "Peptide Protocol Wiki, a guide site with links to sellers, says the dose is a fixed 20 mcg with no dose titration.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -180,8 +180,8 @@
           "text": "Peptide Protocol Wiki says to give it at approximately the same time each day.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -205,8 +205,8 @@
           "text": "Peptide Protocol Wiki says there are no food or fasting requirements.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -224,8 +224,8 @@
           "text": "Peptide Protocol Wiki says that if a dose is missed, give it as soon as possible that day and do not double the dose.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -273,8 +273,8 @@
           "text": "Peptide Protocol Wiki says use is no longer limited to 2 years after the 2020 label change, that duration is a clinical judgment, and that an antiresorptive drug should follow to hold the gains. The label still ties use beyond 2 years to high fracture risk.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -312,8 +312,8 @@
           "text": "Peptide Protocol Wiki says to store the pen at 2 to 8 C, do not freeze it, use it for 28 days after the first injection, and rotate sites between thigh and abdomen.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/teriparatide/dosing",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]

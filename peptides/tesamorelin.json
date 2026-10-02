@@ -264,8 +264,8 @@
           "text": "Peptidepedia says tesamorelin is taken either in the morning on an empty stomach or at bedtime.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -303,8 +303,8 @@
           "text": "Peptidepedia says morning doses go at least 2 hours after eating and 30 to 60 minutes before food.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -331,8 +331,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/tesamorelin/dosage",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -340,8 +340,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://healthrx.com/tesamorelin-v2/microdosing-protocols",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -369,8 +369,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/tesamorelin/dosage",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -434,8 +434,8 @@
           "label": "internet",
           "validity": "very_low",
           "conflicts_with_label": true,
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/tesamorelin/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

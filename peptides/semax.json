@@ -226,8 +226,8 @@
           "text": "Peptidepedia says a standard dose is 200 to 600 mcg once or twice daily, and that the nasal route is preferred with injection under the skin as an alternative.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/guides/selank-vs-semax",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -293,8 +293,8 @@
           "text": "Peptidepedia says to take Semax in the morning or early afternoon and that late-day use interferes with sleep.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/guides/selank-vs-semax",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -406,8 +406,8 @@
           "text": "Peptidepedia says courses run 10 to 30 days with breaks of 2 to 4 weeks.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/guides/selank-vs-semax",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -546,8 +546,8 @@
           "text": "Superpower, a health testing company's guide, says Semax binds melanocortin receptors and raises BDNF and nerve growth factor (NGF) in the hippocampus and cortex, citing a rat result of up to 1.4-fold more BDNF.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/semax",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -585,8 +585,8 @@
           "text": "Superpower, a health testing company's guide, says Semax may help stroke recovery and cognition, but notes the largest human study (110 stroke patients) was non-randomized and not placebo-controlled.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/semax",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

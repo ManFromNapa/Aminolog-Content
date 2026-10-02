@@ -278,8 +278,8 @@
           "text": "A Superpower guide describes 5-amino-1MQ as circulating through gray-market research chemical vendors labeled research use only, and states it is not prescribed or dispensed through that company.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         },
         {
@@ -315,8 +315,8 @@
           "text": "A Superpower guide says 5-Amino-1MQ inhibits NNMT, an enzyme that depletes S-adenosylmethionine (SAM) in fat tissue, shifting cell metabolism toward fat burning and energy use.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         }
       ]
@@ -346,8 +346,8 @@
           "text": "A Superpower guide says all data are from rodents, that no human trials, IND or registered trials exist as of April 2026, and that mouse findings frequently do not replicate in humans.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         },
         {
@@ -376,8 +376,8 @@
           "text": "A Superpower guide says mouse studies noted no gross toxicity, and that no published human safety data exists.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         }
       ]
@@ -390,8 +390,8 @@
           "text": "A Superpower guide lists theoretical concerns including off-target effects of raised SAM on cellular methylation and unknown long-term effects on cancer biology.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         }
       ]

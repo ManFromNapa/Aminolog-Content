@@ -51,7 +51,7 @@
       "citation_id": "r-ph2-dryeye-cae"
     },
     {
-      "text": "Superpower, a health-testing company that says it does not sell, prescribe or compound thymosin beta-4, says it is available only through licensed compounding pharmacies by prescription and that subcutaneous and topical ophthalmic formulations exist. The page gives no practical guidance on timing, mixing or storage.",
+      "text": "Superpower, a health-testing company that offers peptide access, says it is available only through licensed compounding pharmacies by prescription and that subcutaneous and topical ophthalmic formulations exist. The page gives no practical guidance on timing, mixing or storage.",
       "label": "internet",
       "source_type": "website",
       "url": "https://superpower.com/guides/thymosin-beta-4",
@@ -226,8 +226,8 @@
           "text": "A medical education site for aesthetic and regenerative practitioners (Hubmed) says TB-500 is commonly described with an initial phase of 2.0 to 2.5 mg every other day by subcutaneous or intramuscular injection, a total of 4 to 8 mg per week, and 2 to 6 mg per month afterward. The site presents this as information for licensed professionals, not as medical advice.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -321,8 +321,8 @@
           "text": "Hubmed says the TB-500 initial phase is every other day, with total weekly dosage of 4 to 8 mg divided into 2 to 3 weekly administrations, then 2 to 6 mg per month for maintenance.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -368,8 +368,8 @@
           "text": "Hubmed says TB-500 treatment cycles typically span 6 to 12 weeks, subject to reassessment.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.hubmeded.com/blog/tb-500-peptide-for-tissue-repair-and-flexibility",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -402,19 +402,19 @@
       "summary": "No study covered storage. Online sources say to keep vials at 2 to 8 C, refrigerate after mixing, and rotate injection sites.",
       "items": [
         {
-          "text": "Superpower, a health-testing company that says it does not sell, prescribe or compound thymosin beta-4, says it is available only through licensed compounding pharmacies by prescription and that subcutaneous and topical ophthalmic formulations exist.",
+          "text": "Superpower, a health-testing company that offers peptide access, says it is available only through licensed compounding pharmacies by prescription and that subcutaneous and topical ophthalmic formulations exist.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "Superpower's page gives no practical guidance on timing, mixing or storage.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -476,8 +476,8 @@
           "text": "Superpower says it sequesters G-actin monomers, promoting cell migration, blood vessel growth and anti-inflammatory signaling after tissue injury.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -513,8 +513,8 @@
           "text": "Superpower says thymosin beta-4 has real clinical trial data, particularly in eye disease, but is experimental, with most other uses preclinical or early-phase.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -565,8 +565,8 @@
           "text": "Superpower says adverse events in Phase 1 studies were infrequent and mild to moderate (injection-site reactions, mild eye discomfort with eye drops, low-frequency headache) and that long-term safety data for chronic compounded subcutaneous use are limited.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/thymosin-beta-4",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         },
         {

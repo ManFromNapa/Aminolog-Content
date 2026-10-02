@@ -225,8 +225,8 @@
           "text": "Project Biohacking describes 2 to 3 mg twice weekly for loading, then 2 to 5 mg every 1 to 2 weeks.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://projectbiohacking.beehiiv.com/p/the-wolverine-protocol-why-most-people-are-getting-it-wrong",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -244,8 +244,8 @@
           "text": "Peptide Dosing Protocols describes 4 to 6 week loading, 8 to 12 week standard cycles and 4 to 8 week breaks, and says no human trial of TB-500 has established a cycle length.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptidedosingprotocols.com/protocol/tb-500",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

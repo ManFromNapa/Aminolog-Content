@@ -154,8 +154,8 @@
           "text": "Peptide Protocol Wiki says community users have settled on 0.5 to 1 mg, below the approved dose, to reduce nausea.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.peptideprotocolwiki.com/peptides/pt-141/community",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

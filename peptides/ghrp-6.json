@@ -250,8 +250,8 @@
           "text": "The Peptidepedia website says the dose is about 1 mcg/kg, roughly 100 mcg per injection for most adults.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -269,16 +269,16 @@
           "text": "The Peptidepedia website says the pre-bed injection is widely considered the most important one because it amplifies the body's largest natural GH pulse in deep sleep.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
           "text": "The Peptide Guides website lists morning (fasted), post-workout and pre-sleep as the best times.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptideguides.com/protocols/ghrp-6-protocol",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -296,16 +296,16 @@
           "text": "The Peptidepedia website says GHRP-6 is taken on an empty stomach, at least 30 minutes before eating or 2 or more hours after a meal, and says high blood sugar and insulin blunt the GH response.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
           "text": "The Peptidepedia website says GHRP-6 causes intense hunger within 15 to 20 minutes of injection, so users typically eat 20 to 30 minutes afterward.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -347,8 +347,8 @@
           "text": "The Peptidepedia website says protocols range from once or twice daily to two to three times daily, with injections at least 3 hours apart.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -374,16 +374,16 @@
           "text": "The Peptidepedia website says 8 to 16 weeks on followed by 4 to 8 weeks off, and says use beyond 16 weeks may weaken the GH response through receptor desensitization.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "The Peptide Guides website says 8 to 12 weeks on and 4 weeks off, and says GHRP-6 desensitizes less quickly than hexarelin.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptideguides.com/protocols/ghrp-6-protocol",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -403,32 +403,32 @@
           "text": "The Peptidepedia website says a mixed vial is refrigerated at 2 to 8 degrees C, used within 28 days and not frozen, and that unmixed powder is stable at room temperature for months.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
           "text": "The Peptidepedia website says to add bacteriostatic water slowly, swirl gently and never shake the vial.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "The Peptidepedia website says injection sites are abdominal fat, thigh or deltoid, rotated to prevent lipodystrophy.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "The Peptide Guides website says to refrigerate at 2 to 8 degrees C and use within 28 days of mixing.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://thepeptideguides.com/protocols/ghrp-6-protocol",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -462,8 +462,8 @@
           "text": "The Peptidepedia website says GHRP-6 binds the growth hormone secretagogue receptor 1a on pituitary and brain cells.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -519,16 +519,16 @@
           "text": "The Peptidepedia website says GHRP-6 gives the strongest appetite stimulation of any growth hormone-releasing peptide, starting 15 to 20 minutes after injection, and lists mild water retention, flushing, dizziness and injection site reactions.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
           "text": "The Peptidepedia website says tingling or numbness in the hands and feet is less common, and that higher doses can raise cortisol and prolactin.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ghrp-6",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

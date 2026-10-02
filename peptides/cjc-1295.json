@@ -253,8 +253,8 @@
           "text": "Peptidepedia says the version without DAC is usually timed at bedtime to match the night-time growth hormone surge.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
@@ -294,8 +294,8 @@
           "text": "Peptidepedia says CJC-1295 is said to work best on an empty stomach, at least 30 minutes before eating or 2 to 3 hours after meals.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
@@ -343,8 +343,8 @@
           "text": "Peptidepedia says the version without DAC is given once or twice daily and the DAC version once or twice weekly. After a missed injection the regular schedule is resumed without doubling up.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         },
         {
@@ -407,16 +407,16 @@
           "text": "Peptidepedia says a vial mixed with bacteriostatic water keeps about 4 to 6 weeks refrigerated, versus 5 to 7 days if mixed with sterile water, that unmixed powder lasts 24 months or more refrigerated, and that mixed peptide should not be frozen and should be protected from light.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
           "text": "Peptidepedia says injection sites are rotated among abdominal fat, thighs and upper arms.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/cjc-1295/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         },
         {

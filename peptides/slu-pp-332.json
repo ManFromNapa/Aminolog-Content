@@ -348,11 +348,11 @@
           "retrieved": "2026-10-02"
         },
         {
-          "text": "Superpower, a health testing company that does not sell it, says it has poor oral bioavailability (little reaches the blood when swallowed) and that its behavior in humans is unknown.",
+          "text": "Superpower, a health testing company that offers peptide access, says it has poor oral bioavailability (little reaches the blood when swallowed) and that its behavior in humans is unknown.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/slu-pp-332",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -417,11 +417,11 @@
       "summary": "No human safety data exists, and online sources say so.",
       "items": [
         {
-          "text": "Superpower, a health testing company that does not sell it, says no human safety data exists and that effects in people cannot be assumed from mouse results.",
+          "text": "Superpower, a health testing company that offers peptide access, says no human safety data exists and that effects in people cannot be assumed from mouse results.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/slu-pp-332",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {

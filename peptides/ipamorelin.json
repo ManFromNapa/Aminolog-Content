@@ -310,8 +310,8 @@
           "text": "Peptidepedia says ipamorelin is best taken at least 30 minutes before eating or 2 or more hours after a meal, because food raises insulin and is said to interfere with the GH response.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         },
         {
@@ -386,8 +386,8 @@
           "text": "HealthRx describes 8 to 16 week cycles followed by a 4 to 8 week break.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://healthrx.com/peptide-protocols-ipamorelin/executive-longevity",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -407,16 +407,16 @@
           "text": "The Peptidepedia website says ipamorelin is injected subcutaneously into the abdomen, thigh or shoulder with sites rotated, and that the lyophilized powder is dissolved with bacteriostatic water by swirling gently, never shaking.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-01"
         },
         {
           "text": "Peptidepedia says a mixed vial keeps for 4 to 6 weeks refrigerated.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidepedia.org/performance/ipamorelin/how-to-use",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-09-30"
         }
       ]

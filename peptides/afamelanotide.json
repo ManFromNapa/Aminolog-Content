@@ -117,11 +117,11 @@
           "citation_id": "fda-scenesse-label"
         },
         {
-          "text": "Superpower, a health testing company that says it does not sell or prescribe the drug, says clinical trials used 16 mg implants every 60 days and that the implant is typically placed in the lower abdomen or flank.",
+          "text": "Superpower, a health testing company that offers peptide access, says clinical trials used 16 mg implants every 60 days and that the implant is typically placed in the lower abdomen or flank.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/melanotan-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -153,8 +153,8 @@
           "text": "Superpower says the implant releases the peptide in a controlled way over approximately 60 days, matching the every 60 day schedule used in trials.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/melanotan-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
@@ -215,8 +215,8 @@
           "text": "Superpower says the implant is a prescription-only product dispensed through licensed pharmacies, placed under the skin by trained clinicians, and is not an injectable powder or a do-it-yourself product.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/melanotan-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -287,8 +287,8 @@
           "text": "Superpower lists injection-site bruising, redness or hematoma, nausea, and darkening of moles as common effects, and says nausea mostly occurs in the days after the implant and usually resolves without treatment.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/melanotan-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         }
       ]
@@ -313,8 +313,8 @@
           "text": "Superpower says afamelanotide is approved only for EPP, has no approved cosmetic tanning indication, and that online 'Melanotan I' products are not the pharmaceutical-grade implant.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://superpower.com/guides/melanotan-1",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-02"
         },
         {
