@@ -168,7 +168,481 @@
       "year": 2014,
       "summary": "ClinicalTrials.gov record of a completed phase 2 study (64 participants) of ARA-290 on corneal nerve fiber density and neuropathic symptoms in sarcoidosis, with sites in the United States and the Netherlands.",
       "finding": "The record shows the trial completed; it does not by itself show efficacy. The published results are summarized in the phase 2b paper. No active registered ARA-290 trial was found."
+    },
+    {
+      "id": "r-sarc-daily-2013",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "24136731",
+      "year": 2013,
+      "summary": "Blinded, placebo-controlled trial (Dahan et al., Mol Med) of 28 days of daily subcutaneous ARA 290 in patients with documented sarcoidosis-associated small nerve fiber loss and damage.",
+      "finding": "Neuropathic symptoms improved significantly, with an increase in corneal small nerve fiber density, changes in temperature sensitivity and a longer 6-minute walk distance. The authors call it a potential disease-modifying treatment. The abstract does not state the dose."
+    },
+    {
+      "id": "r-review-2015",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "25728128",
+      "year": 2015,
+      "summary": "Review (Collino, Thiemermann, Cerami, Brines, Pharmacol Ther) of the pharmacology of ARA-290 (pHBSP), an 11 amino acid peptide modeled on erythropoietin, written with authors from the developer Araim Pharmaceuticals.",
+      "finding": "The peptide is described as activating the innate repair receptor, a complex of the erythropoietin receptor and the beta common receptor, without acting on the red blood cell receptor. Its plasma half-life is about 2 minutes, yet effects are described as long-lasting in animal models and clinical trials."
+    },
+    {
+      "id": "r-rat-2014",
+      "evidence_type": "animal_study",
+      "source_kind": "pubmed",
+      "identifier": "24529189",
+      "year": 2014,
+      "summary": "Rat spared-nerve-injury study (Swartjes et al., Mol Pain) giving vehicle or ARA290 at 3, 10, 30 or 60 micrograms per kilogram on days 1, 3, 6, 8 and 10.",
+      "finding": "Five doses over 10 days reduced pain-like hypersensitivity for up to 20 weeks in a dose-dependent way, with less spinal microglia (immune cell) activation. This is animal data only."
+    },
+    {
+      "id": "r-hv-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "26431906",
+      "year": 2015,
+      "summary": "Double-blind, randomized, parallel-group study (Cerit et al., Eur Neuropsychopharmacol) of a single 2 mg ARA290 dose or placebo in 36 healthy volunteers, assessed one week later.",
+      "finding": "Emotional-processing measures shifted slightly, but the pattern did not clearly match an antidepressant effect and mood was unchanged. It shows a single 2 mg dose was given to healthy people and effects were measured a week later."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "ARA-290 is unapproved, so there is no labeled dose. Trials gave 2 mg by vein three times a week, or 1, 4 or 8 mg a day under the skin, and only the 4 mg group clearly improved nerve fibers in the largest trial. Online sources describe 4 mg a day as the usual dose, which matches the trials but is not an approved instruction.",
+      "items": [
+        {
+          "text": "In a 2012 randomized placebo-controlled pilot trial, ARA-290 2 mg was given intravenously three times weekly for 4 weeks to 22 adults with sarcoidosis and small fiber neuropathy symptoms.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2012"
+        },
+        {
+          "text": "In a 2017 phase 2b randomized trial of 64 people with sarcoidosis-associated small nerve fiber loss, cibinetide 1, 4, or 8 mg per day was compared with placebo for 28 days. Nerve fiber area rose significantly versus placebo only in the 4 mg group.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2b-2017"
+        },
+        {
+          "text": "In a 2015 phase 2 placebo-controlled study of people with type 2 diabetes and painful neuropathy, ARA-290 4 mg was self-administered subcutaneously daily for 28 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "In a 2013 blinded placebo-controlled trial, patients with sarcoidosis-associated small nerve fiber loss received daily subcutaneous ARA 290 for 28 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-daily-2013"
+        },
+        {
+          "text": "In a 2020 open-label phase 2 study of 9 adults with diabetic macular edema (8 completed), cibinetide 4 mg per day was self-injected subcutaneously for 12 weeks.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-dme-2020"
+        },
+        {
+          "text": "In a 2015 study of 36 healthy volunteers, a single 2 mg ARA290 dose was compared with placebo and effects were assessed one week later.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-hv-2015"
+        },
+        {
+          "text": "Published trials gave ARA-290 by self-administered subcutaneous injection or by intravenous injection.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "A peptide information platform that lists product vendors says people commonly use 4 mg daily by subcutaneous injection, with a range of 4 to 8 mg daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide education website with affiliate supplier links states research conventions of 2 mg daily rising to 2 to 4 mg daily over 4 to 8 weeks, or 4 mg daily for 6 to 8 weeks for neuropathy, and notes these are not clinically established.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide wiki that lists vendor links says its research protocol is 2 mg three times weekly for 4 weeks, and a clinical application of 4 mg once daily for 28 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that promotes a peptide seller with a discount code and affiliate links, says human studies used 1 to 8 mg daily subcutaneously, with 4 mg most often, and that people commonly use 1 to 4 mg a day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company that says it does not sell or facilitate access to ARA-290, lists trial regimens of 2 mg intravenously three times weekly for 4 weeks, 4 mg subcutaneously daily for 28 days, and 4 mg daily subcutaneously for 12 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No trial source found reports a time of day. One online wiki says any time of day works with no meal timing needs, which is its own statement and has not been tested.",
+      "items": [
+        {
+          "text": "A peptide wiki that lists vendor links says to inject at any time of day, with no meal timing requirements.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested ARA-290 with or without food. In the type 2 diabetes trial, hemoglobin A1c (average blood sugar marker) and blood fats improved versus placebo, though that trial did not test meals. Online sources say there are no meal rules or give no food guidance.",
+      "items": [
+        {
+          "text": "In the 28-day type 2 diabetes trial, hemoglobin A1c and lipid profiles improved versus placebo through the 56-day observation period. The study did not test timing with food.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "A peptide wiki that lists vendor links says there are no meal timing restrictions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that promotes a peptide seller, gives no time-of-day or food guidance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company, says its guide gives no information on timing relative to meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Trials used once-daily subcutaneous dosing or three intravenous doses a week. Online sources mostly say once daily. No source found covers missed doses or changing the dose day. In rats, five doses over 10 days had effects for weeks, which has not been shown in people.",
+      "items": [
+        {
+          "text": "The 2012 sarcoidosis pilot gave ARA-290 intravenously three times weekly for 4 weeks versus placebo. The phase 2b trial and the diabetes trial gave daily doses for 28 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2012"
+        },
+        {
+          "text": "The 2020 macular edema study gave 4 mg every day for 12 weeks in 9 adults.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-dme-2020"
+        },
+        {
+          "text": "In rats with nerve injury, ARA290 given on days 1, 3, 6, 8 and 10 reduced pain-like hypersensitivity for up to 20 weeks.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-2014"
+        },
+        {
+          "text": "A review says the peptide has a plasma half-life of about 2 minutes, yet effects are described as long-lasting in animal models and trials.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-review-2015"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that promotes a peptide seller, says frequency is once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide wiki that lists vendor links says 4 mg once daily or 2 mg three times weekly are the research protocols.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 4 weeks (up to 12 weeks in one small study) with a month of follow-up in one. Benefits in the diabetes trial lasted through that month. No study tested repeated courses or what happens after stopping long term. Online sources describe 28-day cycles, sometimes repeatable, which is not studied.",
+      "items": [
+        {
+          "text": "Published trials gave ARA-290 over courses of a few weeks, followed by an observation period without treatment.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "The sarcoidosis pilot trial gave ARA-290 for four weeks versus placebo, and the phase 2b trial compared several daily amounts against placebo over 28 days.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2012"
+        },
+        {
+          "text": "In the diabetes trial, subjects were followed one month after the 28-day course, and hemoglobin A1c and lipid improvements were seen throughout the 56-day period.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "The macular edema study treated 9 patients for 12 weeks and did not show average improvement in vision or retinal thickness.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-dme-2020"
+        },
+        {
+          "text": "Superpower, a health testing company, says trials used intravenous and subcutaneous injections for periods of roughly 4 to 28 days, and that no active trials are registered.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide wiki that lists vendor links says a cycle is 28 days and can be repeated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that promotes a peptide seller, says a cycle is about 4 weeks (28 days), matching trial blocks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide education website with affiliate supplier links states conventions of 4 to 8 weeks, or 6 to 8 weeks for neuropathy, and notes these are not clinically established.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Trials had people self-inject under the skin or gave doses by vein under study conditions. No trial source gave storage or mixing rules. Online sellers give freezer and fridge rules that come from the sellers and are not tested.",
+      "items": [
+        {
+          "text": "In the type 2 diabetes trial, participants self-administered ARA 290 subcutaneously. The sarcoidosis pilot gave it intravenously under study conditions.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that promotes a peptide seller, says to store the freeze-dried powder at minus 20 C, keep it at 2 to 8 C once mixed and use within about 14 days, protect it from light and discard it if cloudy.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols says a common setup is a 16 mg vial with 2 mL bacteriostatic water, injected into lower belly or thigh fat with site rotation.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide wiki that lists vendor links says to store the freeze-dried peptide at minus 20 C and keep mixed solution at 2 to 8 C for up to 14 days, away from light, and to rotate injection sites.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company, says its guide gives no storage or reconstitution information and that no legal pharmaceutical-grade source exists in the United States.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Designed from erythropoietin to switch on a repair receptor that responds to injury and inflammation, without raising red blood cells. How this works in people is not established.",
+      "items": [
+        {
+          "text": "A review by authors from the developer says ARA-290 activates the innate repair receptor (erythropoietin receptor plus beta common receptor) and not the red-cell receptor, and that the receptor is mainly switched on by injury or inflammation. Its plasma half-life is about 2 minutes.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-review-2015"
+        },
+        {
+          "text": "In rats with nerve injury, ARA290 reduced pain-like hypersensitivity and spinal immune cell (microglia) activation.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-rat-2014"
+        },
+        {
+          "text": "Superpower, a health testing company, says the compound targets the innate repair receptor and does not raise red blood cell counts.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A peptide wiki that lists vendor links says it activates the innate repair receptor and shifts macrophage (immune cell) behavior from inflammatory to repair-type.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In 64 people with sarcoidosis nerve loss, 4 mg a day for 28 days increased corneal nerve fiber area versus placebo. Pain improved in every group including placebo, and the one eye study found no vision benefit.",
+      "items": [
+        {
+          "text": "In the phase 2b trial, placebo-corrected corneal nerve fiber area change was 697 square micrometres (95% CI 159 to 1236, P=0.012) with 4 mg, and not significant with 1 or 8 mg. Pain improved in all groups.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2b-2017"
+        },
+        {
+          "text": "In 22 sarcoidosis patients, the small fiber neuropathy screening score improved more with ARA 290 than placebo, while pain and fatigue scores improved equally in both groups.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2012"
+        },
+        {
+          "text": "In 9 people with diabetic macular edema, vision and retinal thickness did not improve on average.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-dme-2020"
+        },
+        {
+          "text": "A peptide information site with vendor directories and affiliate links says human evidence exists only for sarcoidosis small fiber neuropathy, and that claims of general recovery for healthy people are not backed by human data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company, says the human evidence is phase 2 work at a single center in the Netherlands, with no phase 3 or multicenter replication.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Short phase 2 trials reported no safety concerns, no serious adverse events and no antibodies in 9 people. These were small and short, so rarer or long-term effects are unknown.",
+      "items": [
+        {
+          "text": "In the sarcoidosis pilot trial of 22 patients, no safety concerns were raised by clinical or laboratory assessments.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-sarc-2012"
+        },
+        {
+          "text": "In the phase 2 type 2 diabetes trial, no potential safety issues were identified over 28 days of treatment and one month of follow-up.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-t2d-2015"
+        },
+        {
+          "text": "In the nine-person macular edema study, no serious adverse events and no antibodies to cibinetide were seen. The study was too small to establish safety.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-dme-2020"
+        },
+        {
+          "text": "Superpower, a health testing company, says adverse events across trials were mild, with no serious events attributed to the drug and stable blood counts.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Sellers and affiliate sites describe mild, short-lived injection-site reactions, headache or fatigue. These come from sources that promote products and are not trial data.",
+      "items": [
+        {
+          "text": "A peptide wiki that lists vendor links says reported effects include injection site reactions, headache and fatigue, described as mild and transient.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site that promotes a peptide seller, says effects are mild injection-site redness or discomfort and occasional headache.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Not FDA approved, and no legal pharmaceutical-grade source exists in the United States. Gray-market products carry authenticity, purity and sterility risks.",
+      "items": [
+        {
+          "text": "A peptide information site (mypeptidestory.com, which carries vendor directories and affiliate links) says trial safety was relatively favorable and warns that gray-market products carry authenticity, purity and sterility risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Superpower, a health testing company, says ARA-290 is not FDA approved for any indication and that its developer ceased operations.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/ara-290",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

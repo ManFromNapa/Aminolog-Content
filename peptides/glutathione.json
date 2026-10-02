@@ -129,7 +129,526 @@
       "year": 2021,
       "summary": "Double-blind randomized trial in 46 participants of topical and oral glutathione for skin whitening over 8 weeks.",
       "finding": "Combined topical and oral glutathione lowered the melanin index vs placebo; small trial of oral and topical, not injected, glutathione."
+    },
+    {
+      "id": "gsh-cf-inhaled-2013",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23631796",
+      "year": 2013,
+      "summary": "Randomized, double-blind, placebo-controlled trial of inhaled glutathione (646 mg in 4 ml by nebulizer every 12 hours for 6 months) in 153 people aged 8 and older with cystic fibrosis. Griese et al., Am J Respir Crit Care Med.",
+      "finding": "Lung function (FEV1) did not differ from placebo over 6 months; exacerbations and quality of life were not better. Glutathione reached the airways, but markers of oxidative stress did not fall. Adverse events were similar to placebo."
+    },
+    {
+      "id": "gsh-cf-inhaled-2015",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "25458463",
+      "year": 2015,
+      "summary": "Single-blind, randomized, placebo-controlled trial of inhaled glutathione twice daily for 12 months in 54 adults and 51 children with cystic fibrosis. Calabrese et al., J Cyst Fibros.",
+      "finding": "The preset goal of a 15% improvement in FEV1 was not met. Only people with moderate lung disease showed small FEV1 gains at 3, 6 and 9 months. The treatment was well tolerated."
+    },
+    {
+      "id": "gsh-asthma-1997",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "9279219",
+      "year": 1997,
+      "summary": "Randomized, double-blind, crossover, placebo-controlled study of nebulized glutathione (600 mg in 4 ml saline over 25 minutes) in 8 people with mild asthma. Marrades et al., Am J Respir Crit Care Med.",
+      "finding": "Glutathione narrowed the airways (FEV1 fell 19% versus 1% with placebo) and caused cough in 4 and breathlessness in 3 of 8 people. The authors suggested sulfite formation as the cause; a salbutamol inhaler blocked the effect."
+    },
+    {
+      "id": "gsh-fog-1999",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "10575337",
+      "year": 1999,
+      "summary": "Double-blind crossover study of inhaled glutathione 600 mg given 30 minutes before a water-mist (fog) challenge in 12 people with mild to moderate asthma. Bagnato et al., Respiration.",
+      "finding": "Glutathione reduced the fall in FEV1 after the fog challenge (6% versus 20% with placebo), similar to sodium cromoglycate, a standard asthma preventer."
+    },
+    {
+      "id": "gsh-iv-pd-2009",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "19230029",
+      "year": 2009,
+      "summary": "Randomized, double-blind, placebo-controlled pilot trial of intravenous glutathione 1,400 mg three times a week for 4 weeks in 21 people with Parkinson's disease, followed for 8 more weeks. Hauser et al., Mov Disord.",
+      "finding": "Glutathione was well tolerated with adverse events similar to placebo. Symptom scores did not differ significantly from placebo during treatment (2.8 points better, P = 0.32) or afterward (3.5 points worse, P = 0.54)."
+    },
+    {
+      "id": "gsh-review-sonthalia-2016",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "27088927",
+      "year": 2016,
+      "summary": "Review of glutathione metabolism, mechanism and evidence as a skin-lightening agent. Sonthalia, Daulatabad and Sarkar, Indian J Dermatol Venereol Leprol.",
+      "finding": "Glutathione is a three-amino-acid antioxidant that keeps cells in redox balance and is proposed to lighten skin by blocking the tyrosinase enzyme and shifting melanin type. The authors found no evidence that intravenous glutathione works, noted a Philippines FDA warning against its off-label use, and said treatment duration, how long effects last and maintenance schedules remain unanswered."
+    },
+    {
+      "id": "gsh-review-cureus-2025",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "40013212",
+      "year": 2025,
+      "summary": "Narrative review of oral, topical and intravenous glutathione for skin lightening. Alzahrani et al., Cureus.",
+      "finding": "Oral glutathione lowered melanin with limited side effects. The review describes a small placebo-controlled intravenous trial (Zubair et al., 1,200 mg twice weekly for 6 weeks) in which 37.5% of the treated group and 18.7% of the placebo group reported lighter skin, 32% had adverse events including liver dysfunction and one had anaphylaxis, and benefits faded over 6 months. It notes that intravenous use lacks standard dosing protocols."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "Not approved as a drug. Studies gave 250 to 1,000 mg a day by mouth for 1 to 6 months, 1,200 to 1,400 mg by IV (intravenous, into a vein) twice or three times a week, and 600 to 646 mg by nebulizer (an inhaled mist) in small trials. Online sources describe injected doses of 100 to 600 mg and nebulized doses of 200 to 600 mg, which have not been tested in matched studies.",
+      "items": [
+        {
+          "text": "In a 2015 six-month randomized trial, oral glutathione 250 mg/day or 1,000 mg/day was given to 54 non-smoking healthy adults, with blood glutathione rising at both doses.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-rct-2015"
+        },
+        {
+          "text": "In a 2018 one-month pilot study, oral liposomal glutathione 500 mg/day or 1,000 mg/day was given to 12 healthy adults.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "gsh-liposomal-2018"
+        },
+        {
+          "text": "In a 2026 crossover pilot in 14 healthy adults, single oral doses of standard glutathione 500 mg and micellar glutathione 300 mg were compared, followed by 30 days of micellar glutathione 600 mg/day.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "gsh-oral-2026"
+        },
+        {
+          "text": "A crossover trial of oral glutathione formulations in 14 healthy adults reported that a micellar formulation produced higher blood glutathione exposure than standard oral glutathione at the doses tested.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "gsh-oral-2026"
+        },
+        {
+          "text": "Intravenous glutathione 1,400 mg was given three times a week for 4 weeks to 21 people with Parkinson's disease, not for skin use.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-iv-pd-2009"
+        },
+        {
+          "text": "A review describes a small placebo-controlled intravenous skin-lightening trial that used 1,200 mg twice weekly for 6 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-cureus-2025"
+        },
+        {
+          "text": "Inhaled glutathione 646 mg in 4 ml was given by nebulizer every 12 hours for 6 months to 153 people with cystic fibrosis aged 8 and older.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2013"
+        },
+        {
+          "text": "Nebulized glutathione 600 mg in 4 ml saline was given once over 25 minutes to 8 people with mild asthma, and it narrowed their airways.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-asthma-1997"
+        },
+        {
+          "text": "ScienceInsights, an educational website, says most studies of oral glutathione for skin use daily doses between 250 and 1,000 mg, and that a trial of intravenous glutathione used 1,200 mg twice weekly for six weeks. It adds that oral glutathione is limited by digestive breakdown, topical forms are used for dark spots, and IV gives the highest blood levels but carries the greatest risks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative, an educational site, lists subcutaneous (under the skin) doses of 100 mg per injection or 200 mg per injection, up to about 600 mg per week, and cites the Parkinson's IV trial dose of 1,400 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/glutathione",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A compounding pharmacy site (Medivera Rx) says typical subcutaneous doses are 100 to 400 mg and intramuscular doses 200 to 600 mg, up to about 1,000 mg, and describes the product as not FDA-approved for any indication.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A clinic blog (Integrative Medicine Center of Western Colorado) says to start nebulized glutathione at 1 mL (200 mg) mixed with 4 mL saline and, if tolerated, raise to 3 mL (600 mg).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested time of day. Online sources suggest mornings for oral doses, with no trial support.",
+      "items": [
+        {
+          "text": "The Peptide Initiative says oral glutathione is commonly taken in the morning.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/glutathione",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Plixlife, a seller of glutathione tablets, says to take glutathione in the morning 20 to 30 minutes before breakfast, or in the evening 2 to 3 hours after dinner.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No study tested food with glutathione. Online sources disagree: one seller says an empty stomach helps absorption, while another site says it can be taken with or without food.",
+      "items": [
+        {
+          "text": "Plixlife, a seller of glutathione tablets, says an empty stomach gives a clear path for absorption and to wait at least 30 minutes before eating, but also says light meals may reduce stomach upset.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says oral glutathione can be taken with or without food.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/glutathione",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "In studies, oral glutathione was taken daily, IV doses two or three times a week, and inhaled doses once or twice daily. Online sources describe injections one to three times a week or every 3 days and nebulizing once or twice daily. No missed-dose rules were found.",
+      "items": [
+        {
+          "text": "Oral doses were taken daily for 6 months in the 2015 randomized trial.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-rct-2015"
+        },
+        {
+          "text": "The Parkinson's trial gave IV glutathione three times a week for 4 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-iv-pd-2009"
+        },
+        {
+          "text": "The reviewed skin trial gave IV glutathione twice a week for 6 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-cureus-2025"
+        },
+        {
+          "text": "The cystic fibrosis trials used inhaled glutathione every 12 hours (Griese, 6 months) or twice daily (Calabrese, 12 months).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2013"
+        },
+        {
+          "text": "Twelve months of inhaled glutathione twice daily in 105 children and adults with cystic fibrosis did not reach the preset lung-function goal.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2015"
+        },
+        {
+          "text": "The Peptide Initiative says subcutaneous glutathione is used 2 to 3 times per week and is often used continuously.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/glutathione",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A compounding pharmacy site (Medivera Rx) says injections are used 1 to 3 times per week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alan Health, a telehealth seller of compounded glutathione, says to inject subcutaneously once every 3 days or as directed by a provider.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A clinic blog (Integrative Medicine Center of Western Colorado) says to nebulize glutathione once or twice a day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Trials ran 4 weeks to 12 months. In people, blood levels fell back to baseline after oral glutathione stopped, and skin effects faded after IV treatment ended. Online sources say effects take 6 to 12 weeks and fade when use stops.",
+      "items": [
+        {
+          "text": "Blood glutathione rose over 6 months of oral dosing and returned to baseline after washout (stopping the supplement).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-rct-2015"
+        },
+        {
+          "text": "An 8-week trial of combined topical and oral glutathione for skin whitening lowered the melanin index versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-skin-2021"
+        },
+        {
+          "text": "After the 6-week IV skin course described in a review, improvement was gradually lost and faded over 6 months of follow-up.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-cureus-2025"
+        },
+        {
+          "text": "In the 4-week IV Parkinson's trial, symptom scores worsened by 3.5 units more in the glutathione group over the next 8 weeks (not significant).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-iv-pd-2009"
+        },
+        {
+          "text": "The authors of a skin-lightening review say the duration of treatment, how long the effect lasts and maintenance protocols remain unanswered.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-sonthalia-2016"
+        },
+        {
+          "text": "ScienceInsights says oral glutathione takes 6 to 12 weeks for reported effects, and that skin changes are temporary and fade if you stop using the product.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No study covered storage. Online sellers of compounded injections say to refrigerate vials, and one site says to keep oral products cool, dry and away from light.",
+      "items": [
+        {
+          "text": "Medivera Rx, a compounding pharmacy, says to store glutathione injections in a refrigerator at 36 to 46 degrees F (about 2 to 8 degrees C), that the beyond-use date is about 30 days from dispensing, and that a multi-dose vial should be discarded 28 days after first puncture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Alan Health, a telehealth seller of compounded glutathione, says to keep vials refrigerated when not in use, not to freeze them, and to avoid heat and direct sunlight. It says to inject under the skin in the abdomen at least 2 inches from the belly button, the thigh or the upper arm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "The Peptide Initiative says to keep oral capsules and powders in a cool, dry place away from light.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinitiative.com/peptides/protocols/glutathione",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Glutathione is a natural antioxidant that helps cells keep their chemical balance. It is proposed to lighten skin by blocking the enzyme tyrosinase, which is based mostly on lab data. Inhaled glutathione reached the airways in cystic fibrosis but did not change oxidative stress markers.",
+      "items": [
+        {
+          "text": "A review says glutathione is a tripeptide that keeps cells in redox balance and lightens skin by blocking tyrosinase and switching from dark to lighter melanin.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "gsh-review-sonthalia-2016"
+        },
+        {
+          "text": "In people taking oral glutathione for 6 months, blood glutathione rose and oxidative stress markers fell, and natural killer (NK) cell activity rose at the higher level.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-rct-2015"
+        },
+        {
+          "text": "Inhaled glutathione raised glutathione in sputum but did not reduce markers of oxidative stress to proteins or fats in the airways.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2013"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "The most solid result is that oral glutathione raises blood glutathione in healthy adults. For skin lightening, a small oral and topical trial found a lower melanin index, while the single IV trial reviewed was small and its benefit faded. Trials of IV glutathione in Parkinson's disease and inhaled glutathione in cystic fibrosis found no clear benefit.",
+      "items": [
+        {
+          "text": "In a six-month randomized trial of 54 healthy adults, oral glutathione raised blood levels in a dose-dependent way, and levels returned to baseline after stopping.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-rct-2015"
+        },
+        {
+          "text": "In a double-blind trial of 46 people over 8 weeks, combined topical and oral glutathione lowered the melanin index versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-skin-2021"
+        },
+        {
+          "text": "In the small IV skin trial described in a review, 37.5% of the treated group and 18.7% of the placebo group reported lighter skin, and the benefit faded within 6 months.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-cureus-2025"
+        },
+        {
+          "text": "In 21 people with Parkinson's disease, IV glutathione 1,400 mg three times a week for 4 weeks did not significantly change symptom scores versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-iv-pd-2009"
+        },
+        {
+          "text": "In 153 people with cystic fibrosis, inhaled glutathione for 6 months did not improve lung function versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2013"
+        },
+        {
+          "text": "ScienceInsights says in trials only 37.5% of IV glutathione recipients reported lighter skin vs 18.7% with placebo, with effects described as temporary.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Oral",
+      "summary": "Oral glutathione was well tolerated in the small trials found, including a 30-day safety follow-up in 14 adults. ScienceInsights also says it is generally well tolerated at standard doses.",
+      "items": [
+        {
+          "text": "The 2026 crossover pilot included a 30-day safety follow-up of micellar glutathione 600 mg/day in 14 healthy adults.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "gsh-oral-2026"
+        },
+        {
+          "text": "A review says oral glutathione lowered melanin with limited side effects.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-cureus-2025"
+        },
+        {
+          "text": "ScienceInsights says oral supplements are generally well tolerated at standard doses.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Injected or IV",
+      "summary": "Serious reactions concentrate in injected forms. In a reviewed skin trial 32% of people had adverse events including liver dysfunction and one anaphylaxis (a severe allergic reaction), though a small Parkinson's trial saw events similar to placebo.",
+      "items": [
+        {
+          "text": "A review of the IV skin trial reports 32% of participants had adverse events, including liver dysfunction and one case of anaphylaxis.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-cureus-2025"
+        },
+        {
+          "text": "In the 21-person Parkinson's trial, IV glutathione 1,400 mg was well tolerated with adverse events similar to placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-iv-pd-2009"
+        },
+        {
+          "text": "A review says adverse effects of IV glutathione led the Philippines FDA to warn against off-label uses such as skin lightening.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-review-sonthalia-2016"
+        },
+        {
+          "text": "ScienceInsights says serious reactions concentrate in injectable forms, including severe allergic reactions such as Stevens-Johnson syndrome and anaphylaxis, and that IV glutathione with high-dose vitamin C raises kidney stone risk.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://scienceinsights.org/does-glutathione-lighten-skin-what-the-evidence-shows/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A dermatology clinic blog lists mild effects of injectable glutathione as nausea, headache and injection-site pain, and serious effects as liver injury, endotoxin-contamination shock-like reactions and anaphylaxis.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "title": "Inhaled",
+      "summary": "In people with mild asthma, a nebulized dose caused airway narrowing, cough and breathlessness. In cystic fibrosis trials, inhaled glutathione had side effects similar to placebo.",
+      "items": [
+        {
+          "text": "In 8 people with mild asthma, nebulized glutathione 600 mg cut FEV1 by 19% (placebo 1%), with cough in 4 and breathlessness in 3; salbutamol blocked the effect.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-asthma-1997"
+        },
+        {
+          "text": "In another asthma study of 12 people, inhaled glutathione 600 mg reduced fog-induced airway narrowing instead.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-fog-1999"
+        },
+        {
+          "text": "In 153 people with cystic fibrosis, adverse events were similar between inhaled glutathione and placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2013"
+        },
+        {
+          "text": "In 105 children and adults with cystic fibrosis, inhaled glutathione for 12 months was well tolerated.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "gsh-cf-inhaled-2015"
+        }
+      ]
+    },
+    {
+      "title": "Regulator warning",
+      "summary": "The FDA has not approved any injectable drug for skin lightening and has warned that such products, often containing glutathione, are unapproved and may contain unknown substances.",
+      "items": [
+        {
+          "text": "A Healio report says the FDA stated it has not approved any injectable drug for skin whitening, and that products often containing glutathione are unapproved new drugs with unverifiable contents.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.healio.com/news/dermatology/20150914/fda-warns-consumers-about-injectable-skin-lightening-products",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Healio reports the FDA warned that injectable skin-lightening products, often containing glutathione, are unapproved and risk injecting an unknown substance.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.healio.com/news/dermatology/20150914/fda-warns-consumers-about-injectable-skin-lightening-products",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

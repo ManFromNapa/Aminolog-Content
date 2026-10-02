@@ -129,5 +129,295 @@
       "finding": "The combination normalized body weight and adiposity toward lean controls in mice and was associated with a distinct cecal microbiome."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "No human dose has been tested. Mouse studies used 10 to 32 mg per kilogram by injection. Online sources describe 50 to 150 mg per day by mouth and 2.5 to 5 mg per day by injection, with no human trial behind them.",
+      "items": [
+        {
+          "text": "In a 2024 mouse study, 5A1MQ was given to diet-induced obese mice as a once-daily subcutaneous injection at 10 mg/kg/day or 32 mg/kg/day for about 30 days. Animal study only, not human data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "5a1mq-dio-2024"
+        },
+        {
+          "text": "In a 2018 mouse study, the NNMT inhibitor 5-amino-1MQ was given subcutaneously at 20 mg/kg three times daily (about 34 mg/kg/day) for 11 days. Animal study only, not human data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-inhibitors-2018"
+        },
+        {
+          "text": "In a 2022 mouse study, 5-amino-1-methylquinolinium was given by subcutaneous injection at 32 mg/kg combined with a low-fat diet. Animal study only, not human data.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-microbiome-2022"
+        },
+        {
+          "text": "A peptide dosing guide with supplier discount codes and affiliate links says the research community commonly uses 50 to 150 mg per day orally (100 mg described as the most common target) and 2.5 to 5 mg once daily subcutaneously, and notes no human trial has established a dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide information site with a shop button to a recommended vendor lists oral 5-amino-1MQ as 50 mg capsules taken one to three times daily (50 to 150 mg per day).",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says the standard dose is 50 to 150 mg per day taken orally in one or two doses, starting at 50 mg in the morning and rising to 100 mg after two weeks if tolerated. It says all protocols come from mouse studies and practitioner reports.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "No study tested timing. Online sources suggest mornings because evening use might disrupt sleep. This is unproven.",
+      "items": [
+        {
+          "text": "A peptide-dosing site with affiliate links says community protocols tend to use mornings because evening use might disrupt sleep.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says to take it in the morning.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "No human study compares fasted and fed use. Online sources say oral capsules can be taken with or without food.",
+      "items": [
+        {
+          "text": "A peptide-dosing site with affiliate links says oral capsules are the standard route and injection is less common, and that no human study compares fasted and fed use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says it can be taken with or without food, and that anecdotal reports suggest an empty stomach may cause nausea in sensitive people.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "No human frequency data exists. Mouse studies gave it once daily or three times daily by injection. Online sources describe one to three capsules of 50 mg per day.",
+      "items": [
+        {
+          "text": "Mouse studies gave 5A1MQ once daily for about 30 days, and in another study 20 mg/kg three times daily for 11 days, by subcutaneous injection.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "5a1mq-dio-2024"
+        },
+        {
+          "text": "A peptide information site with a shop button to a recommended vendor lists 50 mg capsules taken one to three times daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says the oral dose is taken once or twice daily during active cycles.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest animal studies lasted about 4 weeks. Nothing is known about longer use or stopping. Online sources describe 8 to 12 week cycles with 4 to 6 weeks off, and PeptidesExplorer says no data exists beyond 12 weeks in any species.",
+      "items": [
+        {
+          "text": "The 2024 mouse study gave 5A1MQ once daily for 28 days and found limited weight and fat gain, with improved glucose tolerance and less fatty liver.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "5a1mq-dio-2024"
+        },
+        {
+          "text": "The 2018 mouse study treated obese mice for 11 days and reduced body weight and white fat mass.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-inhibitors-2018"
+        },
+        {
+          "text": "PeptidesExplorer says active cycles of 8 to 12 weeks are followed by 4 to 6 weeks off, and that no data exists on continuous NNMT inhibition beyond 12 weeks in any species.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. Online sources say capsules are kept at room temperature, while freeze-dried vials are kept frozen and mixed solutions are refrigerated and used within 2 to 4 weeks.",
+      "items": [
+        {
+          "text": "A Superpower guide describes 5-amino-1MQ as circulating through gray-market research chemical vendors labeled research use only, and states it is not prescribed or dispensed through that company.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A peptide-dosing site with affiliate links says lyophilized vials are kept frozen long term and reconstituted solutions are refrigerated and used within 2 to 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer says capsules are kept at room temperature in sealed, dark containers, do not need refrigeration, and stay stable for 12 or more months.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "It blocks an enzyme called nicotinamide N-methyltransferase (NNMT) found in fat cells. In cells and mice this raised levels of NAD+ and SAM, two molecules involved in energy use. How it acts in people is unknown.",
+      "items": [
+        {
+          "text": "The 2018 study found NNMT inhibitors lowered 1-MNA, raised NAD+ and SAM, and suppressed fat production in cultured fat cells. The authors say this may define the mechanism, and the work was in cells and mice.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-inhibitors-2018"
+        },
+        {
+          "text": "A Superpower guide says 5-Amino-1MQ inhibits NNMT, an enzyme that depletes S-adenosylmethionine (SAM) in fat tissue, shifting cell metabolism toward fat burning and energy use.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Only mouse results exist. Obese mice given it lost body weight and fat and had better blood sugar and fatty liver. No human trial has been found, and mouse findings often do not carry over to people.",
+      "items": [
+        {
+          "text": "In diet-induced obese mice, 5A1MQ over 28 days dose-dependently limited body weight and fat mass gains, improved glucose tolerance and insulin sensitivity, and reduced fatty liver.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "5a1mq-dio-2024"
+        },
+        {
+          "text": "A potent NNMT inhibitor reduced body weight, white fat mass and total cholesterol in obese mice without changing food intake.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-inhibitors-2018"
+        },
+        {
+          "text": "Combined with a low-fat diet, 5-amino-1-methylquinolinium returned obese mice to lean-control body weight and fat levels faster than the diet switch alone.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-microbiome-2022"
+        },
+        {
+          "text": "A Superpower guide says all data are from rodents, that no human trials, IND or registered trials exist as of April 2026, and that mouse findings frequently do not replicate in humans.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "An affiliate peptide-dosing site says no published human dosing trial exists and that doses used in the community come from rodent studies or anecdotal reports.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In animals",
+      "summary": "The 2018 mouse study reported no observable adverse effects. No human safety data exists.",
+      "items": [
+        {
+          "text": "In the 2018 mouse study, NNMT inhibitors did not change total food intake or produce any observable adverse effects.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "nnmt-inhibitors-2018"
+        },
+        {
+          "text": "A Superpower guide says mouse studies noted no gross toxicity, and that no published human safety data exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "title": "Theoretical concerns",
+      "summary": "Raising SAM could affect cell methylation in unknown ways, and long-term effects on cancer biology are unknown. These are untested worries, not observed harms.",
+      "items": [
+        {
+          "text": "A Superpower guide lists theoretical concerns including off-target effects of raised SAM on cellular methylation and unknown long-term effects on cancer biology.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://superpower.com/guides/peptides/5-amino-1mq",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "Informal reports mention sleep trouble, warmth, faster heart rate, stomach upset and injection-site stinging. Frequency is unknown and none of it is confirmed.",
+      "items": [
+        {
+          "text": "The affiliate peptide-dosing site says informal reports mention sleep trouble, warmth, faster resting heart rate, stomach upset and injection-site stinging, and notes these are unconfirmed with unknown frequency.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "PeptidesExplorer lists headache (10 to 15%), nausea (5 to 10%), stomach discomfort (5 to 10%) and occasional stimulation (5 to 8%), and says no serious adverse events have been documented. It gives no source for these figures, and no human trial exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidesexplorer.com/blog/5-amino-1mq-dosage",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

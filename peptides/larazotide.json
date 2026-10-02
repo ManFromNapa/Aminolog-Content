@@ -122,6 +122,15 @@
       "finding": "No difference in the lactulose-to-mannitol ratio. Symptom scores were better with larazotide during gluten challenge but not in people on a gluten-free diet alone. Fewer adverse events than placebo."
     },
     {
+      "id": "r-slifer-2021",
+      "evidence_type": "review",
+      "source_kind": "pubmed",
+      "identifier": "33881350",
+      "year": 2021,
+      "summary": "Review article (Slifer, Krishnan, Madan and Blikslager, Am J Physiol Gastrointest Liver Physiol) on larazotide acetate as a tight junction regulator. Some authors have financial ties to the drug's developer.",
+      "finding": "Larazotide is thought to act as a zonulin antagonist and has been linked to inhibition of myosin light chain kinase, which likely lowers tension on actin filaments so tight junctions can close. Support comes largely from rodent and pig studies."
+    },
+    {
       "id": "r-ph1-2007",
       "evidence_type": "human_trial",
       "source_kind": "pubmed",
@@ -140,5 +149,346 @@
       "finding": "The trial was terminated by its sponsor and did not lead to an approval."
     }
   ],
-  "last_reviewed": "2026-10-01"
+  "how_to_take": {
+    "dose": {
+      "summary": "In studies, larazotide acetate was given by mouth as a capsule, most often 0.5 mg three times daily. In the largest trial only 0.5 mg beat placebo, while 1 and 2 mg did not. Peptide Dive and Peptide List describe the same 0.5 mg dose, and no regulator has set a dose.",
+      "items": [
+        {
+          "text": "In a 2015 phase 2b randomized, placebo-controlled trial, larazotide acetate 0.5, 1, or 2 mg was given three times daily for 12 weeks. The 0.5 mg dose met the primary endpoint, and the 1 and 2 mg doses did not differ from placebo (342 adults with celiac disease on a gluten-free diet with ongoing symptoms).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "In a 2013 exploratory randomized trial, larazotide acetate 1, 4, or 8 mg was given three times daily for 6 weeks during a daily gluten challenge of 2.7 g (184 people with celiac disease).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2013"
+        },
+        {
+          "text": "In a 2012 dose-ranging placebo-controlled study, larazotide acetate 0.25, 1, 4, or 8 mg was given three times daily for 14 days, with or without a 2.4 g daily gluten challenge (86 people with celiac disease). Some lower doses appeared to limit gluten-induced symptoms but the highest dose did not.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2012"
+        },
+        {
+          "text": "In an early inpatient study, single 12 mg doses of AT-1001 (larazotide) were given to people with celiac disease who were then challenged with gluten, and no increase in adverse events was seen versus placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph1-2007"
+        },
+        {
+          "text": "A ClinicalTrials.gov record of the phase 3 trial lists larazotide 0.25 mg and 0.50 mg capsules three times daily versus placebo (adults with persistent celiac disease symptoms, 307 enrolled per the record). The trial was terminated.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nct-ph3"
+        },
+        {
+          "text": "Peptide Dive, an information site stating it has no vendors or affiliates, lists a typical dose of 0.5 mg three times daily by mouth before meals. It also says larazotide is often paired with BPC-157, which has not been tested in studies of larazotide.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide List, an information site, says the phase 2 and phase 3 celiac programs used 0.5 mg capsules three times daily, and that no FDA-labeled dose exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelist.org/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Trials gave each capsule about 15 minutes before a meal, so the drug is in the gut when food arrives. Online sources repeat this. No growth hormone sleep timing applies to this peptide.",
+      "items": [
+        {
+          "text": "In the phase 2b trial, capsules were self-administered three times daily, 15 minutes before meals, after a 4-week placebo run-in.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "Peptide Dive says larazotide is taken orally before meals and acts locally in the gut lumen rather than being absorbed into the body.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideInsight, a non-commercial research site, says the phase 3 dose was taken about 15 minutes before meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Dan Wool, a clinic that offers peptide therapy, says larazotide is taken by mouth in capsule form before meals and begins working within hours.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The trials were done in people already on a gluten-free diet, and the capsule was taken before meals. Larazotide is not tested as a replacement for avoiding gluten, and one review of trials found benefit mainly during gluten challenge.",
+      "items": [
+        {
+          "text": "In the phase 2b trial, participants had followed a gluten-free diet for at least 12 months and kept to it during the study, and took the capsule 15 minutes before meals.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "A meta-analysis of four randomized trials (626 patients) found better symptom scores with larazotide during gluten challenge but not in people on a gluten-free diet alone.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-meta-2022"
+        },
+        {
+          "text": "Peptide List says larazotide was not designed or positioned as permission to eat gluten, and that it is not a replacement for a gluten-free diet.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelist.org/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "Every study found used three doses a day, one before each main meal. No source gives missed-dose rules or days off. Online sources describe the same three-times-daily schedule.",
+      "items": [
+        {
+          "text": "The phase 2b trial gave larazotide acetate three times daily for 12 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "The gluten challenge studies gave larazotide acetate three times daily, for 6 weeks in the 2013 study and 14 days in the 2012 study.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2013"
+        },
+        {
+          "text": "Peptide List says the dose is taken three times daily, 15 minutes before breakfast, lunch and dinner.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelist.org/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide Dive lists the typical schedule as three times daily before meals.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The longest controlled treatment found was 12 weeks, with improvement seen by week 2 at the 0.5 mg dose. The phase 3 trial was stopped, so longer use is untested. Online sources describe ongoing use without a studied cycle.",
+      "items": [
+        {
+          "text": "In the phase 2b trial, treatment lasted 12 weeks, followed by a 4-week placebo run-out. Symptom improvement at 0.5 mg was seen by treatment week 2 and was sustained over the 12 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "The gluten challenge studies lasted 6 weeks (2013) and 14 days (2012).",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2013"
+        },
+        {
+          "text": "The phase 3 trial was terminated by its sponsor and did not lead to an approval, so no longer-term efficacy or safety results are available.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nct-ph3"
+        },
+        {
+          "text": "Peptide List says trial exposure ran 12 to 52 weeks and that there is no established chronic-use regimen outside clinical trials.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelist.org/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Dr. Dan Wool, a clinic that offers peptide therapy, says effects begin within hours but noticeable improvement may take several weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Believed to block a gut protein signal called zonulin that loosens the seals between gut lining cells. This idea comes mainly from animal and cell studies. Human trials did not confirm a change in gut leakiness.",
+      "items": [
+        {
+          "text": "A 2021 review says larazotide is thought to act as a zonulin antagonist and has been linked to inhibition of myosin light chain kinase, with support from rodent and pig studies. This is mostly animal and cell evidence.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "r-slifer-2021"
+        },
+        {
+          "text": "In the 2013 gluten challenge study, a gut leakiness marker (lactulose-to-mannitol ratio) did not differ from placebo, so the proposed effect on gut leakiness was not shown in people.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2013"
+        },
+        {
+          "text": "In the 2012 study, the gut leakiness marker was too variable to show an effect of larazotide.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2012"
+        },
+        {
+          "text": "Peptide Dive says larazotide tightens intestinal tight junctions by antagonizing zonulin signaling and acts locally in the gut.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Peptide List says larazotide blocks the myosin light chain kinase pathway that drives tight junction opening.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidelist.org/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In the largest trial, 0.5 mg three times daily reduced symptoms in adults with celiac disease despite a gluten-free diet, but 1 and 2 mg did not, and the later phase 3 trial was stopped. Effects on leaky gut outside celiac disease are untested in people.",
+      "items": [
+        {
+          "text": "In the 342-adult phase 2b trial, 0.5 mg gave lower celiac symptom scores than placebo (p=0.022) and 26% fewer symptomatic days. The 1 and 2 mg doses were no different from placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "In the 184-person gluten challenge study, the rise in anti-tissue transglutaminase antibodies was smaller with larazotide (ratio to baseline 3.88 to 7.72 across groups) than with placebo (19.0), and the 1 mg dose limited gluten-induced symptoms.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2013"
+        },
+        {
+          "text": "A meta-analysis of four randomized trials (626 patients) found symptom benefit during gluten challenge but not in people on a gluten-free diet alone, and no change in the gut leakiness marker.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-meta-2022"
+        },
+        {
+          "text": "A very small early study of single doses found less of the gluten-induced rise in gut leakiness and fewer symptoms with AT-1001 than placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph1-2007"
+        },
+        {
+          "text": "The phase 3 trial (307 enrolled) was terminated by its sponsor and did not lead to an approval.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-nct-ph3"
+        },
+        {
+          "text": "Peptide Dive calls larazotide the most studied 'leaky gut' peptide, says it is not FDA approved, and describes phase 3 results as mixed. It says the phase 3 trial was completed, whereas the trial registry lists it as terminated.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "PeptideInsight says the phase 3 trial was discontinued in June 2022 after an interim analysis found too many more patients would be needed to show a difference from placebo.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptideinsight.com/en/peptides/larazotide",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "In trials",
+      "summary": "Across several celiac trials, side effects were similar to placebo. Headache and urinary tract infection were the most common in one study.",
+      "items": [
+        {
+          "text": "In a 342-person phase 2b trial, safety was reported as comparable with placebo, with no drug-related serious adverse events.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-ph2b-2015"
+        },
+        {
+          "text": "In the gluten challenge study of 184 people, adverse event rates were similar between larazotide and placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2013"
+        },
+        {
+          "text": "In the 86-person dose-ranging study, no serious adverse events were observed and the most common events were headache and urinary tract infection.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-gluten-2012"
+        },
+        {
+          "text": "A meta-analysis of four randomized trials (626 patients) reported fewer adverse events with larazotide than placebo overall.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "r-meta-2022"
+        }
+      ]
+    },
+    {
+      "title": "Online reports",
+      "summary": "One information site describes mild stomach discomfort and headache.",
+      "items": [
+        {
+          "text": "Peptide Dive describes side effects as mild, such as stomach discomfort and headache.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "One information site lists pregnancy as a contraindication.",
+      "items": [
+        {
+          "text": "Peptide Dive lists pregnancy as a contraindication.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedive.com/peptides/larazotide/",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }

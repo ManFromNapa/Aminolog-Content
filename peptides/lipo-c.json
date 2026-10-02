@@ -66,6 +66,222 @@
       "retrieved": "2026-10-01"
     }
   ],
-  "research": [],
-  "last_reviewed": "2026-10-01"
+  "research": [
+    {
+      "id": "pooyandjoo-2016-obes-rev",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "27335245",
+      "year": 2016,
+      "summary": "Systematic review and meta-analysis of 9 randomized controlled trials (911 adults) of (L-)carnitine and weight loss. Pooyandjoo et al., Obesity Reviews.",
+      "finding": "Carnitine was associated with a mean 1.33 kg greater weight loss and 0.47 kg/m2 lower body mass index than control, and the effect shrank with longer duration of use. It studied carnitine alone, not lipotropic mixtures."
+    }
+  ],
+  "how_to_take": {
+    "dose": {
+      "summary": "No studies set a dose for these mixtures, and contents vary by clinic. Sources describe about 1 mL given once or twice weekly, by muscle or under the skin.",
+      "items": [
+        {
+          "text": "Medical News Today, a health information site, says the dose depends on the ingredients and each clinic's protocol, and that no scientific data support the dosage claims made by weight-loss clinics.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the usual practice is a 1 mL injection once or twice weekly, under the skin or into muscle, with an example strength of methionine 15, inositol 50, choline 50, L-carnitine 50, vitamin B1 15 and vitamin B5 5 mg/mL. It notes no standard approved dose exists.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/lipo-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy that sells a Lipo-C product with methionine, choline chloride, L-carnitine and dexpanthenol, says the usual dose is 1 mL into muscle once or twice weekly, adjusted every four weeks, up to 2 mL twice weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "No studies set a schedule. Sources describe once or twice weekly, and one describes more often, with clinics differing.",
+      "items": [
+        {
+          "text": "Medical News Today says some clinics give lipotropic injections once weekly and others more often, and that no scientific data support any particular schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A Fastic blog says Lipo shots are usually given once or twice a week and that no official guidelines on dosage or frequency exist. Fastic's page promotes a fasting app.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://fastic.com/en/blog/mic-b12-injections-before-and-after",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says some guides mention 0.5 to 1.0 mL two to three times weekly.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/lipo-c",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "No trial has tested how long to use these mixtures. Online sources describe ongoing use or courses of several weeks. Studies of carnitine alone found weight loss shrank over time.",
+      "items": [
+        {
+          "text": "The same review found the weight loss from carnitine shrank the longer people used it (meta-regression p = 0.002). This is for carnitine alone and not for lipotropic mixtures.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pooyandjoo-2016-obes-rev"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the mixture is used as an ongoing add-on to diet and exercise, and that plans typically span 5 to 15 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/lipo-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy, says typical treatment lasts 12 to 16 weeks before reassessment.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "No label exists. Sources differ, with one saying refrigerate and one allowing room temperature or refrigeration, and both giving about a month of use after compounding.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols says to store the vials refrigerated at 2 to 8 C (36 to 46 F), use them by the beyond-use date (about 30 days), keep them from heat and light, and discard if cloudy. It mentions rotating injection sites but does not name them.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/lipo-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy, says its Lipo-C vials can be stored at room temperature (20 to 25 C) or refrigerated (2 to 8 C), protected from light in the carton, never frozen, with a beyond-use date of 28 days from compounding.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "A Fastic blog says B12 injections are usually given into muscle, commonly in the upper arm or thigh, and that MIC shots may be given into muscle or under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://fastic.com/en/blog/mic-b12-injections-before-and-after",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Methionine, inositol and choline play roles in how the body handles fat, but no study shows the injected mixture works this way in people. How it might cause fat loss is unproven.",
+      "items": [
+        {
+          "text": "Medical News Today says individual ingredients may be involved in fat metabolism, but the actual mechanism of the injections is unclear and unproven.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols describes each ingredient's role in fat metabolism but states that no controlled trial has tested the combination at any dose for weight loss.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/lipo-c",
+          "retrieved": "2026-10-02"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No trial of the injected mixtures was found. The nearest evidence is for carnitine alone, linked to about 1.3 kg extra weight loss across trials.",
+      "items": [
+        {
+          "text": "A systematic review of 9 randomized trials (911 adults) found oral or injected L-carnitine, one ingredient in some lipotropic mixes, was linked to 1.33 kg more weight loss than control. It did not test any mixture.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pooyandjoo-2016-obes-rev"
+        },
+        {
+          "text": "Medical News Today says researchers have not confirmed the effectiveness of lipotropic injections and that most data come from anecdotal evidence.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "A Fastic blog says reported results are mostly anecdotal and that it found no direct scientific evidence linking B12 injections to weight loss.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://fastic.com/en/blog/mic-b12-injections-before-and-after",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "Injection site pain is the most commonly named effect. Sources say research on side effects is limited.",
+      "items": [
+        {
+          "text": "Medical News Today says there is little research on side effects, that known risks include injection site pain, and that the injections may interact with medications or conditions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medicalnewstoday.com/articles/lipotropic-injections",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "text": "Peptide Dosing Protocols says the most common effects are injection site soreness, redness, warmth or lumps, with short stinging after injection. It adds that high choline can raise a gut-made compound called TMAO and that allergic reactions are rare.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.peptidedosingprotocols.com/protocol/lipo-c",
+          "retrieved": "2026-10-02"
+        },
+        {
+          "text": "Empower Pharmacy, a compounding pharmacy, says common effects are mild injection site pain and warmth, with less often nausea, loose stools and a fishy body odor, and rare serious allergic reactions below 0.1 percent.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-02"
 }
