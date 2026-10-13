@@ -1,0 +1,297 @@
+{
+  "id": "semax-selank",
+  "name": "Semax / Selank",
+  "aliases": [
+    "Semax/Selank Blend",
+    "Semax + Selank",
+    "Russian nootropic stack"
+  ],
+  "components": [
+    "semax",
+    "selank"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by research-peptide sellers and online guides as a nootropic pair for focus, calm and stress. These uses are promotional claims, not approved indications.",
+  "summary": "Semax / Selank is a pairing of two synthetic neuropeptides that is sold as a pre-mixed vial and also used as two separate products. No approved product contains the combination, so the blend has no approval of its own. No study of the two given together was found in the sources reviewed, and guides state this themselves. For detailed information, see the pages for Semax and Selank; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [
+    {
+      "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says pre-blended vials lock the ratio of the two peptides, which varies by supplier, and that each peptide is mixed in its own vial when bought separately.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "text": "FormBlends, a telehealth platform that lists compounded blends from 503A pharmacies, says preparation, handling and administration instructions for its blend must come from the dispensing pharmacy and reviewing provider.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Peptide Dosing Protocols, a site with supplier affiliate links, lists mild headache, sleep disruption, mild nasal irritation, transient irritability and injection-site redness for the pair, and advises caution with antidepressants and stimulants.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Northline Labs, which sells the blend as a research product, describes a 10 mg lyophilized vial containing Semax and Selank together, sold for laboratory research use only, with no split between the two stated.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "FormBlends, a telehealth platform that lists compounded blends from 503A pharmacies, lists a blend of 5 mg Semax and 5 mg Selank per 5 mL vial, a 1 to 1 ratio by mass, and describes it as a cognitive peptide blend for focus and calm.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "A Substack newsletter on peptide prices calls the pair a nootropic combination that many people use together, says the synergy is real without citing data, and says many vendors sell it as a 1 to 1 blend.",
+      "source_type": "website",
+      "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "research": [],
+  "how_to_take": {
+    "dose": {
+      "summary": "Sellers describe a pre-mixed vial with no stated split, or a 5 mg plus 5 mg 1 to 1 blend. One guide describes 300 mcg of each as popular. No study has tested any dose of the combination.",
+      "items": [
+        {
+          "text": "Northline Labs, which sells the blend as a research product, lists a single vial totaling 10 mg of Semax plus Selank and does not state how much of each it holds.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "FormBlends, a telehealth platform that lists compounded blends from 503A pharmacies, lists 5 mg Semax and 5 mg Selank per 5 mL vial, a 1 to 1 ratio by mass, and does not state a dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says there is no fixed ratio, that pre-blended vials lock the ratio and vary by supplier, and gives an example schedule of 600 mcg Semax plus 400 mcg Selank each weekday from separate vials under the skin.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "A Substack newsletter on peptide prices says 300 mcg of each is the sweet spot, attributed to many researchers, and prefers separate vials so the ratio can change by day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "One guide says to take Semax before about 2 PM to avoid sleep disruption and, for nasal use, to take Selank first and wait 15 to 30 minutes before Semax. None of this has been studied for the pair.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says to take Semax before 2 PM to avoid sleep disruption. For nasal use it says to take Selank first and wait 15 to 30 minutes before Semax.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Online guides describe one dose of each per day, with an optional 5 days on and 2 days off. Two guides say to start one peptide first, either Selank alone for a week or one peptide for 2 to 3 weeks, before adding the other. None of this has been studied.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes one injection of each per day under the skin, optionally 5 days on and 2 days off, and says community practice is to start Selank alone for 5 to 7 days before adding Semax.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "A Substack newsletter on peptide prices suggests starting Selank first and adding Semax after a week.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide Dossier, which says it does not sell peptides, advises starting with one peptide for 2 to 3 weeks before adding the other.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/compare/selank-vs-semax/",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "One guide describes 4 weeks on and 4 weeks off as standard for the pair, and another says no combined cycle is specified. No study has tested a cycle.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, describes 4 weeks on and 4 weeks off as standard, 10 to 14 days on and off as intensive, and 8 weeks at 5 days a week then 4 weeks off as extended.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide Dossier, which says it does not sell peptides, gives cycle lengths for each peptide separately and specifies no cycle for the pair.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/compare/selank-vs-semax/",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Sellers say to keep the dry powder at minus 20 degrees Celsius, away from light and moisture. One guide says to mix each vial separately. No stability study of the blend was found.",
+      "items": [
+        {
+          "text": "Northline Labs, which sells the blend as a research product, says to store the lyophilized blend at minus 20 degrees Celsius, protected from light and moisture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, lists minus 20 degrees Celsius for the dry powder and says to reconstitute each vial separately, roll it gently rather than shake it and discard cloudy solutions.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "FormBlends, a telehealth platform that lists compounded blends from 503A pharmacies, marks the blend as cold-chain and says handling instructions come from the dispensing pharmacy and reviewing provider.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Sellers and newsletters describe the pair as acting on different brain pathways, with overlapping effects on focus and calm. This is the sources' description, not a tested mechanism of the combination.",
+      "items": [
+        {
+          "text": "Northline Labs, which sells the blend as a research product, says the combined preparation is used to investigate overlapping nootropic, neuroprotective and neuroregulatory mechanisms in parallel.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "A Substack newsletter on peptide prices says the two peptides hit different pathways in the brain and lists neuroprotection and immune modulation as benefits, without citing studies.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No study of Semax and Selank given together was found, and the guides state this themselves. There is no documented effect of the combination.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says no clinical trial has tested Semax and Selank as a combination protocol in humans.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide Dossier, which says it does not sell peptides, presents no evidence for the combination and describes the pairing as a strategy some users adopt.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/compare/selank-vs-semax/",
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "FormBlends, a telehealth platform that lists compounded blends from 503A pharmacies, cites no clinical trial showing that its blend improves focus or calm.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "A Substack newsletter on peptide prices says the synergy is real but cites no data and describes the effects as anecdotal.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Online reports",
+      "summary": "No study reports side effects of the combination. One guide lists mild headache, sleep disruption if Semax is taken late, mild nasal irritation, transient irritability and injection-site redness.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, lists mild headache, sleep disruption if Semax is taken late, mild nasal irritation, transient irritability and injection-site redness.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "title": "Warnings",
+      "summary": "Guides warn about overlap with medicines that act on serotonin or dopamine and about variable product quality. These are seller and guide warnings, not study results.",
+      "items": [
+        {
+          "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says both peptides affect serotonin, so caution is advised with SSRIs, SNRIs or MAO inhibitors, that Semax may stack with stimulants, and that grey-market sourcing is a risk.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide Dossier, which says it does not sell peptides, says both peptides are unregulated with variable purity.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptidedossier.com/compare/selank-vs-semax/",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-12"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "ahk-cu-ghk-cu",
+  "name": "AHK-Cu / GHK-Cu",
+  "aliases": [
+    "AHK/GHK-Cu Blend"
+  ],
+  "components": [
+    "ahk-cu",
+    "ghk-cu"
+  ],
+  "other_components": [],
+  "regulatory_status": "unapproved",
+  "used_for": "Marketed by research-peptide sellers and cosmetic brands as a copper peptide pair for hair and skin. These uses are promotional claims, not approved indications.",
+  "summary": "AHK-Cu / GHK-Cu is a pairing of two copper-binding peptides sold as a pre-mixed vial and in topical hair and skin products. No approved product contains the combination, so the blend has no approval of its own. No study of the two together was found in the sources reviewed (PubMed and ClinicalTrials.gov searches returned nothing for the pair), and sellers state there is no robust evidence for stacking them. For detailed information, see the pages for AHK-Cu and GHK-Cu; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "administration_guidance": [
+    {
+      "text": "Peptide Mind, a site that links to sellers, says that combining copper-containing peptides makes monitoring total copper exposure more important.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "Peptide Mind, a site that links to sellers, lists nausea, vomiting, abdominal pain and neurological effects as symptoms of copper toxicity and says there is no robust clinical evidence on the safety of stacking the two.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Northline Labs, which sells the blend as a research product, describes one vial with 100 mg total of a blue freeze-dried AHK-Cu and GHK-Cu powder for laboratory research use only, with no split between the two stated.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Peptide Mind, a site that links to sellers, describes the two peptides as possibly complementary, with AHK-Cu acting more on hair follicle signaling and GHK-Cu as a broader tissue-remodeling agent, and calls this informal research and vendor discussion.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "research": [],
+  "how_to_take": {
+    "dose": {
+      "summary": "One seller lists a 100 mg vial of the blend with no stated split. No study has tested any dose of the combination, and formulations vary by seller.",
+      "items": [
+        {
+          "text": "Northline Labs, which sells the blend as a research product, lists one vial of 100 mg total and does not state how much of each peptide it holds.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "",
+      "items": []
+    },
+    "cycle_length": {
+      "summary": "",
+      "items": []
+    },
+    "storage_and_handling": {
+      "summary": "The one seller listing found says to keep the dry powder at minus 20 degrees Celsius, away from light and moisture. No stability study of the blend was found.",
+      "items": [
+        {
+          "text": "Northline Labs, which sells the blend as a research product, says to store the freeze-dried blend at minus 20 degrees Celsius, protected from light and moisture.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "One site describes the pair as possibly complementary, with AHK-Cu aimed at hair follicles and GHK-Cu at wider tissue remodeling. This is informal vendor discussion, not a tested mechanism of the combination.",
+      "items": [
+        {
+          "text": "Peptide Mind, a site that links to sellers, describes AHK-Cu as acting more on hair follicle signaling and GHK-Cu as a broader tissue-remodeling agent, and calls the idea of complementary effects informal research and vendor discussion.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "No study of AHK-Cu and GHK-Cu together was found, and sellers state this themselves. There is no documented effect of the combination.",
+      "items": [
+        {
+          "text": "Peptide Mind, a site that links to sellers, says there is no robust clinical evidence establishing safety or efficacy of stacking the two peptides.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "ahk-cu.com, a site that sells a combined AHK-Cu and GHK-Cu hair serum, cites no human study of its AHK-Cu and GHK-Cu blend.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Neurogan Health, a company that sells copper peptide hair and skin products, cites no study of the combination.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Warnings",
+      "summary": "Peptide Mind warns about total copper exposure when two copper peptides are combined. This is a seller warning, not a study result.",
+      "items": [
+        {
+          "text": "Peptide Mind, a site that links to sellers, says that combining copper-containing peptides makes monitoring total copper exposure more important and lists nausea, vomiting, abdominal pain and neurological effects as symptoms of copper toxicity.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-12"
+}

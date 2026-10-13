@@ -165,6 +165,14 @@
    "category": "drugs_compounds"
   },
   {
+   "term": "adamantane",
+   "aliases": [
+    "adamantyl"
+   ],
+   "definition": "A compact, cage-shaped ring of carbon atoms. Chemists attach it to a drug or peptide to change how it behaves in the body.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "add-on therapy",
    "aliases": [
     "add-on",
@@ -764,6 +772,15 @@
    }
   },
   {
+   "term": "atherosclerosis",
+   "definition": "A buildup of fatty deposits in the walls of arteries that narrows them.",
+   "category": "body_conditions",
+   "source": {
+    "name": "MedlinePlus",
+    "url": "https://medlineplus.gov/atherosclerosis.html"
+   }
+  },
+  {
    "term": "ATP",
    "abbreviation": true,
    "definition": "Adenosine triphosphate, the molecule cells use to store and carry energy.",
@@ -1358,6 +1375,11 @@
    "term": "cell-surface receptor",
    "definition": "A protein on the outer membrane of a cell that binds a signaling molecule and passes the message into the cell.",
    "category": "hormones_receptors"
+  },
+  {
+   "term": "cellulite",
+   "definition": "Dimpled or lumpy-looking skin, most often on the thighs and buttocks, caused by fat pushing against bands of tissue under the skin.",
+   "category": "body_conditions"
   },
   {
    "term": "cellulitis",
@@ -1964,6 +1986,11 @@
   {
    "term": "depersonalization",
    "definition": "A feeling of being detached from your own body, thoughts or feelings, as if watching yourself from outside.",
+   "category": "body_conditions"
+  },
+  {
+   "term": "Dercum disease",
+   "definition": "A rare condition marked by many painful fatty lumps under the skin.",
    "category": "body_conditions"
   },
   {
@@ -2808,6 +2835,15 @@
    }
   },
   {
+   "term": "finasteride",
+   "definition": "A prescription medicine that blocks a male hormone change in the body. It is used for an enlarged prostate and for male-pattern hair loss.",
+   "category": "drugs_compounds",
+   "source": {
+    "name": "MedlinePlus",
+    "url": "https://medlineplus.gov/druginfo/meds/a698016.html"
+   }
+  },
+  {
    "term": "first-in-human",
    "definition": "The first study in which a new drug is given to people after earlier lab and animal testing.",
    "category": "study_evidence"
@@ -2987,6 +3023,11 @@
    }
   },
   {
+   "term": "gamma-butyrobetaine",
+   "definition": "A compound that the body converts into carnitine.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "gastric emptying",
    "definition": "The speed at which food leaves the stomach and moves into the small intestine.",
    "category": "body_conditions",
@@ -3002,6 +3043,11 @@
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/gastrin"
    }
+  },
+  {
+   "term": "gastritis",
+   "definition": "Inflammation of the lining of the stomach.",
+   "category": "body_conditions"
   },
   {
    "term": "gastrointestinal",
@@ -4149,6 +4195,16 @@
    "category": "body_conditions"
   },
   {
+   "term": "INR",
+   "abbreviation": true,
+   "definition": "International normalized ratio. A blood test result that shows how long blood takes to clot. People who take warfarin have it checked to keep their dose safe.",
+   "category": "study_evidence",
+   "source": {
+    "name": "MedlinePlus",
+    "url": "https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/"
+   }
+  },
+  {
    "term": "insomnia",
    "definition": "Trouble falling asleep, staying asleep or getting enough sleep.",
    "category": "body_conditions",
@@ -4677,6 +4733,18 @@
    "category": "body_conditions"
   },
   {
+   "term": "lipoma",
+   "aliases": [
+    "lipomas"
+   ],
+   "definition": "A soft, slow-growing lump of fat tissue under the skin. It is not cancer.",
+   "category": "body_conditions",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/lipoma"
+   }
+  },
+  {
    "term": "liposomal",
    "aliases": [
     "liposomes",
@@ -5102,6 +5170,11 @@
    }
   },
   {
+   "term": "mesotherapy",
+   "definition": "A treatment that injects small amounts of substances into the skin or the fat just under it, for cosmetic or medical purposes.",
+   "category": "routes_handling"
+  },
+  {
    "term": "mesylate",
    "definition": "A salt form used to make a drug dissolve and keep well.",
    "category": "drugs_compounds"
@@ -5290,6 +5363,11 @@
    "category": "units"
   },
   {
+   "term": "minoxidil",
+   "definition": "A medicine put on the scalp to treat hair loss. It is also sold as tablets for high blood pressure.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "mitochondria",
    "aliases": [
     "mitochondrial"
@@ -5415,6 +5493,19 @@
    "source": {
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/mouse-model"
+   }
+  },
+  {
+   "term": "MRI",
+   "abbreviation": true,
+   "aliases": [
+    "magnetic resonance imaging"
+   ],
+   "definition": "Magnetic resonance imaging. A scan that uses magnets and radio waves to make detailed pictures of the inside of the body, without radiation.",
+   "category": "study_evidence",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/magnetic-resonance-imaging"
    }
   },
   {
@@ -5774,6 +5865,14 @@
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/neuropathy"
    }
+  },
+  {
+   "term": "neuropeptide",
+   "aliases": [
+    "neuropeptides"
+   ],
+   "definition": "A small protein-like signal that nerve cells use to communicate with each other.",
+   "category": "hormones_receptors"
   },
   {
    "term": "neuroprotection",
@@ -6787,6 +6886,11 @@
     "name": "NCI Dictionary of Cancer Terms",
     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/pi3k"
    }
+  },
+  {
+   "term": "picomolar",
+   "definition": "A very small concentration, one trillionth of a mole per liter. Lab studies use it for extremely low amounts.",
+   "category": "units"
   },
   {
    "term": "pigmentation",
@@ -8750,6 +8854,15 @@
    "category": "drugs_compounds"
   },
   {
+   "term": "TMA",
+   "abbreviation": true,
+   "aliases": [
+    "trimethylamine"
+   ],
+   "definition": "Trimethylamine. A compound that gut bacteria make from carnitine and some other nutrients. The liver turns it into TMAO.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "TMAO",
    "abbreviation": true,
    "definition": "Trimethylamine N-oxide, a compound made by gut bacteria and the liver from certain foods, studied as a marker linked to heart disease risk.",
@@ -9127,6 +9240,19 @@
    "category": "drugs_compounds"
   },
   {
+   "term": "VEGF",
+   "abbreviation": true,
+   "aliases": [
+    "vascular endothelial growth factor"
+   ],
+   "definition": "Vascular endothelial growth factor. A protein that tells the body to grow new blood vessels.",
+   "category": "hormones_receptors",
+   "source": {
+    "name": "NCI Dictionary of Cancer Terms",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/vascular-endothelial-growth-factor"
+   }
+  },
+  {
    "term": "vehicle",
    "definition": "The inactive liquid or base that carries a drug, also given alone as a control in experiments.",
    "category": "drugs_compounds"
@@ -9251,6 +9377,15 @@
    "abbreviation": true,
    "definition": "World Anti-Doping Agency, the organization that sets the list of substances banned in sport.",
    "category": "drugs_compounds"
+  },
+  {
+   "term": "warfarin",
+   "definition": "A prescription blood thinner that lowers the risk of clots. Its dose is checked with blood tests, and some drugs and supplements change how it works.",
+   "category": "drugs_compounds",
+   "source": {
+    "name": "MedlinePlus",
+    "url": "https://medlineplus.gov/druginfo/meds/a682277.html"
+   }
   },
   {
    "term": "warning letter",

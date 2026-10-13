@@ -1,0 +1,234 @@
+{
+  "id": "ahk-cu",
+  "name": "AHK-Cu",
+  "aliases": [
+    "AHK copper",
+    "Alanyl-histidyl-lysine copper"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "tissue_repair",
+  "compound_type": "peptide",
+  "used_for": "A synthetic copper complex of the three-amino-acid peptide alanine-histidine-lysine, a close relative of GHK-Cu (which has glycine in place of alanine). It is sold online and as a cosmetic ingredient, mainly promoted for hair growth and skin appearance. The only study found that tests it directly is a 2007 lab study on human hair follicles and cells. No human trial was found, and it is not an approved drug.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2007 lab study, AHK-Cu was added to cultured human dermal papilla cells and to isolated human hair follicles at concentrations from 10 to the minus 12 up to 10 to the minus 9 molar (picomolar to nanomolar). This is a lab concentration, not a dose for a person.",
+        "population": "Cultured human dermal papilla cells and hair follicles kept in the lab",
+        "citation_id": "pmid-17703734"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "A biohacking site reports that commercial AHK-Cu scalp serums commonly contain about 2 to 5 percent, applied to the scalp once or twice daily, with a formulation ceiling near 10 percent. It states there is no approved clinical dose.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://outliyr.com/reports/ahk-cu",
+        "retrieved": "2026-10-12"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The only direct study applied AHK-Cu to cells and follicles in a dish. No study describes how a person should apply, inject or store it.",
+      "label": "research",
+      "citation_id": "pmid-17703734"
+    },
+    {
+      "text": "Outliyr describes topical scalp serums as the common use, says some users wait 15 to 20 minutes before applying minoxidil, and says injection is gray-market with undocumented protocols and advises against it. It says no study supports the sequencing.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://outliyr.com/reports/ahk-cu",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The 2007 lab study did not report safety in people, so it gives no side effect information.",
+      "label": "research",
+      "citation_id": "pmid-17703734"
+    },
+    {
+      "text": "Neurogan, a seller of copper peptide products, says no full AHK-Cu side effect profile has been established and lists possible topical reactions such as redness, itching, burning, dryness and rash, which may come from the whole formula.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Outliyr, a biohacking site, says AHK-Cu differs from GHK-Cu by one amino acid and has a much smaller evidence base, rests on one unreplicated 2007 lab study, and has no human trials. It calls the compound a low-risk add-on rather than a stand-alone hair treatment.",
+      "source_type": "website",
+      "url": "https://outliyr.com/reports/ahk-cu",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "MyPeptideMatch, a directory of clinics and vendors, says AHK-Cu is not FDA-approved for any human use and cannot currently be compounded by 503A or 503B pharmacies because it is not on the bulk drug substance lists. It says cosmetic products are treated differently only if they make no drug claims. This is a secondary site, not an FDA document.",
+      "source_type": "website",
+      "url": "https://www.mypeptidematch.com/blog/ahk-cu-legal-status",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Northline Labs lists AHK-Cu at about $81 to $90 with a 99% purity statement. Its site says its products are for laboratory research only and not for human or animal consumption.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Forum summaries on hair loss sites say copper peptides are generally seen as less effective than finasteride or minoxidil and that many users report little benefit. Many products combine AHK-Cu with GHK-Cu, so results cannot be assigned to AHK-Cu.",
+      "source_type": "forum",
+      "url": "https://tressless.com/search/community/hga/2",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "research": [
+    {
+      "id": "pmid-17703734",
+      "evidence_type": "in_vitro",
+      "source_kind": "pubmed",
+      "identifier": "17703734",
+      "year": 2007,
+      "summary": "Lab study from Seoul National University (Archives of Pharmacal Research) of AHK-Cu at 10 to the minus 12 to 10 to the minus 9 molar on cultured human dermal papilla cells and on isolated human hair follicles kept in culture.",
+      "finding": "AHK-Cu increased hair follicle elongation and dermal papilla cell growth in the dish. At the highest concentration it raised the Bcl-2 to Bax ratio and lowered cleaved caspase-3 and PARP, markers of cell death, though the drop in dying cells was not statistically significant. It was not tested in people and no later replication was found."
+    }
+  ],
+  "how_to_take": {
+    "dose": {
+      "summary": "The only direct study used lab concentrations of picomolar to nanomolar AHK-Cu on cells and follicles. There is no human dose, and no approved dose exists. Websites mention 2 to 5 percent scalp serums.",
+      "items": [
+        {
+          "text": "The 2007 lab study used 10 to the minus 12 up to 10 to the minus 9 molar AHK-Cu on human dermal papilla cells and isolated hair follicles. This is a lab concentration and cannot be converted to a dose for a person.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17703734"
+        },
+        {
+          "text": "Outliyr reports commercial scalp serums commonly contain about 2 to 5 percent AHK-Cu, with no approved clinical dose.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/ahk-cu",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Only community advice exists, none of it from a study.",
+      "items": [
+        {
+          "text": "Outliyr says some users apply a copper peptide, wait 15 to 20 minutes and then apply minoxidil, and notes no study supports this order.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/ahk-cu",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Only a website describes how often it is used on the scalp, and no study supports it.",
+      "items": [
+        {
+          "text": "Outliyr says scalp serums are commonly applied once or twice daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/ahk-cu",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "",
+      "items": []
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "In the one lab study, AHK-Cu made human hair follicle cells multiply and shifted cell death markers toward survival. How this would work in a person is unknown.",
+      "items": [
+        {
+          "text": "In cultured dermal papilla cells, AHK-Cu raised the Bcl-2 to Bax ratio and lowered cleaved caspase-3 and PARP. The authors propose it helps follicles grow by boosting cell growth and blocking cell death.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17703734"
+        },
+        {
+          "text": "Outliyr says the proposed ideas are copper delivery to follicle tissue, higher VEGF and stimulation of dermal papilla cells, and stresses that all AHK-Cu-specific mechanism data come from the single 2007 study.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/ahk-cu",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Human hair follicles kept in the lab grew longer with AHK-Cu. No human trial exists, so no effect in people is documented.",
+      "items": [
+        {
+          "text": "In the 2007 lab study, AHK-Cu stimulated elongation of isolated human hair follicles and growth of dermal papilla cells. This was in a dish, not in people.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "pmid-17703734"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Skin reactions with topical products",
+      "summary": "No study measured side effects of AHK-Cu. Sellers and websites mention redness, itching or burning on the skin as possible, and say the whole product formula may be the cause.",
+      "items": [
+        {
+          "text": "Neurogan, a seller of copper peptide products, lists redness, itching, burning, stinging, dryness, rash and swelling as possible topical reactions and says they may come from the whole formula.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Outliyr describes mild, short-lived scalp irritation, itch, redness or contact sensitivity as the expected reactions at cosmetic strengths, and says to stop for a spreading rash or swelling.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/ahk-cu",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "title": "Unknown safety",
+      "summary": "No AHK-Cu safety study in people was found. Injection, pregnancy, breastfeeding and long-term use are described by sources as not established.",
+      "items": [
+        {
+          "text": "Outliyr says there is no AHK-Cu-specific safety study, that copper overload from a topical is only theoretical, and that injection or mesotherapy has no human safety data.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://outliyr.com/reports/ahk-cu",
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Neurogan says copper toxicity from normal topical use is not established, and that safety in pregnancy, breastfeeding, long-term use and by injection is not established.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-12"
+}

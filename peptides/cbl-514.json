@@ -1,0 +1,425 @@
+{
+  "id": "cbl-514",
+  "name": "CBL-514",
+  "aliases": [
+    "CBL514"
+  ],
+  "regulatory_status": "investigational",
+  "category": "weight_metabolic",
+  "compound_type": "small_molecule",
+  "used_for": "An experimental injected small molecule from Caliway Biopharmaceuticals, not a peptide, tested to reduce localized fat under the skin, mainly on the abdomen, and also for cellulite and Dercum disease lipomas. It is meant to be given by trained clinicians as many small injections. Phase 2 trials with saline comparison reduced abdominal fat, and phase 3 trials are underway in the United States. It is not approved anywhere.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [
+      {
+        "text": "In a 2018 to 2019 phase 1 study, healthy adults received single total doses of CBL-514 from 2 mg to 320 mg, injected into abdominal fat by trial staff (registry record, no results posted).",
+        "population": "40 healthy adults aged 18 to 64 in Australia",
+        "citation_id": "cbl514-ph1-nct04699669"
+      },
+      {
+        "text": "In a 2022 phase 2a study, CBL-514 was given at 1.2, 1.6 or 2.0 mg per square centimeter (180, 240 or 300 mg per session) as 60 injections, for up to four treatments.",
+        "population": "Adults with abdominal fat",
+        "citation_id": "cbl514-ph2a-2022"
+      },
+      {
+        "text": "In an open-label phase 2 dose-escalation study, total doses of 320, 480, 640 and 800 mg were injected into fat in single sessions (registry record).",
+        "population": "25 adults aged 18 to 64 in Australia",
+        "citation_id": "cbl514-stage1-nct04575467"
+      },
+      {
+        "text": "In a 2025 phase 2 trial, CBL-514 or saline was injected into abdominal fat at 2 mg per square centimeter (up to 600 mg per session) in 2.4 mL injections, 25 to 50 injections per session, every 4 weeks for up to four sessions.",
+        "population": "76 adults with abdominal fat",
+        "citation_id": "cbl514-ph2-2025"
+      },
+      {
+        "text": "In a 2026 phase 2b trial, CBL-514 or placebo was injected at 2 mg per square centimeter (up to 600 mg per session) every 3 weeks for up to four sessions.",
+        "population": "108 adults with moderate to severe abdominal fat",
+        "citation_id": "cbl514-ph2b-2026"
+      },
+      {
+        "text": "In a cellulite study, up to 320 mg per session was injected into the thighs, up to two sessions about 4 weeks apart (registry record).",
+        "population": "23 women aged 18 to 64 with cellulite",
+        "citation_id": "cbl514-cellulite-nct05836779"
+      },
+      {
+        "text": "In a pharmacokinetic study, a single 800 mg course was injected into abdominal fat.",
+        "population": "10 healthy adults",
+        "citation_id": "cbl514-pk-nct05234736"
+      },
+      {
+        "text": "In a Dercum disease lipoma study, 10 mg or 15 mg per injection was used, with volume set by lipoma size, for up to two sessions 4 weeks apart.",
+        "population": "12 adults with painful lipomas from Dercum disease",
+        "citation_id": "cbl514-dercum-2026"
+      },
+      {
+        "text": "A phase 3 registry record plans up to 120 mL (50 injections) per session at a 4-week interval for up to four sessions versus saline. No results exist yet.",
+        "population": "About 320 adults with abdominal fat (planned)",
+        "citation_id": "cbl514-ph3-nct07140939"
+      }
+    ],
+    "internet_entries": []
+  },
+  "administration_guidance": [
+    {
+      "text": "In all trials found, CBL-514 was injected into the fat layer by trial staff as many small injections in a grid pattern, not self-administered.",
+      "label": "research",
+      "citation_id": "cbl514-ph2-2025"
+    },
+    {
+      "text": "Clinical Trials Arena reports the phase 3 program is a double-blind, placebo-controlled study run at US and Canadian sites.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://www.clinicaltrialsarena.com/news/caliway-cbl-514/",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "In a 76-person phase 2 trial, injection site reactions were common (pain, redness, itching, swelling) and mostly mild to moderate.",
+      "label": "research",
+      "citation_id": "cbl514-ph2-2025"
+    },
+    {
+      "text": "In the 108-person phase 2b trial, the authors reported mainly mild, short-lived injection site reactions.",
+      "label": "research",
+      "citation_id": "cbl514-ph2b-2026"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Modern Aesthetics, a trade news site, reports a May 2026 company statement that the US FDA let a second global phase 3 study of CBL-514 for abdominal fat (CBL-0302) proceed, and that results from the phase 3 program are expected in 2027. It states CBL-514 is not approved for marketing.",
+      "source_type": "website",
+      "url": "https://modernaesthetics.com/news/fda-clears-caliways-phase-3-cbl-514-trial-for-abdominal-fat-reduction/2487183/",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Clinical Trials Arena, a trade news site, describes CBL-514 as an injectable drug designed to trigger fat cell death (apoptosis) to reduce fat in targeted areas, and reports the company says it has no systemic effects on the nervous, breathing or heart systems. These are company statements.",
+      "source_type": "website",
+      "url": "https://www.clinicaltrialsarena.com/news/caliway-cbl-514/",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Modern Aesthetics reports the company says 10 clinical trials in 544 people have been completed and met all efficacy and safety goals. This is a company claim, not an independent finding.",
+      "source_type": "website",
+      "url": "https://modernaesthetics.com/news/fda-clears-caliways-phase-3-cbl-514-trial-for-abdominal-fat-reduction/2487183/",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "research": [
+    {
+      "id": "cbl514-ph1-nct04699669",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT04699669",
+      "year": 2018,
+      "summary": "ClinicalTrials.gov record of a phase 1, double-blind, placebo-controlled, single ascending dose study of CBL-514 injection in 40 healthy adults aged 18 to 64 in Australia, run by Caliway Biopharmaceuticals. Cohorts received total doses from 2 mg to 320 mg injected into abdominal fat.",
+      "finding": "The record lists the dose cohorts and is completed, but posts no results. It shows the dose range first tested in people."
+    },
+    {
+      "id": "cbl514-ph2a-2022",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "35709509",
+      "year": 2022,
+      "summary": "Randomized, open-label phase 2a study (Aesthetic Surgery Journal) of CBL-514 injected into abdominal fat at 1.2, 1.6 or 2.0 mg per square centimeter (180, 240 or 300 mg) for up to four treatments, with ultrasound follow-up at 4 and 8 weeks. Company-affiliated authors.",
+      "finding": "The two higher doses reduced abdominal fat volume and thickness compared with baseline, and the authors report about a 25% volume drop at 2.0 mg per square centimeter. They describe it as safe and well tolerated. The study had no placebo group and was cut short in places by COVID-19."
+    },
+    {
+      "id": "cbl514-stage1-nct04575467",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT04575467",
+      "year": 2020,
+      "summary": "ClinicalTrials.gov record with posted results of an open-label phase 2 single ascending dose study (Stage 1) of CBL-514 in 25 adults aged 18 to 64 in Australia, with total doses of 320 mg (thigh) and 480, 640 or 800 mg (abdomen).",
+      "finding": "Every participant in each dose group had injection site reactions. No clinically significant lab, vital sign, ECG or physical exam abnormalities were reported, and one serious event (a closed head injury) was listed in the 640 mg group."
+    },
+    {
+      "id": "cbl514-ph2-2025",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "40037659",
+      "year": 2025,
+      "summary": "Single-blind, randomized, placebo-controlled phase 2 trial (NCT04897412, Aesthetic Surgery Journal) in 76 adults at five sites in the United States and Australia. Participants received up to four abdominal injection sessions of CBL-514 (2 mg per square centimeter, up to 600 mg per session) or saline every 4 weeks. Company-affiliated authors.",
+      "finding": "Eight weeks after the last session, 69.6% of the CBL-514 group had lost at least 150 mL of abdominal fat by ultrasound versus none on placebo. Injection site reactions were the most common events and were mild to moderate. Nearly all treated people had pain, redness, itching or swelling at injection sites, and 9 had severe injection site pain."
+    },
+    {
+      "id": "cbl514-ph2b-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "42159040",
+      "year": 2026,
+      "summary": "Randomized, single-blind, placebo-controlled phase 2b trial (NCT05736107, Aesthetic Surgery Journal) in 108 adults with moderate to severe abdominal fat. Participants received up to four CBL-514 sessions (2 mg per square centimeter, up to 600 mg per session) or placebo at 3-week intervals, with follow-up at 12 weeks.",
+      "finding": "In the full analysis set, 76.7% of treated people (23 of 30) improved by at least one grade on the clinician fat rating scale versus 18.9% on placebo (7 of 37). MRI showed an average drop of about 153 mL (20.3%) in abdominal fat volume. Authors describe it as well tolerated with mainly mild, short-lived injection site reactions."
+    },
+    {
+      "id": "cbl514-cellulite-nct05836779",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05836779",
+      "year": 2023,
+      "summary": "ClinicalTrials.gov record with posted results of an open-label, single-arm phase 2 study (Stage 2) of CBL-514 for cellulite on the thighs of 23 women aged 18 to 64 in the United States. Participants received up to 320 mg per session, up to two sessions about 4 weeks apart.",
+      "finding": "The average cellulite severity score fell by 1.2 points. Most participants had injection site reactions, mainly pain, redness, itching and swelling. One participant had a serious event, listed as hypersensitivity and obstructive airways disorder. There was no placebo group."
+    },
+    {
+      "id": "cbl514-pk-nct05234736",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT05234736",
+      "year": 2022,
+      "summary": "ClinicalTrials.gov record with posted results of an open-label phase 2 pharmacokinetic study of one 800 mg abdominal CBL-514 course in 10 adults (5 women, 5 men) in the United States.",
+      "finding": "All 10 had injection site reactions, none had a serious adverse event, and no clinically significant lab abnormalities were reported. Blood levels were measured over 24 hours."
+    },
+    {
+      "id": "cbl514-dercum-2026",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "41623934",
+      "year": 2026,
+      "summary": "Randomized, open-label, single-site phase 2a study (JAAD International) in 12 US adults with painful lipomas from Dercum disease. Lipomas received 10 mg or 15 mg per injection for up to two sessions 4 weeks apart. Company-affiliated authors.",
+      "finding": "Lipoma volume fell by roughly half (median 45% to 51% at 8 weeks) and pain scores dropped. Everyone had treatment-related injection site reactions, no serious events were reported, 4 people had severe events and 2 stopped treatment."
+    },
+    {
+      "id": "cbl514-ph3-nct07140939",
+      "evidence_type": "human_trial",
+      "source_kind": "clinicaltrials",
+      "identifier": "NCT07140939",
+      "year": 2026,
+      "summary": "ClinicalTrials.gov record of a phase 3, randomized, triple-masked, placebo-controlled study of CBL-514 for abdominal subcutaneous fat, sponsored by Caliway Biopharmaceuticals, at US sites. Planned enrollment is about 320 adults, with up to four sessions of up to 120 mL (50 injections) at 4-week intervals.",
+      "finding": "The record shows the study is recruiting and has no results yet. It shows a US phase 3 program is underway."
+    }
+  ],
+  "how_to_take": {
+    "dose": {
+      "summary": "Trials used 2 mg per square centimeter of skin, up to 600 mg per session, given by trial staff as many small injections of 2.4 mL into fat. Earlier studies tested total doses from 2 mg to 800 mg. No approved dose exists.",
+      "items": [
+        {
+          "text": "In a 2025 phase 2 trial, CBL-514 was injected into abdominal fat at 2 mg per square centimeter, up to 600 mg per session, in 2.4 mL injections. This was done by trial staff.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "In a 2026 phase 2b trial of 108 adults, the same 2 mg per square centimeter (up to 600 mg per session) was used with placebo as comparison.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2b-2026"
+        },
+        {
+          "text": "In a 2022 phase 2a study, 2.0 and 1.6 mg per square centimeter reduced abdominal fat volume more clearly than the lowest dose tested, 1.2 mg per square centimeter.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2a-2022"
+        },
+        {
+          "text": "A phase 1 record lists total doses from 2 mg to 320 mg and a later phase 2 record lists up to 800 mg in one session. Both are early safety studies in trial settings.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-ph1-nct04699669"
+        },
+        {
+          "text": "A phase 3 registry record plans up to 120 mL in 50 injections per session. It is a plan with no results.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-ph3-nct07140939"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "",
+      "items": []
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "The trials gave sessions every 3 to 4 weeks, up to four sessions, with 25 to 60 injections per session.",
+      "items": [
+        {
+          "text": "In the 2025 phase 2 trial, up to four sessions were given about 4 weeks apart.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "In the 2026 phase 2b trial, up to four sessions were given at 3-week intervals.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2b-2026"
+        },
+        {
+          "text": "In the 2022 phase 2a study, each treatment had 60 injections, with up to four treatments over a 6-week period.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2a-2022"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Treatment lasted up to 12 weeks in the abdominal fat trials, with follow-up of 8 to 12 weeks after the last session. Long-term effects and repeat courses have not been reported.",
+      "items": [
+        {
+          "text": "In the 2025 phase 2 trial, results were checked 4 and 8 weeks after the last session, where 69.6% of the treated group had lost at least 150 mL of fat at 8 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "In the 2026 phase 2b trial, the main result was measured at 12 weeks of follow-up.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2b-2026"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "The company and trial authors say it is a small-molecule injection that causes fat cells to die by programmed cell death (apoptosis), so fat is lost where it is injected. The supporting lab data are company reports that were not published in full.",
+      "items": [
+        {
+          "text": "The authors of the 2022 phase 2a study concluded CBL-514 reduced abdominal fat by inducing fat cell apoptosis. The apoptosis claim comes from the company's own earlier lab work, not from this study's tests.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-ph2a-2022"
+        },
+        {
+          "text": "Clinical Trials Arena, a trade news site, describes CBL-514 as an injectable drug designed to trigger fat cell death (apoptosis) to reduce fat in targeted areas, and reports the company says it has no systemic effects on the nervous, breathing or heart systems. These are company statements.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.clinicaltrialsarena.com/news/caliway-cbl-514/",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "In company-sponsored phase 2 trials with saline comparison, injections reduced abdominal fat by ultrasound and MRI. Phase 3 results are not yet available, and it is not approved.",
+      "items": [
+        {
+          "text": "In a 76-person phase 2 trial, 69.6% of the CBL-514 group lost at least 150 mL of abdominal fat by ultrasound 8 weeks after the last session, versus none on placebo.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "In a 108-person phase 2b trial, 76.7% of treated people (23 of 30) improved at least one grade on the clinician rating versus 18.9% on placebo (7 of 37), and MRI showed an average fat volume drop of about 153 mL.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2b-2026"
+        },
+        {
+          "text": "In 12 adults with Dercum disease, treated lipomas shrank by roughly half and pain scores fell. There was no placebo comparison.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-dercum-2026"
+        },
+        {
+          "text": "In an uncontrolled cellulite study of 23 women, the average cellulite severity score improved by 1.2 points.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-cellulite-nct05836779"
+        },
+        {
+          "text": "Modern Aesthetics reports the company says 10 clinical trials in 544 people have been completed and met all efficacy and safety goals. This is a company claim, not an independent finding.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://modernaesthetics.com/news/fda-clears-caliways-phase-3-cbl-514-trial-for-abdominal-fat-reduction/2487183/",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Injection site reactions",
+      "summary": "Almost everyone treated had pain, redness, itching, swelling or warmth where it was injected. Most reactions were mild to moderate and many cleared within a week. Some people had severe pain.",
+      "items": [
+        {
+          "text": "In the 2025 phase 2 trial, 98% of 49 treated people had a treatment-related event, nearly all injection site reactions: pain and redness about 94%, itching about 86%, swelling and warmth about 84%, discoloration 71%, hardness 61%. Placebo injections also caused many of these.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "In the same trial, 9 people had severe injection site pain, and about 60% of those with pain used medicine such as over-the-counter pain relievers. 90.5% of pain cases resolved within a week.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "Two people in that trial stopped treatment because of injection site pain or discoloration.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "The 2026 phase 2b trial described injection site reactions as mainly mild and short-lived.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2b-2026"
+        },
+        {
+          "text": "In a 23-woman cellulite study, injection site pain affected 16, redness 14, itching 14 and swelling 14.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-cellulite-nct05836779"
+        },
+        {
+          "text": "In the 12-person Dercum study, all had injection site redness and swelling, 4 people had severe events, and 2 stopped treatment.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-dercum-2026"
+        }
+      ]
+    },
+    {
+      "title": "Blood fat changes and other events",
+      "summary": "Two people with high cholesterol before treatment had raised lipid values at one visit, and one of them had a moderate event judged probably related. Serious events were rare and mostly judged unrelated. These trials were small and short.",
+      "items": [
+        {
+          "text": "In the 2025 phase 2 trial, two treated people with pre-existing high cholesterol had raised lipid values at one visit, and one had a moderate hyperlipidemia event judged probably related. One serious event, peritoneal metastasis, was judged unrelated.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        },
+        {
+          "text": "In the cellulite study, one participant had a serious event, listed as hypersensitivity and obstructive airways disorder.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-cellulite-nct05836779"
+        },
+        {
+          "text": "In the phase 2 dose-escalation study, one serious event (closed head injury) was listed, and no lab, vital sign or ECG changes were judged significant.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-stage1-nct04575467"
+        },
+        {
+          "text": "In the 800 mg pharmacokinetic study, none of 10 people had a serious event or significant lab abnormality.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "cbl514-pk-nct05234736"
+        }
+      ]
+    },
+    {
+      "title": "What the trials did not see",
+      "summary": "The 2025 trial authors note that nerve injury, ulceration and skin death, seen with some other injectable fat treatments, did not occur. Long-term safety and rare effects are unknown.",
+      "items": [
+        {
+          "text": "The authors of the 2025 phase 2 trial report no nerve injury, ulceration or necrosis among participants.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "cbl514-ph2-2025"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-12"
+}
