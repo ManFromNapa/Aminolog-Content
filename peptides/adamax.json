@@ -1,0 +1,303 @@
+{
+  "id": "adamax",
+  "name": "Adamax",
+  "aliases": [
+    "N-Acetyl Semax Adamantyl",
+    "Ac-MEHFPGPAG-NH2"
+  ],
+  "regulatory_status": "unapproved",
+  "category": "cognitive_mood",
+  "compound_type": "peptide",
+  "used_for": "A lab-made analog of Semax, sold online as a research chemical and promoted for focus, memory and mood. It is described as Semax with an N-terminal acetyl group and a C-terminal adamantane group, borrowed from the design of another peptide called P021. It is a separate compound from Semax, not another name for it. Sources disagree on its exact structure, none names who made it, and no study of Adamax itself was found. It is not approved anywhere that was checked.",
+  "dosing": {
+    "basis": "studied",
+    "entries": [],
+    "internet_entries": [
+      {
+        "text": "PeptideMind, a site with vendor referral links, lists 375 mcg per injection under the skin. Its own FAQ gives a range of roughly 300 mcg to 1 mg and says no standardized dosing exists. These are the source's statements, not studied or recommended doses.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-12"
+      },
+      {
+        "text": "Optimize and Chill, a page that links to a vendor, lists a usual range of 100 mcg to over 500 mcg per day by nasal route, and says figures vary more than tenfold between sources. These are the source's statements, not established doses.",
+        "population": "As described by the source, not a study population",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-12"
+      },
+      {
+        "text": "Peptide-DB lists 200 to 300 mcg under the skin once daily, and up to twice daily for neuroprotection. These are the page's own statements and cite no study of Adamax.",
+        "population": "As described by the source, not a study population",
+        "source_type": "website",
+        "url": "https://peptide-db.com/peptides/adamax",
+        "retrieved": "2026-10-12"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "PeptideMind, a site with vendor referral links, describes injection under the skin of the abdomen or thigh once daily shortly after waking, and says it is a research chemical not for human consumption.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "text": "Optimize and Chill, a page that links to a vendor, describes the nasal route and says no dedicated human clinical dataset exists.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "PeptideMind, a site with vendor referral links, lists nausea, stomach discomfort, fatigue and headache as reported, plus insomnia if dosed late in the day, and says these are not well established.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "text": "Optimize and Chill, a page that links to a vendor, says some users report sluggishness or anxiety and that headaches are common, and states that no human clinical safety data exists.",
+      "label": "internet",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "Wikipedia describes Adamax as a synthetic designer analogue of Semax, written Ac-MEHFPGPAG-NH2, with the same terminal modifications as the peptide P021. It says Adamax has been identified as a designer drug in border seizures.",
+      "source_type": "website",
+      "url": "https://en.wikipedia.org/wiki/Adamax",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "A June 2025 Medsafe submission to New Zealand's Medicines Classification Committee names Adamax and Semax as two ACTH analogues marketed as cognitive enhancers. It recommends classifying such analogues as prescription medicines and says there is limited clinical research on them and little is known about their side effects or long-term effects.",
+      "source_type": "website",
+      "url": "https://www.medsafe.govt.nz/profs/class/Agendas/Agen74/5.7Peptides.pdf",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Optimize and Chill, a page that links to a vendor, calls Adamax a lab-made, adamantane-modified Semax analog with no dedicated human clinical dataset, and says the claimed benefits are proposed or theoretical.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "PeptideMind, a site with vendor referral links, says Adamax raises BDNF and TrkB signaling and has a longer-lasting effect than Semax. It admits this rests mostly on studies of Semax and on anecdotes.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Peptide-DB calls Adamax a next-generation Semax derivative but names no maker. Its structure details are inconsistent, and the studies it cites are all about Semax.",
+      "source_type": "website",
+      "url": "https://peptide-db.com/peptides/adamax",
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "Northline Labs lists Adamax among its research-use-only products, and its customer reviews mention repeat orders.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "research": [],
+  "how_to_take": {
+    "dose": {
+      "summary": "No study of Adamax in people or animals was found. Online sellers and information sites give figures from 100 mcg to about 1 mg per day. These figures conflict and cite no Adamax study.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, lists 375 mcg per injection under the skin, and a FAQ range of roughly 300 mcg to 1 mg.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Optimize and Chill, a page that links to a vendor, lists 100 mcg to over 500 mcg per day by nasal route and says figures vary more than tenfold across sources.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide-DB lists 200 to 300 mcg under the skin once daily.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/adamax",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "timing": {
+      "summary": "Only one site gives timing, saying shortly after waking.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, describes dosing shortly after waking.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "",
+      "items": []
+    },
+    "frequency": {
+      "summary": "Online sources describe once daily use, and one allows up to twice daily.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, describes once daily dosing.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide-DB describes once daily use, and up to twice daily for neuroprotection.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/adamax",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "Online sources give 2 to 6 week cycles. None cite a study.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, describes a 6 week schedule with a break between cycles and gives no length for the break.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide-DB describes a cycle of 2 to 4 weeks.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/adamax",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "Online sources say to freeze or refrigerate the powder and to refrigerate a mixed solution for 2 to 4 weeks. No stability study was found.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, says powder is frozen for long storage or refrigerated for shorter periods, and a mixed solution is refrigerated and used within about 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Peptide-DB says powder is kept at room temperature or frozen, and a mixed solution is kept at 2 to 8 C for 14 to 30 days.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://peptide-db.com/peptides/adamax",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "How it works is not known. Sellers claim it acts on BDNF signaling and passes into the brain better than Semax, but no Adamax study supports this.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, says it raises BDNF and TrkB signaling, and admits the claim rests mostly on Semax studies and anecdotes.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Optimize and Chill, a page that links to a vendor, says the adamantane group is meant to extend activity over Semax and that benefits are proposed or theoretical.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "The Medsafe submission says the mechanism of action of ACTH analogues, the group that includes Adamax, is often unknown.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medsafe.govt.nz/profs/class/Agendas/Agen74/5.7Peptides.pdf",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "",
+      "items": []
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Safety data",
+      "summary": "No safety data for Adamax in people was found. A regulator says little is known about side effects of this group of compounds.",
+      "items": [
+        {
+          "text": "The Medsafe submission says there is limited clinical research on ACTH analogues, naming Adamax and Semax, and little is known about their side effects or long-term effects.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://www.medsafe.govt.nz/profs/class/Agendas/Agen74/5.7Peptides.pdf",
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Optimize and Chill, a page that links to a vendor, states that no human clinical safety data exists for Adamax.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "title": "Seller and website reports",
+      "summary": "Sellers and information sites list headache, tiredness, stomach upset, anxiety and trouble sleeping. None cite a study of Adamax.",
+      "items": [
+        {
+          "text": "PeptideMind, a site with vendor referral links, lists nausea, stomach discomfort, fatigue and headache, plus insomnia if dosed late in the day.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        },
+        {
+          "text": "Optimize and Chill, a page that links to a vendor, says some users report sluggishness, others anxiety, and that headaches are common.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "vendor",
+          "url": null,
+          "retrieved": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-12"
+}

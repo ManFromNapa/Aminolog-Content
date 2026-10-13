@@ -1,0 +1,533 @@
+{
+  "id": "l-carnitine",
+  "name": "L-Carnitine",
+  "aliases": [
+    "levocarnitine",
+    "Carnitor"
+  ],
+  "regulatory_status": "approved",
+  "category": "weight_metabolic",
+  "compound_type": "small_molecule",
+  "used_for": "A natural amino acid derivative that carries fatty acids into the cell's energy units. FDA-approved as levocarnitine (Carnitor) in oral and intravenous forms for primary and secondary carnitine deficiency, including in dialysis patients. It is also sold as a dietary supplement and by online vendors as an injectable solution, and added to lipotropic injection mixes, for weight loss, fat metabolism and exercise. Those uses are not approved. Trials of oral L-carnitine show a small weight effect, and no trial of the injected vendor products was found.",
+  "dosing": {
+    "basis": "labeled",
+    "entries": [
+      {
+        "text": "Carnitor tablets: adults take 990 mg two or three times a day depending on response. Infants and children take 50 to 100 mg/kg a day in divided doses, starting at 50 mg/kg a day, up to 3 g a day.",
+        "population": "People with primary systemic carnitine deficiency per the Carnitor oral label",
+        "citation_id": "fda-carnitor-oral-label"
+      },
+      {
+        "text": "Carnitor oral solution: adults take 1 to 3 g a day for a 50 kg person, starting at 1 g a day and increasing slowly, with higher doses only with caution.",
+        "population": "Adults with carnitine deficiency per the Carnitor oral label",
+        "citation_id": "fda-carnitor-oral-label"
+      },
+      {
+        "text": "Carnitor injection for metabolic disorders: 50 mg/kg as a slow 2 to 3 minute intravenous bolus or by infusion, repeated every 3 or 4 hours and never less than 6 hours apart. A loading dose may be used in severe metabolic crisis, and the highest dose given has been 300 mg/kg.",
+        "population": "People with an inborn error of metabolism causing secondary carnitine deficiency per the Carnitor injection label",
+        "citation_id": "fda-carnitor-injection-label"
+      },
+      {
+        "text": "Carnitor injection for dialysis: a starting dose of 10 to 20 mg/kg dry body weight as a slow 2 to 3 minute bolus into the venous return line after each dialysis session. The label says the dose may be lowered, for example to 5 mg/kg, as early as the third or fourth week based on blood levels.",
+        "population": "People with end stage renal disease on hemodialysis per the Carnitor injection label",
+        "citation_id": "fda-carnitor-injection-label"
+      }
+    ],
+    "internet_entries": [
+      {
+        "text": "TrimRx, a telehealth company, says clinic injection doses reportedly range from a few hundred milligrams to about 1 g per injection, with no standard weight-loss dose.",
+        "population": "People seeking fat loss",
+        "source_type": "website",
+        "url": "https://trimrx.com/blog/?p=106468",
+        "retrieved": "2026-10-12"
+      },
+      {
+        "text": "A peptide vendor lists an injectable solution at 1200 mg per 10 mL, which is 120 mg per mL.",
+        "population": "Research-use buyers",
+        "source_type": "vendor",
+        "url": null,
+        "retrieved": "2026-10-12"
+      }
+    ]
+  },
+  "administration_guidance": [
+    {
+      "text": "The Carnitor injection label states it is for intravenous use only, as a slow 2 to 3 minute bolus or an infusion, and the oral label states the tablets and solution are for oral use only and not for parenteral use.",
+      "label": "research",
+      "citation_id": "fda-carnitor-injection-label"
+    },
+    {
+      "text": "The Carnitor oral label says doses should be spaced evenly through the day, preferably during or after meals, and taken slowly. The solution can be taken alone or mixed into a drink or liquid food.",
+      "label": "research",
+      "citation_id": "fda-carnitor-oral-label"
+    },
+    {
+      "text": "The Carnitor injection label says to check visually for particles and color change before use, to discard any unused part of an opened vial, and gives 24-hour stability when diluted in 0.9% sodium chloride or lactated Ringer's in plastic bags at room temperature.",
+      "label": "research",
+      "citation_id": "fda-carnitor-injection-label"
+    },
+    {
+      "text": "TrimRx says injected L-carnitine goes into muscle or a vein. Muscle injection is not a labeled route.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://trimrx.com/blog/?p=106468",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "side_effects": [
+    {
+      "text": "The Carnitor labels list transient nausea, vomiting, abdominal cramps, diarrhea and body odor, and say lowering the dose often eases them.",
+      "label": "research",
+      "citation_id": "fda-carnitor-oral-label"
+    },
+    {
+      "text": "The Carnitor labels warn of seizures, including more seizures in people who already have them, and of serious hypersensitivity reactions including anaphylaxis.",
+      "label": "research",
+      "citation_id": "fda-carnitor-injection-label"
+    },
+    {
+      "text": "The Carnitor labels report INR increases with warfarin and advise INR monitoring after starting or changing levocarnitine.",
+      "label": "research",
+      "citation_id": "fda-carnitor-injection-label"
+    },
+    {
+      "text": "The label warns that long-term high-dose oral use in severe kidney disease or dialysis may let TMA and TMAO build up. Gut bacteria in healthy people also make TMAO from carnitine, and a cohort study linked high carnitine with TMAO to heart events.",
+      "label": "research",
+      "citation_id": "koeth-2013-nat-med"
+    },
+    {
+      "text": "TrimRx lists nausea, stomach upset, fishy body odor, injection site irritation and an unsettled TMAO concern.",
+      "label": "internet",
+      "source_type": "website",
+      "url": "https://trimrx.com/blog/?p=106468",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "internet_claims": [
+    {
+      "claim": "A peptide vendor lists L-Carnitine as an injectable solution at 1200 mg per 10 mL for research use.",
+      "source_type": "vendor",
+      "url": null,
+      "retrieved": "2026-10-12"
+    },
+    {
+      "claim": "TrimRx, a telehealth company, says L-carnitine injections bypass the gut and are marketed for fat loss and energy, while noting that the weight-loss use is off-label and that trials mainly used oral doses.",
+      "source_type": "website",
+      "url": "https://trimrx.com/blog/?p=106468",
+      "retrieved": "2026-10-12"
+    }
+  ],
+  "research": [
+    {
+      "id": "fda-carnitor-injection-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+      "year": 2023,
+      "summary": "FDA-approved DailyMed prescribing information for Carnitor (levocarnitine) injection, 1 g per 5 mL vial, for intravenous use only (Leadiant Biosciences), published November 2023.",
+      "finding": "Approved for acute and chronic treatment of inborn errors of metabolism that cause secondary carnitine deficiency and for prevention and treatment of carnitine deficiency in dialysis patients with end stage renal disease. Intravenous dosing is 50 mg/kg for metabolic disorders and 10 to 20 mg/kg after each dialysis session. Warnings cover hypersensitivity reactions, seizures and a warfarin interaction."
+    },
+    {
+      "id": "fda-carnitor-oral-label",
+      "evidence_type": "fda_label",
+      "source_kind": "fda",
+      "identifier": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2133bc3-9c15-48bd-8b16-b8995a6a14cd",
+      "year": 2024,
+      "summary": "FDA-approved DailyMed prescribing information for Carnitor (levocarnitine) tablets and oral solution (Leadiant Biosciences), published November 2024.",
+      "finding": "Approved for primary systemic carnitine deficiency and for secondary carnitine deficiency from inborn errors of metabolism. Adult tablet dosing is 990 mg two or three times a day. The label lists nausea, vomiting, cramps, diarrhea and body odor, and warns of seizures, hypersensitivity reactions and a warfarin interaction."
+    },
+    {
+      "id": "pooyandjoo-2016-obes-rev",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "27335245",
+      "year": 2016,
+      "summary": "Systematic review and meta-analysis in Obesity Reviews of 9 randomized controlled trials with 911 adults, comparing carnitine with control for weight loss.",
+      "finding": "Carnitine groups lost about 1.3 kg more than controls and had a small extra drop in body mass index. The size of the weight effect shrank as trial duration increased."
+    },
+    {
+      "id": "carnitine-37-rcts-2020",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "32359762",
+      "year": 2020,
+      "summary": "Systematic review and meta-analysis in Clinical Nutrition ESPEN of 37 randomized controlled trials with 2,292 participants, with a dose-response analysis of L-carnitine supplementation on body weight and composition.",
+      "finding": "Supplementation lowered body weight by about 1.2 kg, body mass index by 0.24 and fat mass by about 2 kg on average, with no clear effect on waist size or body fat percent. The authors described the effect as modest, most evident in people with overweight or obesity, with the largest effect near 2,000 mg per day."
+    },
+    {
+      "id": "mielgo-ayuso-2021-exercise",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "34959912",
+      "year": 2021,
+      "summary": "Systematic review in Nutrients of 11 trials of oral L-carnitine or related forms compared with placebo on exercise performance.",
+      "finding": "Intakes of 3 to 4 g taken 60 to 90 minutes before testing, or 2 to 2.72 g per day for 9 to 24 weeks, were linked with better high-intensity exercise performance. No improvement was found for moderate-intensity exercise."
+    },
+    {
+      "id": "wall-2011-muscle",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "21224234",
+      "year": 2011,
+      "summary": "Randomized double-blind trial in the Journal of Physiology in 14 healthy young men given oral L-carnitine L-tartrate with carbohydrate or carbohydrate alone for 24 weeks.",
+      "finding": "Muscle carnitine rose by about 21% with carnitine and carbohydrate and was unchanged with carbohydrate alone. The carnitine group used less muscle glycogen during moderate cycling and raised its work output by 11% in a performance trial."
+    },
+    {
+      "id": "sawicka-2020-review",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "32958033",
+      "year": 2020,
+      "summary": "Systematic review in the Journal of the International Society of Sports Nutrition of 11 studies in healthy people taking oral L-carnitine for 12 weeks or longer.",
+      "finding": "Carnitine taken with carbohydrate raised muscle carnitine content. Long-term supplementation raised fasting blood trimethylamine-N-oxide (TMAO), and the authors called for longer studies of cardiovascular effects."
+    },
+    {
+      "id": "koeth-2013-nat-med",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "23563705",
+      "year": 2013,
+      "summary": "Nature Medicine study combining human feeding tests, a cohort of 2,595 people having cardiac evaluation, and mouse experiments on gut bacteria and L-carnitine.",
+      "finding": "Gut bacteria turned L-carnitine into TMAO, and meat eaters made more than vegans or vegetarians. Blood carnitine predicted heart events only in people who also had high TMAO. In mice, dietary carnitine increased atherosclerosis."
+    },
+    {
+      "id": "koeth-2019-jci",
+      "evidence_type": "human_trial",
+      "source_kind": "pubmed",
+      "identifier": "30530985",
+      "year": 2019,
+      "summary": "Journal of Clinical Investigation study in omnivores and vegans or vegetarians given labeled oral L-carnitine, with fecal bacteria experiments.",
+      "finding": "Gut bacteria converted carnitine to the intermediate gamma-butyrobetaine and then to TMA and TMAO. TMAO production after a carnitine dose was over 20-fold higher in omnivores than in vegans or vegetarians, and chronic supplementation increased the conversion."
+    },
+    {
+      "id": "dinicolantonio-2013-mi",
+      "evidence_type": "systematic_review",
+      "source_kind": "pubmed",
+      "identifier": "23597877",
+      "year": 2013,
+      "summary": "Systematic review and meta-analysis in Mayo Clinic Proceedings of 13 controlled trials with 3,629 people with acute myocardial infarction given L-carnitine or control.",
+      "finding": "L-carnitine was linked with lower all-cause mortality, fewer ventricular arrhythmias and less angina, with no clear effect on heart failure or reinfarction. The authors asked for larger modern trials."
+    },
+    {
+      "id": "fda-warning-amazon-2025",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-695821-03032025",
+      "year": 2025,
+      "summary": "FDA warning letter dated 3 March 2025 to Amazon.com, Inc.",
+      "finding": "The letter names a product sold as L-Carnitine Body Serum Ampoule, labeled as a lipolytic solution, among injectable fat-reduction products treated as unapproved new drugs. It concerns that retail product and does not address FDA-approved levocarnitine injection."
+    }
+  ],
+  "how_to_take": {
+    "dose": {
+      "summary": "The label sets oral doses for adults at 990 mg two or three times a day as tablets, or 1 to 3 g a day as solution, and intravenous doses of 50 mg/kg for metabolic disorders or 10 to 20 mg/kg after dialysis. Weight-loss and exercise studies mostly used oral doses of about 2 g a day. Online sources describe injection doses of a few hundred milligrams to about a gram, which no trial tested.",
+      "items": [
+        {
+          "text": "The Carnitor tablet label gives an adult oral dosage of 990 mg two or three times a day depending on response, and the oral solution label gives 1 to 3 g a day for a 50 kg adult, starting at 1 g a day and increasing slowly.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "The Carnitor injection label gives 50 mg/kg as a slow 2 to 3 minute bolus or infusion for metabolic disorders, and a starting dose of 10 to 20 mg/kg after each dialysis session for people on hemodialysis. The label says this injection is for intravenous use only.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        },
+        {
+          "text": "The 37-trial meta-analysis found the largest weight effect at about 2,000 mg a day of L-carnitine, an average loss of about 1.2 kg.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "carnitine-37-rcts-2020"
+        },
+        {
+          "text": "In the exercise systematic review, oral intakes of 3 to 4 g before testing or 2 to 2.72 g a day for 9 to 24 weeks were the amounts linked with better high-intensity performance.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "mielgo-ayuso-2021-exercise"
+        },
+        {
+          "text": "In a 24-week trial in healthy young men, 2 g of L-carnitine L-tartrate was taken twice daily together with 80 g of carbohydrate.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "wall-2011-muscle"
+        },
+        {
+          "text": "TrimRx, a telehealth company, says injected L-carnitine goes into muscle or a vein, and that clinic doses reportedly range from a few hundred milligrams to about 1 g per injection. The page says no standard weight-loss dose exists. Muscle injection is not a route in the label.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://trimrx.com/blog/?p=106468",
+          "retrieved": "2026-10-12",
+          "conflicts_with_label": true
+        }
+      ]
+    },
+    "timing": {
+      "summary": "The label says oral doses should be spread evenly through the day, and dialysis doses are given after each session. One review linked 3 to 4 g taken 60 to 90 minutes before a test with better high-intensity performance.",
+      "items": [
+        {
+          "text": "The Carnitor oral label says doses should be spaced evenly through the day and taken slowly. The injection label says the dialysis dose is given after each dialysis session.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "In the exercise systematic review, single oral intakes of 3 to 4 g were taken 60 to 90 minutes before testing in the studies linked with better performance.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "mielgo-ayuso-2021-exercise"
+        }
+      ]
+    },
+    "fasting": {
+      "summary": "The label says oral doses are best taken during or after meals. Carnitine taken with carbohydrate raised muscle carnitine in studies.",
+      "items": [
+        {
+          "text": "The Carnitor oral label says doses are preferably taken during or following meals and consumed slowly to improve tolerance.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "The sports nutrition systematic review found that carnitine taken together with carbohydrate raised muscle carnitine content in healthy people.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sawicka-2020-review"
+        }
+      ]
+    },
+    "frequency": {
+      "summary": "The label gives two or three oral doses a day, injection doses every 3 to 4 hours for metabolic crises, or one dose after each dialysis session. One online source says clinics give injections several times a week.",
+      "items": [
+        {
+          "text": "The Carnitor tablet label gives two or three doses a day, and the injection label for metabolic disorders says doses are given every 3 or 4 hours and never less than 6 hours apart. The dialysis dose is given after each session.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        },
+        {
+          "text": "In the 24-week muscle trial, L-carnitine L-tartrate with carbohydrate was taken twice daily.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "wall-2011-muscle"
+        },
+        {
+          "text": "TrimRx says clinics sometimes give L-carnitine injections several times a week. No trial tested this schedule.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://trimrx.com/blog/?p=106468",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    "cycle_length": {
+      "summary": "The label treats deficiency as a long-term condition and sets no cycling schedule. Studies lasted 9 to 24 weeks, and the weight-loss effect was smaller in longer trials.",
+      "items": [
+        {
+          "text": "The Carnitor labels are for acute and chronic treatment of carnitine deficiency and give no stop date or off period.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "In the 9-trial weight-loss meta-analysis, the weight lost by carnitine groups grew smaller as the trial duration grew longer.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pooyandjoo-2016-obes-rev"
+        },
+        {
+          "text": "The sports nutrition review included studies of healthy people taking oral L-carnitine for 12 to 24 weeks.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sawicka-2020-review"
+        }
+      ]
+    },
+    "storage_and_handling": {
+      "summary": "The injection vials are kept at room temperature, and an opened vial is thrown away because it has no preservative. Tablets and solution are also kept at room temperature.",
+      "items": [
+        {
+          "text": "The Carnitor injection label says to store vials at controlled room temperature of 25 C, and to discard the unused part of an opened vial because it contains no preservative. The label says it stays stable for 24 hours at room temperature when mixed in 0.9% sodium chloride or lactated Ringer's in plastic bags.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        },
+        {
+          "text": "The Carnitor oral label says tablets are kept in their original packaging at 20 to 25 C because they absorb moisture, and the solution is kept at 20 to 25 C away from heat and freezing.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        }
+      ]
+    }
+  },
+  "what_it_does": {
+    "mechanism": {
+      "summary": "Carnitine carries long-chain fatty acids into the mitochondria, the cell's energy units, so they can be burned for energy. The body makes it, and the drug replaces it when levels are low.",
+      "items": [
+        {
+          "text": "The Carnitor label says levocarnitine is a naturally occurring substance that helps long-chain fatty acids enter mitochondria so they can be oxidized for energy, and that in skeletal and cardiac muscle fatty acids are the main fuel.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        },
+        {
+          "text": "In a 24-week trial in healthy men, carnitine with carbohydrate raised muscle carnitine by about 21% and cut muscle glycogen use during moderate exercise, which fits more fat use.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "wall-2011-muscle"
+        }
+      ]
+    },
+    "best_documented_effect": {
+      "summary": "Its proven use is treating low carnitine in inherited metabolic disorders and in dialysis patients. For weight loss, trial pooling shows only about 1 to 1.5 kg of extra loss.",
+      "items": [
+        {
+          "text": "The oral label says carnitine supplementation rapidly eased signs and symptoms in some people with primary carnitine deficiency, particularly those with cardiomyopathy. The injection label says dialysis patients had higher blood levels, while effects on clinical outcomes in that group are not determined.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "A meta-analysis of 9 randomized trials found about 1.3 kg more weight loss with carnitine than control, and a 37-trial analysis found about 1.2 kg more weight loss.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "pooyandjoo-2016-obes-rev"
+        },
+        {
+          "text": "A 37-trial analysis found about 2 kg less fat mass with carnitine, but no clear change in waist size or body fat percent.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "carnitine-37-rcts-2020"
+        },
+        {
+          "text": "The exercise systematic review linked oral carnitine with better high-intensity exercise performance and found no gain in moderate-intensity exercise.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "mielgo-ayuso-2021-exercise"
+        }
+      ]
+    }
+  },
+  "side_effect_groups": [
+    {
+      "title": "Common stomach and body odor effects",
+      "summary": "Nausea, vomiting, cramps and diarrhea are the usual effects, along with body odor. Lowering the dose often eases them.",
+      "items": [
+        {
+          "text": "The Carnitor injection label says transient nausea and vomiting have been seen, and less often body odor and gastritis.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        },
+        {
+          "text": "The Carnitor oral label lists transient nausea, vomiting, abdominal cramps and diarrhea with long-term use, and says lowering the dose often reduces body odor and stomach symptoms. Large doses may cause diarrhea.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "TrimRx lists nausea, stomach upset, fishy body odor at higher doses and pain or irritation at the injection site.",
+          "label": "internet",
+          "validity": "very_low",
+          "source_type": "website",
+          "url": "https://trimrx.com/blog/?p=106468",
+          "retrieved": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "title": "Seizures",
+      "summary": "The label reports seizures with oral and intravenous levocarnitine, including worse seizures in people who already have them.",
+      "items": [
+        {
+          "text": "The Carnitor labels report seizures in people with or without a seizure history who took oral or intravenous levocarnitine, with more frequent or severe seizures in those with existing seizure activity.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        }
+      ]
+    },
+    {
+      "title": "Allergic reactions",
+      "summary": "Serious allergic reactions have been reported, mostly with intravenous use in dialysis patients.",
+      "items": [
+        {
+          "text": "The Carnitor injection label warns of serious hypersensitivity reactions including anaphylaxis, laryngeal edema and bronchospasm, mostly in dialysis patients and sometimes within minutes of an intravenous dose. The oral label reports rash, hives and facial swelling.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        }
+      ]
+    },
+    {
+      "title": "Warfarin and other medicine interactions",
+      "summary": "The label says INR can rise in people taking warfarin, so INR is checked after starting or changing carnitine.",
+      "items": [
+        {
+          "text": "The Carnitor labels report INR increases with warfarin and recommend INR monitoring after levocarnitine is started or the dose is changed.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        }
+      ]
+    },
+    {
+      "title": "Kidney disease, TMAO and heart risk",
+      "summary": "Gut bacteria turn carnitine into TMAO, which has been linked with heart disease. Trials in heart attack patients point the other way, so the long-term effect is unsettled.",
+      "items": [
+        {
+          "text": "The Carnitor label says long-term high-dose oral levocarnitine in people with severely reduced kidney function or on dialysis may cause the harmful metabolites TMA and TMAO to build up.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-oral-label"
+        },
+        {
+          "text": "In humans, gut bacteria converted oral carnitine to TMAO, with over 20-fold more TMAO made by meat eaters than by vegans or vegetarians, and chronic supplementation raised the conversion.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "koeth-2019-jci"
+        },
+        {
+          "text": "In a cohort of 2,595 people having cardiac evaluation, high blood carnitine predicted heart events only when TMAO was also high. In mice, dietary carnitine increased atherosclerosis.",
+          "label": "research",
+          "validity": "low",
+          "citation_id": "koeth-2013-nat-med"
+        },
+        {
+          "text": "A systematic review of healthy people on carnitine for 12 weeks or more found raised fasting TMAO and called for longer studies of cardiovascular effects.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "sawicka-2020-review"
+        },
+        {
+          "text": "A meta-analysis of 13 trials in people with a heart attack linked L-carnitine with lower all-cause mortality and fewer ventricular arrhythmias, which is a different population from healthy supplement users.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "dinicolantonio-2013-mi"
+        }
+      ]
+    },
+    {
+      "title": "Injectable products sold online",
+      "summary": "The approved injection is for intravenous use only and has no preservative. FDA has treated a retail L-carnitine fat-reduction injectable as an unapproved drug, and the approved injection is not the same as vendor vials.",
+      "items": [
+        {
+          "text": "The Carnitor injection label states it is for intravenous use only and contains no preservative, so any unused part of an opened vial is discarded.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-carnitor-injection-label"
+        },
+        {
+          "text": "In March 2025 FDA sent Amazon a warning letter naming a retail product called L-Carnitine Body Serum Ampoule, labeled as a lipolytic solution, as an unapproved injectable fat-reduction drug. FDA said injectables carry added risk because they bypass the body's natural defenses.",
+          "label": "research",
+          "validity": "moderate",
+          "citation_id": "fda-warning-amazon-2025"
+        }
+      ]
+    }
+  ],
+  "last_reviewed": "2026-10-12"
+}
