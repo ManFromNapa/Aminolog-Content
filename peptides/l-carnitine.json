@@ -37,8 +37,8 @@
       {
         "text": "TrimRx, a telehealth company, says clinic injection doses reportedly range from a few hundred milligrams to about 1 g per injection, with no standard weight-loss dose.",
         "population": "People seeking fat loss",
-        "source_type": "website",
-        "url": "https://trimrx.com/blog/?p=106468",
+        "source_type": "vendor",
+        "url": null,
         "retrieved": "2026-10-12"
       },
       {
@@ -69,8 +69,8 @@
     {
       "text": "TrimRx says injected L-carnitine goes into muscle or a vein. Muscle injection is not a labeled route.",
       "label": "internet",
-      "source_type": "website",
-      "url": "https://trimrx.com/blog/?p=106468",
+      "source_type": "vendor",
+      "url": null,
       "retrieved": "2026-10-12"
     }
   ],
@@ -98,8 +98,8 @@
     {
       "text": "TrimRx lists nausea, stomach upset, fishy body odor, injection site irritation and an unsettled TMAO concern.",
       "label": "internet",
-      "source_type": "website",
-      "url": "https://trimrx.com/blog/?p=106468",
+      "source_type": "vendor",
+      "url": null,
       "retrieved": "2026-10-12"
     }
   ],
@@ -112,8 +112,8 @@
     },
     {
       "claim": "TrimRx, a telehealth company, says L-carnitine injections bypass the gut and are marketed for fat loss and energy, while noting that the weight-loss use is off-label and that trials mainly used oral doses.",
-      "source_type": "website",
-      "url": "https://trimrx.com/blog/?p=106468",
+      "source_type": "vendor",
+      "url": null,
       "retrieved": "2026-10-12"
     }
   ],
@@ -256,8 +256,8 @@
           "text": "TrimRx, a telehealth company, says injected L-carnitine goes into muscle or a vein, and that clinic doses reportedly range from a few hundred milligrams to about 1 g per injection. The page says no standard weight-loss dose exists. Muscle injection is not a route in the label.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://trimrx.com/blog/?p=106468",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-12",
           "conflicts_with_label": true
         }
@@ -316,8 +316,8 @@
           "text": "TrimRx says clinics sometimes give L-carnitine injections several times a week. No trial tested this schedule.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://trimrx.com/blog/?p=106468",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-12"
         }
       ]
@@ -391,13 +391,13 @@
           "citation_id": "fda-carnitor-oral-label"
         },
         {
-          "text": "A meta-analysis of 9 randomized trials found about 1.3 kg more weight loss with carnitine than control, and a 37-trial analysis found about 1.2 kg more weight loss.",
+          "text": "A meta-analysis of 9 randomized trials found about 1.3 kg more weight loss with carnitine than control.",
           "label": "research",
           "validity": "moderate",
           "citation_id": "pooyandjoo-2016-obes-rev"
         },
         {
-          "text": "A 37-trial analysis found about 2 kg less fat mass with carnitine, but no clear change in waist size or body fat percent.",
+          "text": "A 37-trial analysis found about 1.2 kg more weight loss and about 2 kg less fat mass with carnitine, but no clear change in waist size or body fat percent.",
           "label": "research",
           "validity": "moderate",
           "citation_id": "carnitine-37-rcts-2020"
@@ -432,8 +432,8 @@
           "text": "TrimRx lists nausea, stomach upset, fishy body odor at higher doses and pain or irritation at the injection site.",
           "label": "internet",
           "validity": "very_low",
-          "source_type": "website",
-          "url": "https://trimrx.com/blog/?p=106468",
+          "source_type": "vendor",
+          "url": null,
           "retrieved": "2026-10-12"
         }
       ]

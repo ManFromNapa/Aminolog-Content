@@ -315,7 +315,7 @@
         {
           "text": "In 12 adults with Dercum disease, treated lipomas shrank by roughly half and pain scores fell. There was no placebo comparison.",
           "label": "research",
-          "validity": "moderate",
+          "validity": "low",
           "citation_id": "cbl514-dercum-2026"
         },
         {
@@ -373,7 +373,7 @@
         {
           "text": "In the 12-person Dercum study, all had injection site redness and swelling, 4 people had severe events, and 2 stopped treatment.",
           "label": "research",
-          "validity": "moderate",
+          "validity": "low",
           "citation_id": "cbl514-dercum-2026"
         }
       ]
@@ -417,14 +417,6 @@
           "label": "research",
           "validity": "moderate",
           "citation_id": "cbl514-ph2-2025"
-        },
-        {
-          "text": "Clinical Trials Arena reported in July 2025 that the US FDA cleared the first phase 3 trial (SUPREME-01), that top-line results are expected between late 2026 and early 2027, and that a combination phase 2 trial with tirzepatide was planned.",
-          "label": "internet",
-          "validity": "very_low",
-          "source_type": "website",
-          "url": "https://www.clinicaltrialsarena.com/news/caliway-cbl-514/",
-          "retrieved": "2026-10-12"
         }
       ]
     }

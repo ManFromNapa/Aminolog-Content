@@ -42,12 +42,6 @@
       "source_type": "vendor",
       "url": null,
       "retrieved": "2026-10-12"
-    },
-    {
-      "claim": "ahk-cu.com, a site that sells a combined AHK-Cu and GHK-Cu hair serum, sells a hair serum with a combined 4,800 mg of AHK-Cu and GHK-Cu in 60 mL, with no per-peptide split stated.",
-      "source_type": "vendor",
-      "url": null,
-      "retrieved": "2026-10-12"
     }
   ],
   "research": [],
@@ -142,18 +136,10 @@
   "side_effect_groups": [
     {
       "title": "Warnings",
-      "summary": "Sellers warn about total copper exposure when two copper peptides are combined, about copper allergy, and about mixing topical copper peptides with acids and vitamin C. These are seller warnings, not study results.",
+      "summary": "Peptide Mind warns about total copper exposure when two copper peptides are combined. This is a seller warning, not a study result.",
       "items": [
         {
           "text": "Peptide Mind, a site that links to sellers, says that combining copper-containing peptides makes monitoring total copper exposure more important and lists nausea, vomiting, abdominal pain and neurological effects as symptoms of copper toxicity.",
-          "label": "internet",
-          "validity": "very_low",
-          "source_type": "vendor",
-          "url": null,
-          "retrieved": "2026-10-12"
-        },
-        {
-          "text": "Neurogan Health, a company that sells copper peptide hair and skin products, says copper peptides may not suit people with a known copper allergy or sensitivity and advises against using them in the same step as vitamin C, strong acids, retinols or benzoyl peroxide. This concerns topical products.",
           "label": "internet",
           "validity": "very_low",
           "source_type": "vendor",

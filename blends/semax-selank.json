@@ -99,7 +99,7 @@
       ]
     },
     "timing": {
-      "summary": "Online guides describe Semax in the morning, not after about 2 PM, because later doses may disturb sleep. One adds that for nasal use Selank goes first with a 15 to 30 minute gap. None of this has been studied for the pair.",
+      "summary": "One guide says to take Semax before about 2 PM to avoid sleep disruption and, for nasal use, to take Selank first and wait 15 to 30 minutes before Semax. None of this has been studied for the pair.",
       "items": [
         {
           "text": "Peptide Dosing Protocols, a site with supplier affiliate links, says to take Semax before 2 PM to avoid sleep disruption. For nasal use it says to take Selank first and wait 15 to 30 minutes before Semax.",
@@ -107,22 +107,6 @@
           "validity": "very_low",
           "source_type": "vendor",
           "url": null,
-          "retrieved": "2026-10-12"
-        },
-        {
-          "text": "A Substack newsletter on peptide prices says to take Semax in the morning and that doses after 2 PM may disrupt sleep.",
-          "label": "internet",
-          "validity": "very_low",
-          "source_type": "website",
-          "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
-          "retrieved": "2026-10-12"
-        },
-        {
-          "text": "Peptide Dossier, which says it does not sell peptides, says Semax goes in the morning and that some users pair Semax for daytime with Selank for the evening.",
-          "label": "internet",
-          "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidedossier.com/compare/selank-vs-semax/",
           "retrieved": "2026-10-12"
         }
       ]
@@ -274,7 +258,7 @@
   "side_effect_groups": [
     {
       "title": "Online reports",
-      "summary": "No study reports side effects of the combination. Guides list headache, sleep problems, nasal irritation and mood effects, mostly listed by peptide.",
+      "summary": "No study reports side effects of the combination. One guide lists mild headache, sleep disruption if Semax is taken late, mild nasal irritation, transient irritability and injection-site redness.",
       "items": [
         {
           "text": "Peptide Dosing Protocols, a site with supplier affiliate links, lists mild headache, sleep disruption if Semax is taken late, mild nasal irritation, transient irritability and injection-site redness.",
@@ -282,22 +266,6 @@
           "validity": "very_low",
           "source_type": "vendor",
           "url": null,
-          "retrieved": "2026-10-12"
-        },
-        {
-          "text": "A Substack newsletter on peptide prices lists overstimulation, headaches, sleep issues, nasal irritation and brief brain fog for Semax, and drowsiness, nasal irritation, headaches, increased appetite and emotional flattening at higher doses for Selank.",
-          "label": "internet",
-          "validity": "very_low",
-          "source_type": "website",
-          "url": "https://derekpruski.substack.com/p/semax-selank-stack-the-nootropic",
-          "retrieved": "2026-10-12"
-        },
-        {
-          "text": "Peptide Dossier, which says it does not sell peptides, says Semax may cause restlessness or insomnia if taken late, Selank mainly causes nasal congestion, throat irritation or headache, and nasal use carries infection risk without sterile technique.",
-          "label": "internet",
-          "validity": "very_low",
-          "source_type": "website",
-          "url": "https://peptidedossier.com/compare/selank-vs-semax/",
           "retrieved": "2026-10-12"
         }
       ]
