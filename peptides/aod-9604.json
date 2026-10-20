@@ -47,7 +47,7 @@
   ],
   "side_effects": [
     {
-      "text": "FDA lists AOD-9604 among bulk drug substances for compounding that may present significant safety risks, stating it may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+      "text": "FDA's page (current as of 04/22/2026) lists AOD-9604 among substances nominated for 503A compounding and then withdrawn by the nominators. It says compounded AOD-9604 may pose significant risk for immunogenicity for certain routes of administration. It also says FDA has identified serious adverse events that may be linked to AOD-9604, though cause is not clear.",
       "label": "research",
       "citation_id": "fda-bulks-page"
     },
@@ -120,8 +120,17 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "The page lists AOD-9604 among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing AOD-9604 may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization.\" The page does not make it an approved drug."
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, re-checked 2026-10-20).",
+      "finding": "The page lists AOD-9604 among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing AOD-9604 may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization.\" FDA also says it has identified serious adverse events that may be linked to AOD-9604, though cause is not clear. The nominators withdrew the nominations. The page does not make it an approved drug."
+    },
+    {
+      "id": "fda-pcac-minutes-2024-12",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/185642/download",
+      "year": 2024,
+      "summary": "FDA final summary minutes of the 4 December 2024 Pharmacy Compounding Advisory Committee meeting (re-checked 2026-10-20).",
+      "finding": "The committee voted on whether to place AOD-9604 (free base) and AOD-9604 acetate on the 503A bulks list. The vote was 0 yes and 12 no. This is an advisory vote on FDA's proposal not to include them, not a final rule."
     }
   ],
   "how_to_take": {
@@ -441,13 +450,19 @@
   "side_effect_groups": [
     {
       "title": "Regulator warning",
-      "summary": "FDA says compounded drugs containing AOD-9604 may pose significant risk of immune reactions for some routes and may have peptide impurity problems.",
+      "summary": "FDA says compounded AOD-9604 may pose significant risk of immune reactions for some routes. Its advisory committee voted 0 to 12 against listing it.",
       "items": [
         {
-          "text": "FDA lists AOD-9604 among bulk drug substances for compounding that may present significant safety risks, stating it may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+          "text": "FDA's page (current as of 04/22/2026) lists AOD-9604 as nominated for 503A compounding and then withdrawn. It says compounded AOD-9604 may pose significant risk for immunogenicity for certain routes of administration and may have peptide impurity complexities. It also reports serious adverse events that may be linked to it, though cause is not clear.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-bulks-page"
+        },
+        {
+          "text": "At FDA's advisory committee meeting on 4 December 2024, members voted 0 yes and 12 no on placing AOD-9604 (free base and acetate) on the 503A bulks list. This is an advisory vote, not a final rule.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-minutes-2024-12"
         }
       ]
     },
@@ -508,5 +523,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

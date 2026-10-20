@@ -142,6 +142,24 @@
       "year": 2024,
       "summary": "Randomized, double-blind, placebo-controlled trial of 250 mg per day of oral NMN for 12 weeks in 60 older adults (Morifuji and colleagues, GeroScience). Authors work for the supplement maker.",
       "finding": "Blood NAD+ rose and 4-meter walking time was shorter than placebo at 12 weeks, but the main stepping test showed no difference. No supplement-related adverse effects were observed."
+    },
+    {
+      "id": "fda-503a-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for section 503A compounding, with category 1, 2 and 3 lists (updated 14 May 2026, fetched 2026-10-20).",
+      "finding": "NAD (nicotinamide adenine dinucleotide) and NADH (disodium, reduced) are listed in 503A category 1. A NAD disodium salt trihydrate entry is in category 3. FDA's 503A page says it does not intend to act against a compounder using a category 1 substance if the conditions in its guidance are met, until it decides on the substance. This is not an approval or a safety finding."
+    },
+    {
+      "id": "fda-503b-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94164/download",
+      "year": 2025,
+      "summary": "FDA list of bulk drug substances nominated for section 503B compounding, with category 1, 2 and 3 lists (updated 21 March 2025, fetched 2026-10-20).",
+      "finding": "Beta-nicotinamide adenine dinucleotide appears in both 503B category 1 and 503B category 3. FDA's 503B page says it does not intend to act against an outsourcing facility using a category 1 substance if the conditions in its guidance are met, until it decides on the substance. This is not an approval or a safety finding."
     }
   ],
   "how_to_take": {
@@ -511,7 +529,25 @@
           "retrieved": "2026-10-02"
         }
       ]
+    },
+    {
+      "title": "FDA compounding status",
+      "summary": "FDA lists NAD in category 1 for pharmacy compounding, but the lists are mixed for some forms. This is not an approval or a safety finding.",
+      "items": [
+        {
+          "text": "FDA lists NAD in category 1 of its 503A list for pharmacy compounding. It will not act against compounding of it for now if its conditions are met. The disodium salt trihydrate form is in category 3.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories"
+        },
+        {
+          "text": "FDA's 503B list for outsourcing facilities names beta-nicotinamide adenine dinucleotide in both category 1 and category 3.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503b-categories"
+        }
+      ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

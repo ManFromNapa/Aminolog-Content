@@ -155,8 +155,35 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
-      "finding": "On the fetched page, thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of substances nominated but withdrawn (previously category 2). FDA noted immunogenicity and impurity risks and that it had found no human exposure data for products containing this fragment."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-read 2026-10-20).",
+      "finding": "On this page, the thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes possible immune reactions from clumping and impurities, and says it found no human exposure data for products containing this fragment. The page names this fragment. No entry for full-length thymosin beta-4 was found on it. The page describes compounding policy. It does not make TB-500 an approved drug."
+    },
+    {
+      "id": "fda-503a-categories-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA PDF of the 503A bulk drug substance categories (updated May 14, 2026, read 2026-10-20).",
+      "finding": "TB-500 is not named in the Category 1, 2 or 3 lists in this PDF. It points to the safety-risks page for substances that were in Category 2 and later withdrawn. Not being listed is not an approval."
+    },
+    {
+      "id": "fda-pcac-2026-07-meeting",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+      "year": 2026,
+      "summary": "FDA page for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (current as of 08/06/2026, read 2026-10-20).",
+      "finding": "TB-500 (free base and acetate) was on the agenda for 23 July 2026, for wound healing. As of 2026-10-20 the page lists no minutes, transcript, summary or votes, so this file states no vote."
+    },
+    {
+      "id": "fda-pcac-2026-07-briefing",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/193342/download",
+      "year": 2026,
+      "summary": "FDA briefing document for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (read 2026-10-20).",
+      "finding": "FDA proposed that TB-500 (free base and acetate) not be included on the 503A Bulks List. This was FDA's position before the meeting. It is not a final decision."
     }
   ],
   "how_to_take": {
@@ -341,16 +368,34 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "FDA notes immune and impurity risks and found no human exposure data.",
+      "summary": "FDA notes immune and impurity risks and found no human exposure data. FDA proposed in July 2026 that TB-500 not be added to the 503A Bulks List.",
       "items": [
         {
-          "text": "On the fetched page, thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of substances nominated but withdrawn (previously category 2). FDA noted immunogenicity and impurity risks and that it had found no human exposure data for products containing this fragment.",
+          "text": "On FDA's safety-risks page (current as of 22 April 2026), the thymosin beta-4 fragment (LKKTETQ), also known as TB-500, is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes possible immune reactions from clumping and impurities, and says it found no human exposure data for products containing this fragment. The page names this fragment. No entry for full-length thymosin beta-4 was found on it.",
           "label": "research",
           "validity": "strong",
           "citation_id": "r-fda-cat2"
+        },
+        {
+          "text": "FDA's 503A category list (updated May 14, 2026) does not name TB-500 in Category 1, 2 or 3.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories-2026"
+        },
+        {
+          "text": "TB-500 was on the agenda of FDA's advisory committee on compounding for 23 July 2026. FDA's meeting page current as of 6 August 2026 posts no votes or minutes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-meeting"
+        },
+        {
+          "text": "FDA's briefing proposed that TB-500 not be included on the 503A Bulks List. This was a proposal before the meeting, not a final decision.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-briefing"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

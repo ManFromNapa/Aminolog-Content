@@ -18,7 +18,7 @@
   "administration_guidance": [],
   "side_effects": [
     {
-      "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
+      "text": "FDA's page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and says compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. The page also lists it among the substances nominated but withdrawn. This statement concerns the component, not the combination.",
       "label": "research",
       "citation_id": "r-fda-cat2"
     }
@@ -50,8 +50,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
-      "finding": "FDA lists ipamorelin acetate in category 2 for 503B outsourcing facilities and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. It also lists CJC-1295 among withdrawn substances, stating that compounded drugs containing it may pose risk for immunogenicity for certain routes and may have complexities with peptide-related impurities and API characterization."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page content current as of 04/22/2026, fetched 2026-10-20).",
+      "finding": "FDA lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and also in its nominated but withdrawn list, and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. It also lists CJC-1295 in the nominated but withdrawn list, stating that compounded drugs containing it may pose risk for immunogenicity for certain routes and may have complexities with peptide-related impurities and API characterization."
     },
     {
       "id": "van-cauter-1992-jcem",
@@ -313,7 +313,7 @@
       "summary": "No label exists for the blend. Sources disagree on whether the two peptides may be mixed in one syringe, and say to refrigerate a mixed vial for about 4 to 6 weeks.",
       "items": [
         {
-          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. It also lists CJC-1295 among withdrawn substances with a similar warning. This concerns the components, not the combination.",
+          "text": "FDA's page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and also among the substances nominated but withdrawn, and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. It lists CJC-1295 in the nominated but withdrawn list with a similar warning. This concerns the components, not the combination.",
           "label": "research",
           "validity": "low",
           "citation_id": "r-fda-cat2"
@@ -454,10 +454,10 @@
   "side_effect_groups": [
     {
       "title": "Regulator warning",
-      "summary": "FDA warns about compounded ipamorelin and lists CJC-1295 as withdrawn; neither statement covers the combination.",
+      "summary": "FDA warns about compounded ipamorelin and lists CJC-1295 as nominated but withdrawn; neither statement covers the combination.",
       "items": [
         {
-          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and states that compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. This statement concerns the component, not the combination.",
+          "text": "FDA's page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and says compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. The page also lists it among the substances nominated but withdrawn. This statement concerns the component, not the combination.",
           "label": "research",
           "validity": "low",
           "citation_id": "r-fda-cat2"
@@ -519,5 +519,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

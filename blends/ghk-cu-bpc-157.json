@@ -11,7 +11,7 @@
   "other_components": [],
   "regulatory_status": "unapproved",
   "used_for": "Marketed by telemedicine and peptide sellers as a skin and tissue repair pairing. These uses are promotional claims, not approved indications.",
-  "summary": "GHK-Cu / BPC-157 is a pairing of a copper-binding peptide and a gastric-derived research peptide, sold as a mixed or paired product. No approved product contains it, and no combination-specific human study was found in the sources reviewed. A telemedicine article notes that GHK-Cu is in FDA's category 2 for injectable routes and says online discussions often gloss over route and regulatory status. The detailed information is on the pages for GHK-Cu and BPC-157; formulations vary by seller. The combination's side effects are not separately characterized.",
+  "summary": "GHK-Cu / BPC-157 is a pairing of a copper-binding peptide and a gastric-derived research peptide, sold as a mixed or paired product. No approved product contains it, and no combination-specific human study was found in the sources reviewed. A telemedicine article says online discussions often gloss over route and regulatory status. FDA's page lists GHK-Cu for injectable routes as nominated but withdrawn, not in Category 2, and FDA's 503A categories list puts GHK-Cu except for injectable routes in Category 1. The detailed information is on the pages for GHK-Cu and BPC-157; formulations vary by seller. The combination's side effects are not separately characterized.",
   "administration_guidance": [],
   "side_effects": [],
   "internet_claims": [
@@ -22,7 +22,26 @@
       "retrieved": "2026-10-01"
     }
   ],
-  "research": [],
+  "research": [
+    {
+      "id": "r-fda-ghk-cu-withdrawn",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page content current as of 04/22/2026, fetched 2026-10-20).",
+      "finding": "FDA lists GHK-Cu for injectable routes among substances previously in category 2 that were withdrawn by the nominators, citing possible immunogenicity from aggregation and peptide-related impurities and limited human data. BPC-157 is in the same withdrawn list."
+    },
+    {
+      "id": "r-fda-503a-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for 503A compounding, with categories 1, 2 and 3 (updated May 14, 2026, fetched 2026-10-20).",
+      "finding": "FDA says GHK-Cu except for injectable routes was removed from Category 1 on April 22, 2026 after nominations were withdrawn, then added back after a nominator clarified on May 5, 2026 that it withdrew only the injectable route. FDA says it intends to consult its advisory committee before the end of February 2027."
+    }
+  ],
   "how_to_take": {
     "dose": {
       "summary": "No combination study was found, so there is no studied combined dose. One educational calculator site describes a community mixing recipe of 10 mg GHK-Cu and 5 mg BPC-157 in one vial, and says this is untested.",
@@ -132,5 +151,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

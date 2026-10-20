@@ -72,7 +72,7 @@
       "citation_id": "pmid-16352683"
     },
     {
-      "text": "FDA lists CJC-1295 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+      "text": "FDA's page (current as of 04/22/2026) lists CJC-1295 among substances nominated for 503A compounding and then withdrawn by the nominators. It says compounded CJC-1295 may pose risk for immunogenicity for certain routes of administration and may have peptide-related impurity complexities.",
       "label": "research",
       "citation_id": "fda-category2-page"
     }
@@ -150,7 +150,7 @@
       "identifier": "https://www.fda.gov/media/185641/download",
       "year": 2024,
       "summary": "Transcript of the 4 December 2024 advisory committee meeting (fetched 2026-09-30).",
-      "finding": "On the questions about whether specific CJC-1295 substances should be placed on the 503A bulks list, the voting members recorded votes of no (13 to 0 on the tallies read out). This is an advisory recommendation, not a final FDA rule."
+      "finding": "The voting members recorded no votes on placing each CJC-1295 substance on the 503A bulks list. The final minutes give the exact tallies. This is an advisory recommendation, not a final FDA rule."
     },
     {
       "id": "fda-category2-page",
@@ -158,8 +158,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
-      "finding": "CJC-1295 appears in the list of substances previously in category 2 that nominators withdrew. FDA says compounded CJC-1295 may pose immunogenicity risk, that it has identified serious adverse events including increased heart rate and a systemic vasodilatory reaction, and that clinical data are limited. This page does not make CJC-1295 an approved drug."
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-checked 2026-10-20).",
+      "finding": "CJC-1295 appears in the list of substances nominated for 503A compounding and then withdrawn by the nominators. FDA says compounded CJC-1295 may pose immunogenicity risk, that it has identified serious adverse events including increased heart rate and a systemic vasodilatory reaction, and that clinical data are limited. This page does not make CJC-1295 an approved drug."
     },
     {
       "id": "fda-warning-tailor-made-2020",
@@ -196,6 +196,15 @@
       "year": 1992,
       "summary": "Study of growth hormone secretion in healthy men in relation to sleep and time of day, using deconvolution of frequent blood samples (Van Cauter et al., J Clin Endocrinol Metab).",
       "finding": "A GH pulse began within 30 minutes of sleep onset in every profile with normal sleep, and about 70% of pulses during sleep were tied to slow-wave sleep."
+    },
+    {
+      "id": "fda-pcac-minutes-2024-12",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/185642/download",
+      "year": 2024,
+      "summary": "FDA final summary minutes of the 4 December 2024 Pharmacy Compounding Advisory Committee meeting (re-checked 2026-10-20).",
+      "finding": "The committee voted on each CJC-1295 form for the 503A bulks list. Votes were 0 yes and 13 no for the free base, 1 yes and 12 no for the acetate, and 0 yes and 13 no for each of the three DAC forms (DAC free base, DAC acetate, DAC trifluoroacetate). These are advisory votes on FDA's proposal not to include them, not a final rule."
     }
   ],
   "how_to_take": {
@@ -553,10 +562,10 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "FDA lists compounded CJC-1295 as a possible safety risk and proposed against allowing it in compounding.",
+      "summary": "FDA lists compounded CJC-1295 as nominated and withdrawn for 503A compounding, with possible safety risks. Its advisory committee voted against listing every form.",
       "items": [
         {
-          "text": "FDA lists CJC-1295 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities.",
+          "text": "FDA's page (current as of 04/22/2026) lists CJC-1295 among substances nominated for 503A compounding and then withdrawn by the nominators. It says compounded CJC-1295 may pose risk for immunogenicity for certain routes of administration and may have peptide-related impurity complexities.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-category2-page"
@@ -568,10 +577,10 @@
           "citation_id": "fda-category2-page"
         },
         {
-          "text": "At a December 2024 FDA advisory meeting, voting members recorded no votes (13 to 0 on the tallies read out) on placing CJC-1295 substances on the compounding bulks list. This is an advisory recommendation, not a final rule.",
+          "text": "At FDA's advisory meeting on 4 December 2024, members voted no on every CJC-1295 form for the 503A bulks list: 0 yes to 13 no for the free base, 1 to 12 for the acetate, and 0 to 13 for each of the three DAC forms. This is an advisory vote, not a final rule.",
           "label": "research",
-          "validity": "moderate",
-          "citation_id": "fda-pcac-transcript-2024"
+          "validity": "strong",
+          "citation_id": "fda-pcac-minutes-2024-12"
         },
         {
           "text": "Midi Health, a telehealth company, says CJC-1295 is on an FDA list of bulk drug substances that cannot be used in compounded medications.",
@@ -584,5 +593,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

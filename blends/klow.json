@@ -44,8 +44,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content dated 22 April 2026, fetched 2026-10-01).",
-      "finding": "FDA lists KPV among withdrawn substances and states it has not identified any human exposure data on drug products containing KPV administered via any route. It lists BPC-157, thymosin beta-4 fragment and GHK-Cu among withdrawn substances with immunogenicity and impurity concerns."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page content current as of 04/22/2026, fetched 2026-10-20).",
+      "finding": "FDA lists KPV among substances nominated but withdrawn and states it has not identified any human exposure data on drug products containing KPV administered via any route. It lists BPC-157, thymosin beta-4 fragment and GHK-Cu (injectable routes) in the same withdrawn list with immunogenicity and impurity concerns."
     }
   ],
   "how_to_take": {
@@ -308,5 +308,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

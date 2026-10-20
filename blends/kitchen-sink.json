@@ -15,11 +15,11 @@
   ],
   "regulatory_status": "unapproved",
   "used_for": "Described by telehealth sources as an all-purpose stack combining growth hormone secretagogues with recovery peptides, often with further peptides added.",
-  "summary": "This blend combines CJC-1295, ipamorelin, BPC-157 and TB-500, sometimes with other peptides, all unapproved. No approved product and no combination-specific human study was found, and the exact contents vary by seller. FDA's compounding safety-risk page names ipamorelin acetate in category 2 and lists CJC-1295, BPC-157 and TB-500 in a withdrawn section. Each component's own page holds the detailed information (CJC-1295, Ipamorelin, BPC-157 and TB-500).",
+  "summary": "This blend combines CJC-1295, ipamorelin, BPC-157 and TB-500, sometimes with other peptides, all unapproved. No approved product and no combination-specific human study was found, and the exact contents vary by seller. FDA's compounding safety-risk page lists ipamorelin acetate in Category 2 for 503B and also in a nominated but withdrawn list, which names CJC-1295, BPC-157 and TB-500 as well. Each component's own page holds the detailed information (CJC-1295, Ipamorelin, BPC-157 and TB-500).",
   "administration_guidance": [],
   "side_effects": [
     {
-      "text": "FDA's compounding safety-risk page lists ipamorelin acetate among substances that may present significant safety risks, citing immunogenicity concerns; it also names CJC-1295, BPC-157 and TB-500 in its withdrawn section with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
+      "text": "FDA's compounding safety-risk page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities, citing immunogenicity concerns. It lists CJC-1295, BPC-157 and TB-500 (thymosin beta-4 fragment) only among substances nominated but withdrawn, with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
       "label": "research",
       "citation_id": "r-fda-cat2"
     }
@@ -45,8 +45,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (fetched 2026-10-01).",
-      "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. The page also names CJC-1295, BPC-157 and TB-500 (thymosin beta-4 fragment) in its withdrawn section, citing immunogenicity risk, and for CJC-1295 serious adverse events including increased heart rate and systemic vasodilatory reaction."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page content current as of 04/22/2026, fetched 2026-10-20).",
+      "finding": "Ipamorelin acetate is listed under Category 2 for 503B (outsourcing facilities) and also in the nominated but withdrawn list, with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. The page names CJC-1295, BPC-157 and TB-500 (thymosin beta-4 fragment) only in that withdrawn list, citing immunogenicity risk, and for CJC-1295 serious adverse events including increased heart rate and systemic vasodilatory reaction."
     }
   ],
   "how_to_take": {
@@ -202,7 +202,7 @@
       "summary": "FDA's compounding safety-risk page names ipamorelin, CJC-1295, BPC-157 and TB-500, each for immunogenicity concerns. It describes no combined-stack data.",
       "items": [
         {
-          "text": "FDA's compounding safety-risk page lists ipamorelin acetate among substances that may present significant safety risks, citing immunogenicity concerns; it also names CJC-1295, BPC-157 and TB-500 in its withdrawn section with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
+          "text": "FDA's compounding safety-risk page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities, citing immunogenicity concerns. It lists CJC-1295, BPC-157 and TB-500 (thymosin beta-4 fragment) only among substances nominated but withdrawn, with immunogenicity concerns, and CJC-1295 with reported increased heart rate and vasodilatory reaction.",
           "label": "research",
           "citation_id": "r-fda-cat2",
           "validity": "low"
@@ -240,5 +240,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }
