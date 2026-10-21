@@ -10,7 +10,7 @@
   "regulatory_status": "unapproved",
   "category": "tissue_repair",
   "compound_type": "peptide",
-  "used_for": "PEG-MGF is the MGF E-domain peptide with polyethylene glycol attached, intended to make it last longer in the body than native MGF. It is marketed online for muscle repair and growth. No human trial of PEG-MGF was found, and the underlying MGF muscle claims are disputed in the laboratory literature. The FDA lists PEG-MGF among bulk drug substances that may present significant safety risks for compounding, saying it has found no human exposure data.",
+  "used_for": "PEG-MGF is the MGF E-domain peptide with polyethylene glycol attached, intended to make it last longer in the body than native MGF. It is marketed online for muscle repair and growth. No human trial of PEG-MGF was found, and the underlying MGF muscle claims are disputed in the laboratory literature. FDA names PEG-MGF only in its list of nominations withdrawn by the nominators, a list of substances once in Category 2. The page is current as of 22 April 2026 and still says FDA found no human exposure data. This is a compounding policy list and not an approval.",
   "dosing": {
     "basis": "studied",
     "entries": [],
@@ -56,7 +56,7 @@
   ],
   "side_effects": [
     {
-      "text": "The FDA states it has not identified any human exposure data on drug products containing PEG-MGF by any route and lacks important information about safety issues, and it cites a risk of immunogenicity and complexity from peptide-related impurities.",
+      "text": "On its list of nominations withdrawn by the nominators (page current as of 22 April 2026), FDA states it has not identified any human exposure data on drug products containing PEG-MGF by any route. It also says it lacks important information about safety issues and cites a risk of immunogenicity and complexity from peptide-related impurities.",
       "label": "research",
       "citation_id": "r-fda-bulk"
     },
@@ -95,8 +95,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA page on certain bulk drug substances for compounding that may present significant safety risks, which lists PEG-MGF.",
-      "finding": "The FDA says compounded PEG-MGF may carry significant immunogenicity risk and complexity from impurities, and that it found no human exposure data on any route."
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-10-20). PEG-MGF is named only in the nominated-but-withdrawn list, not in the Category 2 table.",
+      "finding": "FDA describes the withdrawn list as substances once in Category 2 that the nominators withdrew. For PEG-MGF the page still says FDA found no human exposure data on any route and cites immunogenicity risk and impurity complexity. The page gives no 503A or 503B label for PEG-MGF."
     },
     {
       "id": "r-fornaro-2014",
@@ -343,7 +343,7 @@
       "summary": "The FDA found no human exposure data on PEG-MGF and warns of immune reactions and impurities.",
       "items": [
         {
-          "text": "The FDA states it has not identified any human exposure data on drug products containing PEG-MGF by any route and lacks important information about safety issues, and it cites a risk of immunogenicity and complexity from peptide-related impurities.",
+          "text": "On its list of nominations withdrawn by the nominators (page current as of 22 April 2026), FDA states it has not identified any human exposure data on drug products containing PEG-MGF by any route. It also says it lacks important information about safety issues and cites a risk of immunogenicity and complexity from peptide-related impurities.",
           "label": "research",
           "validity": "strong",
           "citation_id": "r-fda-bulk"
@@ -395,5 +395,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

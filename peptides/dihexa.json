@@ -9,7 +9,7 @@
   "regulatory_status": "unapproved",
   "category": "cognitive_mood",
   "compound_type": "peptide",
-  "used_for": "A modified small peptide-like compound (a peptidomimetic) derived from angiotensin IV and designed to be orally active and cross the blood-brain barrier. It is sold online as a nootropic, based on rodent studies showing improved spatial learning and increased synapse formation through the hepatocyte growth factor (HGF) and c-Met system (a key 2014 mechanism paper has since been retracted). No completed human trial of dihexa was found, and it is not an approved drug in the US.",
+  "used_for": "A modified small peptide-like compound (a peptidomimetic) derived from angiotensin IV and designed to be orally active and cross the blood-brain barrier. It is sold online as a nootropic, based on rodent studies showing improved spatial learning and increased synapse formation through the hepatocyte growth factor (HGF) and c-Met system (a key 2014 mechanism paper has since been retracted). No completed human trial of dihexa was found, and it is not an approved drug in the US. FDA's page on bulk drug substances for compounding lists dihexa acetate among substances nominated and then withdrawn by the nominators.",
   "dosing": {
     "basis": "studied",
     "entries": [
@@ -45,6 +45,11 @@
       "source_type": "website",
       "url": "https://en.wikipedia.org/wiki/Dihexa",
       "retrieved": "2026-10-01"
+    },
+    {
+      "text": "FDA's page (current as of 04/22/2026) lists dihexa acetate as nominated for 503A compounding and then withdrawn by the nominators. It says FDA has found no human exposure data on drug products containing it.",
+      "label": "research",
+      "citation_id": "fda-bulks-page"
     }
   ],
   "internet_claims": [
@@ -88,6 +93,15 @@
       "year": 2025,
       "summary": "Randomized, placebo-controlled phase 2/3 trial (LIFT-AD) of fosgonimeton, a related prodrug of dihexa, in mild-to-moderate Alzheimer's disease (287 in the primary analysis, 549 in the safety set), by Porsteinsson et al., J Alzheimers Dis Rep. Authors include Athira Pharma employees.",
       "finding": "Daily subcutaneous fosgonimeton 40 mg for 26 weeks did not beat placebo on the primary or secondary endpoints. Serious adverse events were 4.2% vs 6.9% with placebo. Stopping because of adverse events was more common with fosgonimeton (14.2% vs 4.6%), mostly injection site reactions. This is a different compound, not dihexa."
+    },
+    {
+      "id": "fda-bulks-page",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "year": 2026,
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page current as of 04/22/2026, checked 2026-10-20).",
+      "finding": "The page lists dihexa acetate among substances nominated for 503A compounding and then withdrawn by the nominators. FDA says it has found no human exposure data on drug products containing dihexa acetate and that it lacks important safety information. The page does not make dihexa an approved drug."
     }
   ],
   "how_to_take": {
@@ -366,6 +380,18 @@
       ]
     },
     {
+      "title": "Regulator status",
+      "summary": "FDA lists dihexa acetate as nominated and withdrawn for 503A compounding and has found no human exposure data. It is not an approved drug.",
+      "items": [
+        {
+          "text": "FDA's page on bulk drug substances for compounding (current as of 04/22/2026) lists dihexa acetate as nominated for 503A compounding and then withdrawn by the nominators. It says FDA has found no human exposure data on drug products containing it and lacks important safety information. It does not say dihexa is approved.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-bulks-page"
+        }
+      ]
+    },
+    {
       "title": "Online reports",
       "summary": "A seller reports mixed community results and variable product purity.",
       "items": [
@@ -380,5 +406,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

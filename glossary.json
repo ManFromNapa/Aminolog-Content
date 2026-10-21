@@ -5680,6 +5680,12 @@
    "category": "hormones_receptors"
   },
   {
+   "term": "NADH",
+   "abbreviation": true,
+   "definition": "The reduced form of NAD+, a coenzyme that cells use to carry energy.",
+   "category": "drugs_compounds"
+  },
+  {
    "term": "naloxone-precipitated",
    "definition": "Triggered by naloxone, a drug that blocks opioid receptors; used in studies to bring on opioid withdrawal symptoms.",
    "category": "drugs_compounds"
@@ -5808,6 +5814,11 @@
    "term": "NETosis",
    "abbreviation": true,
    "definition": "A form of cell death in which neutrophils release web-like strands of DNA to trap germs.",
+   "category": "body_conditions"
+  },
+  {
+   "term": "neuralgia",
+   "definition": "Sharp, burning or stabbing pain along the path of a nerve.",
    "category": "body_conditions"
   },
   {
@@ -9013,6 +9024,14 @@
    ],
    "definition": "Listing a clinical trial's plan in a public database before it starts, so the design and goals are on record.",
    "category": "study_evidence"
+  },
+  {
+   "term": "trifluoroacetate",
+   "aliases": [
+    "trifluoroacetate salt"
+   ],
+   "definition": "A salt form of a peptide made with trifluoroacetic acid, common in lab-made peptides.",
+   "category": "drugs_compounds"
   },
   {
    "term": "triglycerides",

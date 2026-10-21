@@ -155,8 +155,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "The page lists Selank acetate (TP-7) among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing selank acetate may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The page does not make it an approved drug."
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, re-checked 2026-10-20).",
+      "finding": "The page lists Selank acetate (TP-7) among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing selank acetate may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The nominators withdrew the nominations. FDA also says it lacks important information on safety issues with selank acetate given to humans. The page does not make it an approved drug."
     },
     {
       "id": "ru-selank-instruction",
@@ -229,6 +229,15 @@
       "year": 2021,
       "summary": "Pharmacology review (Doyno et al., J Clin Pharmacol) of sedative-hypnotic agents acting on GABA receptors, including flunitrazepam, GHB, phenibut and Selank.",
       "finding": "Calls phenibut and Selank poorly studied Russian drugs with GABA-related mechanisms that are sold to US consumers as dietary supplements, and says abuse potential should be evaluated before public access."
+    },
+    {
+      "id": "fda-503a-categories-pdf",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for use in compounding under section 503A, in three categories (document updated May 14, 2026, re-checked 2026-10-20).",
+      "finding": "The document does not list Selank in category 1, category 2 or category 3. Category 1 means under evaluation."
     }
   ],
   "how_to_take": {
@@ -774,13 +783,19 @@
       "summary": "FDA says compounded Selank acetate may cause immune reactions from clumping or impurities.",
       "items": [
         {
-          "text": "FDA lists Selank acetate (TP-7) among bulk substances nominated for compounding and since withdrawn, stating compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
+          "text": "FDA's page (current as of 04/22/2026) lists Selank acetate (TP-7) among bulk substances nominated for 503A compounding and since withdrawn by the nominators. It says compounded drugs containing it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-bulks-page"
+        },
+        {
+          "text": "FDA's 503A category list (updated May 14, 2026) does not place Selank in category 1, 2 or 3, so it is not under evaluation there.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories-pdf"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

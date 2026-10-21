@@ -79,7 +79,7 @@
       "retrieved": "2026-09-30"
     },
     {
-      "claim": "Nuusflits says Semax and Selank remain registered drugs in Russia but that the FDA has never reviewed them, and says FDA moved them to Category 1 for compounding in February 2026. The FDA page consulted instead lists them as nominated but withdrawn, so this claim could not be confirmed.",
+      "claim": "Nuusflits says Semax and Selank remain registered drugs in Russia and that the FDA has never reviewed them. It also says FDA moved them to Category 1 for compounding in February 2026. FDA's pages do not support this. FDA's 503A Category 1 list (updated May 14, 2026) does not include Semax, and FDA's page current as of 22 April 2026 lists Semax and Selank as nominated but withdrawn.",
       "source_type": "website",
       "url": "https://nuusflits.com/peptides-russia-fda-regulation-2026/",
       "retrieved": "2026-09-30"
@@ -137,8 +137,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "The page lists Semax among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing semax (heptapeptide) may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.\" The page does not make it an approved drug."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-read 2026-10-20).",
+      "finding": "On this page, Semax (heptapeptide) is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes a possible risk of immune reactions for certain routes from clumping and peptide-related impurities. It has no, or limited, safety-related information for the proposed routes. The page describes compounding policy. It does not make Semax an approved drug."
     },
     {
       "id": "pmid-11517472",
@@ -166,6 +166,33 @@
       "year": 1999,
       "summary": "Russian retrospective comparative analysis (Miasoedova et al., Zh Nevrol Psikhiatr Im S S Korsakova) of immune and biochemical markers in patients with acute ischemic stroke given Semax.",
       "finding": "The authors report a shift toward anti-inflammatory markers (interleukin-10, tumor necrosis factor-alpha) over markers that maintain inflammation (interleukin-8, C-reactive protein). It is a retrospective analysis, so it cannot prove cause."
+    },
+    {
+      "id": "fda-503a-categories-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA PDF of the 503A bulk drug substance categories (updated May 14, 2026, read 2026-10-20).",
+      "finding": "Semax is not named in the Category 1, 2 or 3 lists in this PDF. It points to the safety-risks page for substances that were in Category 2 and later withdrawn. Not being listed is not an approval."
+    },
+    {
+      "id": "fda-pcac-2026-07-meeting",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+      "year": 2026,
+      "summary": "FDA page for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (current as of 08/06/2026, read 2026-10-20).",
+      "finding": "Semax (free base and acetate) was on the agenda for 24 July 2026, for cerebral ischemia, migraine and trigeminal neuralgia. As of 2026-10-20 the page lists no minutes, transcript, summary or votes, so this file states no vote."
+    },
+    {
+      "id": "fda-pcac-2026-07-briefing",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/193342/download",
+      "year": 2026,
+      "summary": "FDA briefing document for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (read 2026-10-20).",
+      "finding": "FDA proposed that Semax (free base and acetate) not be included on the 503A Bulks List. This was FDA's position before the meeting. It is not a final decision. The briefing says the nominations were withdrawn but FDA chose to present Semax to the committee anyway."
     }
   ],
   "how_to_take": {
@@ -661,24 +688,42 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "FDA says compounded Semax may cause immune reactions from clumping or impurities. Semax is approved only in Russia.",
+      "summary": "FDA says compounded Semax may cause immune reactions from clumping or impurities. Semax is approved only in Russia. FDA proposed in July 2026 that Semax not be added to the 503A Bulks List.",
       "items": [
         {
-          "text": "FDA lists Semax among substances nominated for compounding and then withdrawn, stating compounded Semax may pose immunogenicity risk for certain routes of administration due to potential aggregation and peptide-related impurities.",
+          "text": "On FDA's safety-risks page (current as of 22 April 2026), Semax (heptapeptide) is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes a possible risk of immune reactions for certain routes from clumping and peptide-related impurities. It has no, or limited, safety-related information for the proposed routes.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-bulks-page"
         },
         {
-          "text": "Nuusflits says Semax remains registered in Russia, that the FDA has never reviewed it, and that FDA moved it to Category 1 for compounding in February 2026. The FDA page checked lists it as nominated but withdrawn, so the Category 1 claim could not be confirmed.",
+          "text": "Nuusflits says Semax remains registered in Russia, that the FDA has never reviewed it, and that FDA moved it to Category 1 for compounding in February 2026. FDA's pages do not support the Category 1 claim. FDA's 503A Category 1 list (updated May 14, 2026) does not include Semax, and FDA's page current as of 22 April 2026 lists it as nominated but withdrawn.",
           "label": "internet",
           "validity": "very_low",
           "source_type": "website",
           "url": "https://nuusflits.com/peptides-russia-fda-regulation-2026/",
           "retrieved": "2026-10-02"
+        },
+        {
+          "text": "FDA's 503A category list (updated May 14, 2026) does not name Semax in Category 1, 2 or 3.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories-2026"
+        },
+        {
+          "text": "Semax was on the agenda of FDA's advisory committee on compounding for 24 July 2026. FDA's meeting page current as of 6 August 2026 posts no votes or minutes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-meeting"
+        },
+        {
+          "text": "FDA's briefing proposed that Semax not be included on the 503A Bulks List. This was a proposal before the meeting, not a final decision.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-briefing"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

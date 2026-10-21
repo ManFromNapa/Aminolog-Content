@@ -179,8 +179,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "The page lists Melanotan II among substances nominated but withdrawn (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing Melanotan II may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. Published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.\" The page does not make it an approved drug."
+      "summary": "FDA web page on bulk drug substances nominated for compounding that may present significant safety risks (page dated 04/22/2026, re-checked 2026-10-20).",
+      "finding": "The page lists Melanotan II among substances nominated but withdrawn by the nominators (not in the active Category 2 list), with this FDA statement: \"Compounded drugs containing Melanotan II may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation or peptide-related impurities. Published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.\" The page does not make it an approved drug."
     }
   ],
   "how_to_take": {
@@ -535,7 +535,7 @@
       "summary": "The US Food and Drug Administration (FDA) cites published case reports of melanoma, brain swelling, sympathetic overstimulation and priapism (a painful, prolonged erection). Reviews say a link to melanoma is not proven.",
       "items": [
         {
-          "text": "FDA's page on compounding bulk substances says compounded Melanotan II may pose a risk of immune reactions from peptide clumping or impurities, and that published case reports describe serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.",
+          "text": "FDA's page on compounding bulk substances (current as of 04/22/2026) lists Melanotan II as nominated for 503A compounding and then withdrawn by the nominators. It says compounded Melanotan II may pose a risk of immune reactions from peptide clumping or impurities, and that published case reports describe serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-bulks-page"
@@ -587,5 +587,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

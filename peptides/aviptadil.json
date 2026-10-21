@@ -148,6 +148,15 @@
       "year": 2015,
       "summary": "UK patient information leaflet for Invicorp 25 micrograms/2 mg solution for injection (Evolan Pharma AB, revised 07/2015), as reproduced on the iMedi medicines site and read on 2026-10-02.",
       "finding": "Dose 25 micrograms/2 mg, at most one injection a day and 3 a week. Store in a refrigerator at 2 to 8 degrees C, do not freeze, use within 24 hours of removing the ampoule. Flushing and bruising are common; priapism is rare."
+    },
+    {
+      "id": "fda-503a-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for section 503A compounding, with category 1, 2 and 3 lists (updated 14 May 2026, fetched 2026-10-20).",
+      "finding": "Vasoactive intestinal peptide is listed in 503A category 1. The 503B list was checked and does not name it. FDA's 503A page says it does not intend to act against a compounder using a category 1 substance if the conditions in its guidance are met, until it decides on the substance. This is not an approval or a safety finding."
     }
   ],
   "how_to_take": {
@@ -472,7 +481,19 @@
           "retrieved": "2026-10-02"
         }
       ]
+    },
+    {
+      "title": "FDA compounding status",
+      "summary": "FDA has placed the compound in category 1 of its compounding lists. This is not an approval or a safety finding. Only the pharmacy (503A) list names it.",
+      "items": [
+        {
+          "text": "FDA lists vasoactive intestinal peptide (VIP), the natural form of aviptadil, in category 1 of its 503A list for pharmacy compounding. It will not act against compounding of it for now if its conditions are met. It is not an approval, and aviptadil is not approved in the US.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories"
+        }
+      ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

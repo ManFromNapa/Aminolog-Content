@@ -126,8 +126,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "On the fetched page GHK-Cu (copper peptide) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded injectable drugs containing GHK-Cu may pose a risk of immunogenicity due to the potential for aggregation. The page does not describe an approved product."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page current as of 04/22/2026, re-checked 2026-10-20).",
+      "finding": "The page lists GHK-Cu for injectable routes of administration among substances nominated but withdrawn. FDA says compounded injectable drugs containing GHK-Cu may pose risk of immunogenicity and that human safety data are limited. The withdrawal on this page covers injectable routes only. The page does not describe an approved product."
     },
     {
       "id": "pmid-26236730",
@@ -146,6 +146,15 @@
       "year": 2018,
       "summary": "Narrative review (Int J Mol Sci) by Pickart and Margolina, with the same skin-care company affiliation, on regenerative and protective actions of GHK-Cu in light of gene-expression data.",
       "finding": "Summarizes lab, animal and gene-expression data suggesting GHK stimulates blood vessel and nerve outgrowth, collagen and tissue repair, with anti-inflammatory actions. Mostly not human clinical evidence. Abstract read; full text not accessed."
+    },
+    {
+      "id": "fda-503a-categories-pdf",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for use in compounding under section 503A, in three categories (document updated May 14, 2026, re-checked 2026-10-20).",
+      "finding": "FDA says GHK-Cu (except for injectable routes of administration) was removed from category 1 on April 22, 2026 when nominations were withdrawn. On May 5, 2026 one nominator said it meant to withdraw only the injectable route. FDA says it will add non-injectable GHK-Cu back to category 1 and intends to consult its Pharmacy Compounding Advisory Committee before the end of February 2027 on possible inclusion on the 503A bulks list. Category 1 means a substance is under evaluation. It is not an approval."
     }
   ],
   "how_to_take": {
@@ -538,13 +547,19 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "The FDA says compounded injectable GHK-Cu may carry a risk of immune reactions.",
+      "summary": "The FDA says compounded injectable GHK-Cu may carry a risk of immune reactions. Non-injectable GHK-Cu is in 503A category 1, under evaluation.",
       "items": [
         {
-          "text": "FDA page on bulk drug substances for compounding (dated 04/22/2026) lists GHK-Cu among substances nominated and later withdrawn, and says compounded injectable drugs containing GHK-Cu may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
+          "text": "FDA's page on bulk drug substances for compounding (current as of 04/22/2026) lists GHK-Cu for injectable routes among substances nominated and later withdrawn. It says compounded injectable drugs containing GHK-Cu may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-compounding-page"
+        },
+        {
+          "text": "FDA's 503A category list (updated May 14, 2026) places GHK-Cu except for injectable routes in category 1, bulk drug substances under evaluation. FDA says it intends to consult its advisory committee before the end of February 2027 on possible listing. Category 1 is not an approval.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories-pdf"
         }
       ]
     },
@@ -563,5 +578,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

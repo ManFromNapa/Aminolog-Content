@@ -9,7 +9,7 @@
   "other_components": [],
   "regulatory_status": "unapproved",
   "used_for": "Marketed by clinics and peptide sellers for sleep, recovery and lean mass support through two complementary routes of stimulating growth hormone release.",
-  "summary": "This blend combines sermorelin, a growth hormone-releasing hormone fragment, with ipamorelin, an unapproved ghrelin-receptor peptide. It is described mainly in seller and clinic material; no approved product and no combination-specific human study was found. FDA's compounding safety-risk page lists ipamorelin acetate in category 2 and does not mention sermorelin. Each component's own page holds the detailed information (Sermorelin and Ipamorelin); formulations vary by seller.",
+  "summary": "This blend combines sermorelin, a growth hormone-releasing hormone fragment, with ipamorelin, an unapproved ghrelin-receptor peptide. It is described mainly in seller and clinic material; no approved product and no combination-specific human study was found. FDA's compounding safety-risk page lists ipamorelin acetate in Category 2 for 503B and in a nominated but withdrawn list, and does not mention sermorelin. Each component's own page holds the detailed information (Sermorelin and Ipamorelin); formulations vary by seller.",
   "administration_guidance": [
     {
       "text": "A Miami anti-aging clinic's blog (Rewind Anti-Aging) says the two peptides are typically injected subcutaneously, often together at bedtime to match the nightly growth hormone rise, and that some clinicians use a split schedule with ipamorelin alone in the morning.",
@@ -28,7 +28,7 @@
       "retrieved": "2026-10-01"
     },
     {
-      "text": "FDA lists ipamorelin acetate among bulk drug substances for compounding that may present significant safety risks, citing immunogenicity from aggregation or impurities.",
+      "text": "FDA's page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and also among the substances nominated but withdrawn, citing immunogenicity from aggregation or impurities.",
       "label": "research",
       "citation_id": "r-fda-cat2"
     }
@@ -48,8 +48,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (fetched 2026-10-01).",
-      "finding": "Ipamorelin acetate is listed under category 2 for 503B (outsourcing facilities), with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. Sermorelin is not mentioned on the page."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page content current as of 04/22/2026, fetched 2026-10-20).",
+      "finding": "Ipamorelin acetate is listed under Category 2 for 503B (outsourcing facilities) and also in the nominated but withdrawn list, with FDA citing risk of immunogenicity from aggregation or peptide-related impurities. Sermorelin is not mentioned on the page."
     },
     {
       "id": "van-cauter-1992-jcem",
@@ -199,7 +199,7 @@
       "summary": "No label exists for the blend, and no source was found on mixing the two peptides or on the shelf life of a mixed vial. One clinic says to refrigerate.",
       "items": [
         {
-          "text": "FDA lists ipamorelin acetate in category 2 for 503B compounding and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. This concerns the ipamorelin component; FDA does not mention sermorelin or the combination.",
+          "text": "FDA's page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and also among the substances nominated but withdrawn, and says compounded drugs containing it may pose risk of immune reactions from aggregation or impurities. This concerns the ipamorelin component; FDA does not mention sermorelin or the combination.",
           "label": "research",
           "validity": "low",
           "citation_id": "r-fda-cat2"
@@ -295,7 +295,7 @@
       "summary": "FDA warns about compounded ipamorelin and does not mention sermorelin. The statement does not cover the combination.",
       "items": [
         {
-          "text": "FDA lists ipamorelin acetate among bulk drug substances for compounding that may present significant safety risks, citing immunogenicity from aggregation or impurities. This concerns the ipamorelin component, not the combination.",
+          "text": "FDA's page lists ipamorelin acetate in Category 2 for 503B outsourcing facilities and also among the substances nominated but withdrawn, citing immunogenicity from aggregation or impurities. This concerns the ipamorelin component, not the combination.",
           "label": "research",
           "validity": "low",
           "citation_id": "r-fda-cat2"
@@ -333,5 +333,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

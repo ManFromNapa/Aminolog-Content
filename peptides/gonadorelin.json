@@ -148,6 +148,15 @@
       "year": 1989,
       "summary": "Retrospective international multicentre review of 223 pregnancies induced with pulsatile LH-RH (GnRH) in women with hypothalamic amenorrhea (174) or polycystic ovarian disease (24) (Braat, Ayalon, Blunt and colleagues, Gynecological Endocrinology).",
       "finding": "Multiple pregnancies occurred in 30 of 174 hypothalamic amenorrhea pregnancies and none in polycystic ovarian disease; their rate correlated with pulse dose and was higher in the first treatment cycle."
+    },
+    {
+      "id": "fda-503b-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94164/download",
+      "year": 2025,
+      "summary": "FDA list of bulk drug substances nominated for section 503B compounding, with category 1, 2 and 3 lists (updated 21 March 2025, fetched 2026-10-20).",
+      "finding": "Gonadorelin acetate is listed in 503B category 1 and is marked as a component of an FDA-approved drug. The 503A list does not name it. FDA's 503B page says it does not intend to act against an outsourcing facility using a category 1 substance if the conditions in its guidance are met, until it decides on the substance. This is not an approval or a safety finding."
     }
   ],
   "how_to_take": {
@@ -529,7 +538,19 @@
           "retrieved": "2026-10-02"
         }
       ]
+    },
+    {
+      "title": "FDA compounding status",
+      "summary": "FDA lists gonadorelin acetate in category 1 of its 503B list. This is not an approval of a human product.",
+      "items": [
+        {
+          "text": "FDA lists gonadorelin acetate in category 1 of its 503B list for outsourcing facilities and marks it as a component of an approved drug. It will not act against compounding of it for now if its conditions are met. The 503A list was checked and does not name it.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503b-categories"
+        }
+      ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

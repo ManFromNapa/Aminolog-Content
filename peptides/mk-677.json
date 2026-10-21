@@ -13,7 +13,7 @@
   "regulatory_status": "investigational",
   "category": "growth_hormone",
   "compound_type": "small_molecule",
-  "used_for": "MK-677 (ibutamoren) is an oral small molecule that mimics ghrelin and raises growth hormone and IGF-1; it is not a peptide. It is sold online for muscle gain, recovery and sleep, but it is not approved, and its development under the name LUM-201 is now a Phase 3 trial in children with growth hormone deficiency. In older adults it increased fat-free mass and IGF-1 but also body weight, glucose and appetite, and one hip-fracture trial stopped early after a heart failure signal. The FDA lists ibutamoren as posing significant risks for compounding.",
+  "used_for": "MK-677 (ibutamoren) is an oral small molecule that mimics ghrelin and raises growth hormone and IGF-1; it is not a peptide. It is sold online for muscle gain, recovery and sleep, but it is not approved, and its development under the name LUM-201 is now a Phase 3 trial in children with growth hormone deficiency. In older adults it increased fat-free mass and IGF-1 but also body weight, glucose and appetite, and one hip-fracture trial stopped early after a heart failure signal. On its significant safety risks page (current as of 22 April 2026), FDA lists ibutamoren mesylate in Category 2 for both 503A and 503B compounding. On 29 October 2024 FDA's compounding advisory committee voted 1 yes and 13 no on adding it to the 503A bulks list. These are compounding policy steps and not approvals.",
   "dosing": {
     "basis": "studied",
     "entries": [
@@ -76,9 +76,14 @@
       "citation_id": "r-adunsky-2011"
     },
     {
-      "text": "The FDA says ibutamoren mesylate poses significant safety risks because of the potential for congestive heart failure, and cites the terminated hip-fracture trial. It also notes limited data showing effects on cortisol and blood glucose.",
+      "text": "On its significant safety risks page (current as of 22 April 2026), FDA lists ibutamoren mesylate in Category 2 for 503A and 503B. It says the substance poses significant safety risks because of the potential for congestive heart failure, and cites the terminated hip-fracture trial. It also notes limited data showing effects on cortisol and blood glucose.",
       "label": "research",
       "citation_id": "r-fda-bulk"
+    },
+    {
+      "text": "On 29 October 2024 FDA's compounding advisory committee voted on adding ibutamoren mesylate to the 503A bulks list. The vote was 1 yes, 13 no and 0 abstain.",
+      "label": "research",
+      "citation_id": "fda-pcac-2024-10-29"
     },
     {
       "text": "In a small crossover study of 22 hemodialysis patients, MK-0677 raised IGF-1 and no serious adverse effects were attributed to it.",
@@ -171,8 +176,17 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA page on certain bulk drug substances for compounding that may present significant safety risks, which lists ibutamoren mesylate.",
-      "finding": "The FDA says ibutamoren poses significant safety risks because of potential congestive heart failure, citing the terminated hip-fracture trial."
+      "summary": "FDA page on certain bulk drug substances for compounding that may present significant safety risks, which lists ibutamoren mesylate (content current as of 22 April 2026, fetched 2026-10-20).",
+      "finding": "Ibutamoren mesylate is in Category 2 for 503A (added 29 September 2023) and for 503B (added 29 December 2022). FDA says it poses significant safety risks because of potential congestive heart failure, citing the terminated hip-fracture trial."
+    },
+    {
+      "id": "fda-pcac-2024-10-29",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/185412/download",
+      "year": 2024,
+      "summary": "Final summary minutes of FDA's Pharmacy Compounding Advisory Committee meeting of 29 October 2024 (fetched 2026-10-20).",
+      "finding": "The committee voted on whether to place ibutamoren mesylate on the 503A bulks list. The vote was 1 yes, 13 no and 0 abstain."
     },
     {
       "id": "van-cauter-1992-jcem",
@@ -567,10 +581,16 @@
           "citation_id": "r-adunsky-2011"
         },
         {
-          "text": "The FDA says ibutamoren mesylate poses significant safety risks because of the potential for congestive heart failure, and cites the terminated hip-fracture trial. It also notes limited data showing effects on cortisol and blood glucose.",
+          "text": "On its significant safety risks page (current as of 22 April 2026), FDA lists ibutamoren mesylate in Category 2 for 503A and 503B. It says the substance poses significant safety risks because of the potential for congestive heart failure, and cites the terminated hip-fracture trial. It also notes limited data showing effects on cortisol and blood glucose.",
           "label": "research",
           "validity": "strong",
           "citation_id": "r-fda-bulk"
+        },
+        {
+          "text": "On 29 October 2024 FDA's compounding advisory committee voted on adding ibutamoren mesylate to the 503A bulks list. The vote was 1 yes, 13 no and 0 abstain.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2024-10-29"
         },
         {
           "text": "Healthy Male says researchers stopped at least one clinical trial of MK-677 early because of concerns that it might cause heart failure.",
@@ -601,5 +621,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

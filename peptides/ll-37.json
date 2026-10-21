@@ -173,8 +173,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
-      "finding": "Cathelicidin LL-37 appears in the list of substances nominated but withdrawn (previously category 2). The page says compounded LL-37 may pose immunogenicity risk and peptide impurity concerns, and FDA lacks sufficient safety information. This does not make LL-37 an approved drug."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-checked 2026-10-20).",
+      "finding": "Cathelicidin LL-37 appears in the list of substances nominated for 503A compounding and then withdrawn by the nominators. The page says FDA lacks enough safety information on LL-37 to know whether it would cause harm. It also cites lab findings that suggest harm to male reproduction. This does not make LL-37 an approved drug."
     },
     {
       "id": "pmid-23246832",
@@ -533,10 +533,10 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "The FDA lists LL-37 among compounding substances that may pose significant safety risks. It is not an approved drug.",
+      "summary": "FDA lists LL-37 as nominated and withdrawn for 503A compounding and says it lacks enough safety information. It is not an approved drug.",
       "items": [
         {
-          "text": "The FDA says compounded LL-37 may pose immunogenicity risk and peptide impurity concerns, and that it lacks sufficient safety information.",
+          "text": "FDA's page (current as of 22 April 2026) lists cathelicidin LL-37 as nominated for 503A compounding and then withdrawn by the nominators. It says FDA lacks enough safety information to know whether compounded LL-37 would cause harm, and it cites lab findings that suggest harm to male reproduction.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-bulk-substances-page"
@@ -544,5 +544,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

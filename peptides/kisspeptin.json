@@ -234,8 +234,17 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
-      "finding": "Kisspeptin-10 is listed in category 2 for section 503A compounding (added 29 September 2023). FDA says compounded kisspeptin-10 may pose immunogenicity and impurity risks and that it has no or limited safety information for the proposed routes. This does not make kisspeptin an approved drug."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-checked 2026-10-20).",
+      "finding": "Kisspeptin-10 is listed in category 2 for section 503A compounding (added 29 September 2023). FDA says compounded kisspeptin-10 may pose immunogenicity risk for certain routes and that it has no or limited safety information for the proposed routes. The page names no specific routes. This does not make kisspeptin an approved drug."
+    },
+    {
+      "id": "fda-pcac-minutes-2024-10",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/185412/download",
+      "year": 2024,
+      "summary": "FDA final summary minutes of the 29 October 2024 Pharmacy Compounding Advisory Committee meeting (re-checked 2026-10-20).",
+      "finding": "The committee voted on whether to place kisspeptin-10 on the 503A bulks list. The vote was 0 yes and 11 no, and the minutes say members agreed it should not be listed. This is an advisory vote on FDA's proposal, not a final rule."
     }
   ],
   "how_to_take": {
@@ -627,16 +636,22 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "The FDA lists kisspeptin-10 among compounding substances that may carry significant safety risks. No kisspeptin product is approved.",
+      "summary": "The FDA lists kisspeptin-10 in category 2 for 503A compounding, a group of substances with significant safety concerns. Its advisory committee voted 0 to 11 against listing it. No kisspeptin product is approved.",
       "items": [
         {
-          "text": "The FDA lists kisspeptin-10 in category 2 for section 503A compounding, added 29 September 2023. It says compounded drugs may pose immunogenicity risk and impurity concerns and that it has no or limited safety information for the proposed routes.",
+          "text": "The FDA lists kisspeptin-10 in category 2 for section 503A compounding, added 29 September 2023 (page current as of 22 April 2026). It says compounded drugs may pose immunogenicity risk for certain routes and that it has no or limited safety information for the proposed routes.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-bulk-substances-page"
+        },
+        {
+          "text": "At FDA's advisory committee meeting on 29 October 2024, members voted 0 yes and 11 no on placing kisspeptin-10 on the 503A bulks list. This is an advisory vote, not a final rule.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-minutes-2024-10"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

@@ -9,7 +9,7 @@
   ],
   "regulatory_status": "unapproved",
   "category": "growth_hormone",
-  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor. It has no FDA-approved product. It has been studied as a growth hormone stimulation test, and a 2013 Japanese study states that a GHRP-2 test is a recommended alternative for diagnosing adult growth hormone deficiency in Japan. It is promoted online for muscle, fat loss and recovery, which has not been shown in controlled human trials found for this entry. FDA lists it as a bulk substance that may present significant safety risks for compounding.",
+  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor. It has no FDA-approved product. It has been studied as a growth hormone stimulation test, and a 2013 Japanese study states that a GHRP-2 test is a recommended alternative for diagnosing adult growth hormone deficiency in Japan. It is promoted online for muscle, fat loss and recovery, which has not been shown in controlled human trials found for this entry. On its significant safety risks page (current as of 22 April 2026), FDA lists GHRP-2 in Category 2 for 503B outsourcing facilities, for injectable and nasal routes. FDA's 503A list puts it in Category 3. These are compounding policy lists and not approvals.",
   "dosing": {
     "basis": "studied",
     "entries": [
@@ -72,9 +72,19 @@
       "citation_id": "pmid-9285939"
     },
     {
-      "text": "FDA lists GHRP-2 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
+      "text": "On its significant safety risks page (current as of 22 April 2026), FDA lists GHRP-2 in Category 2 for 503B, for injectable and nasal routes. It says GHRP-2 may pose risk for immunogenicity from aggregation and peptide-related impurities.",
       "label": "research",
       "citation_id": "fda-category2-page"
+    },
+    {
+      "text": "FDA's 503A categories list (updated 14 May 2026) places GHRP-2 in Category 3, bulk substances nominated without adequate support.",
+      "label": "research",
+      "citation_id": "fda-503a-categories"
+    },
+    {
+      "text": "FDA's 503B categories list (updated 21 March 2025) places GHRP-2 in Category 2 for injectable and nasal routes and in Category 1, substances under evaluation, for other routes.",
+      "label": "research",
+      "citation_id": "fda-503b-categories"
     }
   ],
   "internet_claims": [
@@ -143,8 +153,26 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-10-20).",
       "finding": "GHRP-2 (injectable and nasal routes) is listed under category 2 for 503B, added 29 September 2023. FDA cites immunogenicity risk and says it is aware of reports of serious adverse events in patients who received GHRP-2, including increased insulin requirement, death of critically ill study subjects, infection and pancreatitis, though causality has not been established."
+    },
+    {
+      "id": "fda-503a-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for 503A compounding, sorted into three categories (updated 14 May 2026, fetched 2026-10-20).",
+      "finding": "GHRP-2 and GHRP-6 are in Category 3, nominated without adequate support. Neither is in Category 1 or 2 of the 503A list."
+    },
+    {
+      "id": "fda-503b-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94164/download",
+      "year": 2025,
+      "summary": "FDA list of bulk drug substances nominated for 503B compounding, sorted into three categories (updated 21 March 2025, fetched 2026-10-20).",
+      "finding": "GHRP-2 for injectable and nasal routes is in Category 2. GHRP-2 for other routes is in Category 1. GHRP-6 is in Category 2."
     },
     {
       "id": "fda-warning-tailor-made-2020",
@@ -632,10 +660,10 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "FDA lists compounded GHRP-2 as a possible safety risk and reports serious adverse events in patients, with causality not established.",
+      "summary": "FDA lists injectable and nasal GHRP-2 in Category 2 for 503B and reports serious adverse events in patients, with causality not established.",
       "items": [
         {
-          "text": "FDA lists GHRP-2 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.",
+          "text": "On its significant safety risks page (current as of 22 April 2026), FDA lists GHRP-2 in Category 2 for 503B, for injectable and nasal routes. It says GHRP-2 may pose risk for immunogenicity from aggregation and peptide-related impurities.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-category2-page"
@@ -645,9 +673,21 @@
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-category2-page"
+        },
+        {
+          "text": "FDA's 503A categories list (updated 14 May 2026) places GHRP-2 in Category 3, bulk substances nominated without adequate support.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories"
+        },
+        {
+          "text": "FDA's 503B categories list (updated 21 March 2025) places GHRP-2 in Category 2 for injectable and nasal routes and in Category 1, substances under evaluation, for other routes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503b-categories"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

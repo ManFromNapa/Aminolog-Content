@@ -192,6 +192,24 @@
       "year": 2025,
       "summary": "Narrative review of oral, topical and intravenous glutathione for skin lightening. Alzahrani et al., Cureus.",
       "finding": "Oral glutathione lowered melanin with limited side effects. The review describes a small placebo-controlled intravenous trial (Zubair et al., 1,200 mg twice weekly for 6 weeks) in which 37.5% of the treated group and 18.7% of the placebo group reported lighter skin, 32% had adverse events including liver dysfunction and one had anaphylaxis, and benefits faded over 6 months. It notes that intravenous use lacks standard dosing protocols."
+    },
+    {
+      "id": "fda-503a-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for section 503A compounding, with category 1, 2 and 3 lists (updated 14 May 2026, fetched 2026-10-20).",
+      "finding": "Glutathione is listed in 503A category 1. FDA's 503A page says it does not intend to act against a compounder using a category 1 substance if the conditions in its guidance are met, until it decides on the substance. This is not an approval or a safety finding."
+    },
+    {
+      "id": "fda-503b-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94164/download",
+      "year": 2025,
+      "summary": "FDA list of bulk drug substances nominated for section 503B compounding, with category 1, 2 and 3 lists (updated 21 March 2025, fetched 2026-10-20).",
+      "finding": "Glutathione is listed in 503B category 1. FDA's 503B page says it does not intend to act against an outsourcing facility using a category 1 substance if the conditions in its guidance are met, until it decides on the substance. This is not an approval or a safety finding."
     }
   ],
   "how_to_take": {
@@ -648,7 +666,25 @@
           "retrieved": "2026-10-02"
         }
       ]
+    },
+    {
+      "title": "FDA compounding status",
+      "summary": "FDA has placed the compound in category 1 of its compounding lists. This is not an approval or a safety finding.",
+      "items": [
+        {
+          "text": "FDA lists glutathione in category 1 of its 503A list for pharmacy compounding. It will not act against compounding of it for now if its conditions are met. This is not an approval.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories"
+        },
+        {
+          "text": "FDA also lists glutathione in category 1 of its 503B list for outsourcing facilities, with the same limited meaning.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503b-categories"
+        }
+      ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

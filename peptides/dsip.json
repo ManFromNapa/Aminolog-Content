@@ -155,8 +155,8 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "On the fetched page DSIP (listed as emideltide) appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing emideltide may pose a risk of immunogenicity for certain routes of administration. The page does not describe an approved product."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-read 2026-10-20).",
+      "finding": "On this page, Emideltide (DSIP) is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes a possible risk of immune reactions for certain routes, plus impurity and characterization problems. It has not identified safety information for the proposed route. The page describes compounding policy. It does not make DSIP (emideltide) an approved drug."
     },
     {
       "id": "pmid-3792404",
@@ -211,6 +211,33 @@
       "year": 2006,
       "summary": "Mini-review (Kovalzon and Strekalova, J Neurochem) of what is known about DSIP.",
       "finding": "The link between DSIP and sleep has never been well characterized, partly because no gene, protein or receptor has been isolated. The authors call the idea that DSIP is a sleep factor poorly documented and weak, and note that sleep-promoting activity was seen with some synthetic analogs but not DSIP itself in rabbits and rats."
+    },
+    {
+      "id": "fda-503a-categories-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA PDF of the 503A bulk drug substance categories (updated May 14, 2026, read 2026-10-20).",
+      "finding": "DSIP (emideltide) is not named in the Category 1, 2 or 3 lists in this PDF. It points to the safety-risks page for substances that were in Category 2 and later withdrawn. Not being listed is not an approval."
+    },
+    {
+      "id": "fda-pcac-2026-07-meeting",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+      "year": 2026,
+      "summary": "FDA page for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (current as of 08/06/2026, read 2026-10-20).",
+      "finding": "DSIP (emideltide) (free base and acetate) was on the agenda for 24 July 2026, for opioid withdrawal, chronic insomnia and narcolepsy. As of 2026-10-20 the page lists no minutes, transcript, summary or votes, so this file states no vote."
+    },
+    {
+      "id": "fda-pcac-2026-07-briefing",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/193342/download",
+      "year": 2026,
+      "summary": "FDA briefing document for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (read 2026-10-20).",
+      "finding": "FDA proposed that DSIP (emideltide) (free base and acetate) not be included on the 503A Bulks List. This was FDA's position before the meeting. It is not a final decision."
     }
   ],
   "how_to_take": {
@@ -684,16 +711,34 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "FDA says compounded DSIP (emideltide) may cause immune reactions and that it lacks safety information.",
+      "summary": "FDA says compounded DSIP (emideltide) may cause immune reactions and that it lacks safety information. FDA proposed in July 2026 that emideltide not be added to the 503A Bulks List.",
       "items": [
         {
-          "text": "FDA lists emideltide (DSIP) among bulk substances for compounding that may present significant safety risks, noting a risk of immune reactions for certain routes and impurity concerns. FDA has not found safety information for the proposed route and cannot say whether it would harm people.",
+          "text": "On FDA's safety-risks page (current as of 22 April 2026), Emideltide (DSIP) is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes a possible risk of immune reactions for certain routes, plus impurity and characterization problems. It has not identified safety information for the proposed route.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-compounding-page"
+        },
+        {
+          "text": "FDA's 503A category list (updated May 14, 2026) does not name DSIP (emideltide) in Category 1, 2 or 3.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories-2026"
+        },
+        {
+          "text": "DSIP (emideltide) was on the agenda of FDA's advisory committee on compounding for 24 July 2026. FDA's meeting page current as of 6 August 2026 posts no votes or minutes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-meeting"
+        },
+        {
+          "text": "FDA's briefing proposed that DSIP (emideltide) not be included on the 503A Bulks List. This was a proposal before the meeting, not a final decision.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-briefing"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

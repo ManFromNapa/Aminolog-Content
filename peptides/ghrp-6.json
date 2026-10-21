@@ -8,7 +8,7 @@
   ],
   "regulatory_status": "unapproved",
   "category": "growth_hormone",
-  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor and is known for stimulating appetite. It has no FDA-approved product. It has been used as a diagnostic stimulation test in endocrine research and is promoted online for muscle gain, appetite and recovery, which has not been shown in controlled human trials found for this entry. FDA lists it as a bulk substance that may present significant safety risks for compounding.",
+  "used_for": "A synthetic growth hormone secretagogue that acts on the ghrelin receptor and is known for stimulating appetite. It has no FDA-approved product. It has been used as a diagnostic stimulation test in endocrine research and is promoted online for muscle gain, appetite and recovery, which has not been shown in controlled human trials found for this entry. On its significant safety risks page (current as of 22 April 2026), FDA lists GHRP-6 in Category 2 for 503B outsourcing facilities. FDA's 503A list puts it in Category 3. These are compounding policy lists and not approvals.",
   "dosing": {
     "basis": "studied",
     "entries": [
@@ -73,9 +73,14 @@
       "citation_id": "pmid-19946832"
     },
     {
-      "text": "FDA lists GHRP-6 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
+      "text": "On its significant safety risks page (current as of 22 April 2026), FDA lists GHRP-6 in Category 2 for 503B. It says GHRP-6 may pose risk for immunogenicity for certain routes of administration from aggregation and peptide-related impurities.",
       "label": "research",
       "citation_id": "fda-category2-page"
+    },
+    {
+      "text": "FDA's 503A categories list (updated 14 May 2026) places GHRP-6 in Category 3, bulk substances nominated without adequate support.",
+      "label": "research",
+      "citation_id": "fda-503a-categories"
     }
   ],
   "internet_claims": [
@@ -135,8 +140,17 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-09-30).",
+      "summary": "FDA page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, fetched 2026-10-20).",
       "finding": "GHRP-6 is listed under category 2 for 503B, added 29 September 2023. FDA cites immunogenicity risk and limited safety information, with safety concerns including a potential effect on cortisol and increased blood glucose from reduced insulin sensitivity."
+    },
+    {
+      "id": "fda-503a-categories",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA list of bulk drug substances nominated for 503A compounding, sorted into three categories (updated 14 May 2026, fetched 2026-10-20).",
+      "finding": "GHRP-6 and GHRP-2 are in Category 3, nominated without adequate support. Neither is in Category 1 or 2 of the 503A list."
     },
     {
       "id": "fda-warning-tailor-made-2020",
@@ -501,13 +515,19 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "FDA lists compounded GHRP-6 as a possible safety risk.",
+      "summary": "FDA lists GHRP-6 in Category 2 for 503B as a possible safety risk.",
       "items": [
         {
-          "text": "FDA lists GHRP-6 among bulk drug substances for compounding that may present significant safety risks, stating it may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities.",
+          "text": "On its significant safety risks page (current as of 22 April 2026), FDA lists GHRP-6 in Category 2 for 503B. It says GHRP-6 may pose risk for immunogenicity for certain routes of administration from aggregation and peptide-related impurities.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-category2-page"
+        },
+        {
+          "text": "FDA's 503A categories list (updated 14 May 2026) places GHRP-6 in Category 3, bulk substances nominated without adequate support.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories"
         }
       ]
     },
@@ -542,5 +562,5 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }

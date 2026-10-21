@@ -158,8 +158,35 @@
       "source_kind": "fda",
       "identifier": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
       "year": 2026,
-      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (page dated 04/22/2026, fetched 2026-09-30).",
-      "finding": "On the fetched page MOTS-c appears in the table of bulk drug substances nominated but later withdrawn, with FDA noting that compounded drugs containing MOTS-c may pose a significant risk of immunogenicity for certain routes of administration. The page does not describe an approved product."
+      "summary": "FDA web page on bulk drug substances for compounding that may present significant safety risks (content current as of 22 April 2026, re-read 2026-10-20).",
+      "finding": "On this page, MOTS-c is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes a possible significant risk of immune reactions for certain routes, and characterization problems. It says it found no human exposure data for any route. The page describes compounding policy. It does not make MOTS-c an approved drug."
+    },
+    {
+      "id": "fda-503a-categories-2026",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/94155/download",
+      "year": 2026,
+      "summary": "FDA PDF of the 503A bulk drug substance categories (updated May 14, 2026, read 2026-10-20).",
+      "finding": "MOTS-c is not named in the Category 1, 2 or 3 lists in this PDF. It points to the safety-risks page for substances that were in Category 2 and later withdrawn. Not being listed is not an approval."
+    },
+    {
+      "id": "fda-pcac-2026-07-meeting",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+      "year": 2026,
+      "summary": "FDA page for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (current as of 08/06/2026, read 2026-10-20).",
+      "finding": "MOTS-c (free base and acetate) was on the agenda for 23 July 2026, for obesity and osteoporosis. As of 2026-10-20 the page lists no minutes, transcript, summary or votes, so this file states no vote."
+    },
+    {
+      "id": "fda-pcac-2026-07-briefing",
+      "evidence_type": "regulatory_document",
+      "source_kind": "fda",
+      "identifier": "https://www.fda.gov/media/193342/download",
+      "year": 2026,
+      "summary": "FDA briefing document for the Pharmacy Compounding Advisory Committee meeting of 23 and 24 July 2026 (read 2026-10-20).",
+      "finding": "FDA proposed that MOTS-c (free base and acetate) not be included on the 503A Bulks List. This was FDA's position before the meeting. It is not a final decision."
     }
   ],
   "how_to_take": {
@@ -621,16 +648,34 @@
     },
     {
       "title": "Regulator warning",
-      "summary": "The FDA lists MOTS-c among compounding substances that may carry significant safety risks and says it found no human exposure data.",
+      "summary": "FDA's page lists MOTS-c as nominated for compounding but withdrawn, and says it found no human exposure data. FDA proposed in July 2026 that MOTS-c not be added to the 503A Bulks List.",
       "items": [
         {
-          "text": "FDA says compounded drugs containing MOTS-c may pose a significant risk of immune reactions (immunogenicity) for certain routes, and may have impurity and ingredient-characterization problems. It says it found no human exposure data and does not know whether MOTS-c would cause harm in people.",
+          "text": "On FDA's safety-risks page (current as of 22 April 2026), MOTS-c is in the list of bulk drug substances nominated for compounding but withdrawn by the nominators. It is not in the Category 2 table. FDA notes a possible significant risk of immune reactions for certain routes, and characterization problems. It says it found no human exposure data for any route.",
           "label": "research",
           "validity": "strong",
           "citation_id": "fda-compounding-page"
+        },
+        {
+          "text": "FDA's 503A category list (updated May 14, 2026) does not name MOTS-c in Category 1, 2 or 3.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-503a-categories-2026"
+        },
+        {
+          "text": "MOTS-c was on the agenda of FDA's advisory committee on compounding for 23 July 2026. FDA's meeting page current as of 6 August 2026 posts no votes or minutes.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-meeting"
+        },
+        {
+          "text": "FDA's briefing proposed that MOTS-c not be included on the 503A Bulks List. This was a proposal before the meeting, not a final decision.",
+          "label": "research",
+          "validity": "strong",
+          "citation_id": "fda-pcac-2026-07-briefing"
         }
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-20"
 }
