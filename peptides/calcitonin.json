@@ -494,5 +494,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 61.5,
+      "unit": "minutes",
+      "statistic": "range_midpoint",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives 59 to 64 minutes after subcutaneous injection; the value shown is the midpoint of that range.",
+      "citation_id": "fda-miacalcin-inj-label",
+      "range_low": 59,
+      "range_high": 64
+    },
+    "t_max": {
+      "value": 23,
+      "unit": "minutes",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives about 23 minutes after subcutaneous injection.",
+      "citation_id": "fda-miacalcin-inj-label"
+    }
+  }
 }

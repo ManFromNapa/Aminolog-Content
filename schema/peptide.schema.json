@@ -66,6 +66,9 @@
         "year":{"type":"integer"},
         "summary":{"type":"string"},
         "finding":{"type":"string"}}}},
+    "pharmacokinetics": {
+      "type":"object","additionalProperties":false,"required":["half_life","t_max"],
+      "properties":{"half_life":{"$ref":"#/$defs/pk_value"},"t_max":{"$ref":"#/$defs/pk_value"}}},
     "how_to_take": {
       "type":"object","additionalProperties":false,
       "required":["dose","timing","fasting","frequency","cycle_length","storage_and_handling"],
@@ -81,6 +84,20 @@
     "last_reviewed": {"type":"string","pattern":"^\\d{4}-\\d{2}-\\d{2}$"}
   },
   "$defs": {
+    "pk_value": {
+      "type":"object","additionalProperties":false,
+      "required":["value","unit","statistic","population","route","citation_id"],
+      "properties":{
+        "value":{"type":"number","exclusiveMinimum":0},
+        "unit":{"enum":["minutes","hours","days"]},
+        "range_low":{"type":"number","exclusiveMinimum":0},
+        "range_high":{"type":"number","exclusiveMinimum":0},
+        "statistic":{"enum":["mean","median","approximate","range_midpoint","effective"]},
+        "population":{"enum":["human","animal"]},
+        "species":{"type":["string","null"]},
+        "route":{"enum":["subcutaneous","intravenous","intramuscular","oral","other"]},
+        "note":{"type":"string"},
+        "citation_id":{"type":"string"}}},
     "summary_line": {"type":"object","additionalProperties":false,"required":["summary","items"],
       "properties":{"summary":{"type":"string"},"items":{"type":"array","items":{"$ref":"#/$defs/sourced_item"}}}},
     "sourced_item": {"oneOf":[

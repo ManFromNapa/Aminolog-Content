@@ -481,5 +481,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 7,
+      "unit": "days",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives an elimination half-life of approximately 1 week.",
+      "citation_id": "fda-ozempic-label"
+    },
+    "t_max": {
+      "value": 2,
+      "unit": "days",
+      "statistic": "range_midpoint",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives 1 to 3 days after the dose; the value shown is the midpoint of that range.",
+      "citation_id": "fda-ozempic-label",
+      "range_low": 1,
+      "range_high": 3
+    }
+  }
 }

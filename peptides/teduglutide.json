@@ -377,5 +377,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 2,
+      "unit": "hours",
+      "statistic": "mean",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Mean terminal half-life of approximately 2 hours in healthy subjects (1.3 hours in people with short bowel syndrome).",
+      "citation_id": "fda-gattex-label"
+    },
+    "t_max": {
+      "value": 4,
+      "unit": "hours",
+      "statistic": "range_midpoint",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives 3 to 5 hours in healthy subjects; the value shown is the midpoint of that range.",
+      "citation_id": "fda-gattex-label",
+      "range_low": 3,
+      "range_high": 5
+    }
+  }
 }

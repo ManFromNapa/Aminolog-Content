@@ -391,5 +391,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 5,
+      "unit": "days",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives an elimination half-life of approximately 5 days.",
+      "citation_id": "fda-trulicity-label"
+    },
+    "t_max": {
+      "value": 48,
+      "unit": "hours",
+      "statistic": "median",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Median time to peak at steady state; the label gives the range 24 to 72 hours.",
+      "citation_id": "fda-trulicity-label",
+      "range_low": 24,
+      "range_high": 72
+    }
+  }
 }

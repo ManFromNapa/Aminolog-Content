@@ -340,5 +340,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 1.8,
+      "unit": "hours",
+      "statistic": "range_midpoint",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives an apparent half-life of 1.7 to 1.9 hours; the value shown is the midpoint of that range.",
+      "citation_id": "fda-sandostatin-label",
+      "range_low": 1.7,
+      "range_high": 1.9
+    },
+    "t_max": {
+      "value": 0.4,
+      "unit": "hours",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Time to peak after subcutaneous injection in healthy volunteers; the label gives 0.7 hours in people with acromegaly.",
+      "citation_id": "fda-sandostatin-label"
+    }
+  }
 }
