@@ -339,5 +339,31 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 2.7,
+      "unit": "hours",
+      "statistic": "mean",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Mean terminal half-life after a single subcutaneous dose; the label gives the range 1.9 to 4.0 hours.",
+      "citation_id": "fda-vyleesi-label",
+      "range_low": 1.9,
+      "range_high": 4.0
+    },
+    "t_max": {
+      "value": 1.0,
+      "unit": "hours",
+      "statistic": "median",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Median time to peak; the label gives the range 0.5 to 1.0 hours.",
+      "citation_id": "fda-vyleesi-label",
+      "range_low": 0.5,
+      "range_high": 1.0
+    }
+  }
 }

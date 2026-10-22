@@ -357,5 +357,31 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 5.5,
+      "unit": "days",
+      "statistic": "range_midpoint",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives approximately 5 to 6 days; the value shown is the midpoint of that range.",
+      "citation_id": "fda-zepbound-label",
+      "range_low": 5,
+      "range_high": 6
+    },
+    "t_max": {
+      "value": 24,
+      "unit": "hours",
+      "statistic": "median",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Median time to peak; the label gives the range 8 to 72 hours.",
+      "citation_id": "fda-zepbound-label",
+      "range_low": 8,
+      "range_high": 72
+    }
+  }
 }

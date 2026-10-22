@@ -506,5 +506,27 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 11,
+      "unit": "minutes",
+      "statistic": "mean",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Mean elimination half-life in healthy subjects after a single subcutaneous dose of the EGRIFTA WR formulation.",
+      "citation_id": "fda-egrifta-wr-label"
+    },
+    "t_max": {
+      "value": 0.15,
+      "unit": "hours",
+      "statistic": "median",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Median time to peak, about 9 minutes.",
+      "citation_id": "fda-egrifta-wr-label"
+    }
+  }
 }

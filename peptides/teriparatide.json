@@ -401,5 +401,27 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 1,
+      "unit": "hours",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives a serum half-life of approximately 1 hour after subcutaneous injection.",
+      "citation_id": "fda-forteo-label"
+    },
+    "t_max": {
+      "value": 0.5,
+      "unit": "hours",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Peak serum concentration about 30 minutes after a 20 mcg subcutaneous dose.",
+      "citation_id": "fda-forteo-label"
+    }
+  }
 }

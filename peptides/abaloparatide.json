@@ -436,5 +436,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 1,
+      "unit": "hours",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives the mean half-life as approximately 1 hour.",
+      "citation_id": "fda-tymlos-label"
+    },
+    "t_max": {
+      "value": 0.51,
+      "unit": "hours",
+      "statistic": "median",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Median time to peak; the label also gives the range 0.25 to 0.52 hours.",
+      "citation_id": "fda-tymlos-label",
+      "range_low": 0.25,
+      "range_high": 0.52
+    }
+  }
 }

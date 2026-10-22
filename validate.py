@@ -32,6 +32,15 @@ for f in files:
     if len(ids) != len(d.get("research", [])): errors.append(f"{f.name}: duplicate research id")
     for e in d.get("dosing", {}).get("entries", []):
         if e["citation_id"] not in ids: errors.append(f"{f.name}: unknown citation {e['citation_id']}")
+    pk = d.get("pharmacokinetics")
+    if pk:
+        for key in ("half_life", "t_max"):
+            x = pk[key]
+            if x["citation_id"] not in ids: errors.append(f"{f.name}: pharmacokinetics.{key} cites unknown {x['citation_id']}")
+            if x["population"] == "animal" and not x.get("species"): errors.append(f"{f.name}: pharmacokinetics.{key} is animal but names no species")
+            if x["population"] == "human" and x.get("species"): errors.append(f"{f.name}: pharmacokinetics.{key} is human but names a species")
+            lo, hi = x.get("range_low"), x.get("range_high")
+            if lo is not None and hi is not None and not lo <= x["value"] <= hi: errors.append(f"{f.name}: pharmacokinetics.{key} value is outside its range")
     for r in d.get("research", []):
         k, i = r["source_kind"], r["identifier"]
         if k == "pubmed" and not re.fullmatch(r"\d+", i): errors.append(f"{f.name}: bad PMID {i}")

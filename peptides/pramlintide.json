@@ -453,5 +453,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 48,
+      "unit": "minutes",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives a half-life of approximately 48 minutes in healthy individuals.",
+      "citation_id": "fda-symlin-label"
+    },
+    "t_max": {
+      "value": 20,
+      "unit": "minutes",
+      "statistic": "mean",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Mean time to peak across the labeled single doses (19 to 21 minutes).",
+      "citation_id": "fda-symlin-label",
+      "range_low": 19,
+      "range_high": 21
+    }
+  }
 }

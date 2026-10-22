@@ -421,5 +421,29 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 13,
+      "unit": "hours",
+      "statistic": "approximate",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives a half-life of approximately 13 hours after subcutaneous administration.",
+      "citation_id": "fda-victoza-label"
+    },
+    "t_max": {
+      "value": 10,
+      "unit": "hours",
+      "statistic": "range_midpoint",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives 8 to 12 hours; the value shown is the midpoint of that range.",
+      "citation_id": "fda-victoza-label",
+      "range_low": 8,
+      "range_high": 12
+    }
+  }
 }

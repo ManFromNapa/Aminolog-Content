@@ -392,5 +392,27 @@
       ]
     }
   ],
-  "last_reviewed": "2026-10-02"
+  "last_reviewed": "2026-10-02",
+  "pharmacokinetics": {
+    "half_life": {
+      "value": 11,
+      "unit": "hours",
+      "statistic": "effective",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "The label gives an effective elimination half-life of approximately 11 hours.",
+      "citation_id": "fda-imcivree-label"
+    },
+    "t_max": {
+      "value": 8,
+      "unit": "hours",
+      "statistic": "median",
+      "population": "human",
+      "species": null,
+      "route": "subcutaneous",
+      "note": "Median time to peak after subcutaneous injection.",
+      "citation_id": "fda-imcivree-label"
+    }
+  }
 }
